@@ -32,6 +32,16 @@ Affected situations: When boss enemies enter their next phase, after the enemy "
 
 #### ■2023/06/12
 
+- Fixes the discrepancy between the mission description and the actual conditions for the "Everwinter City Museum Ledger of Curiosities" event in This Period's Missions of Nameless Honor. After the fix, the correct mission description now reads "Unlock all exhibition areas in the museum and complete mission "Opportunity Makes the Thief (Part 4)"
+
+- Fixes an issue where the gender of the character “Trailblazer” was incorrectly shown in the story animation of the Adventure Mission “Opportunity Makes the Thief (Part 3).”
+
+- Fixes the problem where there was a chance the game would hang on the loading screen. This issue can be remedied by restarting the game after the fix.
+
+- Fixes a problem between the Trailblaze Mission "The Blue: A Moment of Peace" and "Lingering Shadows", where certain actions led to an inability to proceed with the mission. For any Trailblazers who've encountered this issue, the Express Crew will fix this issue shortly.
+
+- Fixes an issue where there's a chance for the character "Pela (The Nihility: Ice)" costume model to display abnormal color blocks in certain situations.
+
 - Fixes an issue that prevents some Trailblazers from progressing in the Adventure Mission "Opportunity Makes the Thief (Part 4)" after receiving messages from NPC Pela. If you have encountered this issue before, it should be fixed after the latest update. You can now receive the messages and continue the mission.
 
 #### ■2023/06/09
