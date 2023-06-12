@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Known Issues
 
+#### ■2023/06/12
+
+- There is a known issue where there is a mix-up with the Trailbalzer's gender in certain scenes in the "Everwinter City Museum Ledger of Curiosities" event. This issue will be fixed in the future.
+
 #### ■2023/06/09
 
 - There is an issue where the effect of Silver Wolf (The Nihility: Quantum)'s Eidolon 2 — Zombie Network abnormally disappears. The Crew has investigated and confirmed the specific situations that cause this issue, which are listed below. This issue will be fixed in version 1.2.
@@ -23,6 +27,10 @@ Affected situations: When boss enemies enter their next phase, after the enemy "
 - It is known that there is a chance for the game to black screen when interacting with NPC Arlan during the Companion Mission "Punklorde Mentality" for specific devices. Trailblazers playing on mobile and have encountered this issue can try resolving it by going to "Settings - Other Settings - Display Settings" and switching to Normal Mode, then restarting the game.
 
 ### Game Updates and Improvements Overview
+
+#### ■2023/06/12
+
+- Fixes an issue that prevents some Trailblazers from progressing in the Adventure Mission "Opportunity Makes the Thief (Part 4)" after receiving messages from NPC Pela. If you have encountered this issue before, it should be fixed after the latest update. You can now receive the messages and continue the mission.
 
 #### ■2023/06/09
 
