@@ -12,7 +12,7 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - There is a known issue where Trailblazers cannot continue certain time-limited missions after the "Everwinter City Museum Ledger of Curiosities" event reaches the "Prosperous Glory" management phase.
 
-- There is a known issue where there is a mix-up with the Trailbalzer's gender in certain scenes in the "Everwinter City Museum Ledger of Curiosities" event. This issue will be fixed in the future.
+- There is a known issue where there is a mix-up with the trailblazer gender in certain scenes in the "Everwinter City Museum Ledger of Curiosities" event. This issue will be fixed in the future.
 
 #### ■2023/06/09
 
