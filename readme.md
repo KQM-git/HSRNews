@@ -872,50 +872,6 @@ Trailblaze Level ≥ **13** and have completed the Trailblaze Mission "Jarilo-VI
 
 -----
 
-# [Galactic Roaming Version 1.1 Strategy Collection Competition Begins](archive/239.md)
-## Version 1.1 Strategy Guides Contest Event
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/09/a3db15be1dc51c6c09a6709ba0ee262d_8357644134075569293.jpg)
-
-Hello, Trailblazers!
-
-The Version 1.1 Strategy Guides Contest Event has begun! Participate and submit works for a chance to win prizes like merchandise and Stellar Jades! Come and share your galaxy roaming adventure!
-
-[ Go to the event](https://www.hoyolab.com/contribution/261?utm_campaign=link&utm_id=6&utm_medium=notice&utm_source=ingame)
-
-### How to Participate
-
-During the event, if you submit a strategy guide on the event page that meets the event requirements, you will be deemed to have successfully participated.
-
-In this round of the strategy guide competition, works relating to new events and characters, with [StarRail1.1] in the title, and posted with the topics "guides and walkthroughs" and "Honkai: Star Rail" will be more popular.
-
-### Event Period
-
-Submission Period: 2023/06/08 -2023/07/06 23:59:00 (global)
-
-Selection Period: 2023/07/10 - 2023/07/27 13:59:00 (global)
-
-Result Announcement: 2023/07/27 14:00:00 (global)
-
-### Event Rewards
-
-#### First Prize (5 winners)
-
-Stellar Jade ×6000 + Silver Wolf Character Bundle ×1
-
-#### Second Prize (10 winners)
-
-Stellar Jade ×2000 + random themed mouse pad ×1
-
-#### Third Prize (20 winners)
-
-Stellar Jade ×1000 + Silver Wolf Character Stand ×1
-
-Additionally, we will gift every participating Trailblazer an event-exclusive HoYoLAB background.
-
-For more information, please head to HoYoLAB to review the event rules.
-
------
-
 # [HoYoLAB Daily Check-in Reminder](archive/238.md)
 ## HoYoLAB Daily Check-in Reminder
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
