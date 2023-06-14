@@ -30,6 +30,20 @@ Affected situations: When boss enemies enter their next phase, after the enemy "
 
 ### Game Updates and Improvements Overview
 
+#### ■2023/06/14
+
+- A new friend chat function has been added. Trailblazers can click the button at the bottom left of the screen, or press the Enter key to start chatting with friends.
+
+- Fixes the abnormal Navigation interface display of guest assistants and exhibits in the mission reward preview of the Adventure Mission: Opportunity Makes the Thief: Part 2/Part 3/Part 4.
+
+- Fixes the abnormal issue of overly high enemy strength in difficulty level III of the Warring Expedition's 'Winter Soldiers' March' and 'An Eye for an Eye' when the Equilibrium Level is ≤ 2.
+
+- Some in-game texts in certain languages have been adjusted, optimized, and fixed. These adjustments won't affect actual gameplay. Trailblazers can switch the game's language at Phone Screen - Settings - Language Settings. Details about the adjustments can also be viewed in the corresponding Notices.
+
+English fixes and optimizations include (actual effects have no changes):
+
+Fixes some issues with UI text on buttons.
+
 #### ■2023/06/12
 
 - Fixes the discrepancy between the mission description and the actual conditions for the "Everwinter City Museum Ledger of Curiosities" event in This Period's Missions of Nameless Honor. After the fix, the correct mission description now reads "Unlock all exhibition areas in the museum and complete mission "Opportunity Makes the Thief (Part 4)"
