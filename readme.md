@@ -766,6 +766,12 @@ After the version 1.1 update – 2023/06/28 11:59:00 (server) | Incessant Rain (
 
 To provide the Trailblazers with a better galactic adventuring experience, HoYoLAB has prepared the following exclusive Trailblaze tools. Let's take a look together!
 
+### Trailblaze Monthly Calendar
+
+The Trailblaze Monthly Calendar can track and check monthly income for Stellar Jades, Star Rail Passes, and Star Rail Special Passes for Trailblazers, recording every bit of your trailblazing rewards.
+
+[ Trailblaze Monthly Calendar](https://hoyo.link/baEBDBAd)
+
 ### Battle Records
 
 Trailblazers can track their Trailblaze Power recovery status, current number of Achievements, number of treasures opened, character leveling progress, and Forgotten Hall clearance records in real-time through Battle Records.
