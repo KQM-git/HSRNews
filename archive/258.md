@@ -6,7 +6,7 @@ Dear Trailblazers,
 
 There is an issue where the "Everwinter City Museum Ledger of Curiosities" event cannot continue after reaching the Prosperous Glory phase, causing some Trailblazers to be unable to complete the limited-time missions.
 
-This issue will be fixed **after the version 1.2 update**, and the reward acquisition duration for the Limited-Time Event will be **extended until 2023/08/06 03:59:00 (server)**. After the fix, Trailblazers who reached the Prosperous Glory phase **will be able to continue managing the museum**, complete the missions, and claim the limited-time rewards.
+This issue will be fixed **after the version 1.2 update**, and the reward acquisition duration for the Limited-Time Event will be **extended until 2023/08/07 03:59:00 (server) (Changed)**. After the fix, Trailblazers who reached the Prosperous Glory phase **will be able to continue managing the museum**, complete the missions, and claim the limited-time rewards.
 
 Due to the extension of the "Everwinter City Museum Ledger of Curiosities" event, which has caused inconvenience and trouble for the Trailblazers, the Express Crew extends their sincere apologies. As compensation for the issue, the following measures will be provided to the Trailblazers:
 
