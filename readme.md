@@ -1,3 +1,29 @@
+# [Lab Assistants In Position event: Participate to obtain Stellar Jades](archive/221.md)
+## Lab Assistants In Position
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/24/88e49e899db6ef89e55585e18b5597b7_2602721103380094708.png)
+
+### Event Period
+
+2023/06/19 10:00:00 (server) - 2023/07/03 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ **21** and have completed Trailblaze Mission "Jarilo-VI — The Past Will Return as an Avalanche"
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/2224897e7e580f2db652641f7fdb5e8a_5825132329318512743.png)
+
+### Event Details
+
+- During the event, Wen Shiling will reveal a new research topic and its required experimental materials every single day. There are a total of 7 topics.
+
+- Once the Trailblazer has collected and submitted the experimental materials required for the day, they will receive the corresponding research results and its rewards.
+
+- After completing all research subjects, the All Good Potion recipe will be obtained.
+
+-----
+
 # [Notice: Extension for Claiming "Everwinter City Museum Ledger of Curiosities" Limited-Time Rewards](archive/258.md)
 ## Limited-Time Reward Claim Extension Notice
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/16/2084d89bb54e1afc4d612457f8e35603_924666172457017669.png)
@@ -955,32 +981,6 @@ Availability Period: After the version 1.1 update – 2023/07/18 15:00:00 (serve
 Contract Content: Supplies Material Box (Standard) ×45, Credit ×120,000
 
 Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while the item is available.
-
------
-
-# [Lab Assistants In Position event: Participate to obtain Stellar Jades](archive/221.md)
-## Lab Assistants In Position
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/24/88e49e899db6ef89e55585e18b5597b7_2602721103380094708.png)
-
-### Event Period
-
-2023/06/19 10:00:00 (server) - 2023/07/03 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ **21** and have completed Trailblaze Mission "Jarilo-VI — The Past Will Return as an Avalanche"
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/2224897e7e580f2db652641f7fdb5e8a_5825132329318512743.png)
-
-### Event Details
-
-- During the event, Wen Shiling will reveal a new research topic and its required experimental materials every single day. There are a total of 7 topics.
-
-- Once the Trailblazer has collected and submitted the experimental materials required for the day, they will receive the corresponding research results and its rewards.
-
-- After completing all research subjects, the All Good Potion recipe will be obtained.
 
 -----
 
