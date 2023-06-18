@@ -958,6 +958,32 @@ Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while th
 
 -----
 
+# [Lab Assistants In Position event: Participate to obtain Stellar Jades](archive/221.md)
+## Lab Assistants In Position
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/24/88e49e899db6ef89e55585e18b5597b7_2602721103380094708.png)
+
+### Event Period
+
+2023/06/19 10:00:00 (server) - 2023/07/03 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ **21** and have completed Trailblaze Mission "Jarilo-VI — The Past Will Return as an Avalanche"
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/2224897e7e580f2db652641f7fdb5e8a_5825132329318512743.png)
+
+### Event Details
+
+- During the event, Wen Shiling will reveal a new research topic and its required experimental materials every single day. There are a total of 7 topics.
+
+- Once the Trailblazer has collected and submitted the experimental materials required for the day, they will receive the corresponding research results and its rewards.
+
+- After completing all research subjects, the All Good Potion recipe will be obtained.
+
+-----
+
 # [Survey With Rewards](archive/200.md)
 ## Survey With Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/07/0b56eede8e61e6084bebaeb690cd3498_7068979431664060967.png)
