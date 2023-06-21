@@ -1,29 +1,3 @@
-# [Lab Assistants In Position event: Participate to obtain Stellar Jades](archive/221.md)
-## Lab Assistants In Position
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/24/88e49e899db6ef89e55585e18b5597b7_2602721103380094708.png)
-
-### Event Period
-
-2023/06/19 10:00:00 (server) - 2023/07/03 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ **21** and have completed Trailblaze Mission "Jarilo-VI — The Past Will Return as an Avalanche"
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/2224897e7e580f2db652641f7fdb5e8a_5825132329318512743.png)
-
-### Event Details
-
-- During the event, Wen Shiling will reveal a new research topic and its required experimental materials every single day. There are a total of 7 topics.
-
-- Once the Trailblazer has collected and submitted the experimental materials required for the day, they will receive the corresponding research results and its rewards.
-
-- After completing all research subjects, the All Good Potion recipe will be obtained.
-
------
-
 # [Notice: Extension for Claiming "Everwinter City Museum Ledger of Curiosities" Limited-Time Rewards](archive/258.md)
 ## Limited-Time Reward Claim Extension Notice
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/16/2084d89bb54e1afc4d612457f8e35603_924666172457017669.png)
@@ -167,6 +141,96 @@ Fixes some issues with UI text on buttons.
 - Fixes an issue where dialogue text may not display when Trailblazers interact with the environmental object "Strange Plant".
 
 - Fixes an issue regarding the current period's mission in Nameless Honor, where Memory of Chaos' newly added stars won't count towards the mission "obtain a total of 15 stars in the Forgotten Hall from clearing stages". For Trailblazers who have encountered this issue, the Crew will correct your mission progress soon.
+
+-----
+
+# [Lab Assistants In Position event: Participate to obtain Stellar Jades](archive/221.md)
+## Lab Assistants In Position
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/24/88e49e899db6ef89e55585e18b5597b7_2602721103380094708.png)
+
+### Event Period
+
+2023/06/19 10:00:00 (server) - 2023/07/03 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ **21** and have completed Trailblaze Mission "Jarilo-VI — The Past Will Return as an Avalanche"
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/2224897e7e580f2db652641f7fdb5e8a_5825132329318512743.png)
+
+### Event Details
+
+- During the event, Wen Shiling will reveal a new research topic and its required experimental materials every single day. There are a total of 7 topics.
+
+- Once the Trailblazer has collected and submitted the experimental materials required for the day, they will receive the corresponding research results and its rewards.
+
+- After completing all research subjects, the All Good Potion recipe will be obtained.
+
+-----
+
+# [Contract Zero: Boosted Drop Rate for the Limited 5-star character Silver Wolf (The Nihility: Quantum)](archive/217.md)
+## Contract Zero Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/24/c19bb1f623cf00e2391a0e4c4315be1e_5208304330850829479.png)
+
+Dear Trailblazer,
+
+During the Contract Zero event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Contract Zero Event Warp
+
+During the event, the drop rate of the limited 5-star character Silver Wolf (The Nihility: Quantum) will be boosted.
+
+During the event, the drop rate of the 4-star characters Dan Heng (The Hunt: Wind), Asta (The Harmony: Fire), and Serval (The Erudition: Lightning) will be boosted.
+
+Event Duration | Drop Rate Boost: 5-Star Character | Drop Rate Boost: 4-Star Characters
+--- | --- | ---
+After the version 1.1 update – 2023/06/28 11:59:00 (server) | Silver Wolf (The Nihility: Quantum) | Dan Heng (The Hunt: Wind)
+^ | ^ | Asta (The Harmony: Fire)
+^ | ^ | Serval (The Erudition: Lightning)
+
+※ Among the above characters, the limited character will not become available in the Stellar Warp event.
+
+※ This Warp is counted as a Character Event Warp. The cumulative Warp count guarantee to obtain any 5-star character in the Character Event Warp will always be carried over to other Character Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
+
+### Character Trial Event: Aptitude Showcase
+
+**Event Requirement:** Unlocked Travel Log
+
+**Event Duration:** After the version 1.1 update – 2023/06/28 11:59:00 (server)
+
+**Event Details:** Trial stage for the characters Silver Wolf (The Nihility: Quantum), Dan Heng (The Hunt: Wind), Asta (The Harmony: Fire), and Serval (The Erudition: Lightning). Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Logs, Universal Enhancement Materials, and credits.
+
+-----
+
+# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-star Light Cone, Incessant Rain (The Nihility)](archive/218.md)
+## Brilliant Fixation: Incessant Rain Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/29/ee9ff894308a3999b914f3f07eaa1811_3954253693137664848.png)
+
+Dear Trailblazers,
+
+During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Brilliant Fixation Event Warp
+
+During the event, the drop rate of the limited 5-star Light Cone, Incessant Rain (The Nihility), will be boosted.
+
+During the event, the drop rate of the 4-star Light Cones Subscribe for More! (The Hunt), Memories of the Past (The Harmony), Make the World Clamor (The Erudition) will be boosted.
+
+Event Duration | Drop Rate Boost: 5-Star Light Cones | Drop Rate Boost: 4-Star Light Cones
+--- | --- | ---
+After the version 1.1 update – 2023/06/28 11:59:00 (server) | Incessant Rain (The Nihility) | Subscribe for More! (The Hunt)
+^ | ^ | Memories of the Past (The Harmony)
+^ | ^ | Make the World Clamor (The Erudition)
+
+※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
+
+※ This Warp is counted as a Light Cone Event Warp. The cumulative Warp count guarantee to obtain any 5-star Light Cone in the Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
 
 -----
 
@@ -729,70 +793,6 @@ Aside from the aforementioned characters and Light Cones, adjustments have been 
 - Fixes an issue where some terms were used inconsistently in different contexts.
 
 - Fixes an issue where some stage names were used inconsistently.
-
------
-
-# [Contract Zero: Boosted Drop Rate for the Limited 5-star character Silver Wolf (The Nihility: Quantum)](archive/217.md)
-## Contract Zero Event Warp
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/24/c19bb1f623cf00e2391a0e4c4315be1e_5208304330850829479.png)
-
-Dear Trailblazer,
-
-During the Contract Zero event, Trailblazers can use Star Rail Special Passes for Warps.
-
-### Contract Zero Event Warp
-
-During the event, the drop rate of the limited 5-star character Silver Wolf (The Nihility: Quantum) will be boosted.
-
-During the event, the drop rate of the 4-star characters Dan Heng (The Hunt: Wind), Asta (The Harmony: Fire), and Serval (The Erudition: Lightning) will be boosted.
-
-Event Duration | Drop Rate Boost: 5-Star Character | Drop Rate Boost: 4-Star Characters
---- | --- | ---
-After the version 1.1 update – 2023/06/28 11:59:00 (server) | Silver Wolf (The Nihility: Quantum) | Dan Heng (The Hunt: Wind)
-^ | ^ | Asta (The Harmony: Fire)
-^ | ^ | Serval (The Erudition: Lightning)
-
-※ Among the above characters, the limited character will not become available in the Stellar Warp event.
-
-※ This Warp is counted as a Character Event Warp. The cumulative Warp count guarantee to obtain any 5-star character in the Character Event Warp will always be carried over to other Character Event Warps, but is independent of and unaffected by other types of Warps.
-
-※ For more information, please head to the Warp screen.
-
-### Character Trial Event: Aptitude Showcase
-
-**Event Requirement:** Unlocked Travel Log
-
-**Event Duration:** After the version 1.1 update – 2023/06/28 11:59:00 (server)
-
-**Event Details:** Trial stage for the characters Silver Wolf (The Nihility: Quantum), Dan Heng (The Hunt: Wind), Asta (The Harmony: Fire), and Serval (The Erudition: Lightning). Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Logs, Universal Enhancement Materials, and credits.
-
------
-
-# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-star Light Cone, Incessant Rain (The Nihility)](archive/218.md)
-## Brilliant Fixation: Incessant Rain Event Warp
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/29/ee9ff894308a3999b914f3f07eaa1811_3954253693137664848.png)
-
-Dear Trailblazers,
-
-During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
-
-### Brilliant Fixation Event Warp
-
-During the event, the drop rate of the limited 5-star Light Cone, Incessant Rain (The Nihility), will be boosted.
-
-During the event, the drop rate of the 4-star Light Cones Subscribe for More! (The Hunt), Memories of the Past (The Harmony), Make the World Clamor (The Erudition) will be boosted.
-
-Event Duration | Drop Rate Boost: 5-Star Light Cones | Drop Rate Boost: 4-Star Light Cones
---- | --- | ---
-After the version 1.1 update – 2023/06/28 11:59:00 (server) | Incessant Rain (The Nihility) | Subscribe for More! (The Hunt)
-^ | ^ | Memories of the Past (The Harmony)
-^ | ^ | Make the World Clamor (The Erudition)
-
-※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
-
-※ This Warp is counted as a Light Cone Event Warp. The cumulative Warp count guarantee to obtain any 5-star Light Cone in the Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
-
-※ For more information, please head to the Warp screen.
 
 -----
 
