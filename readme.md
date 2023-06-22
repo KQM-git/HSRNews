@@ -1,31 +1,3 @@
-# [Notice: Extension for Claiming "Everwinter City Museum Ledger of Curiosities" Limited-Time Rewards](archive/258.md)
-## Limited-Time Reward Claim Extension Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/16/2084d89bb54e1afc4d612457f8e35603_924666172457017669.png)
-
-Dear Trailblazers,
-
-There is an issue where the "Everwinter City Museum Ledger of Curiosities" event cannot continue after reaching the Prosperous Glory phase, causing some Trailblazers to be unable to complete the limited-time missions.
-
-This issue will be fixed **after the version 1.2 update**, and the reward acquisition duration for the Limited-Time Event will be **extended until 2023/08/07 03:59:00 (server) (Changed)**. After the fix, Trailblazers who reached the Prosperous Glory phase **will be able to continue managing the museum**, complete the missions, and claim the limited-time rewards.
-
-Due to the extension of the "Everwinter City Museum Ledger of Curiosities" event, which has caused inconvenience and trouble for the Trailblazers, the Express Crew extends their sincere apologies. As compensation for the issue, the following measures will be provided to the Trailblazers:
-
-### Compensation Details
-
-- **Stellar Jade ×120** (event extension compensation)
-
-Version 1.2 will undergo maintenance starting from 2023/07/19 06:00:00 (global), and it is estimated to take approximately 5 hours to complete. **Compensation will be distributed after the maintenance is completed**.
-
-### Compensation Requirements
-
-Trailblazers who have reached **Trailblaze Level ≥ 21** and completed the Trailblaze Mission **"Jarilo-VI — Silent Galaxy"** before 2023/07/19 06:00:00 (global)
-
-The compensation will be issued via in-game mail. Please log in to claim the mail and compensation before 2023/08/17 23:59:00 (global).
-
-Thank you for your support in Honkai: Star Rail!
-
------
-
 # [Game Optimization and Known Issues](archive/255.md)
 ## Game Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/07/6ae9c2b95c89f4ad423aa56872918936_1754594821001664893.png)
@@ -231,6 +203,34 @@ After the version 1.1 update – 2023/06/28 11:59:00 (server) | Incessant Rain (
 ※ This Warp is counted as a Light Cone Event Warp. The cumulative Warp count guarantee to obtain any 5-star Light Cone in the Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
 
 ※ For more information, please head to the Warp screen.
+
+-----
+
+# [Notice: Extension for Claiming "Everwinter City Museum Ledger of Curiosities" Limited-Time Rewards](archive/258.md)
+## Limited-Time Reward Claim Extension Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/16/2084d89bb54e1afc4d612457f8e35603_924666172457017669.png)
+
+Dear Trailblazers,
+
+There is an issue where the "Everwinter City Museum Ledger of Curiosities" event cannot continue after reaching the Prosperous Glory phase, causing some Trailblazers to be unable to complete the limited-time missions.
+
+This issue will be fixed **after the version 1.2 update**, and the reward acquisition duration for the Limited-Time Event will be **extended until 2023/08/07 03:59:00 (server) (Changed)**. After the fix, Trailblazers who reached the Prosperous Glory phase **will be able to continue managing the museum**, complete the missions, and claim the limited-time rewards.
+
+Due to the extension of the "Everwinter City Museum Ledger of Curiosities" event, which has caused inconvenience and trouble for the Trailblazers, the Express Crew extends their sincere apologies. As compensation for the issue, the following measures will be provided to the Trailblazers:
+
+### Compensation Details
+
+- **Stellar Jade ×120** (event extension compensation)
+
+Version 1.2 will undergo maintenance starting from 2023/07/19 06:00:00 (global), and it is estimated to take approximately 5 hours to complete. **Compensation will be distributed after the maintenance is completed**.
+
+### Compensation Requirements
+
+Trailblazers who have reached **Trailblaze Level ≥ 21** and completed the Trailblaze Mission **"Jarilo-VI — Silent Galaxy"** before 2023/07/19 06:00:00 (global)
+
+The compensation will be issued via in-game mail. Please log in to claim the mail and compensation before 2023/08/17 23:59:00 (global).
+
+Thank you for your support in Honkai: Star Rail!
 
 -----
 
