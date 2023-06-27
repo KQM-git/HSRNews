@@ -120,6 +120,36 @@ Fixes some issues with UI text on buttons.
 
 -----
 
+# [Stellar Flare Event: Participate to Obtain Tracks of Destiny and Stellar Jades](archive/232.md)
+## Stellar Flare Event
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/08/555708500a27052b6e45d70dd71bf193_1105597732668551857.png)
+
+### Event Period
+
+2023/06/28 10:00:00 (server) – 2023/07/10 03:59:00 (server)
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/13/6881688ad465b798a52b5839282c33f3_1420681268120335173.png)
+
+### Participation Requirements
+
+Trailblaze Level ≥ **21**
+
+### Event Details
+
+- During the event, new stages will become available on a daily basis, with a total of 8 stages and 3 difficulty levels per stage: Dwarf Star/Giant Star/Supergiant Star.
+
+- Enemy strength and game modes will differ based on the difficulty level. Trailblazers can challenge the Giant Star difficulty straight away, and the Supergiant Star difficulty will be unlocked after completing the Giant Star difficulty.
+
+- The levels of enemies and trial characters will be determined by Trailblazers' Equilibrium Level when first entering the event. Enemy and trial character levels will remain unchanged even if your Equilibrium Level increases during the event period.
+
+- Collect rewards from the event page after completing the challenge. Completing a challenge at a higher difficulty earns you the lower-difficulty rewards as well.
+
+- When attempting the Supergiant Star difficulty, Trailblazers can collect rewards after defeating the third and sixth waves of enemies.
+
+-----
+
 # [Laic Pursuit: Boosted Drop Rate for Limited 5-Star Character, Luocha (The Abundance: Imaginary)](archive/230.md)
 ## Laic Pursuit Event Warp
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/08/ff2afe0d248897129c2a68ee55ae3a74_8211733732155932384.png)
