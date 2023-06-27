@@ -55,11 +55,15 @@ Affected situations: When boss enemies enter their next phase, after the enemy "
 
 - Known Issue: When the Trailblazer (Preservation: Fire) equips a Preservation Light Cone, the Details Screen does not display the Stat Bonus coming from Light Cone Abilities. This issue won't impact the actual effect of the Light Cone Abilities in question.
 
-- There is a known issue where parts of the Blessing text descriptions display abnormally when selecting or enhancing a Blessing in the Simulated Universe.
-
 - It is known that there is a chance for the game to black screen when interacting with NPC Arlan during the Companion Mission "Punklorde Mentality" for specific devices. Trailblazers playing on mobile and have encountered this issue can try resolving it by going to "Settings - Other Settings - Display Settings" and switching to Normal Mode, then restarting the game.
 
 ### Game Updates and Improvements Overview
+
+#### ■2023/06/27
+
+- Fixes an issue with incorrect value display after achieving the "Earthwork" and "Trauma Team Platinum Bundle" achievements. Upon achieving these achievements again after the fix, the values will be updated to reflect the correct values.
+
+- Fixes an issue with description text display abnormalities with certain Blessings when selecting Blessings or Enhanced Blessings in the Simulated Universe.
 
 #### ■2023/06/20
 
