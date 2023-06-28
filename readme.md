@@ -245,28 +245,6 @@ Sprout of Life x1 | Trailblaze Level ≥30 | Undying Embers x18 | 30
 
 -----
 
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/229.md)
-## Planar Fissure Event
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/08/9d378e12a5b9f4685446d59593ae318b_6378949354155255959.png)
-
-### Event Period
-
-2023/06/23 04:00:00 (server) – 2023/06/28 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the event period, get **double** Planar Ornaments from the immersion device in the Simulated Universe.
-
-- The number of daily double reward opportunities is limited. The total and remaining opportunities will be displayed on the Planar Fissure event page.
-
-- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
-
------
-
 # [Lab Assistants In Position event: Participate to obtain Stellar Jades](archive/221.md)
 ## Lab Assistants In Position
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/24/88e49e899db6ef89e55585e18b5597b7_2602721103380094708.png)
