@@ -1,12 +1,16 @@
-# [Game Optimization and Known Issues](archive/255.md)
+# [Game Optimization and Known Issues](archive/283.md)
 ## Game Optimization and Known Issues
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/07/6ae9c2b95c89f4ad423aa56872918936_1754594821001664893.png)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/28/397a1051b21b942694bf256ce3c69d9c_4033269649184787619.png)
 
 Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
 
 ### Known Issues
+
+#### ■2023/06/28
+
+- There is a known issue where the reward progress in the bottom right corner of the Stellar Flare event interface may suffer certain anomalies. For details on the resolution of this issue, please stay tuned to further official announcements.
 
 #### ■2023/06/16
 
