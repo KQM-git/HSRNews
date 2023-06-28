@@ -226,7 +226,7 @@ Event Duration | Drop Rate Boost: 5-Star Light Cone | Drop Rate Boost: 4-Star Li
 
 Dear Trailblazers,
 
-Store - Embers Exchange has been updated! Trailblazers can use Undying Embers to exchange for Lost Gold Fragments and other Trace Materials every month!
+A Store - Embers Exchange update! Trailblazers can use Undying Embers to exchange for Lost Gold Fragments and other Trace Materials every month!
 
 ### Update Time
 
