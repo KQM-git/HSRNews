@@ -34,6 +34,16 @@ Affected situations: When boss enemies enter their next phase, after the enemy "
 
 ### Game Updates and Improvements Overview
 
+#### ■2023/06/29
+
+- Fixes the issue with the abnormal display of reward progress in the lower right corner of the Stellar Flare event screen and challenge reward progress "Defeat six waves of enemies in 'Supergiant Star' difficulty." Additionally, the statistical anomalies related to the Stellar Flare event missions in the Nameless Honor's missions for this period will also be fixed. For Trailblazers who have encountered this issue, please restart and update the game, and the reward progress will return to normal.
+
+- Fixes the issue in the Companion Mission "A Knight Stranger" where there was a chance of entering the story cutscene and battle immediately after a losing battle or retreat. After the fix, it is now possible to change the team lineup and enter the battle again during the mission progress.
+
+- Fixes the issue in the Companion Mission "Evanesce Like the Morning Dew" where there was a chance of the mission disappearing during the run. If Trailblazers have encountered this issue, the Crew will fix the mission progress for all affected players before 2023/06/30 23:59:00 (global).
+
+- Fixes the issue in the Companion Mission "Frosty Blade's Trial" where if the character's HP was too low before entering battle, losing the battle would prevent the mission progress from continuing. After the fix, if the battle is lost during the mission progress, the character's HP will be restored and the battle will be reattempted.
+
 #### ■2023/06/27
 
 - Fixes an issue with incorrect value display after achieving the "Earthwork" and "Trauma Team Platinum Bundle" achievements. Upon achieving these achievements again after the fix, the values will be updated to reflect the correct values.
