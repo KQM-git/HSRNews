@@ -8,10 +8,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Known Issues
 
-#### ■2023/06/28
-
-- There is a known issue where the reward progress in the bottom right corner of the Stellar Flare event interface may suffer certain anomalies. For details on the resolution of this issue, please stay tuned to further official announcements.
-
 #### ■2023/06/16
 
 - There is an issue where the gender of the character, Trailblazer, is incorrectly displayed in the image projected in the History and Culture Museum. This issue will be fixed in version 1.2.
