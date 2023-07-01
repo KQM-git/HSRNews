@@ -226,6 +226,22 @@ Event Duration | Drop Rate Boost: 5-Star Light Cone | Drop Rate Boost: 4-Star Li
 
 -----
 
+# [HoYoLAB Daily Check-in Reminder](archive/238.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://hoyo.link/8aiwCBAd)
+
+Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
+
+-----
+
 # [Store - Embers Exchange Update](archive/245.md)
 ## Store - Embers Exchange Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/15/d39fc89b1b63bd9efd4d354b1206f252_8523203206174795633.png)
@@ -988,22 +1004,6 @@ Trailblaze Level ≥ **13** and have completed the Trailblaze Mission "Jarilo-VI
 - In the event of special circumstances leading to the repeated purchase of Honor Badge, Oneiric Shards ×860 will be refunded.
 
 - 2023/07/17 02:59:00 (server) The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event duration.
-
------
-
-# [HoYoLAB Daily Check-in Reminder](archive/238.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
 
 -----
 
