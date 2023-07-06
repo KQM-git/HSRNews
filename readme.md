@@ -130,6 +130,28 @@ Fixes some issues with UI text on buttons.
 
 -----
 
+# [Version 1.1 Galactic Roaming Satisfaction Survey](archive/282.md)
+## Version 1.1 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/28/64f750577627982c2225314c2376a57b_3916505810513289282.png)
+
+Dear Trailblazers,
+
+To better understand the Trailblazers' experience in Version 1.1, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded **credit x30,000** if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_bgd6ncrbeghymy43bnxv4ehd5lwt3yc3fmaw&game_biz=hkrpg_global&surveyId=14110&format=1&sign_type=2&authkey_ver=1)
+
+### Attention
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
 # [Stellar Flare Event: Participate to Obtain Tracks of Destiny and Stellar Jades](archive/232.md)
 ## Stellar Flare Event
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/08/555708500a27052b6e45d70dd71bf193_1105597732668551857.png)
