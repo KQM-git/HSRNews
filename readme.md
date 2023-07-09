@@ -152,6 +152,28 @@ Thank you, Trailblazers, for each and every one of your valuable suggestions and
 
 -----
 
+# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/233.md)
+## Garden of Plenty Event
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/08/658a5b95b1fcbbce4821d4185131fc76_5389141532271718361.png)
+
+### Event Period
+
+2023/07/10 04:00:00 (server) – 2023/07/17 03:59:00 (server)
+
+### Participation Requirements
+
+Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
+
+### Event Details
+
+- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive **double** rewards.
+
+- The number of daily double reward opportunities is limited. The total and remaining opportunities will be displayed on the Garden of Plenty event page.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # [Stellar Flare Event: Participate to Obtain Tracks of Destiny and Stellar Jades](archive/232.md)
 ## Stellar Flare Event
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/08/555708500a27052b6e45d70dd71bf193_1105597732668551857.png)
