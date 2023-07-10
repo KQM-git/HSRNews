@@ -256,35 +256,6 @@ Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 day
 
 -----
 
-# [Store - Embers Exchange Update](archive/245.md)
-## Store - Embers Exchange Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/15/d39fc89b1b63bd9efd4d354b1206f252_8523203206174795633.png)
-
-Dear Trailblazers,
-
-A Store - Embers Exchange update! Trailblazers can use Undying Embers to exchange for Lost Gold Fragments and other Trace Materials every month!
-
-### Update Time
-
-2023/07/01 04:00:00 (server)
-
-※ Please note the exchange limit. Item availability will be reset on the 1st day of every month at 04:00 (server time).
-
-### New Content
-
-Exchange Details | Exchange Requirements | Exchange Price | Exchange Limit
---- | --- | --- | ---
-Lost Gold Fragment x2 | After the Store is unlocked | Undying Embers x10 | 80
-Lifeless Blade x1 | Trailblaze Level ≥30 | Undying Embers x18 | 30
-Arrow of the Demon Slayer x1 | Trailblaze Level ≥30 | Undying Embers x18 | 30
-Key of Knowledge x1 | Trailblaze Level ≥30 | Undying Embers x18 | 30
-Oath of Steel x1 | Trailblaze Level ≥30 | Undying Embers x18 | 30
-Obsidian of Desolation x1 | Trailblaze Level ≥30 | Undying Embers x18 | 30
-Ancestral Hymn x1 | Trailblaze Level ≥30 | Undying Embers x18 | 30
-Sprout of Life x1 | Trailblaze Level ≥30 | Undying Embers x18 | 30
-
------
-
 # [Version 1.1 Galactic Roaming Update Overview](archive/228.md)
 ## Version 1.1 Galactic Roaming Update Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/31/a489d9bf582fc68d8e0d7cb3f74bf5a8_3172289341434774401.png)
