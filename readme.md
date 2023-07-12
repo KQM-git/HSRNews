@@ -30,6 +30,10 @@ Affected situations: When boss enemies enter their next phase, after the enemy "
 
 ### Game Updates and Improvements Overview
 
+#### ■2023/07/12
+
+- Fixes the issue where the event icon of the "Lab Assistants In Position" event would abnormally persist in the navigation after the event's completion.
+
 #### ■2023/06/29
 
 - Fixes the issue with the abnormal display of reward progress in the lower right corner of the Stellar Flare event screen and challenge reward progress "Defeat six waves of enemies in 'Supergiant Star' difficulty." Additionally, the statistical anomalies related to the Stellar Flare event missions in the Nameless Honor's missions for this period will also be fixed. For Trailblazers who have encountered this issue, please restart and update the game, and the reward progress will return to normal.
