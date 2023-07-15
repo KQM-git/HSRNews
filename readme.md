@@ -1,3 +1,63 @@
+# [Forgotten Hall: The Voyage of Navis Astriger Opens — Clear Memory of Xianzhou Stage 1 to Obtain the Character Yukong](archive/270.md)
+## Forgotten Hall: The Voyage of Navis Astriger Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/e3309d8de1513ce0f523ae8dfeab339d_5401651339003997951.png)
+
+### Event Start Date
+
+Permanently available after the Version 1.2 update
+
+### Event Requirement
+
+Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant" to unlock the new memory The Voyage of Navis Astriger in the Forgotten Hall.
+
+### Event Rewards
+
+Clear "Forgotten Hall: Memory of Xianzhou Stage 1" to obtain the
+
+4-star character Yukong (Harmony: Imaginary).
+
+-----
+
+# [Version 1.2 Nameless Honor Event Details](archive/267.md)
+## Version 1.2 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/aeaa5732e6622869383c443f97d766ea_1343180813064250376.png)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resin**, and **Tracks of Destiny**.
+
+After unlocking Nameless Glory, increasing Nameless Honor level will allow Trailblazers to obtain **Stellar Jades**, **Star Rail Special Passes**, a **4-star Light Cone of your choice**, **Relic Remains**, and more!
+
+If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatar "**Kafka: Dinner Party**," the avatar **** "**Blade: Dinner Party**," as well as **Stellar Jades** and **Fuels**!
+
+### Event Period
+
+After the Version 1.2 update – 2023/08/28 03:59:00 (server)
+
+### Participation Requirements
+
+Trailblaze Level ≥**13** and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### Event Details
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via Today's Missions, This Week's Missions, and This Period's Missions. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
+
+- Today's Missions will reset daily at 04:00 (server time), and This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Things to Note
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at 2023/08/28 02:59:00 (server). After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+-----
+
 # [Game Optimization and Known Issues](archive/283.md)
 ## Game Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/28/397a1051b21b942694bf256ce3c69d9c_4033269649184787619.png)
