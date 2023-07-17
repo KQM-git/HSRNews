@@ -18,6 +18,106 @@ Clear "Forgotten Hall: Memory of Xianzhou Stage 1" to obtain the
 
 -----
 
+# [Version 1.2 All-New Companion Mission Details](archive/266.md)
+## Version 1.2 All-New Companion Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/fae98f871a56b8b77577e3b72723c715_3032091908703805176.png)
+
+Dear Trailblazers,
+
+After attaining the corresponding Trailblaze Level or completing the prerequisite missions, Companion Missions will be unlocked.
+
+<details open="true">
+<summary>For I Have Touched the Sky</summary>
+
+- To know more about Yukong's past, you would have to go to the Palace of Astrum sooner or later. Look around with Qingni. The past she will witness here may change her life.
+
+- Start Time: Permanently open after the Version 1.2 update
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu – A Dragon Gallant, Its Ocean Distant" and read the specific Messages at Stargazer Navalia.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/07/ce007fcd7b3c38386c3f30062db1043f_3477497514186038369.png)
+
+</details>
+
+<details open="true">
+<summary>Letter from a Strange Woman</summary>
+
+- You received a message from Kafka claiming that she is in trouble and requires your help. Do you go to her rescue? ...Or rather, do you believe her?
+
+- Availability: Permanently available after 2023/08/09 12:00:00 (server)
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant" and read the specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/07/a7c833ebb2d2e6942890f32da67279e2_348851325944109097.png)
+
+</details>
+
+<details open="true">
+<summary>Punklorde Mentality</summary>
+
+- The network security engineer of the space station thinks there is something else behind the invasion of the Legion. You recall what happened to you when you woke up and decide to join him in tracking down Silver Wolf, the Stellaron Hunter...
+
+- Start Time: Permanently open after the Version 1.1 update
+
+- Prerequisite: Trailblaze Level ≥ 21 and after reading specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/11644015fc4ecb53a4bea2547d252146_8708318472637170462.png)
+
+</details>
+
+<details open="true">
+<summary>A Knight Stranger</summary>
+
+- Luocha, the cryptic Outworld merchant, looked so similar to that person... Looks like it's a job for genius detective March 7th!
+
+- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
+
+- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have read the specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_1788554832907694562.png)
+
+</details>
+
+<details open="true">
+<summary>Evanesce Like the Morning Dew</summary>
+
+- Bailu has once again escaped from the Alchemy Commission, but it turns out that this "escape" was actually an unexpected "house call"...
+
+- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
+
+- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have read the specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_7208983498179720742.png)
+
+</details>
+
+<details open="true">
+<summary>Frosty Blade's Trial</summary>
+
+- To apprehend the escaped Stellaron Hunters, the Seat of Divine Foresight lieutenant, Yanqing, went on a solo hunting trip...
+
+- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
+
+- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have interacted with the Diting NPC in Central Starskiff Haven map.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_8928162885673277538.png)
+
+</details>
+
+-----
+
 # [Version 1.2 Nameless Honor Event Details](archive/267.md)
 ## Version 1.2 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/aeaa5732e6622869383c443f97d766ea_1343180813064250376.png)
@@ -977,76 +1077,6 @@ HoYoWiki is a game knowledge base launched by HoYoLAB and jointly managed with T
 Honkai: Star Rail Map is a map tool developed by HoYoLAB. Trailblazers can refer to the map for information on locations, treasures, readable items, etc.
 
 [ Honkai: Star Rail Map](https://hoyo.link/71mwCBAd)
-
------
-
-# [Version 1.1 All-New Companion Mission Details](archive/222.md)
-## Version 1.1 All-New Companion Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/05/25/7f06e420736902bd9cdd77f3b2b94d71_7481749055457620661.png)
-
-Dear Trailblazers,
-
-After attaining the corresponding Trailblaze Level or completing the prerequisite missions, Companion Missions will be unlocked.
-
-<details open="true">
-<summary>Punklorde Mentality</summary>
-
-- The network security engineer of the space station thinks there is something else behind the invasion of the Legion. You recall what happened to you when you woke up and decide to join him in tracking down Silver Wolf, the Stellaron Hunter...
-
-- Start Time: Permanently open after the Version 1.1 update
-
-- Prerequisite: Trailblaze Level ≥ 21 and after reading specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/11644015fc4ecb53a4bea2547d252146_8708318472637170462.png)
-
-</details>
-
-<details open="true">
-<summary>A Knight Stranger</summary>
-
-- Luocha, the cryptic Outworld merchant, looked so similar to that person... Looks like it's a job for genius detective March 7th!
-
-- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
-
-- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have read the specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_1788554832907694562.png)
-
-</details>
-
-<details open="true">
-<summary>Evanesce Like the Morning Dew</summary>
-
-- Bailu has once again escaped from the Alchemy Commission, but it turns out that this "escape" was actually an unexpected "house call"...
-
-- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
-
-- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have read the specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_7208983498179720742.png)
-
-</details>
-
-<details open="true">
-<summary>Frosty Blade's Trial</summary>
-
-- To apprehend the escaped Stellaron Hunters, the Seat of Divine Foresight lieutenant, Yanqing, went on a solo hunting trip...
-
-- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
-
-- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have interacted with the Diting NPC in Central Starskiff Haven map.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_8928162885673277538.png)
-
-</details>
 
 -----
 
