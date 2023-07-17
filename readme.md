@@ -18,6 +18,24 @@ Clear "Forgotten Hall: Memory of Xianzhou Stage 1" to obtain the
 
 -----
 
+# [Joint Forces Stage Details](archive/271.md)
+## Joint Forces Stage Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b627f9040f8a567848b0c3994d574bed_2339849956223231687.png)
+
+Dear Trailblazers:
+
+After the 1.2 update, the regular 5-star character trial stage Joint Forces will become available in Stellar Warp!
+
+### Character Trial Stage: Joint Forces
+
+Requirement: Unlocks Warp
+
+Availability: Permanently available after the Version 1.2 update
+
+Stage Details: The trial characters Himeko (Erudition: Fire), Welt (Nihility: Imaginary), Bronya (Harmony: Wind), Gepard (Preservation: Ice), Clara (Destruction: Physical), Yanqing (The Hunt: Ice), and Bailu (Abundance: Lightning) can be used to experience these stage. Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Logs, and Universal Enhancement Material.
+
+-----
+
 # [Version 1.2 All-New Companion Mission Details](archive/266.md)
 ## Version 1.2 All-New Companion Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/fae98f871a56b8b77577e3b72723c715_3032091908703805176.png)
