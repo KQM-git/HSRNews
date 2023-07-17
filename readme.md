@@ -136,6 +136,46 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 
 -----
 
+# [New Stages for Stagnant Shadow, Cavern of Corrosion, and Echo of War](archive/272.md)
+## New Stages for Version 1.2
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/07/7ca6a8b0494f0999a98fb08214ec89de_5809257560745931541.png)
+
+Dear Trailblazers:
+
+After the 1.2 update, the new stages Stagnant Shadow: Shape of Celestial, Cavern of Corrosion: Path of Elixir Seekers, and Echo of War: Immortal Divine Seed will become available!
+
+### Stagnant Shadow
+
+#### Stagnant Shadow: Shape of Celestial
+
+Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Desolate Depths of Despair."
+
+Location: Xianzhou Luofu — Alchemy Commission
+
+Details: Clear the stage to obtain the Wind-Type character Ascension material **Ascendant Debris**.
+
+### Cavern of Corrosion
+
+#### Cavern of Corrosion: Path of Elixir Seekers
+
+Unlock Conditions: Complete the Adventure Mission "Cavern of Corrosion" and unlock map Xianzhou Luofu — Alchemy Commission
+
+Location: Xianzhou Luofu — Alchemy Commission
+
+Details: Clear the stage to obtain the Cavern Relics **Longevous Disciple and Messenger Traversing Hackerspace**.
+
+### Echo of War
+
+#### Echo of War: Immortal Divine Seed
+
+Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant"
+
+Location: Xianzhou Luofu — Scalegorge Waterscape
+
+Details: Clear the stage to obtain the Advanced level-up material for Traces **Regret of Infinite Ochema**, the Cavern Relics Musketeer of Wild Wheat and Thief of Shooting Meteor, as well as Lucent Afterglow and other rewards.
+
+-----
+
 # [Version 1.2 Nameless Honor Event Details](archive/267.md)
 ## Version 1.2 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/aeaa5732e6622869383c443f97d766ea_1343180813064250376.png)
