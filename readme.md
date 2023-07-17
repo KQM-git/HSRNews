@@ -1,3 +1,35 @@
+# [Play Simulated Universe: World 7 to Get New Planar Ornaments](archive/269.md)
+## Simulated Universe: World 7 Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/56181ef9c9ebb4b602127260624d269a_7633245135889676926.png)
+
+### Availability
+
+Permanently available after the Version 1.2 update
+
+### Simulated Universe: World 7 Unlock Requirements
+
+Complete the "Xianzhou Luofu — Humming Antlers, Entwined Horns" Trailblaze Mission and clear Simulated Universe: World 6 to unlock Simulated Universe: World 7.
+
+### Planar Ornament Details
+
+Challenge Simulated Universe: World 7 and use Trailblaze Power or Immersifier to obtain new Planar Ornaments from Immersion Rewards.
+
+#### New Planar Ornaments Preview:
+
+- Rutilant Arena
+
+Link Rope: Taikiyan's Arclight Race Track
+
+Planar Sphere: Taikiyan Laser Stadium
+
+- Broken Keel
+
+Link Rope: Insumousu's Frayed Hawser
+
+Planar Sphere: Insumousu's Whalefall Ship
+
+-----
+
 # [Forgotten Hall: The Voyage of Navis Astriger Opens — Clear Memory of Xianzhou Stage 1 to Obtain the Character Yukong](archive/270.md)
 ## Forgotten Hall: The Voyage of Navis Astriger Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/e3309d8de1513ce0f523ae8dfeab339d_5401651339003997951.png)
