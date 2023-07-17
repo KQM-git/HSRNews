@@ -216,28 +216,6 @@ Thank you, Trailblazers, for each and every one of your valuable suggestions and
 
 -----
 
-# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/233.md)
-## Garden of Plenty Event
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/08/658a5b95b1fcbbce4821d4185131fc76_5389141532271718361.png)
-
-### Event Period
-
-2023/07/10 04:00:00 (server) – 2023/07/17 03:59:00 (server)
-
-### Participation Requirements
-
-Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
-
-### Event Details
-
-- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive **double** rewards.
-
-- The number of daily double reward opportunities is limited. The total and remaining opportunities will be displayed on the Garden of Plenty event page.
-
-- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
-
------
-
 # [Laic Pursuit: Boosted Drop Rate for Limited 5-Star Character, Luocha (The Abundance: Imaginary)](archive/230.md)
 ## Laic Pursuit Event Warp
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/08/ff2afe0d248897129c2a68ee55ae3a74_8211733732155932384.png)
@@ -1069,46 +1047,6 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 ![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_8928162885673277538.png)
 
 </details>
-
------
-
-# [Version 1.1 Nameless Honor Event Details](archive/219.md)
-## Version 1.1 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/07/2d8dfb288bd889810aadbf15dda0902d_4733484543113864029.png)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
-
-After unlocking Nameless Glory, increasing Nameless Honor level will allow Trailblazers to obtain **Stellar Jades**, **Star Rail Special Passes**, a **4-star Light Cone of your choice**, **Relic Remains**, and more!
-
-If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatars **"March 7th — Welcome," "Dan Heng — Welcome,"** as well as **Stellar Jades** and **Fuels**!
-
-### Event Period
-
-After the version 1.1 update – 2023/07/17 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ **13** and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### Event Details
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via Today's Missions, This Week's Missions, and This Period's Missions. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resins**, **Tracks of Destiny**, and more.
-
-- Today's Missions will reset daily at 04:00 (server time), and This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge levels to reach the Nameless Medal.
-
-### Attention
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- 2023/07/17 02:59:00 (server) The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event duration.
 
 -----
 
