@@ -1268,40 +1268,6 @@ Honkai: Star Rail Map is a map tool developed by HoYoLAB. Trailblazers can refer
 
 -----
 
-# [New Version 1.1 Herta Contracts](archive/220.md)
-## New Version 1.1 Herta Contracts
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/07/5ca6b96d7cd160aa91c364b7f9c6644c_6683451817464487409.png)
-
-Dear Trailblazers,
-
-Herta Contracts have been added to the Contract Shop!
-
-### Herta Contract: Roaming Share
-
-Availability Period: After the version 1.1 update – 2023/07/18 15:00:00 (server)
-
-Contract Content: Traveler's Guide ×30, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of 5 can be purchased per account while the item is available.
-
-### Herta Contract: Aether Refill
-
-Availability Period: After the version 1.1 update – 2023/07/18 15:00:00 (server)
-
-Contract Content: Refined Aether ×25, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of 5 can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply
-
-Availability Period: After the version 1.1 update – 2023/07/18 15:00:00 (server)
-
-Contract Content: Supplies Material Box (Standard) ×45, Credit ×120,000
-
-Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while the item is available.
-
------
-
 # [Invitation to join Project Astro-Warp](archive/211.md)
 ## Invitation to join Project Astro-Warp
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/44dca0d9c0454eb98cde64d547de26bc_970913154859859929.png)
