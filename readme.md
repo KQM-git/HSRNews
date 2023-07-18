@@ -80,6 +80,70 @@ System: iOS 10.0 or better
 
 -----
 
+# [A Lost Soul: Boosted Drop Rate for the Limited 5-Star Character, Blade (Destruction: Wind)](archive/264.md)
+## A Lost Soul Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/05/c55772d2f253c92eb427c94fe9f72143_540559304927280015.png)
+
+Dear Trailblazers,
+
+During the A Lost Soul event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### A Lost Soul Event Warp
+
+During the event, the drop rate of the limited 5-star character Blade (Destruction: Wind) will be boosted.
+
+During the event, the drop rates of the 4-star characters Arlan (Destruction: Lighting), Natasha (Abundance: Physical), and Sushang (The Hunt: Physical) will be significantly boosted.
+
+Event Period | Drop Rate Boost: 5-Star Characters | Drop Rate Boost: 4-Star Characters
+--- | --- | ---
+After the Version 1.2 update — 2023/08/09 11:59:00 (server) | Blade (Destruction: Wind) | Arlan (Destruction: Lighting)
+^ | ^ | Natasha (Abundance: Physical)
+^ | ^ | Sushang (The Hunt: Physical)
+
+※ Among the above characters, the limited character will not become available in the Stellar Warp event.
+
+※ This Warp is considered a Character Event Warp. The cumulative Warp count for a guaranteed 5-star character in any Character Event Warp will always be carried over to other Character Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
+
+### Character Trial Event: Aptitude Showcase
+
+Requirement: Unlocks Travel Log
+
+Event Period: After the Version 1.2 update – 2023/08/09 11:59:00 (server)
+
+Event Details: The trial characters Blade (Destruction: Wind), Arlan (Destruction: Lighting), Natasha (Abundance: Physical), and Sushang (The Hunt: Physical) can be used to experience stages. Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Logs, Universal Enhancement Materials, and credits.
+
+-----
+
+# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-Star Light Cone, The Unreachable Side (Destruction)](archive/265.md)
+## Brilliant Fixation: The Unreachable Side Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/04/fa12aa9c49c579cc5959751c84d8a879_1612224166229862472.png)
+
+Dear Trailblazers,
+
+During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Brilliant Fixation Event Warp
+
+During the event, the drop rate of the limited 5-star Light Cone, The Unreachable Side (Destruction) will be boosted.
+
+During the event, the drop rates of the 4-star Light Cones A Secret Vow (Destruction), Shared Feeling (Abundance) and Swordplay (The Hunt) will be boosted.
+
+Event Period | Drop Rate Boost: 5-Star Light Cone | Drop Rate Boost: 4-Star Light Cones
+--- | --- | ---
+After the Version 1.2 update ends – 2023/08/09 11:59:00 (server) | The Unreachable Side (Destruction) | A Secret Vow (Destruction)
+^ | ^ | Shared Feeling (Abundance)
+^ | ^ | Swordplay (The Hunt)
+
+※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
+
+※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
+
+-----
+
 # [Play Simulated Universe: World 7 to Get New Planar Ornaments](archive/269.md)
 ## Simulated Universe: World 7 Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/56181ef9c9ebb4b602127260624d269a_7633245135889676926.png)
