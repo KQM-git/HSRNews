@@ -1,3 +1,31 @@
+# [Game Optimization and Known Issues](archive/295.md)
+## Game Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/397a1051b21b942694bf256ce3c69d9c_5274499123293081872.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Game Updates and Improvements Overview
+
+#### ■2023/07/19
+
+- Fixed the issue with incorrect enemy names appearing in the character Natasha (Abundance: Physical)'s trial stage in the Aptitude Showcase event.
+
+- Fixed the issue where the numbers under the item icons were disappearing abnormally in the "Redeem Stellar Jade" and "Store Immersifiers" screens.
+
+- Fixed the issue where some control devices cannot be interacted with in the Supply Zone map.
+
+- Fixed the issue where some readables already obtained still show the interactive frame when players log back into the game.
+
+- Fixed the issue in the Adventure Mission "Xianzhou Luofu — Demise of Immortality, Finale of Calamity" where the stage may fail to verify during combat against the enemy Phantylia the Undying.
+
+- Fixes the issue in the Percipient Sconce challenge where, under specific circumstances, Trailblazers were unable to complete the challenge and progress with the Trailblaze Mission as normal.
+
+- When Trailblazers continue with the Trailblaze Mission before completing the Adventure Mission "Sinners Misled, Credence Falsified", a selection screen appears with the option to discard the Adventure Mission. Fixed an issue where selecting the "continue" button on this screen fails to navigate correctly to the corresponding mission screen.
+
+-----
+
 # [Version 1.2 "Even Immortality Ends" Update Overview](archive/276.md)
 ## Version Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/decad5417027c57f0cf46f8aeb508cae_1659386472935401277.png)
