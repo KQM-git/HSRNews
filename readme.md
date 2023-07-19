@@ -398,6 +398,8 @@ Stage Details: The trial characters Himeko (Erudition: Fire), Welt (Nihility: Im
 
 - Fixed the issue where the visual effects for Silver Wolf (Nihility: Quantum)'s Basic ATK has a chance to display abnormally when breaking Weakness.
 
+- Fixes an issue where the the effect of Silver Wolf (Nihility: Quantum)'s Eidolon 2 — Zombie Network abnormally disappears under specific circumstances.
+
 - Fixes an issue where the automatic healing effect of Luocha (Abundance: Imaginary)'s Skill would not trigger for the rest of this battle if the target of the healing was downed the moment the automatic effect was triggered.
 
 - Fixed the issue where using Clara (Destruction: Physical)'s Technique at the same time as opening the Navigation Menu would result in abnormal display of Technique Points after teleporting.
