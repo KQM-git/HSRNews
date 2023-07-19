@@ -708,6 +708,60 @@ After the Version 1.2 update ends – 2023/08/09 11:59:00 (server) | The Unreach
 
 -----
 
+# [Starlit Homecoming Event Details: Return to the Game to Get a 4-star Light Cone and More](archive/275.md)
+## Starlit Homecoming Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/5ca903468ef590efcefaf60c008e6aaf_8598786508232337240.png)
+
+Dear Trailblazers,
+
+The Player Return Event "Starlit Homecoming" is now on. Eligible Trailblazers can complete the event to get a 4-star Light Cone of their choice, Stellar Jades, and other rewards.
+
+### Event Period
+
+From the day of activating the Starlit Homecoming event to **04:00 of the 15th day after the activation** (server time)
+
+※ If you logged in to the game and activated the Starlit Homecoming event on January 1, then the event will last until 04:00, January 15 (server time).
+
+### Return Requirements
+
+- Trailblaze Level ≥**10** and have completed the Trailblaze Mission **"Jarilo-VI — Long Wait for the Blade's Edge"**
+
+- Have not logged in for at least **14 days** in a row
+
+- The previous activation of the Starlit Homecoming event is at least **40 days** ago
+
+### Event Details
+
+- During the event, returning Trailblazers can receive "A Gift for Returners" for one time only.
+
+- Participate in and complete the 7-Day Check-In and the Path of Return events to receive their corresponding rewards. Challenging and passing Calyxes during the event will also provide double material drops from Double Rewards.
+
+#### 7-Day Check-In Rewards
+
+- During the event, log into the game every day to receive **Stellar Jade**, **Fuel** and other rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 7 days of rewards are provided.
+
+#### Path of Return Mission Rewards
+
+- During the event, complete specific missions to receive mission rewards and "The Returning Trails." Accumulate sufficient "The Returning Trails" to receive rewards at specific milestones. Extra rewards at each milestone can only be claimed once. Accumulate 800 "The Returning Trails" to claim a **Memo-Keeping Light Casket**.
+
+- Path of Return has 4 phases. Each phase will become available at 04:00 server time the next day.
+
+- Open the Memo-Keeping Light Casket to choose one of the following 4-Star Light Cones: Quid Pro Quo (Abundance), Fermata (Nihility), We Are Wildfire (Preservation), River Flows in Spring (The Hunt), Past and Future (Harmony), Woof! Walk Time! (Destruction), and The Seriousness of Breakfast (Erudition).
+
+#### Double Rewards Extra Drops
+
+- During the return period, Trailblazers will receive **double drops** for the first 42 times they complete Calyx challenges, capped at 6 times per day. Spend Trailblaze Power to challenge and pass Calyx (Golden) and Calyx (Crimson) to receive double drops.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily double drop for Garden of Plenty will be consumed first when Trailblazers complete Calyx challenges.
+
+#### Return Survey
+
+- Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.
+
+-----
+
 # [Play Simulated Universe: World 7 to Get New Planar Ornaments](archive/269.md)
 ## Simulated Universe: World 7 Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/56181ef9c9ebb4b602127260624d269a_7633245135889676926.png)
@@ -1179,32 +1233,6 @@ HoYoWiki is a game knowledge base launched by HoYoLAB and jointly managed with T
 Honkai: Star Rail Map is a map tool developed by HoYoLAB. Trailblazers can refer to the map for information on locations, treasures, readable items, etc.
 
 [ Honkai: Star Rail Map](https://hoyo.link/71mwCBAd)
-
------
-
-# [Invitation to join Project Astro-Warp](archive/211.md)
-## Invitation to join Project Astro-Warp
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/44dca0d9c0454eb98cde64d547de26bc_970913154859859929.png)
-
-Hello, Trailblazers,
-
-With the departure of the Astral Express, the Express Crew has officially launched Project Astro-Warp, a long-term player-recruitment program. The goal is to provide better galactic adventure experiences to Trailblazers by listening to their voices and continuously refining and tuning them.
-
-According to the test objectives of different versions, we will select from Trailblazers who have signed up for Project Astro-Warp in batches to participate in subsequent versions of small-scale confidential beta tests.
-
-Come join us! Click on the survey below to sign up! By signing up, you could get a chance to participate in future small-scale confidential beta tests.
-
-[ Click here to sign up](https://hoyo.link/40y7CBAd)
-
-### Sign-Up Time
-
-Sign-up is open from now with no end date scheduled. New announcements will be made should there be an end date in the future.
-
-For more information regarding Project Astro-Warp, please head to HoYoLAB to view details about the Recruitment Plan.
-
-[ Click Access](https://hoyo.link/06NhCBAd)
-
-Thank you Trailblazers for your continuous support! We look forward to your acceptance of this invitation to help us make this galactic adventure an even better experience.
 
 -----
 
