@@ -8,6 +8,24 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+#### ■2023/07/20
+
+- Fixes an issue in the Trailblaze Mission "Xianzhou Luofu — Demise of Immortality, Finale of Calamity" which prevented battles from concluding normally under certain conditions.
+
+- Fixes an issue in the Adventure Mission "Bestial Ferocity" where, under specific circumstances, mission targets may fail to appear as well as vanish from the mission interface.
+
+- Fixes an issue in the Warring Expedition "Eye of the Cosmos" where there was a chance of a black screen occurring that prevented further mission progress.
+
+- Fixes an issue on mobile devices where jade tiles would display incorrectly during Qingque (The Erudition: Quantum)'s Ultimate.
+
+- Fixes a Trailblaze Mission issue following the battle with the enemy Cloud Knight Lieutenant: Yanqing where the VO audio for Blade (Destruction: Wind)'s ability plays incorrectly.
+
+- Fixes an issue in the Forgotten Hall: The Voyage of Navis Astriger where the monitored target icon remained visible after Abundance Sprite: Malefic Ape was defeated.
+
+- Fixes an issue where the water surface in Scalegorge Waterscape was abnormally flickering on some mobile devices.
+
+- Fixes the discrepancy between the number of achievements obtained and the number displayed in the description for Unfulfilled Wish and Sickly Complexion.
+
 #### ■2023/07/19
 
 - Fixed the issue with incorrect enemy names appearing in the character Natasha (Abundance: Physical)'s trial stage in the Aptitude Showcase event.
