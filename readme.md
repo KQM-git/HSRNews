@@ -736,6 +736,20 @@ After the Version 1.2 update ends – 2023/08/09 11:59:00 (server) | The Unreach
 
 -----
 
+# [Honkai: Star Rail EP: Samudrartha](archive/294.md)
+## Honkai: Star Rail EP: Samudrartha
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/47fdd45d44a22d506c0b37de33d6625e_6803480106720619193.png)
+
+In the lightless gloom,
+
+It was as though he had retreated back to the Vidyadhara egg,
+
+Being ceaselessly churned in a sea of waves and elusive dreams.
+
+[  Go to EP](https://youtu.be/qWXPNyt6oTE)
+
+-----
+
 # ["Even Immortality Ends" Version 1.2 Strategy Collection Competition Begins](archive/285.md)
 ## Version Strategy Guides Contest Event
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/18/b758f74753313091e923f25c3926ee91_6074526867139074275.jpg)
