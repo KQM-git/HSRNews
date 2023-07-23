@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+#### ■2023/07/23
+
+- Fixes an issue in the "Scene 1: The Chase Is On" and "Scene 4: Vanquishing Evils" of the "Tales of the Fantastic" event, where the stage may fail to verify under specific circumstances.
+
 #### ■2023/07/20
 
 - Fixes an issue in the Trailblaze Mission "Xianzhou Luofu — Demise of Immortality, Finale of Calamity" which prevented battles from concluding normally under certain conditions.
