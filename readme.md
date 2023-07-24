@@ -48,6 +48,20 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Honkai: Star Rail EP: Samudrartha](archive/294.md)
+## Honkai: Star Rail EP: Samudrartha
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/47fdd45d44a22d506c0b37de33d6625e_6803480106720619193.png)
+
+In the lightless gloom,
+
+It was as though he had retreated back to the Vidyadhara egg,
+
+Being ceaselessly churned in a sea of waves and elusive dreams.
+
+[  Go to EP](https://youtu.be/qWXPNyt6oTE)
+
+-----
+
 # [Version 1.2 "Even Immortality Ends" Update Overview](archive/276.md)
 ## Version Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/decad5417027c57f0cf46f8aeb508cae_1659386472935401277.png)
@@ -730,48 +744,6 @@ Event Details: The trial characters Blade (Destruction: Wind), Arlan (Destructio
 
 -----
 
-# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-Star Light Cone, The Unreachable Side (Destruction)](archive/265.md)
-## Brilliant Fixation: The Unreachable Side Event Warp
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/04/fa12aa9c49c579cc5959751c84d8a879_1612224166229862472.png)
-
-Dear Trailblazers,
-
-During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
-
-### Brilliant Fixation Event Warp
-
-During the event, the drop rate of the limited 5-star Light Cone, The Unreachable Side (Destruction) will be boosted.
-
-During the event, the drop rates of the 4-star Light Cones A Secret Vow (Destruction), Shared Feeling (Abundance) and Swordplay (The Hunt) will be boosted.
-
-Event Period | Drop Rate Boost: 5-Star Light Cone | Drop Rate Boost: 4-Star Light Cones
---- | --- | ---
-After the Version 1.2 update ends – 2023/08/09 11:59:00 (server) | The Unreachable Side (Destruction) | A Secret Vow (Destruction)
-^ | ^ | Shared Feeling (Abundance)
-^ | ^ | Swordplay (The Hunt)
-
-※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
-
-※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
-
-※ For more information, please head to the Warp screen.
-
------
-
-# [Honkai: Star Rail EP: Samudrartha](archive/294.md)
-## Honkai: Star Rail EP: Samudrartha
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/47fdd45d44a22d506c0b37de33d6625e_6803480106720619193.png)
-
-In the lightless gloom,
-
-It was as though he had retreated back to the Vidyadhara egg,
-
-Being ceaselessly churned in a sea of waves and elusive dreams.
-
-[  Go to EP](https://youtu.be/qWXPNyt6oTE)
-
------
-
 # ["Even Immortality Ends" Version 1.2 Strategy Collection Competition Begins](archive/285.md)
 ## Version Strategy Guides Contest Event
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/18/b758f74753313091e923f25c3926ee91_6074526867139074275.jpg)
@@ -815,6 +787,34 @@ Stellar Jade ×1000 + Blade Character Stand ×1
 HoYoLAB background and avatar frame
 
 For more information, please head to HoYoLAB to review the event rules.
+
+-----
+
+# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-Star Light Cone, The Unreachable Side (Destruction)](archive/265.md)
+## Brilliant Fixation: The Unreachable Side Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/04/fa12aa9c49c579cc5959751c84d8a879_1612224166229862472.png)
+
+Dear Trailblazers,
+
+During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Brilliant Fixation Event Warp
+
+During the event, the drop rate of the limited 5-star Light Cone, The Unreachable Side (Destruction) will be boosted.
+
+During the event, the drop rates of the 4-star Light Cones A Secret Vow (Destruction), Shared Feeling (Abundance) and Swordplay (The Hunt) will be boosted.
+
+Event Period | Drop Rate Boost: 5-Star Light Cone | Drop Rate Boost: 4-Star Light Cones
+--- | --- | ---
+After the Version 1.2 update ends – 2023/08/09 11:59:00 (server) | The Unreachable Side (Destruction) | A Secret Vow (Destruction)
+^ | ^ | Shared Feeling (Abundance)
+^ | ^ | Swordplay (The Hunt)
+
+※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
+
+※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
 
 -----
 
@@ -939,6 +939,22 @@ Requirement: Unlocks Warp
 Availability: Permanently available after the Version 1.2 update
 
 Stage Details: The trial characters Himeko (Erudition: Fire), Welt (Nihility: Imaginary), Bronya (Harmony: Wind), Gepard (Preservation: Ice), Clara (Destruction: Physical), Yanqing (The Hunt: Ice), and Bailu (Abundance: Lightning) can be used to experience these stage. Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Logs, and Universal Enhancement Material.
+
+-----
+
+# [HoYoLAB Daily Check-in Reminder](archive/238.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://hoyo.link/8aiwCBAd)
+
+Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
 
 -----
 
@@ -1153,22 +1169,6 @@ Availability Period: After the Version 1.2 update ends – 2023/08/29 15:00:00 (
 Contract Content: Supplies Material Box (Standard) ×45, Credit ×120,000
 
 Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while the item is available.
-
------
-
-# [HoYoLAB Daily Check-in Reminder](archive/238.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
 
 -----
 
