@@ -46,6 +46,16 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - When Trailblazers continue with the Trailblaze Mission before completing the Adventure Mission "Sinners Misled, Credence Falsified", a selection screen appears with the option to discard the Adventure Mission. Fixed an issue where selecting the "continue" button on this screen fails to navigate correctly to the corresponding mission screen.
 
+■ Additional Details
+
+※ The following issues have been fixed during the version 1.2 maintenance period:
+
+- Fixed the issue where certain DMG increasing effects of some characters, Light Cones, Relics, and "Simulated Universe" Blessings did not work properly on DoT and Additional DMG caused by Entanglement and Frozen states. [Added on 2023/07/25]
+
+- Fixed the issue where the DEF ignoring effect of the relic set "Genius of Brilliant Stars" did not work properly on DoT and Additional DMG caused by Entanglement and Frozen states. [Added on 2023/07/25]
+
+- Fixed the issue where the "Spice Up" effect of the character "Sampo (Nihility: Wind)," "Enemies with Wind Shear effect deal less DMG to Sampo" did not properly take effect on DoT  [Added on 2023/07/25]
+
 -----
 
 # [Honkai: Star Rail EP: Samudrartha](archive/294.md)
