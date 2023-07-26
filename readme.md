@@ -8,6 +8,20 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+#### ■2023/07/26
+
+- Fixes an issue in the Companion Mission "For I Have Touched the Sky" where canceling the submission of an item to the character "Yukong" would cause abnormal game graphics.
+
+- Fixes an issue on PC devices where there was a chance of encountering large purple blocks during the battle with the enemy "Phantylia the Undying."
+
+- Fixes an issue in the battle against the enemy "Phantylia the Undying" where there was a chance of abnormal skill performance when the Ultimate "Cloudhymn Roar" is used.
+
+- Fixes an issue on some mobile devices where the Astral Express' lights on the login screen were displayed in red.
+
+- Fixes an issue where some achievement descriptions in "The Rail Unto the Stars" were displayed abnormally.
+
+- Fixes an issue in the Companion Mission "For I Have Touched the Sky" where some subtitles did not match the voiceovers.
+
 #### ■2023/07/23
 
 - Fixes an issue in the "Scene 1: The Chase Is On" and "Scene 4: Vanquishing Evils" of the "Tales of the Fantastic" event, where the stage may fail to verify under specific circumstances.
@@ -46,7 +60,7 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - When Trailblazers continue with the Trailblaze Mission before completing the Adventure Mission "Sinners Misled, Credence Falsified", a selection screen appears with the option to discard the Adventure Mission. Fixed an issue where selecting the "continue" button on this screen fails to navigate correctly to the corresponding mission screen.
 
-■ Additional Details
+#### ■ Additional Details
 
 ※ The following issues have been fixed during the version 1.2 maintenance period:
 
