@@ -902,6 +902,22 @@ Clear "Forgotten Hall: Memory of Xianzhou Stage 1" to obtain the
 
 -----
 
+# [HoYoLAB Daily Check-in Reminder](archive/238.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://hoyo.link/8aiwCBAd)
+
+Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
+
+-----
+
 # [Joint Forces Stage Details](archive/271.md)
 ## Joint Forces Stage Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/b627f9040f8a567848b0c3994d574bed_2339849956223231687.png)
@@ -917,22 +933,6 @@ Requirement: Unlocks Warp
 Availability: Permanently available after the Version 1.2 update
 
 Stage Details: The trial characters Himeko (Erudition: Fire), Welt (Nihility: Imaginary), Bronya (Harmony: Wind), Gepard (Preservation: Ice), Clara (Destruction: Physical), Yanqing (The Hunt: Ice), and Bailu (Abundance: Lightning) can be used to experience these stage. Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Logs, and Universal Enhancement Material.
-
------
-
-# [HoYoLAB Daily Check-in Reminder](archive/238.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
 
 -----
 
