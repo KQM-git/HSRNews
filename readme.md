@@ -72,20 +72,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [Honkai: Star Rail EP: Samudrartha](archive/294.md)
-## Honkai: Star Rail EP: Samudrartha
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/47fdd45d44a22d506c0b37de33d6625e_6803480106720619193.png)
-
-In the lightless gloom,
-
-It was as though he had retreated back to the Vidyadhara egg,
-
-Being ceaselessly churned in a sea of waves and elusive dreams.
-
-[  Go to EP](https://youtu.be/qWXPNyt6oTE)
-
------
-
 # [Version 1.2 "Even Immortality Ends" Update Overview](archive/276.md)
 ## Version Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/decad5417027c57f0cf46f8aeb508cae_1659386472935401277.png)
