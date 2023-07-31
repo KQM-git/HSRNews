@@ -1244,6 +1244,32 @@ Honkai: Star Rail Map is a map tool developed by HoYoLAB. Trailblazers can refer
 
 -----
 
+# [Invitation to join Project Astro-Warp](archive/211.md)
+## Invitation to join Project Astro-Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/44dca0d9c0454eb98cde64d547de26bc_970913154859859929.png)
+
+Hello, Trailblazers,
+
+With the departure of the Astral Express, the Express Crew has officially launched Project Astro-Warp, a long-term player-recruitment program. The goal is to provide better galactic adventure experiences to Trailblazers by listening to their voices and continuously refining and tuning them.
+
+According to the test objectives of different versions, we will select from Trailblazers who have signed up for Project Astro-Warp in batches to participate in subsequent versions of small-scale confidential beta tests.
+
+Come join us! Click on the survey below to sign up! By signing up, you could get a chance to participate in future small-scale confidential beta tests.
+
+[ Click here to sign up](https://hoyo.link/40y7CBAd)
+
+### Sign-Up Time
+
+Sign-up is open from now with no end date scheduled. New announcements will be made should there be an end date in the future.
+
+For more information regarding Project Astro-Warp, please head to HoYoLAB to view details about the Recruitment Plan.
+
+[ Click Access](https://hoyo.link/06NhCBAd)
+
+Thank you Trailblazers for your continuous support! We look forward to your acceptance of this invitation to help us make this galactic adventure an even better experience.
+
+-----
+
 # [Survey With Rewards](archive/200.md)
 ## Survey With Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/07/0b56eede8e61e6084bebaeb690cd3498_7068979431664060967.png)
