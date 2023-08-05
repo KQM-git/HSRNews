@@ -8,6 +8,16 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+#### ■2023/08/02
+
+- Fixes an issue where, under certain conditions, the "View Details" button incorrectly displayed on some items.
+
+- Fixes an issue on certain devices where the red notification dot for the "Forgotten Hall" update persisted on the "Navigation" screen.
+
+- Fixes an issue that caused the "Forgotten Hall" to anomalously display an update alert on the "Survival Index" interface of the Interastral Peace Guide when logging back into the game.
+
+- Fixes an issue where, upon logging back into the game, selecting the "Go" button on the "Enter the Crossroads of Fate..." interface wouldn't properly redirect to the intended mission interface.
+
 #### ■2023/07/26
 
 - Fixes an issue in the Companion Mission "For I Have Touched the Sky" where canceling the submission of an item to the character "Yukong" would cause abnormal game graphics.
@@ -718,6 +728,22 @@ Stage Details: The trial characters Himeko (Erudition: Fire), Welt (Nihility: Im
 
 -----
 
+# [HoYoLAB Daily Check-in Reminder](archive/238.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://hoyo.link/8aiwCBAd)
+
+Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
+
+-----
+
 # [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/274.md)
 ## Planar Fissure Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/9d378e12a5b9f4685446d59593ae318b_1975675089758122812.png)
@@ -933,22 +959,6 @@ Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean 
 Clear "Forgotten Hall: Memory of Xianzhou Stage 1" to obtain the
 
 4-star character Yukong (Harmony: Imaginary).
-
------
-
-# [HoYoLAB Daily Check-in Reminder](archive/238.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
 
 -----
 
