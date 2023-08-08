@@ -82,6 +82,72 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Nessun Dorma: Boosted Drop Rate for the Limited 5-Star Character Kafka (Nihility: Lightning)](archive/278.md)
+## Nessun Dorma Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/05/c2e7a40cdb7f994c1e0c00d4ebe7b765_5626402243171898005.png)
+
+Dear Trailblazers,
+
+During the Nessun Dorma event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Nessun Dorma Event Warp
+
+During the event, the drop rate of the limited 5-star character Kafka (Nihility: Lightning) will be boosted.
+
+During the event, the drop rate of the 4-star characters Luka (Nihility: Physical), Sampo (Nihility: Wind), and Serval (Erudition: Lightning) will be boosted.
+
+After the event ends, the 4-star character Luka (Nihility: Physical) will become available in Stellar Warp in Version 1.3, but will not be available in Departure Warp.
+
+Event Period | Drop Rate Boost: 5-Star Character | Drop Rate Boost: 4-Star Characters
+--- | --- | ---
+2023/08/09 12:00:00 (server) – 2023/08/29 14:59:00 (server) | Kafka (Nihility: Lightning) | Luka (Nihility: Physical)
+^ | ^ | Sampo (Nihility: Wind)
+^ | ^ | Serval (Erudition: Lightning)
+
+※ Of the above characters, the limited character will not become available in Stellar Warp.
+
+※ This Warp is considered a Character Event Warp. The cumulative Warp count for a guaranteed 5-star character in any Character Event Warp will always be carried over to other Character Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
+
+### Character Trial Event: Aptitude Showcase
+
+**Participation Requirements:** Unlock Travel Log
+
+**Event Period:** 2023/08/09 12:00:00 (server) – 2023/08/29 14:59:00 (server)
+
+**Event Details:** Trial characters Kafka (Nihility: Lightning), Luka (Nihility: Physical), Sampo (Nihility: Wind), and Serval (Erudition: Lightning) can be used to experience stages. Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Logs, Universal Enhancement Materials, and credits.
+
+-----
+
+# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-star Light Cone, Patience Is All You Need (Nihility)](archive/279.md)
+## Brilliant Fixation: Patience Is All You Need Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/12/70e7a7ba924e19914d3ec0f4bc4f8e1e_5579683730795483275.png)
+
+Dear Trailblazers,
+
+During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Brilliant Fixation Event Warp
+
+During the event, the drop rate of the limited 5-star Light Cone, Patience Is All You Need (Nihility), will be boosted.
+
+During the event, the drop rates of the 4-star Light Cones Resolution Shines As Pearls of Sweat (Nihility), Eyes of the Prey (Nihility), and The Birth of the Self (Erudition) will be boosted.
+
+Event Period | Drop Rate Boost: 5-Star Light Cone | Drop Rate Boost: 4-Star Light Cones
+--- | --- | ---
+2023/08/09 12:00:00 (server) – 2023/08/29 14:59:00 (server) | Patience Is All You Need (Nihility) | Resolution Shines As Pearls of Sweat (Nihility)
+^ | ^ | Eyes of the Prey (Nihility)
+^ | ^ | The Birth of the Self (Erudition)
+
+※ Of the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
+
+※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
+
+-----
+
 # [Version 1.2 "Even Immortality Ends" Update Overview](archive/276.md)
 ## Version Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/decad5417027c57f0cf46f8aeb508cae_1659386472935401277.png)
