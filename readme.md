@@ -810,28 +810,6 @@ Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 day
 
 -----
 
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/274.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/9d378e12a5b9f4685446d59593ae318b_1975675089758122812.png)
-
-### Event Period
-
-2023/08/02 04:00:00 (server) – 2023/08/09 03:59:00 (server)
-
-### Participation Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event period, get double rewards from immersion devices in the Simulated Universe.
-
-- During the event, the number of daily double reward opportunities is limited and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Where Are You, Mystery Trotter? Event: Participate in the Event to Earn Tracks of Destiny and Other Rewards](archive/273.md)
 ## Where Are You, Mystery Trotter? Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/52d278eca1c8374e12d7ed85397c3c57_3584265631513552737.png)
