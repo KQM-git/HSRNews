@@ -6,6 +6,14 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
 
+### Known Issues
+
+#### ■2023/08/09
+
+- There is an issue with the character Blade and the Light Cone "The Unreachable Side (Destruction)" missing details abnormally. This issue will be fixed in future updates.
+
+- There is an issue with the missing "Information" button in Blade's character details screen. This issue will be fixed in future updates.
+
 ### Game Updates and Improvements Overview
 
 #### ■2023/08/02
