@@ -902,32 +902,6 @@ Stage Details: The trial characters Himeko (Erudition: Fire), Welt (Nihility: Im
 
 -----
 
-# [Where Are You, Mystery Trotter? Event: Participate in the Event to Earn Tracks of Destiny and Other Rewards](archive/273.md)
-## Where Are You, Mystery Trotter? Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/52d278eca1c8374e12d7ed85397c3c57_3584265631513552737.png)
-
-Where is the Mystery Trotter? Why not consult Regin's homemade sensor at the Goethe Hotel!
-
-### Event Period
-
-2023/07/28 12:00:00 (server) – 2023/08/14 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ 21
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/05/abb0fb94bbce6745026c72e5c37acf7d_7918481958848242757.png)
-
-### Event Details
-
-During the event, the Trailblazer can help Regin conduct sensor experiments to look for clues pointing to Trotters. There are 7 clues for Trotters, with one of them becoming available every day. Complete the current Anomaly Detection to unlock the next.
-
-Trailblazers can complete the daily Anomaly Detection to obtain rewards. Complete all Anomaly Detections to obtain Tracks of Destiny.
-
------
-
 # [Starlit Homecoming Event Details: Return to the Game to Get a 4-star Light Cone and More](archive/275.md)
 ## Starlit Homecoming Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/5ca903468ef590efcefaf60c008e6aaf_8598786508232337240.png)
