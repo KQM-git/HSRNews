@@ -6,15 +6,17 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
 
-### Known Issues
-
-#### ■2023/08/09
-
-- There is an issue with the character Blade and the Light Cone "The Unreachable Side (Destruction)" missing details abnormally. This issue will be fixed in future updates.
-
-- There is an issue with the missing "Information" button in Blade's character details screen. This issue will be fixed in future updates.
-
 ### Game Updates and Improvements Overview
+
+#### ■2023/08/16
+
+- Fixes an issue in Deep Exploration level 5 of Ruin 3 within the Underground Treasure Hunt event where the message "In this level, you might encounter other Treasure Hunters" displays erroneously.
+
+- Fixes an issue in the data bank where details for the character Blade (Destruction: Wind) and the Light Cone "The Unreachable Side (Destruction)" disappear erronesously.
+
+- Fixes the issue of the missing "Information" button on the character Blade (Destruction: Wind)'s character details screen.
+
+- Fixes an issue where the character Luka (Nihility: Physical)'s "DEF Boost" trace names are incorrect.
 
 #### ■2023/08/02
 
