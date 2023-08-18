@@ -92,6 +92,50 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Version 1.2 "Even Immortality Ends" Satisfaction Survey](archive/287.md)
+## Version 1.2 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/14/64f750577627982c2225314c2376a57b_4948745133457940821.png)
+
+Dear Trailblazers,
+
+To better understand Trailblazers' experiences in Version 1.2, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded **credit ×30,000** if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_fhd6ncwjahx4my43bnxv4ehd5lwt3yc3fmaw&game_biz=hkrpg_global&surveyId=15689&format=1&sign_type=2&authkey_ver=1)
+
+### Things to Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
+# [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/280.md)
+## Realm of the Strange Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/fba39da2942fe360176de0c99a78509d_5953963840705112745.png)
+
+### Event Period
+
+2023/08/19 04:00:00 (server) – 2023/08/26 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Cavern of Corrosion: Path of Drifting
+
+### Event Details
+
+- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
+
+- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # [Nessun Dorma: Boosted Drop Rate for the Limited 5-Star Character Kafka (Nihility: Lightning)](archive/278.md)
 ## Nessun Dorma Event Warp
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/05/c2e7a40cdb7f994c1e0c00d4ebe7b765_5626402243171898005.png)
