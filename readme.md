@@ -12,7 +12,7 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Fixes an issue in Deep Exploration level 5 of Ruin 3 within the Underground Treasure Hunt event where the message "In this level, you might encounter other Treasure Hunters" displays erroneously.
 
-- Fixes an issue in the data bank where details for the character Blade (Destruction: Wind) and the Light Cone "The Unreachable Side (Destruction)" disappear erronesously.
+- Fixes an issue in the data bank where details for the character Blade (Destruction: Wind) and the Light Cone "The Unreachable Side (Destruction)" disappear erroneously.
 
 - Fixes the issue of the missing "Information" button on the character Blade (Destruction: Wind)'s character details screen.
 
