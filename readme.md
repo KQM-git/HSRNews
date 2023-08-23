@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2023/08/23
+
+- Fixes the issue where the brief description of Welt (Nihility: Imaginary)'s Skill was incorrect. This fix is for text only and doesn't affect the actual effects.
+
 #### ■2023/08/16
 
 - Fixes an issue in Deep Exploration level 5 of Ruin 3 within the Underground Treasure Hunt event where the message "In this level, you might encounter other Treasure Hunters" displays erroneously.
