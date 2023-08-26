@@ -160,28 +160,6 @@ Thank you, Trailblazers, for each and every one of your valuable suggestions and
 
 -----
 
-# [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/280.md)
-## Realm of the Strange Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/fba39da2942fe360176de0c99a78509d_5953963840705112745.png)
-
-### Event Period
-
-2023/08/19 04:00:00 (server) – 2023/08/26 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Cavern of Corrosion: Path of Drifting
-
-### Event Details
-
-- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
-
-- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
-
-- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
-
------
-
 # [Nessun Dorma: Boosted Drop Rate for the Limited 5-Star Character Kafka (Nihility: Lightning)](archive/278.md)
 ## Nessun Dorma Event Warp
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/05/c2e7a40cdb7f994c1e0c00d4ebe7b765_5626402243171898005.png)
