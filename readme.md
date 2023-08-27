@@ -34,6 +34,90 @@ The Trailblaze Power Optimization will be in effect from **the moment the Versio
 
 -----
 
+# [Version 1.3 Update and Maintenance Notice](archive/297.md)
+## Version 1.3 Update and Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/7ff32a782e534b3710ab05b29420d66b_4602770619976186533.png)
+
+Dear Trailblazers,
+
+The Crew is set to conduct version update and maintenance soon. The game will be updated to Version 1.3 "Celestial Eyes Above Mortal Ruins" upon maintenance completion.
+
+During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
+
+### Update Time
+
+Begins at 2023/08/30 06:00:00 (global). The update will take approximately **5** hours.
+
+### How to Update
+
+After the version update maintenance begins, Trailblazers can conduct the update by following the in-game instructions.
+
+- PC: Close the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+### Compensation Details
+
+■ Server Maintenance Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers at or above Trailblaze Level **4** before 2023/08/30 06:00:00 (global)
+
+※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 1.3 ends.
+
+### Device Specifications
+
+#### ■ Recommended configurations:
+
+- PC:
+
+Device specifications: i7/8G memory, discrete graphics card (Nvidia GeForce GTX 1060 or better)
+
+System: Windows 10 64-bit or higher
+
+- Android:
+
+Device specifications: Snapdragon 855, Dimensity 1000, Kirin 990, or better processors.
+
+RAM: 6 GB or more
+
+System: Android 9 or higher
+
+- iOS:
+
+Device specifications: iPhone X, iPhone XR, or later models. iPad with A12 processor or better
+
+System: iOS 11.0 or higher
+
+#### ■ Supported specifications:
+
+- PC:
+
+Device specifications: i3/6G memory, discrete graphics card (Nvidia GeForce GTX 650 or better)
+
+System: Windows 7 64-bit or above
+
+- Android:
+
+Device specifications: Snapdragon 835, Dimensity 720, Kirin 810, or better processors.
+
+RAM: 4 GB or more
+
+System: Android 8 or higher
+
+- iOS:
+
+Device: iPhone 8 Plus or later models. iPad with A10 processor or higher
+
+System: **iOS 11.0** or higher
+
+※ After the Version 1.3 update, the game will only support iOS 11.0 or higher systems. You may not be able to enter the game if the requirement is not met.
+
+-----
+
 # [Game Optimization and Known Issues](archive/295.md)
 ## Game Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/07/19/397a1051b21b942694bf256ce3c69d9c_5274499123293081872.png)
