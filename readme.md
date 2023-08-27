@@ -258,48 +258,6 @@ Trailblazers who **meet the following requirements** can log in during the re-is
 
 -----
 
-# [Version 1.3 Nameless Honor Event Details](archive/316.md)
-## Version 1.3 Nameless Honor Details
-
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resin**, and **Tracks of Destiny**.
-
-After unlocking Nameless Glory, increasing Nameless Honor level will allow Trailblazers to obtain **Stellar Jades**, **Star Rail Special Passes**, a **4-star Light Cone of your choice**, **Relic Remains**, and more!
-
-If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatar "**Jing Yuan: In Leisure**," the avatar "**Fu Xuan: In Leisure**," as well as **Stellar Jades** and **Fuels**!
-
-### Event Period
-
-After the version 1.3 update – 2023/10/09 03:59:00 (server)
-
-### Event Requirement
-
-Trailblaze Level ≥**13** and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### Event Details
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via Today's Missions, This Week's Missions, and This Period's Missions. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
-
-- Today's Missions will reset daily at 04:00 (server time), and This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Things to Note
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at 2023/10/09 02:59:00 (server). After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the web recharge center, the purchase period for the Nameless Glory and Nameless Medal items will end on 2023/10/08 03:59:00 (server). Trailblazers who recharge on the website are advised to take note of the available purchase time.
-
------
-
 # [Version 1.3 Nameless Honor Event Details](archive/298.md)
 ## Version 1.3 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/aeaa5732e6622869383c443f97d766ea_3356673088686466092.png)
