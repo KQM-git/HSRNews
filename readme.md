@@ -1,31 +1,3 @@
-# [New Stages: Stagnant Shadow](archive/303.md)
-## New Stages: Stagnant Shadow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/67c7e67aa863113e2c694293ff8e8672_4601717310215840230.png)
-
-Dear Trailblazers,
-
-After the Version 1.3 Update arrives, the new stages Stagnant Shadow: Shape of Abomination and Stagnant Shadow: Shape of Puppetry will be added.
-
-### Stagnant Shadow
-
-#### ■ Stagnant Shadow: Shape of Abomination
-
-Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant"
-
-Stage Description: Clear the stage to obtain the new **Quantum-type** character Ascension material "Nail of the Ape."
-
-Location: Xianzhou Luofu — Scalegorge Waterscape
-
-#### ■ Stagnant Shadow: Shape of Puppetry
-
-Unlock Conditions: Complete the Adventure Mission "Stagnant Shadow" and unlock map Xianzhou Luofu — Artisanship Commission
-
-Stage Description: Clear the stage to obtain the new **Imaginary-type** character Ascension material "Suppressing Edict."
-
-Map: Xianzhou Luofu — Artisanship Commission
-
------
-
 # [Epochal Spectrum: Boosted Drop Rate for Limited 5-Star Character, Dan Heng • Imbibitor Lunae (Destruction: Imaginary)](archive/301.md)
 ## Event Warp "Epochal Spectrum"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/b647c46f35534e9c4ec9bb2c7d6659ba_7522499427681120852.png)
@@ -367,6 +339,34 @@ The Trailblaze Power Optimization will be in effect from **the moment the Versio
 - If Trailblazers have Trailblaze Power that exceeds the max limit cap before the maintenance starts, the overflowed portion will not be converted into Reserved Trailblaze Power when the maintenance starts.
 
 ※ Before the Version 1.3 update and maintenance are complete, mobile push notifications will continue being sent to remind Trailblazers of their Trailblaze Power reaching **180**. After the maintenance is complete, push notifications will now remind Trailblazers when their Trailblaze Power reaches 240.
+
+-----
+
+# [New Stages: Stagnant Shadow](archive/303.md)
+## New Stages: Stagnant Shadow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/67c7e67aa863113e2c694293ff8e8672_4601717310215840230.png)
+
+Dear Trailblazers,
+
+After the Version 1.3 Update arrives, the new stages Stagnant Shadow: Shape of Abomination and Stagnant Shadow: Shape of Puppetry will be added.
+
+### Stagnant Shadow
+
+#### ■ Stagnant Shadow: Shape of Abomination
+
+Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant"
+
+Stage Description: Clear the stage to obtain the new **Quantum-type** character Ascension material "Nail of the Ape."
+
+Location: Xianzhou Luofu — Scalegorge Waterscape
+
+#### ■ Stagnant Shadow: Shape of Puppetry
+
+Unlock Conditions: Complete the Adventure Mission "Stagnant Shadow" and unlock map Xianzhou Luofu — Artisanship Commission
+
+Stage Description: Clear the stage to obtain the new **Imaginary-type** character Ascension material "Suppressing Edict."
+
+Map: Xianzhou Luofu — Artisanship Commission
 
 -----
 
