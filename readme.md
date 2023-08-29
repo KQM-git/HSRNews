@@ -1600,40 +1600,6 @@ Details: Clear the stage to obtain the Advanced level-up material for Traces **R
 
 -----
 
-# [New Version 1.2 Herta Contracts](archive/268.md)
-## New Version 1.2 Herta Contracts
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/29/624e98431d6345b3c8bc4f3745f70bde_3740492331557504188.png)
-
-Dear Trailblazers,
-
-Herta Contracts have been added to the Contract Shop!
-
-### Herta Contract: Roaming Share
-
-Availability Period: After the Version 1.2 update ends – 2023/08/29 15:00:00 (server)
-
-Contract Content: Traveler's Guide ×30, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of 5 can be purchased per account while the item is available.
-
-### Herta Contract: Aether Refill
-
-Availability Period: After the Version 1.2 update ends – 2023/08/29 15:00:00 (server)
-
-Contract Content: Refined Aether ×25, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of 5 can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply
-
-Availability Period: After the Version 1.2 update ends – 2023/08/29 15:00:00 (server)
-
-Contract Content: Supplies Material Box (Standard) ×45, Credit ×120,000
-
-Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while the item is available.
-
------
-
 # [HoYoLAB Honkai: Star Rail Tools Overview](archive/237.md)
 ## HoYoLAB Honkai: Star Rail Tools Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/c633a68f2fbeff92e2b6df731807a82e_6179296998725346315.jpg)
