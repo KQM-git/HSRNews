@@ -1,31 +1,3 @@
-# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-Star Light Cone, Brighter Than the Sun (Destruction)](archive/302.md)
-## Brilliant Fixation: Brighter Than the Sun Event Warp
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/66d245582ca94294ca5150804a89fb4c_325572352920176552.png)
-
-Dear Trailblazers,
-
-During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
-
-### Brilliant Fixation Event Warp
-
-During the event, the drop rate of the limited 5-star Light Cone, Brighter Than the Sun (Destruction) will be boosted.
-
-During the event, the drop rate of the 4-star Light Cones Dance! Dance! Dance! (Harmony), Planetary Rendezvous (Harmony), and Landau's Choice (Preservation) will be boosted.
-
-Event Duration | Drop Rate Boost: 5-Star Light Cone | Drop Rate Boost: 4-Star Light Cones
---- | --- | ---
-After the Version 1.3 update – 2023/09/20 11:59:00 (server) | Brighter Than the Sun (Destruction) | Dance! Dance! Dance! (Harmony)
-^ | ^ | Planetary Rendezvous (Harmony)
-^ | ^ | Landau's Choice (Preservation)
-
-※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
-
-※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
-
-※ For more information, please head to the Warp screen.
-
------
-
 # [Epochal Spectrum: Boosted Drop Rate for Limited 5-Star Character, Dan Heng • Imbibitor Lunae (Destruction: Imaginary)](archive/301.md)
 ## Event Warp "Epochal Spectrum"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/b647c46f35534e9c4ec9bb2c7d6659ba_7522499427681120852.png)
@@ -59,6 +31,34 @@ Requirement: Unlock Travel Log
 Event Period: After the Version 1.3 update – 2023/09/20 11:59:00 (server)
 
 Event Details: Trial characters Dan Heng • Imbibitor Lunae (Destruction: Imaginary), Yukong (Harmony: Imaginary), Asta (Harmony: Fire), and March 7th (Preservation: Ice) can be used to experience stages. Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Log, Universal Enhancement Material, and credit.
+
+-----
+
+# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-Star Light Cone, Brighter Than the Sun (Destruction)](archive/302.md)
+## Brilliant Fixation: Brighter Than the Sun Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/66d245582ca94294ca5150804a89fb4c_325572352920176552.png)
+
+Dear Trailblazers,
+
+During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Brilliant Fixation Event Warp
+
+During the event, the drop rate of the limited 5-star Light Cone, Brighter Than the Sun (Destruction) will be boosted.
+
+During the event, the drop rate of the 4-star Light Cones Dance! Dance! Dance! (Harmony), Planetary Rendezvous (Harmony), and Landau's Choice (Preservation) will be boosted.
+
+Event Duration | Drop Rate Boost: 5-Star Light Cone | Drop Rate Boost: 4-Star Light Cones
+--- | --- | ---
+After the Version 1.3 update – 2023/09/20 11:59:00 (server) | Brighter Than the Sun (Destruction) | Dance! Dance! Dance! (Harmony)
+^ | ^ | Planetary Rendezvous (Harmony)
+^ | ^ | Landau's Choice (Preservation)
+
+※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
+
+※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
 
 -----
 
