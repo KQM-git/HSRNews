@@ -676,6 +676,8 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2023/08/30
+
 - It is known that some characters are unable to perform Basic ATKs or Skills on enemies or destructible objects within the map for certain device models. This issue will be addressed in a future update.
 
 -----
