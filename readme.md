@@ -712,7 +712,13 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - It is known that some characters are unable to perform Basic ATKs or Skills on enemies or destructible objects within the map for certain device models. This issue will be addressed in a future update.
 
-- We are aware of the issue that the "To Retire Upon the Perch"  event page does not display as expected in the Travel Log for some Trailblazers. This issue will be fixed in the future.
+### Game Updates and Improvements Overview
+
+■2023/08/30
+
+- Fixes the issue that the "To Retire Upon the Perch" event page does not display as expected in the Travel Log for some Trailblazers.
+
+- Fixes an issue on PC devices where after sending a message to a friend, the chat box cursor would disappear.
 
 -----
 
