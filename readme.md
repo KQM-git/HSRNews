@@ -1128,6 +1128,50 @@ Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account whil
 
 -----
 
+# [The "Celestial Eyes Above Mortal Ruins" Version 1.3 Strategy Guide Collection Contest is now Available!](archive/285.md)
+## Version 1.3 Strategy Guides Contest
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/28/7bd906ca21d66791187ab92c5a7d60a7_7637292526330347052.jpg)
+
+Dear Trailblazers, Honkai: Star Rail version 1.3 "Celestial Eyes Above Mortal Ruins" is now live, and our strategy guide collection contest for version 1.3 will also officially begin today~
+
+[ Go to the event](https://hoyo.link/boddFEAL)
+
+### How to Participate
+
+During the event, if you submit a **strategy guide** on the event page that meets the event requirements, you will be deemed to have successfully participated.
+
+In this round of the strategy guide competition, works relating to Simulated Universe: Swarm Disaster or new characters (Dan Heng • Imbibitor Lunae, Fu Xuan, and Lynx) with "StarRail1.3" in the title and posted with the topics #gameguides and #HonkaiStarRail will be more popular~
+
+### Event Period
+
+Submission Period: 2023/08/31 – 2023/10/01
+
+Selection Period: 2023/10/01 – 2023/10/16
+
+Result Announcement: 2023/10/25
+
+### Event Rewards
+
+#### ■ First Prize (5 winners)
+
+Stellar Jade ×6000 + Dan Heng • Imbibitor Lunae Character Accessory ×1 + Dan Heng • Imbibitor Lunae Character Stand ×1 + Dan Heng • Imbibitor Lunae Badge ×1
+
+#### ■ Second Prize (10 winners)
+
+Stellar Jade ×2000 + random themed mouse pad ×1
+
+#### ■ Third Prize (20 winners)
+
+Stellar Jade ×1000 + Dan Heng • Imbibitor Lunae Character Stand ×1
+
+#### ■ Participation Prize (All participants)
+
+HoYoLAB background
+
+For more information, please head to HoYoLAB to review the event rules.
+
+-----
+
 # [HoYoLAB Daily Check-in Reminder](archive/238.md)
 ## HoYoLAB Daily Check-in Reminder
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
