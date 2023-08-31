@@ -714,6 +714,24 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+#### ■2023/08/31
+
+- Fixes the issue that pressing and holding the "Cancel" button to cancel Dan Heng ‧ Imbibitor Lunae's Enhanced Basic ATK during battle on mobile devices results in a white circle on the screen and freezes the game.
+
+- Fixes the issue where speaking with Capote (NPC) in certain circumstances will freeze the game.
+
+- Fixes the issue where Dan Heng ‧ Imbibitor Lunae's character portrait is fuzzy in some interfaces when using iOS devices.
+
+- Fixes the issue where certain story voice overs are inconsistent with subtitle text in the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
+
+- Fixes the issue where certain story voice overs are inconsistent with subtitle text in the Companion Mission "The Dragon Returns Home."
+
+- Fixes the issue where certain story voice overs are inconsistent with subtitle text in the Adventure Mission "Back in Business."
+
+- Fixes inaccuracies in the "The 400 Blows" Achievement requirement description.
+
+- Fixes an issue on mobile devices where pressing and holding the story trial character's ability button during combat would result in the appearance of a white halo on screen and the game freezing.
+
 ■2023/08/30
 
 - Fixes the issue that the "To Retire Upon the Perch" event page does not display as expected in the Travel Log for some Trailblazers.
