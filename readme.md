@@ -1,3 +1,47 @@
+# [Game Optimization and Known Issues](archive/327.md)
+## Game Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/06/397a1051b21b942694bf256ce3c69d9c_705979336412682430.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Game Updates and Improvements Overview
+
+#### ■2023/09/06
+
+- Optimizes some of the materials and information displayed in the App Store page. Trailblazers do not need to update the store and can continue to play the game normally.
+
+#### ■2023/09/01
+
+- Fixes the issue on certain devices where certain characters' attacks do not take effect when they attack or use specific Techniques in the map.
+
+#### ■2023/08/31
+
+- Fixes the issue that pressing and holding the "Cancel" button to cancel Dan Heng ‧ Imbibitor Lunae's Enhanced Basic ATK during battle on mobile devices results in a white circle on the screen and freezes the game.
+
+- Fixes the issue where speaking with Capote (NPC) in certain circumstances will freeze the game.
+
+- Fixes the issue where Dan Heng ‧ Imbibitor Lunae's character portrait is fuzzy in some interfaces when using iOS devices.
+
+- Fixes the issue where certain story voice overs are inconsistent with subtitle text in the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
+
+- Fixes the issue where certain story voice overs are inconsistent with subtitle text in the Companion Mission "The Dragon Returns Home."
+
+- Fixes the issue where certain story voice overs are inconsistent with subtitle text in the Adventure Mission "Back in Business."
+
+- Fixes inaccuracies in the "The 400 Blows" Achievement requirement description.
+
+- Fixes an issue on mobile devices where pressing and holding the story trial character's ability button during combat would result in the appearance of a white halo on screen and the game freezing.
+
+■2023/08/30
+
+- Fixes the issue that the "To Retire Upon the Perch" event page does not display as expected in the Travel Log for some Trailblazers.
+
+- Fixes an issue on PC devices where after sending a message to a friend, the chat box cursor would disappear.
+
+-----
+
 # [Version 1.3 "Celestial Eyes Above Mortal Ruins" Updates](archive/315.md)
 ## Version Updates
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/28/decad5417027c57f0cf46f8aeb508cae_1127194184251414530.png)
