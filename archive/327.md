@@ -12,6 +12,24 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Optimizes some of the materials and information displayed in the App Store page. Trailblazers do not need to update the store and can continue to play the game normally.
 
+- Optimizes the ability text display for the Light Cone "Solitary Healing (Nihility)." This optimization does not affect the actual effects of the ability.
+
+- Fixes the chance of encountering the "Failed to obtain scenery (2600)" error message and being unable to enter Simulated Universe when Trailblazers are in Herta's Office and try to use the Survival Index to enter Simulated Universed.
+
+- Fixes an issue in the "Forgotten Hall" where there is a chance of a new enemy target appearing after the battle concludes, causing abnormal effects to combat progress.
+
+- Fixes an issue where certain scenes have a chance of generating the error message "System error (5151)."
+
+- Fixes certain textual errors in storyline dialogue text. The corresponding english text will be fixed with future version updates.
+
+- Fixes the issue of the incorrect text display for the blessing "12 Monkeys and Angry Men" in the Simulated Universe. This fix does not affect the actual effects of the blessing.
+
+- Fixes an issue where the achievement requirement description of "Will of the Hive" does not match the actual situation. After adjustment, the description now reads: "Unlock a total of 1 Blessing of Propagation in Simulated Universe."
+
+- Fixes an issue where the achievement requirement description of "Weyland-Yutani Investigator" does not match the actual situation. After the adjustment, the description now reads: "In Simulated Universe: Swarm Disaster, enter a Combat: Swarm, Occurrence: Swarm, or Boss: Swarm domain with a Path other than Propagation for a total of 15 times."
+
+- Fixes a chance of the combat process becoming abnormal when facing the enemy "The Ascended (Bug)" in Simulated Universe: Swarm Disaster.
+
 #### ■2023/09/01
 
 - Fixes the issue on certain devices where certain characters' attacks do not take effect when they attack or use specific Techniques in the map.
