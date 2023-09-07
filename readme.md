@@ -14,6 +14,8 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Fixes an issue with the character Natasha (Abundance: Physical)'s Technique having abnormal effects in certain adventures within the Simulated Universe: Swarm Disaster.
 
+- Fixes the text error in the "Version 1.3 Nameless Honor Details" announcement regarding when the purchase period will end for the online top-up center. The actual purchase period in both the online top-up center and within the game are unaffected.
+
 #### ■2023/09/06
 
 - Optimizes some of the materials and information displayed in the App Store page. Trailblazers do not need to update the store and can continue to play the game normally.
@@ -1134,7 +1136,7 @@ Trailblaze Level ≥**13** and have completed the Trailblaze Mission "Jarilo-VI 
 
 - The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at 2023/10/09 02:59:00 (server). After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
 
-- In the web recharge center, the purchase period for the Nameless Glory and Nameless Medal items will end on 2023/10/08 03:59:00 (server). Trailblazers who recharge on the website are advised to take note of the available purchase time.
+- "Nameless Glory," "Nameless Medal," and "Honor Badge" will no longer be available for purchase in the online top-up center after 2023/10/08 03:59:00 (global). Trailblazers who use the online top-up function, please be mindful of the purchase period (the time has been corrected).
 
 -----
 
