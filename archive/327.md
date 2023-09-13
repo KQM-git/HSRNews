@@ -8,6 +8,34 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2023/09/13
+
+- Fixes an issue with the text description of the Omni-Synthesizer.
+
+**Fixes some issues in Simulated Universe: Swarm Disaster, specifically:**
+
+- Fixes an issue where the achievements "I Am the Swarm" and "Harvest Moon" cannot be obtained in specific situations.
+
+- Fixes an issue where part of the Trailblaze Secrets storyline text is abnormally missing.
+
+- Fixes an issue where characters' HP display was abnormal after being downed in specific situations when possessing the Blessing "Disciplinary Flicker" and Curio "Thalan Toxi-Flame" at the same time.
+
+- Fixes an issue where selecting Curios multiple times in a row could occasionally lead to a subsequent process blockage.
+
+- Fixes an issue where there is a chance of abnormal drop rate for Cosmic Fragments in domains with Mutation Beacon.
+
+- Fixes an issue where there is a chance of abnormal Curio acquirement after ending a battle in domains with Curio Trotter while having "The Hunt: Swiftness" Dice Effect.
+
+- Fixes an issue where there is a chance of abnormal Blessings acquirement at the end of battle when player possesses the "Typical Genius Society Gossip" Curio and has the "The Hunt: Swiftness" Dice Effect.
+
+- Fixes an issue where there is a chance to abnormally enter combat when attacking a "Sequence Trotter" in the "Trotter Catch" Adventure Domain.
+
+- Fixes an issue where the game gets stuck after player is unable to select some Occurrences' options in certain circumstances.
+
+- Fixes issues where there is a chance of Communing Trail points being abnormally claimed after completing "Dark Web Adventures: Golden Fever" for Trail of Pathstrider and abnormal special challenge combat summary in the "Trail of Pathstrider: Odyssey."
+
+- FIxes an issue with the rule description in the Resonance Interplay interface.
+
 ■2023/09/07
 
 - Fixes an issue in which there is a chance of a interface freezing while Trailblazers are resolving the "Genius Society #55 Yu Qingtu" Occurrence for Simulated Universe: Swarm Disaster.
