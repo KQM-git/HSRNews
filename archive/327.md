@@ -6,13 +6,11 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
 
-### Known Issues
+### Game Updates and Improvements Overview
 
 ■2023/09/14
 
-- It is known that there is a chance of an interface freezing while Trailblazers are resolving the "Genius Society #55 Yu Qingtu" Occurrence for Simulated Universe: Swarm Disaster.
-
-### Game Updates and Improvements Overview
+- Fixes an issue in which there is a chance of a interface freezing while Trailblazers are resolving the "Genius Society #55 Yu Qingtu" Occurrence for Simulated Universe: Swarm Disaster.
 
 ■2023/09/13
 
