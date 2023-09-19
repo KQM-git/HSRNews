@@ -822,6 +822,72 @@ Thank you very much for your continuous support for Honkai: Star Rail, Trailblaz
 
 -----
 
+# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-star Light Cone, She Already Shut Her Eyes (Preservation)](archive/308.md)
+## Brilliant Fixation: She Already Shut Her Eyes Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/d8cb5844f2f97932766e9e30548b5b53_1698237847170947807.png)
+
+Dear Trailblazers,
+
+During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Brilliant Fixation Event Warp
+
+During the event, the drop rate of the limited 5-star Light Cone, She Already Shut Her Eyes (Preservation), will be boosted.
+
+During the event, the drop rates of the 4-star Light Cones Perfect Timing (Abundance), Under the Blue Sky (Destruction), and Trend of the Universal Market (Preservation) will be boosted.
+
+Event Duration | Drop Rate Boost: 5-Star Light Cones | Drop Rate Boost: 4-Star Light Cones
+--- | --- | ---
+2023/09/20 12:00:00 (server) – 2023/10/10 14:59:00 (server) | She Already Shut Her Eyes (Preservation) | Perfect Timing (Abundance)
+^ | ^ | Under the Blue Sky (Destruction)
+^ | ^ | Trend of the Universal Market (Preservation)
+
+※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
+
+※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
+
+-----
+
+# [Foreseen, Foreknown, Foretold: Boosted Drop Rate for the Limited 5-star Character Fu Xuan (Preservation: Quantum)](archive/307.md)
+## Event Warp "Foreseen, Foreknown, Foretold"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/b2c13e630d75cc8f39275ca61adc793e_3011363480168793956.png)
+
+Dear Trailblazers,
+
+During the Foreseen, Foreknown, Foretold event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Foreseen, Foreknown, Foretold Event Warp
+
+During the event, the drop rate of the limited 5-star character Fu Xuan (Preservation: Quantum) will be significantly boosted.
+
+During the event, the drop rate of 4-star characters Lynx (Abundance: Quantum), Hook (Destruction: Fire) and Pela (Nihility: Ice) will be boosted.
+
+After the event ends, the 4-star character Lynx (Abundance: Quantum) will become available in Stellar Warp in Version 1.4, but will not be available in Departure Warp.
+
+Event Duration | Drop Rate Boost: 5-Star Character | Drop Rate Boost: 4-Star Characters
+--- | --- | ---
+2023/09/20 12:00:00 (server) – 2023/10/10 14:59:00 (server) | Fu Xuan (Preservation: Quantum) | Lynx (Abundance: Quantum)
+^ | ^ | Hook (Destruction: Fire)
+^ | ^ | Pela (Nihility: Ice)
+
+※ Among the above characters, the limited character will not become available in the Stellar Warp event.
+
+※ This Warp is considered a Character Event Warp. The cumulative Warp count for a guaranteed 5-star character in any Character Event Warp will always be carried over to other Character Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
+
+### Character Trial Event: Aptitude Showcase
+
+Requirement: Unlocks Travel Log
+
+Event Period: 2023/09/20 12:00:00 (server) – 2023/10/10 14:59:00 (server)
+
+Event Details: Trial characters Fu Xuan (Preservation: Quantum), Lynx (Abundance: Quantum), Hook (Destruction: Fire), and Pela (Nihility: Ice) can be used to experience stages. Upon completing the challenges, Trailblazers can obtain Stellar Jade, Adventure Log, Universal Enhancement Material, and credits.
+
+-----
+
 # [Epochal Spectrum: Boosted Drop Rate for Limited 5-Star Character, Dan Heng • Imbibitor Lunae (Destruction: Imaginary)](archive/301.md)
 ## Event Warp "Epochal Spectrum"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/11/b647c46f35534e9c4ec9bb2c7d6659ba_7522499427681120852.png)
