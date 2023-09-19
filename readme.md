@@ -98,34 +98,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-star Light Cone, She Already Shut Her Eyes (Preservation)](archive/308.md)
-## Brilliant Fixation: She Already Shut Her Eyes Event Warp
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/d8cb5844f2f97932766e9e30548b5b53_1698237847170947807.png)
-
-Dear Trailblazers,
-
-During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
-
-### Brilliant Fixation Event Warp
-
-During the event, the drop rate of the limited 5-star Light Cone, She Already Shut Her Eyes (Preservation), will be boosted.
-
-During the event, the drop rates of the 4-star Light Cones Perfect Timing (Abundance), Under the Blue Sky (Destruction), and Trend of the Universal Market (Preservation) will be boosted.
-
-Event Duration | Drop Rate Boost: 5-Star Light Cones | Drop Rate Boost: 4-Star Light Cones
---- | --- | ---
-2023/09/20 12:00:00 (server) – 2023/10/10 14:59:00 (server) | She Already Shut Her Eyes (Preservation) | Perfect Timing (Abundance)
-^ | ^ | Under the Blue Sky (Destruction)
-^ | ^ | Trend of the Universal Market (Preservation)
-
-※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
-
-※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
-
-※ For more information, please head to the Warp screen.
-
------
-
 # [Foreseen, Foreknown, Foretold: Boosted Drop Rate for the Limited 5-star Character Fu Xuan (Preservation: Quantum)](archive/307.md)
 ## Event Warp "Foreseen, Foreknown, Foretold"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/b2c13e630d75cc8f39275ca61adc793e_3011363480168793956.png)
@@ -161,6 +133,34 @@ Requirement: Unlocks Travel Log
 Event Period: 2023/09/20 12:00:00 (server) – 2023/10/10 14:59:00 (server)
 
 Event Details: Trial characters Fu Xuan (Preservation: Quantum), Lynx (Abundance: Quantum), Hook (Destruction: Fire), and Pela (Nihility: Ice) can be used to experience stages. Upon completing the challenges, Trailblazers can obtain Stellar Jade, Adventure Log, Universal Enhancement Material, and credits.
+
+-----
+
+# [Brilliant Fixation: Boosted Drop Rate for the Limited 5-star Light Cone, She Already Shut Her Eyes (Preservation)](archive/308.md)
+## Brilliant Fixation: She Already Shut Her Eyes Event Warp
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/d8cb5844f2f97932766e9e30548b5b53_1698237847170947807.png)
+
+Dear Trailblazers,
+
+During the Brilliant Fixation event, Trailblazers can use Star Rail Special Passes for Warps.
+
+### Brilliant Fixation Event Warp
+
+During the event, the drop rate of the limited 5-star Light Cone, She Already Shut Her Eyes (Preservation), will be boosted.
+
+During the event, the drop rates of the 4-star Light Cones Perfect Timing (Abundance), Under the Blue Sky (Destruction), and Trend of the Universal Market (Preservation) will be boosted.
+
+Event Duration | Drop Rate Boost: 5-Star Light Cones | Drop Rate Boost: 4-Star Light Cones
+--- | --- | ---
+2023/09/20 12:00:00 (server) – 2023/10/10 14:59:00 (server) | She Already Shut Her Eyes (Preservation) | Perfect Timing (Abundance)
+^ | ^ | Under the Blue Sky (Destruction)
+^ | ^ | Trend of the Universal Market (Preservation)
+
+※ Among the above Light Cones, the limited Light Cone will not become available in the Stellar Warp event.
+
+※ This event is considered a Light Cone Event Warp. The cumulative Warp count for a guaranteed 5-star Light Cone in any Light Cone Event Warp will always be carried over to other Light Cone Event Warps, but is independent of and unaffected by other types of Warps.
+
+※ For more information, please head to the Warp screen.
 
 -----
 
