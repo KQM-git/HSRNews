@@ -6,7 +6,19 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
 
+### Known Issues
+
+■2023/09/19
+
+- There is a known issue where some Trailblazers using Android devices have experienced occasional sharing failures when posting game content to TikTok. The feature allowing Android users to share game content to TikTok has been temporarily disabled. It will be re-enabled once the issue is resolved in future updates. Please stay tuned for official announcements regarding further details.
+
 ### Game Updates and Improvements Overview
+
+■2023/09/19
+
+- Fixes the issue where the Curio "Fruit of the Alien Tree" would abnormally consume Cosmic Fragments or lose effect in Simulated Universe: Swarm Disaster under specific circumstances.
+
+- Fixes the issue where there was a chance of encountering a finalization failure under specific circumstances upon ending a challenge with the activation of the Nihility Aeonic powers, resulting in a "System Error (4968)" message prompt in Simulated Universe: Swarm Disaster.
 
 ■2023/09/14
 
