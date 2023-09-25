@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2023/09/25
+
+- There is an issue where certain texts aren't displayed in the Travel Log menu for the Space Station Task Force event on mobile devices.
+
 ■2023/09/19
 
 - There is a known issue where some Trailblazers using Android devices have experienced occasional sharing failures when posting game content to TikTok. The feature allowing Android users to share game content to TikTok has been temporarily disabled. It will be re-enabled once the issue is resolved in future updates. Please stay tuned for official announcements regarding further details.
