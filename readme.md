@@ -1036,38 +1036,6 @@ In-game texts for the 13 languages have been adjusted, optimized, and fixed. The
 
 -----
 
-# [Announcement regarding adjustments to certain events and game modes in Version 1.3 "Celestial Eyes Above Mortal Ruins"](archive/322.md)
-## Announcement regarding adjustments to certain events and game modes in Version 1.3 "Celestial Eyes Above Mortal Ruins"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/30/cd6a8f531d2793908598beaa2aa71ee3_2955636461260108614.png)
-
-Dear Trailblazers:
-
-The Crew will be adjusting certain events and their availability periods in Version 1.3 "Celestial Eyes Above Mortal Ruins." The details are as follows:
-
-### Adjustments
-
-■ Aurum Alley's Hustle and Bustle
-
-All contents of the event will become available from day one instead of in stages.
-
-The event's availability period will remain the same, starting on 2023/08/31 12:00:00 (server).
-
-■ Simulated Universe: Swarm Disaster
-
-The game mode will become available on 2023/09/06 12:00:00 (server) instead. After this time, it will remain permanently available.
-
-■  Planar Fissure
-
-The event's availability period has been adjusted to 2023/09/15 04:00:00 (server) - 2023/09/22 03:59:00 (server).
-
-### Other Events
-
-The availability periods for other events in this patch will remain as previously announced.
-
-Thank you very much for your continuous support for Honkai: Star Rail, Trailblazers!
-
------
-
 # [Trailblaze Power System Optimization Details](archive/306.md)
 ## Trailblaze Power System Optimization
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/17/acd9f652e5531ff98e1c79f9248765b9_8734946609318645547.png)
