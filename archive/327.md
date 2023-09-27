@@ -8,15 +8,25 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
-■2023/09/25
-
-- There is an issue where certain texts aren't displayed in the Travel Log menu for the Space Station Task Force event on mobile devices.
-
 ■2023/09/19
 
 - There is a known issue where some Trailblazers using Android devices have experienced occasional sharing failures when posting game content to TikTok. The feature allowing Android users to share game content to TikTok has been temporarily disabled. It will be re-enabled once the issue is resolved in future updates. Please stay tuned for official announcements regarding further details.
 
 ### Game Updates and Improvements Overview
+
+■2023/09/27
+
+- Fixes an issue where there is a blurriness to Lynx (Abundance: Quantum)'s character portrait for certain Android devices.
+
+- Fixes an issue where "Coherence" cannot be completed normally while using the Trailblazer (Preservation: Fire).
+
+- Fixes an issue where cancelling out of submitting an item causes a fatal deadlock for the Companion Mission "Farther Than The Snow Plains."
+
+- Fixes an issue where there is a certain chance to dispatch 2 of the same character on an assignment causing "System error (3205)" to be displayed
+
+- Fixes an issue where some of the Travel Log text for the "Space Station Task Force" event are not displayed for certain Android devices.
+
+- Fixes an error in the cutscene dialogue for the "Back in Business (III)" Adventure Mission.
 
 ■2023/09/19
 
