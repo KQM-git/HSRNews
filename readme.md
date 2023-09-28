@@ -190,6 +190,28 @@ Event Duration | Drop Rate Boost: 5-Star Light Cones | Drop Rate Boost: 4-Star L
 
 -----
 
+# [Version 1.3 "Celestial Eyes Above Mortal Ruins" Satisfaction Survey](archive/342.md)
+## Version 1.3 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/64f750577627982c2225314c2376a57b_4837780921021533256.png)
+
+Dear Trailblazers,
+
+To better understand Trailblazers' experiences in Version 1.3, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded **credit ×30,000** if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_rgd6ncvrehh2my43bnxv4ehd5lwt3yc3fmaw&game_biz=hkrpg_global&surveyId=16594&format=1&sign_type=2&authkey_ver=1)
+
+### Attention
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
 # [Space Station Task Force: Complete Event Assignments to get rewards such as Stellar Jades](archive/309.md)
 ## Space Station Task Force Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/c1292393bf5161350b56c6fb1378f4dd_8309712113560049403.png)
