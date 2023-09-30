@@ -190,6 +190,30 @@ Event Duration | Drop Rate Boost: 5-Star Light Cones | Drop Rate Boost: 4-Star L
 
 -----
 
+# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/310.md)
+## Garden of Plenty Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/658a5b95b1fcbbce4821d4185131fc76_2937162451292664856.png)
+
+### Event Period
+
+2023/10/02 04:00:00 (server) – 2023/10/09 03:59:00 (server)
+
+### Participation Requirement
+
+Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
+
+### Event Details
+
+- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive double rewards.
+
+- You will get **an additional reward** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- The number of daily double reward opportunities is **limited** and can be viewed in the Garden of Plenty event page.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # [Version 1.3 "Celestial Eyes Above Mortal Ruins" Satisfaction Survey](archive/342.md)
 ## Version 1.3 Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/64f750577627982c2225314c2376a57b_4837780921021533256.png)
