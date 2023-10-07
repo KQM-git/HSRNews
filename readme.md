@@ -1,3 +1,23 @@
+# [New Stages: Stagnant Shadow](archive/331.md)
+## New Stages: Stagnant Shadow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/61b1d255635dd7ab7c12645343de9979_7476603431612505248.png)
+
+Dear Trailblazers,
+
+After the Version 1.4 update arrives, the new stage Stagnant Shadow: Shape of Scorch will be added.
+
+### Stagnant Shadow
+
+####  ■ Stagnant Shadow: Shape of Scorch
+
+Unlock Conditions: Complete the Adventure Mission "Stagnant Shadow" and unlock map Jarilo-VI — Great Mine.
+
+Stage Description: Clear the stage to obtain the new **Fire-type** character Ascension material "Searing Steel Blade."
+
+Map: Jarilo-VI — Great Mine
+
+-----
+
 # [Version 1.4 Nameless Honor Details](archive/332.md)
 ## Version 1.4 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/65bc927ec9fe39e8c31365b1018b73f6_7872627761235063918.png)
