@@ -471,58 +471,6 @@ Event Duration | Drop Rate Boost: 5-Star Light Cones | Drop Rate Boost: 4-Star L
 
 -----
 
-# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/310.md)
-## Garden of Plenty Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/658a5b95b1fcbbce4821d4185131fc76_2937162451292664856.png)
-
-### Event Period
-
-2023/10/02 04:00:00 (server) – 2023/10/09 03:59:00 (server)
-
-### Participation Requirement
-
-Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
-
-### Event Details
-
-- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive double rewards.
-
-- You will get **an additional reward** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- The number of daily double reward opportunities is **limited** and can be viewed in the Garden of Plenty event page.
-
-- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
-
------
-
-# [Space Station Task Force: Complete Event Assignments to get rewards such as Stellar Jades](archive/309.md)
-## Space Station Task Force Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/18/c1292393bf5161350b56c6fb1378f4dd_8309712113560049403.png)
-
-The space station's post-disaster recovery work can only be entrusted to the special commissioner!
-
-### Event Period
-
-2023/09/25 04:00:00 (server) – 2023/10/09 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ 21
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/146151e141827442381f1c34b7931dfe_2548358041262044833.png)
-
-### Event Details
-
-- During the event, Trailblazers can obtain rewards by assigning characters to complete the event assignments. For **the first 6 days** of the event, **4** assignments will be unlocked every day. A total of **24** assignments will be given.
-
-- Assign characters to complete event assignments to obtain rewards. Using recommended Paths or high-level characters can improve assignment evaluation and result in **additional rewards**.
-
-- Trailblazers can also use their Friends' **Support characters** when assigning characters to complete event assignments.
-
------
-
 # [Version 1.3 "Celestial Eyes Above Mortal Ruins" Updates](archive/315.md)
 ## Version Updates
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/08/28/decad5417027c57f0cf46f8aeb508cae_1127194184251414530.png)
