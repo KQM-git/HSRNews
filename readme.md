@@ -460,6 +460,28 @@ Location: Jarilo-VI — Great Mine
 
 -----
 
+# [Game Optimization and Known Issues](archive/368.md)
+## Game Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/06/397a1051b21b942694bf256ce3c69d9c_705979336412682430.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Known Issues
+
+■2023/10/11
+
+- We are aware of an issue where the voice over and subtitles do not match. This issue will be fixed in the future.
+
+### Game Updates and Improvements Overview
+
+■2023/10/11
+
+- Fixes an issue where the display of the corresponding key was incorrect after changing the key in "Settings - Key Info" on PC devices.
+
+-----
+
 # [Trailblaze Continuance "Future Market" Available](archive/336.md)
 ## Trailblaze Continuance Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/b1ef0ae5d0d544c71dbdc747827c3794_4050220943564073380.png)
