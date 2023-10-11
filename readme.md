@@ -460,6 +460,30 @@ Location: Jarilo-VI — Great Mine
 
 -----
 
+# [Trailblaze Continuance "Future Market" Available](archive/336.md)
+## Trailblaze Continuance Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/b1ef0ae5d0d544c71dbdc747827c3794_4050220943564073380.png)
+
+On the eve of Belobog's Solwarm Festival, a messenger from the Interastral Peace Corporation arrives at Belobog...
+
+### Availability
+
+Permanently available after the Version 1.4 update
+
+### Requirement
+
+Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/28/2c6d95ce496e46e906d4afcacc4db85d_2490116056513917804.png)
+
+### Trailblaze Continuance Details
+
+The silver tracks of Trailblaze have reappeared among the stars, connecting one world to another once more. Just as the journey always pushes forward, the old stage is ready to unveil a new act — Trailblaze Mission isn't the final destination. Join the Nameless and set forth in a story entitled Trailblaze Continuance. Within this familiar world, cultivate uncharted territories and keep the wheels of destiny in perpetual motion.
+
+-----
+
 # [Version 1.4 Companion Mission Details](archive/335.md)
 ## Version 1.4 Companion Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/fe0c08fdc6236123cebee80b66991f00_4174811215522722131.png)
