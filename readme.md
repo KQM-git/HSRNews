@@ -480,6 +480,16 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Fixes an issue where the display of the corresponding key was incorrect after changing the key in "Settings - Key Info" on PC devices.
 
+- Fixes an issue in the Energy Acquisition and Ultimate stage of the Strategic Training system where performing specific actions would cause the stage to freeze.
+
+- Fixes an issue in which the game might freeze when entering the stages "Cavern of Corrosion: Path of Holy Hymn" and "Cavern of Corrosion: Path of Conflagration".
+
+- Fixes an issue where, when using specific actions to enter the Simulated Universe, the error message "Simulated Universe service interruption" would erroneously display.
+
+- Fixes an issue where, in the Aetherium Wars event, "Overlord Aether Spirit" cannot be obtained when challenging waves of enemies in "Victory Zone – Great Mine" due to an erroneous activation of the consecutive battle hint line. If you have already encountered this issue, the Express Crew will fix it for you soon.
+
+- Fixes an issue where some messages were grouped incorrectly when using the message filter function.
+
 -----
 
 # [Trailblaze Continuance "Future Market" Available](archive/336.md)
