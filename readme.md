@@ -1,284 +1,3 @@
-# [Version 1.4 Companion Mission Details](archive/335.md)
-## Version 1.4 Companion Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/fe0c08fdc6236123cebee80b66991f00_4174811215522722131.png)
-
-Dear Trailblazers,
-
-After attaining the corresponding Trailblaze Level or completing the prerequisite missions, Companion Missions will be unlocked.
-
-<details open="true">
-<summary>Clouds Leave No Trace</summary>
-
-- An anonymous letter silently appears on the Express. It seems an unexpected visitor has extended an invitation, and is looking to connect with Dan Heng.
-
-- Availability: Permanently available after the Version 1.4 update
-
-- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead".
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/09/27/b09e3de2108015738de301cf7aa23920_1818347550220664652.png)
-
-**■ Attention**
-
-- After Trailblazer completes Companion Mission "Clouds Leave No Trace", some characters who have obtained Visitor Verification may not visit the Express and send Messages temporarily.
-
-- If Trailblazer has obtained the character but hasn't obtained Message reward and Visitor Verification dialogue reward, these rewards will be issued via other means in the game.
-
-</details>
-
-<details open="true">
-<summary>The Dragon Returns Home</summary>
-
-- Returning to his home world is against his wishes. Everything that surrounds his past incarnation, the former high elder, still plagues Dan Heng...
-
-- Availability: Permanently open after the Version 1.3 update
-
-- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead" and read specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/f8661f23ce463046f58cf88b46c85c81_4960114948584549802.png)
-
-</details>
-
-<details open="true">
-<summary>Mo Cuishle</summary>
-
-- The champion fighter of the Underworld, Luka, has returned to Boulder Town and is preparing for a trial...
-
-- Availability: Permanently open after the Version 1.3 update
-
-- Prerequisite: Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy" and have interacted with Seele and Oleg (NPCs) in Boulder Town.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/01d4d066739e845b095a710beb01cdb4_4322238898832043841.png)
-
-</details>
-
-<details open="true">
-<summary>Total Recall</summary>
-
-- After witnessing the wonders of the Matrix of Prescience, an idea sprouted within March 7th...
-
-- Availability: Permanently available after 2023/09/20 12:00:00 (server)
-
-- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead" and read specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/d937307fb71209305b292378a58aa451_344094658286581682.png)
-
-</details>
-
-<details open="true">
-<summary>Farther Than The Snow Plains</summary>
-
-- Lynx, the youngest of the Landau siblings, is extremely adventurous. This also makes her elder siblings extremely worried...
-
-- Availability: Permanently available after 2023/09/20 12:00:00 (server)
-
-- Unlock Conditions: Complete the Companion Mission "Only A Child" and read specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/a8f783c48dd277b4ff039ee3f8c73ca6_3322157827147944941.png)
-
-</details>
-
-<details open="true">
-<summary>For I Have Touched the Sky</summary>
-
-- To know more about Yukong's past, you would have to go to the Palace of Astrum sooner or later. Look around with Qingni. The past she will witness here may change her life.
-
-- Start Time: Permanently open after the Version 1.2 update
-
-- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu – A Dragon Gallant, Its Ocean Distant" and read the specific Messages at Stargazer Navalia.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/07/ce007fcd7b3c38386c3f30062db1043f_3477497514186038369.png)
-
-</details>
-
-<details open="true">
-<summary>Letter from a Strange Woman</summary>
-
-- You received a message from Kafka claiming that she is in trouble and requires your help. Do you go to her rescue? ...Or rather, do you believe her?
-
-- Availability: Permanently available after 2023/08/09 12:00:00 (server)
-
-- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant" and read the specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/07/07/a7c833ebb2d2e6942890f32da67279e2_348851325944109097.png)
-
-</details>
-
-<details open="true">
-<summary>Punklorde Mentality</summary>
-
-- The network security engineer of the space station thinks there is something else behind the invasion of the Legion. You recall what happened to you when you woke up and decide to join him in tracking down Silver Wolf, the Stellaron Hunter...
-
-- Start Time: Permanently open after the Version 1.1 update
-
-- Prerequisite: Trailblaze Level ≥ 21 and after reading specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/11644015fc4ecb53a4bea2547d252146_8708318472637170462.png)
-
-</details>
-
-<details open="true">
-<summary>A Knight Stranger</summary>
-
-- Luocha, the cryptic Outworld merchant, looked so similar to that person... Looks like it's a job for genius detective March 7th!
-
-- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
-
-- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have read the specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_1788554832907694562.png)
-
-</details>
-
-<details open="true">
-<summary>Evanesce Like the Morning Dew</summary>
-
-- Bailu has once again escaped from the Alchemy Commission, but it turns out that this "escape" was actually an unexpected "house call"...
-
-- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
-
-- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have read the specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_7208983498179720742.png)
-
-</details>
-
-<details open="true">
-<summary>Frosty Blade's Trial</summary>
-
-- To apprehend the escaped Stellaron Hunters, the Seat of Divine Foresight lieutenant, Yanqing, went on a solo hunting trip...
-
-- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
-
-- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have interacted with the Diting NPC in Central Starskiff Haven map.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_8928162885673277538.png)
-
-</details>
-
------
-
-# [New Version 1.4 Herta Contracts](archive/333.md)
-## New Version 1.4 Herta Contracts
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/624e98431d6345b3c8bc4f3745f70bde_3153214917770573799.png)
-
-Dear Trailblazers,
-
-Herta Contracts have been added to the Contract Shop!
-
-### Herta Contract: Roaming Share
-
-Availability Period: After the Version 1.4 update ends – 2023/11/14 15:00:00 (server)
-
-Contract Content: Traveler's Guide ×30, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of 5 can be purchased per account while the item is available.
-
-### Herta Contract: Aether Refill
-
-Availability Period: After the Version 1.4 update ends – 2023/11/14 15:00:00 (server)
-
-Contract Content: Refined Aether ×25, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of 5 can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply
-
-Availability Period: After the Version 1.4 update ends – 2023/11/14 15:00:00 (server)
-
-Contract Content: Supplies Material Box (Standard) ×45,
-
-Credit ×120,000
-
-Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while the item is available.
-
------
-
-# [New Stages: Stagnant Shadow](archive/331.md)
-## New Stages: Stagnant Shadow
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/61b1d255635dd7ab7c12645343de9979_7476603431612505248.png)
-
-Dear Trailblazers,
-
-After the Version 1.4 update arrives, the new stage Stagnant Shadow: Shape of Scorch will be added.
-
-### Stagnant Shadow
-
-####  ■ Stagnant Shadow: Shape of Scorch
-
-Unlock Conditions: Complete the Adventure Mission "Stagnant Shadow" and unlock map Jarilo-VI — Great Mine.
-
-Stage Description: Clear the stage to obtain the new **Fire-type** character Ascension material "Searing Steel Blade."
-
-Map: Jarilo-VI — Great Mine
-
------
-
-# [Version 1.4 Nameless Honor Details](archive/332.md)
-## Version 1.4 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/65bc927ec9fe39e8c31365b1018b73f6_7872627761235063918.png)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
-
-After unlocking Nameless Glory, increasing Nameless Honor level will allow Trailblazers to obtain **Stellar Jades**, **Star Rail Special Passes**, a **4-star Light Cone of your choice**, **Relic Remains**, and more!
-
-If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatar **"Bronya: Celebration,"** the avatar ** "Gepard: Celebration,"** as well as **Stellar Jades** and **Fuels**!
-
-### Start Date
-
-After the version 1.4 update – 2023/11/13 03:59:00 (server)
-
-### Event Requirement
-
-Trailblaze Level ≥ 13 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via Today's Missions, This Week's Missions, and This Period's Missions. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resins**, **Tracks of Destiny**, and more.
-
-- Today's Missions will reset daily at 04:00 (server time), and This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase the Honor Badge to upgrade to Nameless Medal.
-
-### Note
-
-- **For Nameless Honor this period, the Nameless EXP required for each Nameless Honor level is now 700 (originally was 800).**
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2023/11/13 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2023/11/12 03:59:00 (global)**, and the Trailblazers who topped up on the webpage should pay attention to the time info.
-
------
-
 # [Version 1.4 "Jolted Awake From a Winter Dream" Update](archive/328.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/a489d9bf582fc68d8e0d7cb3f74bf5a8_6321813462901754587.png)
@@ -738,6 +457,287 @@ Location: Jarilo-VI — Great Mine
 - Optimizes the requirement description for the "Existence Precedes Essence," "Memories Look at Me," "Create A Beautiful Chaos," "Velocity of the Universe's Expansion," "Wreck-It Self," "Gnosticism," "Exhalation," and "Will of the Hive" along with the names of the "All That Remains is Pure White Ash" and "Trial of Thirteen" Achievements.
 
 - Fixes an error with the Omni-Synthesizer's name.
+
+-----
+
+# [Version 1.4 Companion Mission Details](archive/335.md)
+## Version 1.4 Companion Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/fe0c08fdc6236123cebee80b66991f00_4174811215522722131.png)
+
+Dear Trailblazers,
+
+After attaining the corresponding Trailblaze Level or completing the prerequisite missions, Companion Missions will be unlocked.
+
+<details open="true">
+<summary>Clouds Leave No Trace</summary>
+
+- An anonymous letter silently appears on the Express. It seems an unexpected visitor has extended an invitation, and is looking to connect with Dan Heng.
+
+- Availability: Permanently available after the Version 1.4 update
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead".
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/09/27/b09e3de2108015738de301cf7aa23920_1818347550220664652.png)
+
+**■ Attention**
+
+- After Trailblazer completes Companion Mission "Clouds Leave No Trace", some characters who have obtained Visitor Verification may not visit the Express and send Messages temporarily.
+
+- If Trailblazer has obtained the character but hasn't obtained Message reward and Visitor Verification dialogue reward, these rewards will be issued via other means in the game.
+
+</details>
+
+<details open="true">
+<summary>The Dragon Returns Home</summary>
+
+- Returning to his home world is against his wishes. Everything that surrounds his past incarnation, the former high elder, still plagues Dan Heng...
+
+- Availability: Permanently open after the Version 1.3 update
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead" and read specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/f8661f23ce463046f58cf88b46c85c81_4960114948584549802.png)
+
+</details>
+
+<details open="true">
+<summary>Mo Cuishle</summary>
+
+- The champion fighter of the Underworld, Luka, has returned to Boulder Town and is preparing for a trial...
+
+- Availability: Permanently open after the Version 1.3 update
+
+- Prerequisite: Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy" and have interacted with Seele and Oleg (NPCs) in Boulder Town.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/01d4d066739e845b095a710beb01cdb4_4322238898832043841.png)
+
+</details>
+
+<details open="true">
+<summary>Total Recall</summary>
+
+- After witnessing the wonders of the Matrix of Prescience, an idea sprouted within March 7th...
+
+- Availability: Permanently available after 2023/09/20 12:00:00 (server)
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead" and read specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/d937307fb71209305b292378a58aa451_344094658286581682.png)
+
+</details>
+
+<details open="true">
+<summary>Farther Than The Snow Plains</summary>
+
+- Lynx, the youngest of the Landau siblings, is extremely adventurous. This also makes her elder siblings extremely worried...
+
+- Availability: Permanently available after 2023/09/20 12:00:00 (server)
+
+- Unlock Conditions: Complete the Companion Mission "Only A Child" and read specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/08/18/a8f783c48dd277b4ff039ee3f8c73ca6_3322157827147944941.png)
+
+</details>
+
+<details open="true">
+<summary>For I Have Touched the Sky</summary>
+
+- To know more about Yukong's past, you would have to go to the Palace of Astrum sooner or later. Look around with Qingni. The past she will witness here may change her life.
+
+- Start Time: Permanently open after the Version 1.2 update
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu – A Dragon Gallant, Its Ocean Distant" and read the specific Messages at Stargazer Navalia.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/07/ce007fcd7b3c38386c3f30062db1043f_3477497514186038369.png)
+
+</details>
+
+<details open="true">
+<summary>Letter from a Strange Woman</summary>
+
+- You received a message from Kafka claiming that she is in trouble and requires your help. Do you go to her rescue? ...Or rather, do you believe her?
+
+- Availability: Permanently available after 2023/08/09 12:00:00 (server)
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant" and read the specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/07/07/a7c833ebb2d2e6942890f32da67279e2_348851325944109097.png)
+
+</details>
+
+<details open="true">
+<summary>Punklorde Mentality</summary>
+
+- The network security engineer of the space station thinks there is something else behind the invasion of the Legion. You recall what happened to you when you woke up and decide to join him in tracking down Silver Wolf, the Stellaron Hunter...
+
+- Start Time: Permanently open after the Version 1.1 update
+
+- Prerequisite: Trailblaze Level ≥ 21 and after reading specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/11644015fc4ecb53a4bea2547d252146_8708318472637170462.png)
+
+</details>
+
+<details open="true">
+<summary>A Knight Stranger</summary>
+
+- Luocha, the cryptic Outworld merchant, looked so similar to that person... Looks like it's a job for genius detective March 7th!
+
+- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
+
+- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have read the specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_1788554832907694562.png)
+
+</details>
+
+<details open="true">
+<summary>Evanesce Like the Morning Dew</summary>
+
+- Bailu has once again escaped from the Alchemy Commission, but it turns out that this "escape" was actually an unexpected "house call"...
+
+- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
+
+- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have read the specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_7208983498179720742.png)
+
+</details>
+
+<details open="true">
+<summary>Frosty Blade's Trial</summary>
+
+- To apprehend the escaped Stellaron Hunters, the Seat of Divine Foresight lieutenant, Yanqing, went on a solo hunting trip...
+
+- Start Time: Permanently open after 2023/06/28 12:00:00 (server)
+
+- Prerequisite: Complete the Trailblaze Mission "The Xianzhou Luofu — Humming Antlers, Entwined Horns" and have interacted with the Diting NPC in Central Starskiff Haven map.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/06/06/184fb4751dec9fd38e1dc8c966050567_8928162885673277538.png)
+
+</details>
+
+-----
+
+# [New Version 1.4 Herta Contracts](archive/333.md)
+## New Version 1.4 Herta Contracts
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/624e98431d6345b3c8bc4f3745f70bde_3153214917770573799.png)
+
+Dear Trailblazers,
+
+Herta Contracts have been added to the Contract Shop!
+
+### Herta Contract: Roaming Share
+
+Availability Period: After the Version 1.4 update ends – 2023/11/14 15:00:00 (server)
+
+Contract Content: Traveler's Guide ×30, Credit ×30,000
+
+Price: Oneiric Shard ×330. A maximum of 5 can be purchased per account while the item is available.
+
+### Herta Contract: Aether Refill
+
+Availability Period: After the Version 1.4 update ends – 2023/11/14 15:00:00 (server)
+
+Contract Content: Refined Aether ×25, Credit ×30,000
+
+Price: Oneiric Shard ×330. A maximum of 5 can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply
+
+Availability Period: After the Version 1.4 update ends – 2023/11/14 15:00:00 (server)
+
+Contract Content: Supplies Material Box (Standard) ×45,
+
+Credit ×120,000
+
+Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while the item is available.
+
+-----
+
+# [New Stages: Stagnant Shadow](archive/331.md)
+## New Stages: Stagnant Shadow
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/27/61b1d255635dd7ab7c12645343de9979_7476603431612505248.png)
+
+Dear Trailblazers,
+
+After the Version 1.4 update arrives, the new stage Stagnant Shadow: Shape of Scorch will be added.
+
+### Stagnant Shadow
+
+####  ■ Stagnant Shadow: Shape of Scorch
+
+Unlock Conditions: Complete the Adventure Mission "Stagnant Shadow" and unlock map Jarilo-VI — Great Mine.
+
+Stage Description: Clear the stage to obtain the new **Fire-type** character Ascension material "Searing Steel Blade."
+
+Map: Jarilo-VI — Great Mine
+
+-----
+
+# [Version 1.4 Nameless Honor Details](archive/332.md)
+## Version 1.4 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/65bc927ec9fe39e8c31365b1018b73f6_7872627761235063918.png)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
+
+After unlocking Nameless Glory, increasing Nameless Honor level will allow Trailblazers to obtain **Stellar Jades**, **Star Rail Special Passes**, a **4-star Light Cone of your choice**, **Relic Remains**, and more!
+
+If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatar **"Bronya: Celebration,"** the avatar ** "Gepard: Celebration,"** as well as **Stellar Jades** and **Fuels**!
+
+### Start Date
+
+After the version 1.4 update – 2023/11/13 03:59:00 (server)
+
+### Event Requirement
+
+Trailblaze Level ≥ 13 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via Today's Missions, This Week's Missions, and This Period's Missions. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resins**, **Tracks of Destiny**, and more.
+
+- Today's Missions will reset daily at 04:00 (server time), and This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase the Honor Badge to upgrade to Nameless Medal.
+
+### Note
+
+- **For Nameless Honor this period, the Nameless EXP required for each Nameless Honor level is now 700 (originally was 800).**
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2023/11/13 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2023/11/12 03:59:00 (global)**, and the Trailblazers who topped up on the webpage should pay attention to the time info.
 
 -----
 
