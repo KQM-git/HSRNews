@@ -462,7 +462,7 @@ Location: Jarilo-VI — Great Mine
 
 # [Game Optimization and Known Issues](archive/368.md)
 ## Game Optimization and Known Issues
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/06/397a1051b21b942694bf256ce3c69d9c_705979336412682430.png)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/4e2d5b721f610bb56437836594e6f1d4_2922879075830888671.png)
 
 Dear Trailblazers,
 
