@@ -699,7 +699,7 @@ The Version 1.4 Strategy Guides Contest Event has begun! Submit your work to win
 
 During the event, if you submit a strategy guide on the event page that meets the event requirements, you will be deemed to have successfully participated.
 
-In this round of the strategy guide competition, we are currently collecting strategies for new characters: Jingliu (Destruction: Ice), Topaz & Numby (The Hunt: Fire), and Guinaifen (Nihility: Fire), along with the "Aetherium Wars" limited-time event, and Simulated Universe. Please use [ StarRail1.4 ] in your title, and post with the topics #gameguides and #HonkaiStarRail to make your works more popular!
+In this round of the strategy guide competition, we are currently collecting strategies for new characters: Jingliu (Destruction: Ice), Topaz & Numby (The Hunt: Fire), and Guinaifen (Nihility: Fire), along with the "Aetherium Wars" limited-time event, and Simulated Universe. Please use [Star Rail 1.4] in your title, and post with the topics #gameguides and #HonkaiStarRail to make your works more popular!
 
 ### Event Period
 
