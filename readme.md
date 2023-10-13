@@ -480,6 +480,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2023/10/13
+
+- Fixes an issue where there is a chance you will be unable to obtain the rewards after battling against another challenger in the Victory Zone for the Aetherium Wars event. Trailblazers that have encountered this problem will be reissued their due rewards by the Express Crew later.
+
+- Fixes an issue where Chip effects are not activating when the Efficiency Optimization Chip is equipped by the Frigid Prowler Overlord Aether Spirit in the Aetherium Wars event.
+
 ■2023/10/11
 
 - Fixes an issue where the display of the corresponding key was incorrect after changing the key in "Settings - Key Info" on PC devices.
