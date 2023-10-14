@@ -502,6 +502,28 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# ["Cosmic Remix" Fan Concert | Honkai: Star Rail](archive/347.md)
+## "Cosmic Remix" Fan Concert now available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/13/9805d6cbd8f34e796d9703fe11522d74_5071441736300998824.png)
+
+The Astral Express was caught in a burst of strange gravitational waves during a warp. As the turbulence diminished, the flickering lights returned to normal. However...
+
+"Hey, Trailblazer... Did you notice? The music on the record player... It changed!"
+
+The 2023 Honkai: Star Rail "Cosmic Remix" Fan Concert has arrived! In this special performance co-created by multiple Trailblazers, familiar tunes from the game itself will be made into a whole-new auditory experience! Let's switch to a brand-new track and enjoy the endless possibilities brought by the collision of different music.
+
+[ Click to watch the fan concert](https://youtu.be/NVp3lrDoZL4)
+
+Share what you feel about the music in the HoYoLAB event post comments for a chance to win merchandise!
+
+[ Go to the event](https://hoyo.link/fVneFBAL)
+
+### Program Introduction
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/10/13/1cf97dd6acfe42e42ea8eb3917558f68_8514777391564962672.png)
+
+-----
+
 # [Trailblaze Continuance "Future Market" Available](archive/336.md)
 ## Trailblaze Continuance Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/b1ef0ae5d0d544c71dbdc747827c3794_4050220943564073380.png)
