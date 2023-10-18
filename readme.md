@@ -470,15 +470,23 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
-■2023/10/12
-
-- We are aware of an issue where the animation for character Ultimates have a chance of lagging on certain Android devices. Trailblazers who encounter this issue can go to settings > Graphics Settings and turn off the Shadow Quality option to fix it.
-
 ■2023/10/11
 
 - We are aware of an issue where the voice over and subtitles do not match. This issue will be fixed in the future.
 
 ### Game Updates and Improvements Overview
+
+■2023/10/18
+
+- Fixes an issue where character Ultimates' animations have a chance of lagging on certain Android devices.
+
+- Fixes an error where, after triggering the investigation regarding the "Cloud Knight's standard-issue Devastator Glaive" in the Xianzhou Luofu's Central Starskiff Haven, choosing the 'No losses' option during the subsequent interactive event would prevent the 'Leave It There' achievement from unlocking.
+
+- Fixes an error where certain texts displayed in "Simulated Universe" are in Simplified Chinese.
+
+- Fixes issues with certain texts in Character Story: Part I and Character Story: Part IV for the character Jingliu (Destruction: Ice)
+
+- Fixes an issue where part of the subtitles are inconsistent with the voice-over for Dan Shu (NPC) in Adventure Mission "Sinners Misled, Credence Falsified."
 
 ■2023/10/16
 
