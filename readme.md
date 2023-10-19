@@ -1,3 +1,81 @@
+# [Game Optimization and Known Issues](archive/368.md)
+## Game Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/4e2d5b721f610bb56437836594e6f1d4_2922879075830888671.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Known Issues
+
+■2023/10/11
+
+- We are aware of an issue where the voice over and subtitles do not match. This issue will be fixed in the future.
+
+### Game Updates and Improvements Overview
+
+■2023/10/18
+
+- Fixes an issue where character Ultimates' animations have a chance of lagging on certain Android devices.
+
+- Fixes an error where, after triggering the investigation regarding the "Cloud Knight's standard-issue Devastator Glaive" in the Xianzhou Luofu's Central Starskiff Haven, choosing the 'No losses' option during the subsequent interactive event would prevent the 'Leave It There' achievement from unlocking.
+
+- Fixes an error where certain texts displayed in "Simulated Universe" are in Simplified Chinese.
+
+- Fixes issues with certain texts in Character Story: Part I and Character Story: Part IV for the character Jingliu (Destruction: Ice)
+
+- Fixes an issue where part of the subtitles are inconsistent with the voice-over for Dan Shu (NPC) in Adventure Mission "Sinners Misled, Credence Falsified."
+
+■2023/10/16
+
+- Fixes an error in the Aetherium Wars Event Details announcement where the Supplies Material Box (Standard)'s image was mistaken displayed in the Regular Rewards. The actual reward should be Relic Remains.
+
+■2023/10/13
+
+- Fixes an issue where there is a chance you will be unable to obtain the rewards after battling against another challenger in the Victory Zone for the Aetherium Wars event. Trailblazers that have encountered this problem will be reissued their due rewards by the Express Crew later.
+
+- Fixes an issue where Chip effects are not activating when the Efficiency Optimization Chip is equipped by the Frigid Prowler Overlord Aether Spirit in the Aetherium Wars event.
+
+■2023/10/11
+
+- Fixes an issue where the display of the corresponding key was incorrect after changing the key in "Settings - Key Info" on PC devices.
+
+- Fixes an issue in the Energy Acquisition and Ultimate stage of the Strategic Training system where performing specific actions would cause the stage to freeze.
+
+- Fixes an issue in which the game might freeze when entering the stages "Cavern of Corrosion: Path of Holy Hymn" and "Cavern of Corrosion: Path of Conflagration".
+
+- Fixes an issue where, when using specific actions to enter the Simulated Universe, the error message "Simulated Universe service interruption" would erroneously display.
+
+- Fixes an issue where, in the Aetherium Wars event, "Overlord Aether Spirit" cannot be obtained when challenging waves of enemies in "Victory Zone – Great Mine" due to an erroneous activation of the consecutive battle hint line. If you have already encountered this issue, the Express Crew will fix it for you soon.
+
+- Fixes an issue where some messages were grouped incorrectly when using the message filter function.
+
+-----
+
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/337.md)
+## Planar Fissure Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/9d378e12a5b9f4685446d59593ae318b_4137557086243248792.png)
+
+### Event Period
+
+2023/10/20 04:00:00 (server) – 2023/10/27 03:59:00 (server)
+
+### Event Requirement
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the Planar Fissure event period, get double rewards from immersion devices in the Simulated Universe.
+
+- You will get additional rewards on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of daily double reward opportunities is limited and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Version 1.4 "Jolted Awake From a Winter Dream" Update](archive/328.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/7a466df6b1531f80489d5be9b3db9a9f_8497166878935669944.png)
@@ -457,84 +535,6 @@ Location: Jarilo-VI — Great Mine
 - Optimizes the requirement description for the "Existence Precedes Essence," "Memories Look at Me," "Create A Beautiful Chaos," "Velocity of the Universe's Expansion," "Wreck-It Self," "Gnosticism," "Exhalation," and "Will of the Hive" along with the names of the "All That Remains is Pure White Ash" and "Trial of Thirteen" Achievements.
 
 - Fixes an error with the Omni-Synthesizer's name.
-
------
-
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/337.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/9d378e12a5b9f4685446d59593ae318b_4137557086243248792.png)
-
-### Event Period
-
-2023/10/20 04:00:00 (server) – 2023/10/27 03:59:00 (server)
-
-### Event Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event period, get double rewards from immersion devices in the Simulated Universe.
-
-- You will get additional rewards on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of daily double reward opportunities is limited and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
-# [Game Optimization and Known Issues](archive/368.md)
-## Game Optimization and Known Issues
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/4e2d5b721f610bb56437836594e6f1d4_2922879075830888671.png)
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
-
-### Known Issues
-
-■2023/10/11
-
-- We are aware of an issue where the voice over and subtitles do not match. This issue will be fixed in the future.
-
-### Game Updates and Improvements Overview
-
-■2023/10/18
-
-- Fixes an issue where character Ultimates' animations have a chance of lagging on certain Android devices.
-
-- Fixes an error where, after triggering the investigation regarding the "Cloud Knight's standard-issue Devastator Glaive" in the Xianzhou Luofu's Central Starskiff Haven, choosing the 'No losses' option during the subsequent interactive event would prevent the 'Leave It There' achievement from unlocking.
-
-- Fixes an error where certain texts displayed in "Simulated Universe" are in Simplified Chinese.
-
-- Fixes issues with certain texts in Character Story: Part I and Character Story: Part IV for the character Jingliu (Destruction: Ice)
-
-- Fixes an issue where part of the subtitles are inconsistent with the voice-over for Dan Shu (NPC) in Adventure Mission "Sinners Misled, Credence Falsified."
-
-■2023/10/16
-
-- Fixes an error in the Aetherium Wars Event Details announcement where the Supplies Material Box (Standard)'s image was mistaken displayed in the Regular Rewards. The actual reward should be Relic Remains.
-
-■2023/10/13
-
-- Fixes an issue where there is a chance you will be unable to obtain the rewards after battling against another challenger in the Victory Zone for the Aetherium Wars event. Trailblazers that have encountered this problem will be reissued their due rewards by the Express Crew later.
-
-- Fixes an issue where Chip effects are not activating when the Efficiency Optimization Chip is equipped by the Frigid Prowler Overlord Aether Spirit in the Aetherium Wars event.
-
-■2023/10/11
-
-- Fixes an issue where the display of the corresponding key was incorrect after changing the key in "Settings - Key Info" on PC devices.
-
-- Fixes an issue in the Energy Acquisition and Ultimate stage of the Strategic Training system where performing specific actions would cause the stage to freeze.
-
-- Fixes an issue in which the game might freeze when entering the stages "Cavern of Corrosion: Path of Holy Hymn" and "Cavern of Corrosion: Path of Conflagration".
-
-- Fixes an issue where, when using specific actions to enter the Simulated Universe, the error message "Simulated Universe service interruption" would erroneously display.
-
-- Fixes an issue where, in the Aetherium Wars event, "Overlord Aether Spirit" cannot be obtained when challenging waves of enemies in "Victory Zone – Great Mine" due to an erroneous activation of the consecutive battle hint line. If you have already encountered this issue, the Express Crew will fix it for you soon.
-
-- Fixes an issue where some messages were grouped incorrectly when using the message filter function.
 
 -----
 
