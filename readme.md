@@ -8,9 +8,9 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
-■2023/10/11
+■2023/10/23
 
-- We are aware of an issue where the voice over and subtitles do not match. This issue will be fixed in the future.
+- We are aware of an issue where voice-overs are inconsistent with the subtitles for certain dialogues and combat lines. This issue will be fixed in the future.
 
 ### Game Updates and Improvements Overview
 
