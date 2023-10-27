@@ -52,30 +52,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/337.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/9d378e12a5b9f4685446d59593ae318b_4137557086243248792.png)
-
-### Event Period
-
-2023/10/20 04:00:00 (server) – 2023/10/27 03:59:00 (server)
-
-### Event Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event period, get double rewards from immersion devices in the Simulated Universe.
-
-- You will get additional rewards on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of daily double reward opportunities is limited and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Version 1.4 "Jolted Awake From a Winter Dream" Update](archive/328.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/7a466df6b1531f80489d5be9b3db9a9f_8497166878935669944.png)
