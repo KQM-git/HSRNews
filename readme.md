@@ -725,6 +725,12 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 
 Following the arrival of Version 1.4, new content has also accompanied the update for HoYoLAB's community tools to help Trailblazers across their cosmic adventures! Come and take a look!
 
+### Lineup Assistant
+
+- The Lineup Assistant tool is now officially online! Trailblazers can consult this tool to view what lineup matchups have cleared "Memory of Chaos" and broaden their own approaches!
+
+[ Go to the Lineup Assistant](https://act.hoyolab.com/sr/event/lineup/index.html?hyl_presentation_style=fullscreen&utm_id=6&utm_medium=notice&utm_source=ingame)
+
 ### Honkai: Star Rail Map
 
 - Adds map information on the Pillars of Creation and Old Weapon Testing Ground areas to better help Trailblazers speedily search and absorb the new version's content.
