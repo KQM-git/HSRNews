@@ -14,6 +14,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2023/11/01
+
+- Fixes an issue where performing special operations can cause event sound effects to disappear in the "Planar Infinity" event.
+
+- Optimizes certain lines of text for Screwllum (NPC) in the "Planar Infinity" event.
+
 ■2023/10/18
 
 - Fixes an issue where character Ultimates' animations have a chance of lagging on certain Android devices.
