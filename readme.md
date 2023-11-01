@@ -52,6 +52,30 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/343.md)
+## Realm of the Strange Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/fba39da2942fe360176de0c99a78509d_6556678753614172211.png)
+
+### Event Period
+
+2023/11/03 04:00:00 (server) – 2023/11/10 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Cavern of Corrosion: Path of Drifting
+
+### Event Details
+
+- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
+
+- You will get an additional reward on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # [Version 1.4 "Jolted Awake From a Winter Dream" Update](archive/328.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/7a466df6b1531f80489d5be9b3db9a9f_8497166878935669944.png)
