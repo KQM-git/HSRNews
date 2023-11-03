@@ -8,6 +8,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2023/11/03
+
+- There is a known issue with certain characters' expressions when they are on standby.  This issue is currently being investigated by the Crew and will be fixed in Version 1.5.
+
+- There is a known issues where, in the "Trotter Catch" Adventure for Simulated Universe: Swarm Disaster, Trotters won't actively approach Numby when using the character "Topaz & Numby (The Hunt: Fire)," and they will not flee when getting attacked. This issue will be fixed in Version 1.6.
+
 ■2023/10/23
 
 - We are aware of an issue where voice-overs are inconsistent with the subtitles for certain dialogues and combat lines. This issue will be fixed in the future.
