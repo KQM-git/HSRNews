@@ -901,22 +901,6 @@ Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while th
 
 -----
 
-# [HoYoLAB Daily Check-in Reminder](archive/238.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/e7aa17cb449e1c34bd3a2573af98853d_8371140514285031102.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
-
------
-
 # [HoYoLAB Honkai: Star Rail Tools Overview](archive/237.md)
 ## HoYoLAB Honkai: Star Rail Tools Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/c633a68f2fbeff92e2b6df731807a82e_6179296998725346315.jpg)
