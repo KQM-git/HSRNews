@@ -64,6 +64,28 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Version 1.4 "Jolted Awake From a Winter Dream" Satisfaction Survey](archive/387.md)
+## Version 1.4 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/64f750577627982c2225314c2376a57b_6252356485089434503.png)
+
+Dear Trailblazers,
+
+To better understand the Trailblazers' experience in Version 1.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded **credit ×30,000** if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzjU_2sR-sebxwTTv9cvPliNrNaN3QNAT4deKpUO7sGknU&game_biz=hkrpg_global&surveyId=17850&format=1&sign_type=2&authkey_ver=1)
+
+### Things to Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
 # [Version 1.4 "Jolted Awake From a Winter Dream" Update](archive/328.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/7a466df6b1531f80489d5be9b3db9a9f_8497166878935669944.png)
@@ -547,28 +569,6 @@ Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long 
 ### Trailblaze Continuance Details
 
 The silver tracks of Trailblaze have reappeared among the stars, connecting one world to another once more. Just as the journey always pushes forward, the old stage is ready to unveil a new act — Trailblaze Mission isn't the final destination. Join the Nameless and set forth in a story entitled Trailblaze Continuance. Within this familiar world, cultivate uncharted territories and keep the wheels of destiny in perpetual motion.
-
------
-
-# [Version 1.4 "Jolted Awake From a Winter Dream" Satisfaction Survey](archive/387.md)
-## Version 1.4 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/64f750577627982c2225314c2376a57b_6252356485089434503.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 1.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded **credit ×30,000** if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzjU_2sR-sebxwTTv9cvPliNrNaN3QNAT4deKpUO7sGknU&game_biz=hkrpg_global&surveyId=17850&format=1&sign_type=2&authkey_ver=1)
-
-### Things to Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
 
 -----
 
