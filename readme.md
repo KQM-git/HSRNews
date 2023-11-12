@@ -168,6 +168,26 @@ Thank you, Trailblazers, for each and every one of your valuable suggestions and
 
 -----
 
+# [Trailblaze Continuance "A Foxian Tale of the Haunted" Details](archive/370.md)
+## Trailblaze Continuance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/10/96c3692bb706d87f0bb101954485e39d_1742839897305526287.png)
+
+With the Creation Furnace having burst apart, the heliobi sealed within have gone loose. The Ten-Lords Commission are commanded to eradicate these demons, and you are about to experience an otherworldly tale with the judges.
+
+### Availability
+
+Permanently available after Version 1.5 update
+
+### Participation Requirements
+
+Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/11/06/2c6d95ce496e46e906d4afcacc4db85d_7958552594798589781.png)
+
+-----
+
 # [Version 1.4 "Jolted Awake From a Winter Dream" Update](archive/328.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/7a466df6b1531f80489d5be9b3db9a9f_8497166878935669944.png)
