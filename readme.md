@@ -188,6 +188,50 @@ Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long 
 
 -----
 
+# [New Stages for Stagnant Shadow and Cavern of Corrosion](archive/372.md)
+## New Stages for Version 1.5
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/a1e8fadaaff0d573a031f6fc6aa6e280_2002860326334963053.png)
+
+Dear Trailblazers,
+
+After the Version 1.5 update arrives, the new stages, Stagnant Shadow: Shape of Perdition and Cavern of Corrosion: Path of Darkness, will be added.
+
+### Stagnant Shadow
+
+■ Stagnant Shadow: Shape of Perdition
+
+Unlock Conditions: Complete the Adventure Mission "Stagnant Shadow" and unlock map Xianzhou Luofu — Fyxestroll Garden
+
+Location: Xianzhou Luofu — Fyxestroll Garden
+
+Stage Description: Clear the stage to obtain the new **Physical-type** character Ascension material **"Netherworld Token."**
+
+###  Cavern of Corrosion
+
+■ Cavern of Corrosion: Path of Darkness
+
+Unlock Conditions: Complete the Adventure Mission "Cavern of Corrosion" and unlock map Xianzhou Luofu — Fyxestroll Garden
+
+Location: Xianzhou Luofu — Fyxestroll Garden
+
+Stage Description: Clear the stage to obtain new Cavern Relics **The Ashblazing Grand Duke** and **Prisoner in Deep Confinement**.
+
+New Cavern Relic Effects Preview:
+
+**● The Ashblazing Grand Duke**
+
+2-Pc Set: Increases follow-up attack DMG by 20%.
+
+4-Pc Set: When the wearer uses follow-up attacks against the target enemy, increase the wearer's ATK by 6% for every time the follow-up attack deals DMG. This effect can stack for a maximum of 8 times and lasts for 3 turns. This effect is removed the next time the wearer uses a follow-up attack.
+
+**● Prisoner in Deep Confinement**
+
+2-Pc Set: Increases ATK by 12%.
+
+4-Pc Set: For every DoT the target enemy is afflicted with, the wearer will ignore 6% of target's DEF when dealing DMG to them. This effect is valid for a max of 3 DoTs.
+
+-----
+
 # [Version 1.4 "Jolted Awake From a Winter Dream" Update](archive/328.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/7a466df6b1531f80489d5be9b3db9a9f_8497166878935669944.png)
