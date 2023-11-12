@@ -188,6 +188,44 @@ Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long 
 
 -----
 
+# [Play Simulated Universe: World 8 to Get New Planar Ornaments](archive/378.md)
+## Simulated Universe: World 8 Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/373631e645f33f3b791c90c8f606e9ae_3308741180121068700.png)
+
+### Availability
+
+Permanently available after the Version 1.5 update
+
+### Simulated Universe: World 8 Unlock Requirements
+
+Complete the "Xianzhou Luofu — Oblation Obtained, Order Ordained" Trailblaze Mission and clear Simulated Universe: World 7 to unlock Simulated Universe: World 8.
+
+### Planar Ornament Details
+
+Challenge Simulated Universe: World 8 and use Trailblaze Power or Immersifier to obtain new Planar Ornaments from Immersion Rewards.
+
+▌ New Planar Ornament Effects Preview:
+
+**● Penacony, Land of the Dreams**
+
+Link Rope: Penacony's Dream-Seeking Tracks
+
+Planar Sphere: Penacony's Grand Hotel
+
+2-Pc Set effect:
+
+Increases wearer's Energy Regeneration Rate by 5%. Increases DMG for all other allies with the same DMG Type as the wearer by 10%.
+
+**● Firmament Frontline: Glamoth**
+
+Link Rope: Glamoth's Silent Tombstone
+
+Planar Sphere: Glamoth's Iron Cavalry Regiment
+
+2-Pc Set effect:
+
+-----
+
 # [New Stages for Stagnant Shadow and Cavern of Corrosion](archive/372.md)
 ## New Stages for Version 1.5
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/a1e8fadaaff0d573a031f6fc6aa6e280_2002860326334963053.png)
