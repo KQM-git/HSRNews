@@ -8,7 +8,7 @@ Due to an issue with the Google Play Store, some Trailblazers have been unable t
 
 This problem has been fixed.
 
-The Crew sincerely apologizes for any inconvenience caused and thanks you for your patience and understanding.
+The Crew sincerely apologizes for any inconvenience caused and thank you for your patience and understanding.
 
 Thank you for your continuous support for Honkai: Star Rail!
 
