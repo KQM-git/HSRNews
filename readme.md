@@ -1,3 +1,19 @@
+# [Top-up Issue Resolved](archive/394.md)
+## Top-up Issue Resolved
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/14/73da9683e7ae4f4fdc48df854793a8d8_2773500591537132583.png)
+
+Hello, Trailblazers,
+
+Due to an issue with the Google Play Store, some Trailblazers have been unable to top-up.
+
+This problem has been fixed.
+
+The Crew sincerely apologizes for any inconvenience caused and thanks you for your patience and understanding.
+
+Thank you for your continuous support for Honkai: Star Rail!
+
+-----
+
 # [Version 1.5 Update and Maintenance Notice](archive/371.md)
 ## Version 1.5 Update and Maintenance Notice
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/41a77f30abbf0a323f9ad5a35e73bca4_6267215707571205793.png)
