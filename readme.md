@@ -80,6 +80,22 @@ System: iOS 11.0 or higher
 
 -----
 
+# [Notification Regarding Top-up Issues](archive/393.md)
+## Notification Regarding Top-up Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/13/2084d89bb54e1afc4d612457f8e35603_8587000300482975695.png)
+
+Hello, Trailblazers,
+
+Due to an issue with the Google Play Store, some Trailblazers have been unable to top-up.
+
+The development team is now investigating the cause of the problem and working to fix it. Please stay tuned to future official notifications regarding an estimated completion time.
+
+The Express Crew will immediately notify Trailblazers via in-game notices and player community announcements as soon as the issue is fixed. Please stay tuned for the official announcements.
+
+We sincerely apologize for any inconvenience caused. Thank you for your understanding and support.
+
+-----
+
 # [Trailblaze Continuance "A Foxian Tale of the Haunted" Details](archive/370.md)
 ## Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/10/96c3692bb706d87f0bb101954485e39d_1742839897305526287.png)
