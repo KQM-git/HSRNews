@@ -1,69 +1,3 @@
-# [Game Optimization and Known Issues](archive/368.md)
-## Game Optimization and Known Issues
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/4e2d5b721f610bb56437836594e6f1d4_2922879075830888671.png)
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
-
-### Known Issues
-
-■2023/11/03
-
-- There is a known issue with certain characters' expressions when they are on standby.  This issue is currently being investigated by the Crew and will be fixed in Version 1.5.
-
-- There is a known issues where, in the "Trotter Catch" Adventure for Simulated Universe: Swarm Disaster, Trotters won't actively approach Numby when using the character "Topaz & Numby (The Hunt: Fire)," and they will not flee when getting attacked. This issue will be fixed in Version 1.6.
-
-■2023/10/23
-
-- We are aware of an issue where voice-overs are inconsistent with the subtitles for certain dialogues and combat lines. This issue will be fixed in the future.
-
-### Game Updates and Improvements Overview
-
-■2023/11/01
-
-- Fixes an issue where performing special operations can cause event sound effects to disappear in the "Planar Infinity" event.
-
-- Optimizes certain lines of text for Screwllum (NPC) in the "Planar Infinity" event.
-
-■2023/10/18
-
-- Fixes an issue where character Ultimates' animations have a chance of lagging on certain Android devices.
-
-- Fixes an error where, after triggering the investigation regarding the "Cloud Knight's standard-issue Devastator Glaive" in the Xianzhou Luofu's Central Starskiff Haven, choosing the 'No losses' option during the subsequent interactive event would prevent the 'Leave It There' achievement from unlocking.
-
-- Fixes an error where certain texts displayed in "Simulated Universe" are in Simplified Chinese.
-
-- Fixes issues with certain texts in Character Story: Part I and Character Story: Part IV for the character Jingliu (Destruction: Ice)
-
-- Fixes an issue where part of the subtitles are inconsistent with the voice-over for Dan Shu (NPC) in Adventure Mission "Sinners Misled, Credence Falsified."
-
-■2023/10/16
-
-- Fixes an error in the Aetherium Wars Event Details announcement where the Supplies Material Box (Standard)'s image was mistaken displayed in the Regular Rewards. The actual reward should be Relic Remains.
-
-■2023/10/13
-
-- Fixes an issue where there is a chance you will be unable to obtain the rewards after battling against another challenger in the Victory Zone for the Aetherium Wars event. Trailblazers that have encountered this problem will be reissued their due rewards by the Express Crew later.
-
-- Fixes an issue where Chip effects are not activating when the Efficiency Optimization Chip is equipped by the Frigid Prowler Overlord Aether Spirit in the Aetherium Wars event.
-
-■2023/10/11
-
-- Fixes an issue where the display of the corresponding key was incorrect after changing the key in "Settings - Key Info" on PC devices.
-
-- Fixes an issue in the Energy Acquisition and Ultimate stage of the Strategic Training system where performing specific actions would cause the stage to freeze.
-
-- Fixes an issue in which the game might freeze when entering the stages "Cavern of Corrosion: Path of Holy Hymn" and "Cavern of Corrosion: Path of Conflagration".
-
-- Fixes an issue where, when using specific actions to enter the Simulated Universe, the error message "Simulated Universe service interruption" would erroneously display.
-
-- Fixes an issue where, in the Aetherium Wars event, "Overlord Aether Spirit" cannot be obtained when challenging waves of enemies in "Victory Zone – Great Mine" due to an erroneous activation of the consecutive battle hint line. If you have already encountered this issue, the Express Crew will fix it for you soon.
-
-- Fixes an issue where some messages were grouped incorrectly when using the message filter function.
-
------
-
 # [Version 1.5 Update and Maintenance Notice](archive/371.md)
 ## Version 1.5 Update and Maintenance Notice
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/41a77f30abbf0a323f9ad5a35e73bca4_6267215707571205793.png)
@@ -267,6 +201,72 @@ Pom-Pom will diligently collect and pass on all Trailblazers' feedback and sugge
 Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
 
 Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
+# [Game Optimization and Known Issues](archive/368.md)
+## Game Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/4e2d5b721f610bb56437836594e6f1d4_2922879075830888671.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Known Issues
+
+■2023/11/03
+
+- There is a known issue with certain characters' expressions when they are on standby.  This issue is currently being investigated by the Crew and will be fixed in Version 1.5.
+
+- There is a known issues where, in the "Trotter Catch" Adventure for Simulated Universe: Swarm Disaster, Trotters won't actively approach Numby when using the character "Topaz & Numby (The Hunt: Fire)," and they will not flee when getting attacked. This issue will be fixed in Version 1.6.
+
+■2023/10/23
+
+- We are aware of an issue where voice-overs are inconsistent with the subtitles for certain dialogues and combat lines. This issue will be fixed in the future.
+
+### Game Updates and Improvements Overview
+
+■2023/11/01
+
+- Fixes an issue where performing special operations can cause event sound effects to disappear in the "Planar Infinity" event.
+
+- Optimizes certain lines of text for Screwllum (NPC) in the "Planar Infinity" event.
+
+■2023/10/18
+
+- Fixes an issue where character Ultimates' animations have a chance of lagging on certain Android devices.
+
+- Fixes an error where, after triggering the investigation regarding the "Cloud Knight's standard-issue Devastator Glaive" in the Xianzhou Luofu's Central Starskiff Haven, choosing the 'No losses' option during the subsequent interactive event would prevent the 'Leave It There' achievement from unlocking.
+
+- Fixes an error where certain texts displayed in "Simulated Universe" are in Simplified Chinese.
+
+- Fixes issues with certain texts in Character Story: Part I and Character Story: Part IV for the character Jingliu (Destruction: Ice)
+
+- Fixes an issue where part of the subtitles are inconsistent with the voice-over for Dan Shu (NPC) in Adventure Mission "Sinners Misled, Credence Falsified."
+
+■2023/10/16
+
+- Fixes an error in the Aetherium Wars Event Details announcement where the Supplies Material Box (Standard)'s image was mistaken displayed in the Regular Rewards. The actual reward should be Relic Remains.
+
+■2023/10/13
+
+- Fixes an issue where there is a chance you will be unable to obtain the rewards after battling against another challenger in the Victory Zone for the Aetherium Wars event. Trailblazers that have encountered this problem will be reissued their due rewards by the Express Crew later.
+
+- Fixes an issue where Chip effects are not activating when the Efficiency Optimization Chip is equipped by the Frigid Prowler Overlord Aether Spirit in the Aetherium Wars event.
+
+■2023/10/11
+
+- Fixes an issue where the display of the corresponding key was incorrect after changing the key in "Settings - Key Info" on PC devices.
+
+- Fixes an issue in the Energy Acquisition and Ultimate stage of the Strategic Training system where performing specific actions would cause the stage to freeze.
+
+- Fixes an issue in which the game might freeze when entering the stages "Cavern of Corrosion: Path of Holy Hymn" and "Cavern of Corrosion: Path of Conflagration".
+
+- Fixes an issue where, when using specific actions to enter the Simulated Universe, the error message "Simulated Universe service interruption" would erroneously display.
+
+- Fixes an issue where, in the Aetherium Wars event, "Overlord Aether Spirit" cannot be obtained when challenging waves of enemies in "Victory Zone – Great Mine" due to an erroneous activation of the consecutive battle hint line. If you have already encountered this issue, the Express Crew will fix it for you soon.
+
+- Fixes an issue where some messages were grouped incorrectly when using the message filter function.
 
 -----
 
