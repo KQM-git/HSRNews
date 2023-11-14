@@ -290,28 +290,6 @@ New Cavern Relic Effects Preview:
 
 -----
 
-# [Version 1.4 "Jolted Awake From a Winter Dream" Satisfaction Survey](archive/387.md)
-## Version 1.4 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/64f750577627982c2225314c2376a57b_6252356485089434503.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 1.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded **credit ×30,000** if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzjU_2sR-sebxwTTv9cvPliNrNaN3QNAT4deKpUO7sGknU&game_biz=hkrpg_global&surveyId=17850&format=1&sign_type=2&authkey_ver=1)
-
-### Things to Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # [Game Optimization and Known Issues](archive/368.md)
 ## Game Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/11/4e2d5b721f610bb56437836594e6f1d4_2922879075830888671.png)
