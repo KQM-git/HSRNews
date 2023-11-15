@@ -10,7 +10,9 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ■2023/11/15
 
-There is a known issue where the screen may be excessively bright if you are using a device with HDR functionality enabled. If Trailblazers experience this issue, you can resolve it by disabling the HDR feature on your device and restarting the game to restore things to normal.
+- There is a known issue where the "Abacus Circuitry" gameplay interface is abnormally compressed for certain Android devices that have their display settings in "Normal Mode." If Trailblazers run into this issue, they can adjust display settings to "Compatible Mode." This issue will be resolved in future updates.
+
+- There is a known issue where the screen may be excessively bright if you are using a device with HDR functionality enabled. If Trailblazers experience this issue, you can resolve it by disabling the HDR feature on your device and restarting the game to restore things to normal.
 
 You can turn off the HDR feature through the following methods (For other systems, please refer to the official Microsoft documentation):
 
