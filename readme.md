@@ -510,6 +510,48 @@ Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long 
 
 -----
 
+# [Version 1.5 HoYoLAB Tools Update](archive/388.md)
+## Version 1.5 HoYoLAB Tools Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/6f17a6eb1103ca4619ecbe08c7dc4c9f_3520679548907912399.jpg)
+
+Following the arrival of Version 1.5, new content has also accompanied the update for HoYoLAB's community tools to help Trailblazers across their cosmic adventures! Come and take a look!
+
+### Honkai: Star Rail Map
+
+- Map information for Fyxestroll Garden has been added to help Trailblazers to quickly explore and collect content in the new version.
+
+[Click to go to Honkai: Star Rail Map](https://hoyo.link/71mwCBAd)
+
+### Battle Records
+
+- The Battle Records tool has included the "A Foxian Tale of the Haunted" event module and will add the "Boulder Town Martial Exhibition" event module on December 6th. Trailblazers will be able to check their event completion progress in the corresponding module.
+
+- The Battle Records widget will gain Huohuo (Abundance: Wind), Argenti (Erudition: Physical), and Hanya (Harmony: Physical) character background images in late November.
+
+[ Click to go to Battle Records](https://hoyo.link/3bnwCBAd)
+
+### Leveling Calculator
+
+- Leveling material related to Huohuo (Abundance: Wind), Argenti (Erudition: Physical), and Hanya (Harmony: Physical) has been updated. Trailblazers who want to start collecting new character leveling materials early can use this to help your quest!
+
+[ Click to head to the Leveling Calculator](https://hoyo.link/3dpwCBAd)
+
+### HoYoWiki
+
+- Character information for Huohuo (Abundance: Wind), Argenti (Erudition: Physical), and Hanya (Harmony: Physical) has been added.
+
+- This update also added terms that analyse the game mechanics. These being: Speed, Toughness, and Extra Turn.
+
+※ We are also working hard to set up more V1.5 information. Stay tuned!
+
+[ Click to go to HoYoWiki](https://hoyo.link/c5lwCBAd)
+
+Moreover, we've prepared a Newcomer's Guide to help Trailblazers adapt quickly to the adventure. It contains an explanation to all the tools, a FAQ to difficult aspects of the game, and a collection of posts regarding what you should look out for. Check it out if you need it!
+
+[ Click to go to Newcomer's Guide](https://www.hoyolab.com/article_pre/18014398241033752)
+
+-----
+
 # [Play Simulated Universe: World 8 to Get New Planar Ornaments](archive/378.md)
 ## Simulated Universe: World 8 Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/373631e645f33f3b791c90c8f606e9ae_3308741180121068700.png)
