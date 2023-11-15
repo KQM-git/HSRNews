@@ -1,3 +1,25 @@
+# [Game Optimization and Known Issues](archive/403.md)
+## Game Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Known Issues
+
+■2023/11/15
+
+There is a known issue where the screen may be excessively bright if you are using a device with HDR functionality enabled. If Trailblazers experience this issue, you can resolve it by disabling the HDR feature on your device and restarting the game to restore things to normal.
+
+You can turn off the HDR feature through the following methods (For other systems, please refer to the official Microsoft documentation):
+
+Windows 11: Settings > System > Display > Brightness and Color
+
+Windows 10: Settings > System > Display > Windows HD Color
+
+-----
+
 # [Version 1.5 "The Crepuscule Zone" Update](archive/398.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/7a466df6b1531f80489d5be9b3db9a9f_7008505363328860304.png)
