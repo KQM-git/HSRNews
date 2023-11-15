@@ -1,4 +1,4 @@
-# [Game Optimization and Known Issues](archive/403.md)
+# [Game Optimization and Known Issues](archive/404.md)
 ## Game Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
 
@@ -19,6 +19,20 @@ You can turn off the HDR feature through the following methods (For other system
 Windows 11: Settings > System > Display > Brightness and Color
 
 Windows 10: Settings > System > Display > Windows HD Color
+
+### Game Updates and Improvements Overview
+
+■2023/11/15
+
+- Fixes an issue where the system notification "Warp info has been updated" might be triggered by certain actions performed by a Trailblazer.
+
+- Fixes an issue where certain images are incorrect in messages during the Trailblaze Continuance.
+
+- Fixes an issue where Huohuo (NPC)'s tail might be erroneously displayed in certain cutscenes during Trailblaze Continuance.
+
+- Fixes an issue where there is a chance for stage verification failures for certain challenges in "A Foxian Tale of the Haunted."
+
+- Fixes an issue where treasures might be abnormally displayed after completing the "Pathfinder" game mode in the "Fyxestroll Garden" map. Trailblazers who run into this issue can update and log back into the game before returning to the "Chess Ghost" NPC. The treasures should be displayed normally then.
 
 -----
 
