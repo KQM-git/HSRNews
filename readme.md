@@ -486,82 +486,6 @@ Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long 
 
 -----
 
-# [Version 1.5 Nameless Honor Details](archive/373.md)
-## Version 1.5 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/c8fd8c3c8481900b9d76444bf97a37c6_5284804590401410635.png)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase their Nameless Honor levels to obtain **Star Rail Passes, Self-Modeling Resins, Tracks of Destiny** and other rewards.
-
-After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone of your choice**, **Self-Modeling Resin ×1**, **Relic Remains** and other rewards!
-
-Trailblazers who unlock the Nameless Medal will also immediately **increase 10 Nameless Honor levels**, as well as obtaining the **"Jingliu: Odyssey"** avatar, the **"Yanqing: Odyssey"** avatar, **Stellar Jade ×200**, and **Fuels** as rewards!
-
-### Start Date
-
-After the Version 1.5 update — 2023/12/25 03:59:00 (server)
-
-### Participation Requirements
-
-Trailblaze Level ≥ 13 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via Today's Missions, This Week's Missions, and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
-
-- Today's Missions will reset daily at 04:00 (server time), and This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Things to Note
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2023/12/25 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2023/12/24 03:59:00 (global)**, and the Trailblazers who topped up on the webpage should pay attention to the time info.
-
------
-
-# [New Version 1.5 Herta Contracts](archive/374.md)
-## New Version 1.5 Herta Contracts
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/624e98431d6345b3c8bc4f3745f70bde_8506899744518207040.png)
-
-Dear Trailblazers,
-
-Herta Contracts have been added to the Contract Shop!
-
-### Herta Contract: Roaming Share
-
-Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
-
-Contract Content: Traveler's Guide ×30, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
-
-### Herta Contract: Aether Refill
-
-Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
-
-Contract Content: Refined Aether ×25, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply
-
-Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
-
-Contract Content: Supplies Material Box (Standard) ×45, Credit ×120,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
 # [Play Simulated Universe: World 8 to Get New Planar Ornaments](archive/378.md)
 ## Simulated Universe: World 8 Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/373631e645f33f3b791c90c8f606e9ae_3308741180121068700.png)
@@ -641,6 +565,82 @@ New Cavern Relic Effects Preview:
 2-Pc Set: Increases ATK by 12%.
 
 4-Pc Set: For every DoT the target enemy is afflicted with, the wearer will ignore 6% of target's DEF when dealing DMG to them. This effect is valid for a max of 3 DoTs.
+
+-----
+
+# [Version 1.5 Nameless Honor Details](archive/373.md)
+## Version 1.5 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/c8fd8c3c8481900b9d76444bf97a37c6_5284804590401410635.png)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase their Nameless Honor levels to obtain **Star Rail Passes, Self-Modeling Resins, Tracks of Destiny** and other rewards.
+
+After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone of your choice**, **Self-Modeling Resin ×1**, **Relic Remains** and other rewards!
+
+Trailblazers who unlock the Nameless Medal will also immediately **increase 10 Nameless Honor levels**, as well as obtaining the **"Jingliu: Odyssey"** avatar, the **"Yanqing: Odyssey"** avatar, **Stellar Jade ×200**, and **Fuels** as rewards!
+
+### Start Date
+
+After the Version 1.5 update — 2023/12/25 03:59:00 (server)
+
+### Participation Requirements
+
+Trailblaze Level ≥ 13 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via Today's Missions, This Week's Missions, and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
+
+- Today's Missions will reset daily at 04:00 (server time), and This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Things to Note
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2023/12/25 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2023/12/24 03:59:00 (global)**, and the Trailblazers who topped up on the webpage should pay attention to the time info.
+
+-----
+
+# [New Version 1.5 Herta Contracts](archive/374.md)
+## New Version 1.5 Herta Contracts
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/624e98431d6345b3c8bc4f3745f70bde_8506899744518207040.png)
+
+Dear Trailblazers,
+
+Herta Contracts have been added to the Contract Shop!
+
+### Herta Contract: Roaming Share
+
+Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
+
+Contract Content: Traveler's Guide ×30, Credit ×30,000
+
+Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
+
+### Herta Contract: Aether Refill
+
+Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
+
+Contract Content: Refined Aether ×25, Credit ×30,000
+
+Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply
+
+Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
+
+Contract Content: Supplies Material Box (Standard) ×45, Credit ×120,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
 
 -----
 
