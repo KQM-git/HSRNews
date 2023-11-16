@@ -6,21 +6,21 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
 
-### Known Issues
-
-■2023/11/15
-
-- There is a known issue where the "Abacus Circuitry" gameplay interface is abnormally compressed for certain Android devices that have their display settings in "Normal Mode." If Trailblazers run into this issue, they can adjust display settings to "Compatible Mode." This issue will be resolved in future updates.
-
-- There is a known issue where the screen may be excessively bright if you are using a device with HDR functionality enabled. If Trailblazers experience this issue, you can resolve it by disabling the HDR feature on your device and restarting the game to restore things to normal.
-
-You can turn off the HDR feature through the following methods (For other systems, please refer to the official Microsoft documentation):
-
-Windows 11: Settings > System > Display > Brightness and Color
-
-Windows 10: Settings > System > Display > Windows HD Color
-
 ### Game Updates and Improvements Overview
+
+■2023/11/16
+
+- Fixes an issue where treasures have a chance of being abnormally displayed after the "The Specterlight Collection" is finished in the Fyxestroll Garden map. Trailblazers who encounter this issue may update and log back into the game, and the treasures should display as normal by then.
+
+- Fixes an issue where the text descriptions are displayed abnormally in Simulated Universe's Ability Tree.
+
+- Fixes an issue where the game's brightness is too high after activating the HDR feature on certain PC devices. Trailblazers who encountered this issue can update their game through the game launcher on their PC and restart the game after the update is completed to resolve the issue.
+
+- Fixes an issue where the game has a chance of freezing or crashing during "A Foxian Tale of the Haunted" event for Trailblazers on certain iOS devices.
+
+- Fixes an issue where the skill animation may be abnormal on certain iOS devices for the character Dan Heng • Imbibitor Lunae (Destruction: Imaginary)'s Ultimate.
+
+- Fixes an issue where the gameplay interface of "Abacus Circuitry" is abnormally compressed when the display is set to "Normal Mode" for certain Android devices.
 
 ■2023/11/15
 
