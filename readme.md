@@ -50,6 +50,18 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [PlayStation® Update Notice](archive/405.md)
+## PlayStation® Update Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/17/2084d89bb54e1afc4d612457f8e35603_7945561582438672836.png)
+
+Dear Trailblazer:
+
+We will be releasing our PS5™ version update at 2023/11/23 11:00:00 (global) to fix the issue where certain PlayStation® devices with HDR enabled may run into a black screen upon entering the game. After the update, the game version will be 1.5.2.
+
+We apologize for any inconvenience caused and appreciate your understanding and support.
+
+-----
+
 # [Version 1.5 "The Crepuscule Zone" Update](archive/398.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/7a466df6b1531f80489d5be9b3db9a9f_7008505363328860304.png)
