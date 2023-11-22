@@ -8,6 +8,20 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2023/11/22
+
+- Fixes an issue where certain Trailblazers cannot obtain messages from some characters.
+
+- Fixes an issue where, after the 1.5 version update, Trailblazers had a chance of not receiving rewards after defeating the enemy "Warp Trotter", and the "Navigation" interface showed "Warp Trotters 0/1". If Trailblazers have encountered this issue, they can defeat the enemy "Warp Trotter" again after the 1.6 version update to receive rewards normally.
+
+- Fixes an issue where the Fyxestroll Garden map has a tendency to lag when certain Android devices are set to "Normal Mode."
+
+- Fixes a typo in the description for Memory Turbulence "Divine Root Subdual."
+
+- Optimizes the wording in the interface of "Simulated Universe: Swarm Disaster" when choosing to give up a "Dice Effect".
+
+- Optimizes a user name in the "Ghostly Grove" from OmnicOverwatch to Chat_BBCNNBCGPPT.
+
 ■2023/11/16
 
 - Fixes an issue where treasures have a chance of being abnormally displayed after the "The Specterlight Collection" is finished in the Fyxestroll Garden map. Trailblazers who encounter this issue may update and log back into the game, and the treasures should display as normal by then.
