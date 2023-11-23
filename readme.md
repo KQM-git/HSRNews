@@ -62,6 +62,30 @@ We apologize for any inconvenience caused and appreciate your understanding and 
 
 -----
 
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/379.md)
+## Planar Fissure Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/9d378e12a5b9f4685446d59593ae318b_4137557086243248792.png)
+
+### Event Period
+
+2023/11/24 04:00:00 (server) -  2023/12/01 03:59:00 (server)
+
+### Event Requirement
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the Planar Fissure event period, get double rewards from immersion devices in the Simulated Universe.
+
+- You will get additional rewards on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of daily double reward opportunities is limited and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Version 1.5 "The Crepuscule Zone" Update](archive/398.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/7a466df6b1531f80489d5be9b3db9a9f_7008505363328860304.png)
@@ -627,30 +651,6 @@ Link Rope: Glamoth's Silent Tombstone
 Planar Sphere: Glamoth's Iron Cavalry Regiment
 
 2-Pc Set effect:
-
------
-
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/379.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/9d378e12a5b9f4685446d59593ae318b_4137557086243248792.png)
-
-### Event Period
-
-2023/11/24 04:00:00 (server) -  2023/12/01 03:59:00 (server)
-
-### Event Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event period, get double rewards from immersion devices in the Simulated Universe.
-
-- You will get additional rewards on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of daily double reward opportunities is limited and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
 
 -----
 
