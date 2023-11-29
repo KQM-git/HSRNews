@@ -8,6 +8,16 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2023/11/29
+
+- Fixes an issue where certain debuffs that characters fell into (such as Outrage, etc.) had a chance of causing abnormalities in the combat process when dispelled.
+
+- Fixes an issue in the Travel Log, specifically in the event "A Foxian Tale of the Haunted," where the red dot indicator couldn't be removed under certain circumstances.
+
+- Fixes an issue in the NPC Guinaifen's messages where some text was cut off due to excessive length, leading to incomplete display of the message option.
+
+- Fixes an issue in the "Forgotten Hall: Memory of Chaos" where the description of the Memory Turbulence "Oath of Eternal Alliance" effect was imprecise. This fix does not change its actual effect.
+
 ■2023/11/22
 
 - Fixes an issue where certain Trailblazers cannot obtain messages from some characters.
