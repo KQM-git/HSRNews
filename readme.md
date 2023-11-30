@@ -60,6 +60,30 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [All-Stars Celebration | A Special Thanks to Trailblazers](archive/415.md)
+## All-Stars Celebration
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/29/d64db14d1ab5a46969107cd50b98916b_9194752616772310649.jpg)
+
+Thank you for all your support, Trailblazers! Honkai: Star Rail been honored with multiple accolades such as the "App Store Awards 2023 - iPhone Game of the Year" and "Google Play Best of 2023 - Best Game" awards.
+
+To thank you all for your love and support, the Express Crew will offer Stellar Jade ×800 as thanks on 2023/12/01 00:00:00 (server).
+
+### Obtainance Instructions
+
+- Issued Content: Stellar Jade ×800
+
+- Date: 2023/12/01 00:00:00 (server)
+
+- Distribution Method: In-game mail
+
+- Recipients: Trailblazers with Trailblaze Level ≥ 4
+
+- The mail will be valid until the end of Version 1.5 (2023/12/27 06:00:00 (global)). Please log in to the game promptly to claim your rewards.
+
+We are glad to spend this time with you, and may this journey lead us starward.
+
+-----
+
 # [Stellar Shadowseeker: Help March 7th Take Photos to Obtain Tracks of Destiny and More](archive/380.md)
 ## "Stellar Shadowseeker" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/9b7ecb691772b2f3ac0874231e06fe20_7161812383203964233.png)
