@@ -1,10 +1,16 @@
-# [Game Optimization and Known Issues](archive/404.md)
+# [Game Optimization and Known Issues](archive/419.md)
 ## Game Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
 
 Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Known Issues
+
+■2023/12/01
+
+- There is a known issue where in the "Stellar Shadowseeker" event, when the subject in frame is Pom-Pom, there is a chance that "No identifiable targets nearby" will be displayed, thus causing progress to be interrupted. If you encounter this issue, it can be resolved by restarting the game.
 
 ### Game Updates and Improvements Overview
 
