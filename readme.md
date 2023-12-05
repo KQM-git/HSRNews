@@ -1,4 +1,4 @@
-# [Game Optimization and Known Issues](archive/419.md)
+# [Game Optimization and Known Issues](archive/418.md)
 ## Game Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
 
@@ -6,13 +6,15 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
 
-### Known Issues
-
-■2023/12/01
-
-- There is a known issue where in the "Stellar Shadowseeker" event, when the subject in frame is Pom-Pom, there is a chance that "No identifiable targets nearby" will be displayed, thus causing progress to be interrupted. If you encounter this issue, it can be resolved by restarting the game.
-
 ### Game Updates and Improvements Overview
+
+■2023/12/05
+
+- Fixes an issue where the background special effects will be abnormally displayed for Huohuo (Abundance: Wind)'s character portrait when she uses her Ultimate.
+
+- Fixes an issue in Stellar Shadowseeker where the subject in frame, Pom-Pom, may have a chance of being displayed as "Peppy" instead, leading to a "No identifiable targets nearby" error and interrupting the progress. If you encounter this issue, it can be resolved by restarting the game.
+
+- Fixes an issue where certain Adventure Missions cannot be continued under certain circumstances in the "Stellar Shadowseeker" event.
 
 ■2023/11/29
 
