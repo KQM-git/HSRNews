@@ -310,32 +310,6 @@ We are glad to spend this time with you, and may this journey lead us starward.
 
 -----
 
-# [Stellar Shadowseeker: Help March 7th Take Photos to Obtain Tracks of Destiny and More](archive/380.md)
-## "Stellar Shadowseeker" Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/9b7ecb691772b2f3ac0874231e06fe20_7161812383203964233.png)
-
-During the trailblazing expedition, the peculiar sights and interesting events you encountered were captured by March 7th. However, there seems to be some issues with these photos...
-
-### Event Period
-
-2023/12/01 12:00:00 (server) – 2023/12/11 03:59:00 (server)
-
-### How to Join
-
-Trailblaze Level ≥ 21
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/11/06/b1698ec6cb7f72b9f13eee9324e40466_7398437450100669301.png)
-
-### Event Details
-
-- After the event begins, the trailblazers will need to assist March 7th in re-shooting the photos that have been covered by the shadows. There are a total of **14 photos** covered by the shadows, with **2 photos to be uncovered** each day **for a period of 7 days**.
-
-- Trailblazers can **locate their targets** based on the shape of the shadows on the photos. **Once they successfully capture the image,** they can claim the corresponding rewards.
-
------
-
 # [Version 1.5 "The Crepuscule Zone" Update](archive/398.md)
 ## Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/7a466df6b1531f80489d5be9b3db9a9f_7008505363328860304.png)
