@@ -22,6 +22,26 @@ We are glad to spend this time with you, and may this journey lead us starward.
 
 -----
 
+# ["Crown of the Mundane and Divine" Trailblaze Continuance Details](archive/430.md)
+## "Crown of the Mundane and Divine" Trailblaze Continuance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/775366c1f20d4665a2975388cd9a4754_5073311655845766793.jpg)
+
+The space station has been bustling with activity lately. With the latest update to the Simulated Universe and the gathering of prominent figures from the Genius Society, everyone seems to have their own agenda. You can't help but feel that there might be some unexpected events on the horizon.
+
+### Availability
+
+Permanently available after the Version 1.6 update
+
+### Requirement
+
+Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/12/13/213b0d7cbbc8c25f36ebd600a4559186_175272961418129411.png)
+
+-----
+
 # [Tales of the Fantastic: Now In Conventional Memoir](archive/417.md)
 ## Tales of the Fantastic Becoming A Permanent Game Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/15/f6abdb014f91a0d12a04e850bd6f8cf2_449210600111185018.jpg)
