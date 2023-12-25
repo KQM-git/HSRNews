@@ -220,6 +220,26 @@ Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean 
 
 -----
 
+# [New Echo of War Stages](archive/411.md)
+## New Stages for Version 1.6
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/13/9a876c2d349a2e2939d2a98ccc0b67e1_3977142910666652542.jpg)
+
+Dear Trailblazers,
+
+After the Version 1.6 update, new stage Echo of War: Borehole Planet's Old Crater will be added!
+
+### Echo of War
+
+■ Echo of War: Borehole Planet's Old Crater
+
+Unlock Requirements: Complete the Trailblaze Continuance "The Blue — When the Stars of Ingenuity Shine"
+
+Location: Herta Space Station — Seclusion Zone
+
+Stage Description: Clear the stage to obtain the new **Trace Material "Past Evils of the Borehole Planet Disaster."**
+
+-----
+
 # [Version 1.6 Nameless Honor Details](archive/429.md)
 ## Version 1.6 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/df10a2811d0ac2891a9f1a6d60c31083_2402104370950417030.jpg)
@@ -1177,48 +1197,6 @@ New Cavern Relic Effects Preview:
 2-Pc Set: Increases ATK by 12%.
 
 4-Pc Set: For every DoT the target enemy is afflicted with, the wearer will ignore 6% of target's DEF when dealing DMG to them. This effect is valid for a max of 3 DoTs.
-
------
-
-# [Version 1.5 Nameless Honor Details](archive/373.md)
-## Version 1.5 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/c8fd8c3c8481900b9d76444bf97a37c6_5284804590401410635.png)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase their Nameless Honor levels to obtain **Star Rail Passes, Self-Modeling Resins, Tracks of Destiny** and other rewards.
-
-After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone of your choice**, **Self-Modeling Resin ×1**, **Relic Remains** and other rewards!
-
-Trailblazers who unlock the Nameless Medal will also immediately **increase 10 Nameless Honor levels**, as well as obtaining the **"Jingliu: Odyssey"** avatar, the **"Yanqing: Odyssey"** avatar, **Stellar Jade ×200**, and **Fuels** as rewards!
-
-### Start Date
-
-After the Version 1.5 update — 2023/12/25 03:59:00 (server)
-
-### Participation Requirements
-
-Trailblaze Level ≥ 13 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via Today's Missions, This Week's Missions, and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
-
-- Today's Missions will reset daily at 04:00 (server time), and This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Things to Note
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2023/12/25 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2023/12/24 03:59:00 (global)**, and the Trailblazers who topped up on the webpage should pay attention to the time info.
 
 -----
 
