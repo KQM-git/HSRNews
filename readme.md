@@ -1200,40 +1200,6 @@ New Cavern Relic Effects Preview:
 
 -----
 
-# [New Version 1.5 Herta Contracts](archive/374.md)
-## New Version 1.5 Herta Contracts
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/10/30/624e98431d6345b3c8bc4f3745f70bde_8506899744518207040.png)
-
-Dear Trailblazers,
-
-Herta Contracts have been added to the Contract Shop!
-
-### Herta Contract: Roaming Share
-
-Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
-
-Contract Content: Traveler's Guide ×30, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
-
-### Herta Contract: Aether Refill
-
-Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
-
-Contract Content: Refined Aether ×25, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply
-
-Availability Period: After the Version 1.5 update – 2023/12/26 15:00:00 (server)
-
-Contract Content: Supplies Material Box (Standard) ×45, Credit ×120,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
 # [HoYoLAB Honkai: Star Rail Tools Overview](archive/237.md)
 ## HoYoLAB Honkai: Star Rail Tools Overview
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/06/c633a68f2fbeff92e2b6df731807a82e_6179296998725346315.jpg)
