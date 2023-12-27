@@ -440,6 +440,18 @@ After "Tales of the Fantastic" becomes a permanent game mode, the previous event
 
 -----
 
+# [Some New Samples](archive/436.md)
+## Some New Samples
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/15/b79800f9adedc4dd0aa6f66288c10d3d_6599018553593538922.jpg)
+
+I have already listed them in the data bank and saved a few samples. Perhaps you might find them interesting.
+
+※ A message from Pom-Pom
+
+※ After Version 1.6 update and until the end of Version 2.1, Trailblazers at **Equilibrium Level ≥ 1** will be able to claim **Tears of Dreams ×150** through their in-game mailbox.
+
+-----
+
 # ["Crown of the Mundane and Divine" Trailblaze Continuance Details](archive/430.md)
 ## "Crown of the Mundane and Divine" Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/775366c1f20d4665a2975388cd9a4754_5073311655845766793.jpg)
