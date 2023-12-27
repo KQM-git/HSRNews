@@ -1,181 +1,3 @@
-# ["Crown of the Mundane and Divine" Trailblaze Continuance Details](archive/430.md)
-## "Crown of the Mundane and Divine" Trailblaze Continuance Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/775366c1f20d4665a2975388cd9a4754_5073311655845766793.jpg)
-
-The space station has been bustling with activity lately. With the latest update to the Simulated Universe and the gathering of prominent figures from the Genius Society, everyone seems to have their own agenda. You can't help but feel that there might be some unexpected events on the horizon.
-
-### Availability
-
-Permanently available after the Version 1.6 update
-
-### Requirement
-
-Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy"
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/12/13/213b0d7cbbc8c25f36ebd600a4559186_175272961418129411.png)
-
------
-
-# [New Version 1.6 Herta Contracts](archive/410.md)
-## New Version 1.6 Herta Contracts
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/624e98431d6345b3c8bc4f3745f70bde_3756762077178989279.png)
-
-Dear Trailblazers,
-
-Herta Contracts have been added to the Contract Shop!
-
-### Herta Contract: Roaming Share
-
-Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
-
-Contract Content: Traveler's Guide ×30, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
-
-### Herta Contract: Aether Refill
-
-Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
-
-Contract Content: Refined Aether ×25, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
-
-Contract Content: **universal Path material Tears of Dreams ×150** and Credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
-# [Tales of the Fantastic: Now In Conventional Memoir](archive/417.md)
-## Tales of the Fantastic Becoming A Permanent Game Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/15/f6abdb014f91a0d12a04e850bd6f8cf2_449210600111185018.jpg)
-
-Many on the Xianzhou are already speaking of the feats of the Nameless. The storyteller also hopes the Trailblazer can help him to retell the stories of their trailblazing adventure.
-
-※ "Tales of the Fantastic" will be moved to Conventional Memoir after the Version 1.6 update, where Trailblazers can continue to experience its gameplay.
-
-### Permanent Game Mode Details
-
-- After "Tales of the Fantastic" becomes a permanent game mode, the previous **event challenge progress**, **points**, and **reward claim status** will be **retained**.
-
-- Trailblazers who haven't completed all the event content or missions can continue to challenge the gameplay after it is unlocked to get rewards.
-
-- If Trailblazers haven't completed missions related to "Tales of the Fantastic," they can experience the game mode from the start of the corresponding mission after it is unlocked.
-
-- If the current event is concluded, and **there are completed but unclaimed event rewards**, they will be sent during Version 1.6 through the in-game mail.
-
-- If Trailblazers have participated in the full event before and claimed all rewards, they **cannot replay the challenges** to receive additional rewards.
-
-### Availability
-
-Permanently available after the Version 1.6 update
-
-### Participation Requirement
-
-Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant"
-
-### Gameplay Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/12/19/af6b9cde221ceb8943bde6a61c98608a_2689175048156790360.png)
-
-### Gameplay Rules
-
-- There are a total of 3 Hero's Journeys. Upon completion of each Journey, some "Legends Past and Present" combat challenges will be unlocked.
-
-- Once Trailblazers complete a Hero's Journey, they will receive a Protagonist Model and gradually improve the abilities within it. These abilities can help to form a more riveting experience in Legends Past and Present.
-
-- The Protagonist Model can provide various Plot Armor combinations that can be freely adjusted, and their effects will be active in Legends Past and Present.
-
-- Good combinations of Plot Armor in the Protagonist Model will result in higher combat scores.
-
-- Trailblazers can use trial characters in Legends Past and Present.
-
-- During combat, enemies will continuously appear for a limited number of rounds. Points will be awarded for dealing damage to and defeating enemies. At the end of each battle, the highest score will be updated based on the results of the current challenge.
-
-- Increasing the Equilibrium Level will also increase enemy and trial character levels in the event.
-
-■ Reward Claim Details
-
-- Trailblazers can claim challenge rewards from the Rewards List after reaching certain scores in Legends Past and Present.
-
-- When at least 10,000 points have been scored for each Legend Past and Present, a new section of the Readable Legend of the Trailblazer will be unlocked that corresponds to this particular Legend Past and Present. The key characters in the text will also experience changes depending on the characters used.
-
-- When all sections of the Readable have been unlocked, the item Legend of the Trailblazer can be claimed and you can review the story in your Inventory among mission items.
-
-- After claiming Legend of the Trailblazer, you can go to Mr. Xiyan to restart the battles and change the characters scribed in the story.
-
------
-
-# [New Echo of War Stages](archive/411.md)
-## New Stages for Version 1.6
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/13/9a876c2d349a2e2939d2a98ccc0b67e1_3977142910666652542.jpg)
-
-Dear Trailblazers,
-
-After the Version 1.6 update, new stage Echo of War: Borehole Planet's Old Crater will be added!
-
-### Echo of War
-
-■ Echo of War: Borehole Planet's Old Crater
-
-Unlock Requirements: Complete the Trailblaze Continuance "The Blue — When the Stars of Ingenuity Shine"
-
-Location: Herta Space Station — Seclusion Zone
-
-Stage Description: Clear the stage to obtain the new **Trace Material "Past Evils of the Borehole Planet Disaster."**
-
------
-
-# [Version 1.6 Nameless Honor Details](archive/429.md)
-## Version 1.6 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/df10a2811d0ac2891a9f1a6d60c31083_2402104370950417030.jpg)
-
-Dear Trailblazer,
-
-During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
-
-After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone** of your choice, **Self-Modeling Resin ×1**, **Relic Remains**, universal path material **Tears of Dreams**, and other rewards!
-
-If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatar **"Ruan Mei: Academia,"** the avatar ** "Dr. Ratio: Academia,"** as well as **Stellar Jade ×200** and **Fuels**!
-
-### Start Date
-
-After the Version 1.6 update – 2024/02/05 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ **12** and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
-
-- This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-- From Version 1.6, Today's Missions will be removed from Nameless Honor. At the same time, This Week's Missions will get the new "Consume Trailblaze Power" missions. Trailblazers can earn up to 4,900 Nameless EXP through these missions every week. Additionally, This Period's Missions will have "Pure Fiction" related missions added, and these can be cleared for 1,400 Nameless EXP. Finally, the Nameless EXP for "Forgotten Hall" related missions in This Period's Missions will now net up to 1,400.
-
-### Note
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/02/05 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/02/04 03:59:00 (global)**, and the Trailblazers who topped up on the webpage should pay attention to the purchase availability time.
-
------
-
 # [Version 1.6 "Crown of the Mundane and Divine" Update](archive/408.md)
 ## Version 1.6 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/26/7a466df6b1531f80489d5be9b3db9a9f_2839764812104531837.png)
@@ -615,6 +437,184 @@ After "Tales of the Fantastic" becomes a permanent game mode, the previous event
 - Optimizes enemy ability titles and descriptions for "Maddened," "Piety," and "Spear & Shield."
 
 - Optimizes the text for instructions of certain events and game modes, readables, Simulated Universe Blessings and Occurrences and options, names and descriptions of items, cutscene dialogue, messages, stage descriptions, Adventure Mission guides, Guest Book details, and certain descriptions in tutorials.
+
+-----
+
+# ["Crown of the Mundane and Divine" Trailblaze Continuance Details](archive/430.md)
+## "Crown of the Mundane and Divine" Trailblaze Continuance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/775366c1f20d4665a2975388cd9a4754_5073311655845766793.jpg)
+
+The space station has been bustling with activity lately. With the latest update to the Simulated Universe and the gathering of prominent figures from the Genius Society, everyone seems to have their own agenda. You can't help but feel that there might be some unexpected events on the horizon.
+
+### Availability
+
+Permanently available after the Version 1.6 update
+
+### Requirement
+
+Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/12/13/213b0d7cbbc8c25f36ebd600a4559186_175272961418129411.png)
+
+-----
+
+# [New Version 1.6 Herta Contracts](archive/410.md)
+## New Version 1.6 Herta Contracts
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/624e98431d6345b3c8bc4f3745f70bde_3756762077178989279.png)
+
+Dear Trailblazers,
+
+Herta Contracts have been added to the Contract Shop!
+
+### Herta Contract: Roaming Share
+
+Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
+
+Contract Content: Traveler's Guide ×30, Credit ×30,000
+
+Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
+
+### Herta Contract: Aether Refill
+
+Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
+
+Contract Content: Refined Aether ×25, Credit ×30,000
+
+Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply V2
+
+Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
+
+Contract Content: **universal Path material Tears of Dreams ×150** and Credit ×60,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
+
+-----
+
+# [Tales of the Fantastic: Now In Conventional Memoir](archive/417.md)
+## Tales of the Fantastic Becoming A Permanent Game Mode
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/15/f6abdb014f91a0d12a04e850bd6f8cf2_449210600111185018.jpg)
+
+Many on the Xianzhou are already speaking of the feats of the Nameless. The storyteller also hopes the Trailblazer can help him to retell the stories of their trailblazing adventure.
+
+※ "Tales of the Fantastic" will be moved to Conventional Memoir after the Version 1.6 update, where Trailblazers can continue to experience its gameplay.
+
+### Permanent Game Mode Details
+
+- After "Tales of the Fantastic" becomes a permanent game mode, the previous **event challenge progress**, **points**, and **reward claim status** will be **retained**.
+
+- Trailblazers who haven't completed all the event content or missions can continue to challenge the gameplay after it is unlocked to get rewards.
+
+- If Trailblazers haven't completed missions related to "Tales of the Fantastic," they can experience the game mode from the start of the corresponding mission after it is unlocked.
+
+- If the current event is concluded, and **there are completed but unclaimed event rewards**, they will be sent during Version 1.6 through the in-game mail.
+
+- If Trailblazers have participated in the full event before and claimed all rewards, they **cannot replay the challenges** to receive additional rewards.
+
+### Availability
+
+Permanently available after the Version 1.6 update
+
+### Participation Requirement
+
+Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant"
+
+### Gameplay Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/12/19/af6b9cde221ceb8943bde6a61c98608a_2689175048156790360.png)
+
+### Gameplay Rules
+
+- There are a total of 3 Hero's Journeys. Upon completion of each Journey, some "Legends Past and Present" combat challenges will be unlocked.
+
+- Once Trailblazers complete a Hero's Journey, they will receive a Protagonist Model and gradually improve the abilities within it. These abilities can help to form a more riveting experience in Legends Past and Present.
+
+- The Protagonist Model can provide various Plot Armor combinations that can be freely adjusted, and their effects will be active in Legends Past and Present.
+
+- Good combinations of Plot Armor in the Protagonist Model will result in higher combat scores.
+
+- Trailblazers can use trial characters in Legends Past and Present.
+
+- During combat, enemies will continuously appear for a limited number of rounds. Points will be awarded for dealing damage to and defeating enemies. At the end of each battle, the highest score will be updated based on the results of the current challenge.
+
+- Increasing the Equilibrium Level will also increase enemy and trial character levels in the event.
+
+■ Reward Claim Details
+
+- Trailblazers can claim challenge rewards from the Rewards List after reaching certain scores in Legends Past and Present.
+
+- When at least 10,000 points have been scored for each Legend Past and Present, a new section of the Readable Legend of the Trailblazer will be unlocked that corresponds to this particular Legend Past and Present. The key characters in the text will also experience changes depending on the characters used.
+
+- When all sections of the Readable have been unlocked, the item Legend of the Trailblazer can be claimed and you can review the story in your Inventory among mission items.
+
+- After claiming Legend of the Trailblazer, you can go to Mr. Xiyan to restart the battles and change the characters scribed in the story.
+
+-----
+
+# [New Echo of War Stages](archive/411.md)
+## New Stages for Version 1.6
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/13/9a876c2d349a2e2939d2a98ccc0b67e1_3977142910666652542.jpg)
+
+Dear Trailblazers,
+
+After the Version 1.6 update, new stage Echo of War: Borehole Planet's Old Crater will be added!
+
+### Echo of War
+
+■ Echo of War: Borehole Planet's Old Crater
+
+Unlock Requirements: Complete the Trailblaze Continuance "The Blue — When the Stars of Ingenuity Shine"
+
+Location: Herta Space Station — Seclusion Zone
+
+Stage Description: Clear the stage to obtain the new **Trace Material "Past Evils of the Borehole Planet Disaster."**
+
+-----
+
+# [Version 1.6 Nameless Honor Details](archive/429.md)
+## Version 1.6 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/df10a2811d0ac2891a9f1a6d60c31083_2402104370950417030.jpg)
+
+Dear Trailblazer,
+
+During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
+
+After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone** of your choice, **Self-Modeling Resin ×1**, **Relic Remains**, universal path material **Tears of Dreams**, and other rewards!
+
+If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatar **"Ruan Mei: Academia,"** the avatar ** "Dr. Ratio: Academia,"** as well as **Stellar Jade ×200** and **Fuels**!
+
+### Start Date
+
+After the Version 1.6 update – 2024/02/05 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ **12** and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+- From Version 1.6, Today's Missions will be removed from Nameless Honor. At the same time, This Week's Missions will get the new "Consume Trailblaze Power" missions. Trailblazers can earn up to 4,900 Nameless EXP through these missions every week. Additionally, This Period's Missions will have "Pure Fiction" related missions added, and these can be cleared for 1,400 Nameless EXP. Finally, the Nameless EXP for "Forgotten Hall" related missions in This Period's Missions will now net up to 1,400.
+
+### Note
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/02/05 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/02/04 03:59:00 (global)**, and the Trailblazers who topped up on the webpage should pay attention to the purchase availability time.
 
 -----
 
