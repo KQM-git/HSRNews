@@ -442,7 +442,7 @@ After "Tales of the Fantastic" becomes a permanent game mode, the previous event
 
 # [Some New Samples](archive/436.md)
 ## Some New Samples
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/15/b79800f9adedc4dd0aa6f66288c10d3d_6599018553593538922.jpg)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/27/1cc9eaa1c5f9c1135ad47e5c26686ba0_1423362060470027205.jpg)
 
 I have already listed them in the data bank and saved a few samples. Perhaps you might find them interesting.
 
