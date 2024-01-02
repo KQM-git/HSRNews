@@ -502,6 +502,22 @@ Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy"
 
 -----
 
+# [HoYoFair 2024 New Year Fan Art Program Goes Online](archive/425.md)
+## HoYoFair 2024 New Year Fan Art Program Goes Online
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/28/7a60c051999c65c5cc7d50fa32235708_4288697120425581018.png)
+
+The HoYoFair 2024 New Year Fan Art Program has now been aired! Diverse and colorful fan creations are awaiting your enjoyment!
+
+Galactic Grand Prix is a special Honkai: Star Rail fan art program in HoYoFair 2024. Using the lanes of olden trailblaze as the competition tracks and creating intricate and interconnected portals and avenues within the cosmos — The Galactic Grand Prix gathers the greatest racers in the universe all in one place. On the final night of every Star Calendar year, they will race to catch up with time, with which to ring the bell for the next year.
+
+[ Go Watch](https://www.youtube.com/watch?v=gi8gjZWtfbc)
+
+### Program Introduction
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/12/28/9613e4cf43a53eda3ed6a7054844779c_5096611042738014347.png)
+
+-----
+
 # ["Crown of the Mundane and Divine" Version 1.6 Strategy Guides Contest Event Begins](archive/423.md)
 ## "Crown of the Mundane and Divine" Version 1.6 Strategy Guides Contest Event Begins
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/27/e3da962cec00a0391fbbe54462bfd399_3848473246824418177.png)
