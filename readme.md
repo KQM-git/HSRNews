@@ -8,6 +8,20 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/01/03
+
+- Fixes an issue where, under certain situations, the displayed amount of Cosmic Fragments you have may be abnormal in the regular Simulated Universe.
+
+- Fixes an issue where under certain situations the effects for "Formation Extrapolation: Anicca" are abnormal in "Simulated Universe."
+
+- Fixes an issue where under certain situations, the screen may be abnormal and has a chance of displaying the error message "Error. Exploration is currently in progress!" in "Simulated Universe: Gold and Gears."
+
+- Fixes an issue where, in certain scenes of specific stages like Trial of Equilibrium, Simulated Universe: Gold and Gears, there is a chance of characters being positioned abnormally. Trailblazers encountering this issue can resolve it by exiting and re-entering the stage.
+
+- Fixes an issue with a creation NPC's name, correcting it to "Grey Bean Paste."
+
+- Fixes an issue with one dialogue line in the Companion Mission "Hook's Gift."
+
 ■2023/12/28
 
 - Fixes an issue where Trailblazers were unable to continue certain missions such as Simulated Universe: First Closed Beta and Simulated Universe: Second Closed Beta after the 1.6 version update. After the fix, Trailblazers who encounter this issue can resolve it by playing Simulated Universe again.
