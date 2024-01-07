@@ -42,6 +42,52 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Pure Fiction: Challenge the new permanent game mode and obtain rewards such as Stellar Jades](archive/426.md)
+## Pure Fiction: Challenge the new permanent game mode and obtain rewards such as Stellar Jades
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/54517ab544340029960925c65c1c6af4_9146654071934453966.jpg)
+
+Pure Fiction contains a series of challenging stages. In this mode, you need to challenge the stages and earn the required number of points to pass the challenge and get splendid rewards. In addition, you will get extra rewards by achieving specific targets. The difficulty and rewards of Pure Fiction stages are not affected by your Equilibrium Level.
+
+### Availability
+
+Permanently available after 2024/01/08 04:00:00 (server)
+
+### How to Join
+
+Complete the Trailblaze Mission "Xianzhou Luofu — Demise of Immortality, Finale of Calamity," be at Equilibrium Level 3 or higher, and read specific Messages.
+
+### Gameplay Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2023/12/13/419e54d1293dcf4ff73129bad6a72c09_1135218323904269182.png)
+
+### How to Play
+
+- Completing the Adventure Mission **"Youci's Clever Decor"** will unlock Pure Fiction**.
+
+- In the Pure Fiction game mode, Trailblazers will need to challenge different stages and accumulate points. Each stage has two nodes. Trailblazers need to **assemble two teams** and **choose a buff for each team** before attempting the challenge.
+
+- Whimsicality: Each Pure Fiction event has its unique rules, resulting in various battle effects. The effects only take effect in the battles during the current event.
+
+- Cacophony: To deal with various Whimsicalities, various buffs are provided at the beginning of each Cacophony event. You can select one of the buffs before challenging any stage in the Pure Fiction.
+
+- During combat, enemies will continuously appear in a limited number of Cycles. Deal damage to enemies or defeat them to earn points.
+
+- Each stage contains two battles, namely Node 1 and Node 2. Your final points are the total points earned in both battles, and your highest points will be updated at the end of each battle.
+
+- Based on the points earned in each stage, Trailblazers will receive corresponding stars for that specific stage. Earning stars for the current Pure Fiction period can earn you various rewards based on the total start count.
+
+- Complete the Adventure Mission "Youci's Clever Decor" and clear Pure Fiction stage 2 during any phase to unlock the character Lynx (Abundance: Quantum).
+
+### Things to Note
+
+- The difficulty and rewards of Pure Fiction stages are **not affected by your Equilibrium Level**.
+
+- Pure Fiction will have its **stages and rewards updated periodically**. A new period of Pure Fiction will take effect every 28 days, and every period of Pure Fiction will last 42 days.
+
+- The highest Pure Fiction stage that you passed with 3 stars will be recorded. Whenever a new period starts, the recorded stage and all prior stages will be immediately unlocked according to your past performance. After performing quick unlock, you can directly challenge the highest stage that you passed with 3 stars. Once you have passed that stage with 3 stars, all the previous stages will be immediately cleared with a 3-star rating, and **all rewards from those stages** will be delivered. **No more than the first 3 stages** can be immediately unlocked in this way.
+
+-----
+
 # [Version 1.6 "Crown of the Mundane and Divine" Update](archive/408.md)
 ## Version 1.6 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/26/7a466df6b1531f80489d5be9b3db9a9f_2839764812104531837.png)
