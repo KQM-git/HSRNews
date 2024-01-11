@@ -1,16 +1,14 @@
-# [Notification Regarding Top-up Issues](archive/464.md)
-## Notification Regarding Top-up Issues
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/13/2084d89bb54e1afc4d612457f8e35603_8587000300482975695.png)
+# [Top-up Issue Resolved](archive/465.md)
+## Top-up Issue Resolved
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/14/73da9683e7ae4f4fdc48df854793a8d8_2773500591537132583.png)
 
 Hello, Trailblazers,
 
 Due to an issue with Epic Games Store services, some Trailblazers are unable to top-up.
 
-The development team is now investigating the cause of the problem and working to fix it. Please stay tuned to future official notifications regarding an estimated completion time.
+This problem has been fixed.
 
-The Express Crew will immediately notify Trailblazers via in-game notifications and player community announcements as soon as the issue is fixed. Please stay tuned for the official announcements.
-
-We sincerely apologize for any inconvenience caused. Thank you for your understanding and support.
+The Crew sincerely apologizes for any inconvenience caused and thanks you for your patience and understanding.
 
 -----
 
