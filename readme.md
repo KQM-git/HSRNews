@@ -1,17 +1,3 @@
-# [Top-up Issue Resolved](archive/465.md)
-## Top-up Issue Resolved
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/14/73da9683e7ae4f4fdc48df854793a8d8_2773500591537132583.png)
-
-Hello, Trailblazers,
-
-Due to an issue with Epic Games Store services, some Trailblazers are unable to top-up.
-
-This problem has been fixed.
-
-The Crew sincerely apologizes for any inconvenience caused and thanks you for your patience and understanding.
-
------
-
 # [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/413.md)
 ## Planar Fissure Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/21/9d378e12a5b9f4685446d59593ae318b_4137557086243248792.png)
