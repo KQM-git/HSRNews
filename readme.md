@@ -38,6 +38,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/01/16
+
+- There are missing instructions for the Pure Fiction game mode. The details follow: [In Pure Fiction, when characters defeat enemies, they regenerate only 50% of the Energy that they would normally do in regular battles].
+
 ■2024/01/10
 
 - Fixes an issue where certain hatch doors can't open in the Seclusion Zone map during the Trailblaze Continuance "The Blue — When the Stars of Ingenuity Shine."
