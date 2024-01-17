@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/01/17
+
+- Fixes an issue where there is a chance of encountering the popup message "No mail to claim" when hitting "Claim" after already claiming the "Subscription Reply from Dr. Ratio" mail.
+
 ■2024/01/16
 
 - There are missing instructions for the Pure Fiction game mode. The details follow: [In Pure Fiction, when characters defeat enemies, they regenerate only 50% of the Energy that they would normally do in regular battles].
