@@ -14,7 +14,7 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
-■2024/01/18
+■2024/01/19
 
 - Fixes an issue where there is a chance the game cannot proceed as normal when challenging the "Confusing Lies" portion of the " Virtual Scentventure" on certain Android devices.
 
