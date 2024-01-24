@@ -14,6 +14,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/01/24
+
+- Fixes an issue where the Battle Speed-Up function becomes ineffective after performing certain actions during certain parts of the Virtual Scentventure event.
+
+- Fixes an issue where the countdown icon in the Memory of Chaos interface no longer displays once the Forgotten Hall: Memory of Chaos enters the 14-day countdown period and after Trailblazer finishes a challenge.
+
 ■2024/01/19
 
 - Fixes an issue where there is a chance the game cannot proceed as normal when challenging the "Confusing Lies" portion of the " Virtual Scentventure" on certain Android devices.
