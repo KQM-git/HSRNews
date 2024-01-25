@@ -580,6 +580,30 @@ I have already listed them in the data bank and saved a few samples. Perhaps you
 
 -----
 
+# [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/438.md)
+## Realm of the Strange Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/fba39da2942fe360176de0c99a78509d_6556678753614172211.png)
+
+### Event Period
+
+2024/01/26 04:00:00 (server) - 2024/02/02 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Cavern of Corrosion: Path of Drifting
+
+### Event Details
+
+- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
+
+- You will get an additional reward on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # ["Crown of the Mundane and Divine" Trailblaze Continuance Details](archive/430.md)
 ## "Crown of the Mundane and Divine" Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/775366c1f20d4665a2975388cd9a4754_5073311655845766793.jpg)
