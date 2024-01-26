@@ -102,6 +102,30 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/438.md)
+## Realm of the Strange Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/fba39da2942fe360176de0c99a78509d_6556678753614172211.png)
+
+### Event Period
+
+2024/01/26 04:00:00 (server) - 2024/02/02 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Cavern of Corrosion: Path of Drifting
+
+### Event Details
+
+- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
+
+- You will get an additional reward on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # [Pure Fiction: Challenge the new permanent game mode and obtain rewards such as Stellar Jades](archive/426.md)
 ## Pure Fiction: Challenge the new permanent game mode and obtain rewards such as Stellar Jades
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/54517ab544340029960925c65c1c6af4_9146654071934453966.jpg)
@@ -599,30 +623,6 @@ I have already listed them in the data bank and saved a few samples. Perhaps you
 ※ A message from Pom-Pom
 
 ※ After Version 1.6 update and until the end of Version 2.1, Trailblazers at **Equilibrium Level ≥ 1** will be able to claim **Tears of Dreams ×150** through their in-game mailbox.
-
------
-
-# [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/438.md)
-## Realm of the Strange Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/fba39da2942fe360176de0c99a78509d_6556678753614172211.png)
-
-### Event Period
-
-2024/01/26 04:00:00 (server) - 2024/02/02 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Cavern of Corrosion: Path of Drifting
-
-### Event Details
-
-- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
-
-- You will get an additional reward on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
-
-- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
 
 -----
 
