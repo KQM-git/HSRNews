@@ -1,3 +1,23 @@
+# ["Long Day's Journey Into Night" Trailblaze Mission Details](archive/461.md)
+## Version 2.0 Trailblaze Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/9f9d4884f42f4873c33c655bc19d3ab1_1066397399110003040.jpg)
+
+Penacony, the Land of Dreams, a hedonistic paradise where countless Dreamchasers long for — Are you ready to join the Watchmaker's feast?
+
+### Availability
+
+Permanently available after the Version 2.0 update
+
+### Requirement
+
+Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/362c1c145a3a0e60f4a77f49685bdbe7_3948325093609189065.png)
+
+-----
+
 # [Version 1.6 "Crown of the Mundane and Divine" Satisfaction Survey](archive/469.md)
 ## Version 1.6 Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/09/22/64f750577627982c2225314c2376a57b_6252356485089434503.png)
