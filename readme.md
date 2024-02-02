@@ -76,13 +76,13 @@ Complete this stage successfully to obtain the new Cavern Relics "Pioneer Diver 
 
 ### Stagnant Shadow
 
-■ Stagnant Shadow: Shape of Candy
+■ Stagnant Shadow: Shape of Nectar
 
 Clear the stage to obtain the **new Ice-Type** character Ascension material "Dream Fridge."
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/f049c270ff83e54d47867bab309b9880_6640666952762790250.png)
 
-■ Stagnant Shadow: Shape of Parchedness
+■ Stagnant Shadow: Shape of Roast
 
 Clear the stage to obtain the **new Quantum-Type** character Ascension material "Dream Flamer."
 
