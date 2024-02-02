@@ -1,3 +1,47 @@
+# ["Long Day's Journey Into Night" Trailblaze Mission Details](archive/461.md)
+## Version 2.0 Trailblaze Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/9f9d4884f42f4873c33c655bc19d3ab1_1066397399110003040.jpg)
+
+Penacony, the Land of Dreams, a hedonistic paradise where countless Dreamchasers long for — Are you ready to join the Watchmaker's feast?
+
+### Availability
+
+Permanently available after the Version 2.0 update
+
+### Requirement
+
+Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/362c1c145a3a0e60f4a77f49685bdbe7_3948325093609189065.png)
+
+-----
+
+# [Version 2.0 Companion Mission Details](archive/462.md)
+## Version 2.0 Companion Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/23/011d241f03758ec50dbba3cedeac0bf1_762277847597377102.jpg)
+
+Dear Trailblazers,
+
+After attaining the corresponding Trailblaze Level or completing the prerequisite missions, the following Companion Mission will be unlocked.
+
+### Masquerade Duet
+
+- Sparkle has left an eerie challenge letter for Black Swan, and the latter has to rise to the challenge...
+
+- Availability: Permanently available after the Version 2.0 update
+
+- Unlock Conditions: Complete the Trailblaze Mission "Penacony — Whodunit" and read specific Messages.
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/3ffa7b4dfe0ee91f4e834d709b5a1307_5882596921013697997.png)
+
+※ Trailblazer can use the Mission > Fate's Atlas system to check the unlock criteria for the previous versions' Companion Missions.
+
+-----
+
 # [New Stages for Version 2.0](archive/452.md)
 ## New Stages for Version 2.0
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/23/cc3ad21206d97d7754f92486330f5d04_5715451099015038408.jpg)
@@ -83,50 +127,6 @@ Successfully challenge the Calyx (Golden) stages in the Xianzhou Luofu to obtain
 Successfully challenge the Calyx (Golden) stages in Belobog to obtain Universal Enhancement Materials and synthesis materials on top of the already existing rewards.
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/71e0aba55fea583d904499e50530078f_193085422864894410.png)
-
------
-
-# ["Long Day's Journey Into Night" Trailblaze Mission Details](archive/461.md)
-## Version 2.0 Trailblaze Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/9f9d4884f42f4873c33c655bc19d3ab1_1066397399110003040.jpg)
-
-Penacony, the Land of Dreams, a hedonistic paradise where countless Dreamchasers long for — Are you ready to join the Watchmaker's feast?
-
-### Availability
-
-Permanently available after the Version 2.0 update
-
-### Requirement
-
-Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead"
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/362c1c145a3a0e60f4a77f49685bdbe7_3948325093609189065.png)
-
------
-
-# [Version 2.0 Companion Mission Details](archive/462.md)
-## Version 2.0 Companion Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/23/011d241f03758ec50dbba3cedeac0bf1_762277847597377102.jpg)
-
-Dear Trailblazers,
-
-After attaining the corresponding Trailblaze Level or completing the prerequisite missions, the following Companion Mission will be unlocked.
-
-### Masquerade Duet
-
-- Sparkle has left an eerie challenge letter for Black Swan, and the latter has to rise to the challenge...
-
-- Availability: Permanently available after the Version 2.0 update
-
-- Unlock Conditions: Complete the Trailblaze Mission "Penacony — Whodunit" and read specific Messages.
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/3ffa7b4dfe0ee91f4e834d709b5a1307_5882596921013697997.png)
-
-※ Trailblazer can use the Mission > Fate's Atlas system to check the unlock criteria for the previous versions' Companion Missions.
 
 -----
 
