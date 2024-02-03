@@ -256,6 +256,28 @@ Successfully challenge the Calyx (Golden) stages in Belobog to obtain Universal 
 
 -----
 
+# [New Version 2.0 Herta Contracts Details](archive/455.md)
+## New Version 2.0 Herta Contracts Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/624e98431d6345b3c8bc4f3745f70bde_8266436193377704610.png)
+
+Dear Trailblazers,
+
+After the Version 2.0 update — 2024/03/26 15:00:00 (server), new Herta Contracts will be coming to the Contract Shop!
+
+### Herta Contract: Roaming Refill
+
+Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
+
+Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply V2
+
+Contract Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
+
+-----
+
 # [Game Version 1.6 Optimization and Known Issues](archive/446.md)
 ## Game Version 1.6 Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
