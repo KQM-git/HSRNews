@@ -1,3 +1,87 @@
+# [Version 2.0 Update and Maintenance Notice](archive/451.md)
+## Version 2.0 Update and Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/8169f3540c7289ca830827357d5c5fa5_3627205160608088104.jpg)
+
+Dear Trailblazers,
+
+The Crew is set to conduct a version update and maintenance soon. The game will be updated to Version 2.0 "If One Dreams At Midnight" upon maintenance completion.
+
+During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
+
+### Update Time
+
+Begins at 2024/02/06 06:00:00 (global). The update will take approximately **5** hours.
+
+### How to Update
+
+After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+### Compensation Details
+
+■ Server Maintenance Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/02/06 06:00:00 (global)
+
+※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 2.0 ends.
+
+※ Version 2.0 will last for 7 weeks and will end at 2024/03/27 06:00:00 (global)
+
+### Device Specifications
+
+■ Recommended Specifications:
+
+- PC:
+
+Device specifications: i7/8G memory, discrete graphics card (Nvidia GeForce GTX 1060 or better)
+
+System: Windows 10 64-bit or higher
+
+- Android:
+
+Device specifications: Snapdragon 855, Dimensity 1000, Kirin 990, or better processors.
+
+RAM: 6 GB or more
+
+System: Android 9 or higher
+
+- iOS:
+
+Device specifications: iPhone X, iPhone XR, or later models. iPad with A12 processor or better
+
+System: iOS 11.0 or higher
+
+■ Supported Specifications
+
+- PC:
+
+Device specifications: i3/6G memory, discrete graphics card (Nvidia GeForce GTX 650 or better)
+
+System: Windows 7 64-bit or better
+
+- Android:
+
+Device specifications: Snapdragon 835, Dimensity 720, Kirin 810, or better processors.
+
+RAM: 4 GB or more
+
+System: Android 8 or better
+
+- iOS:
+
+Device specifications: iPhone 8 Plus or later models. iPad with A10 processor or higher
+
+System: iOS 11.0 or higher
+
+-----
+
 # ["Long Day's Journey Into Night" Trailblaze Mission Details](archive/461.md)
 ## Version 2.0 Trailblaze Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/9f9d4884f42f4873c33c655bc19d3ab1_1066397399110003040.jpg)
@@ -127,90 +211,6 @@ Successfully challenge the Calyx (Golden) stages in the Xianzhou Luofu to obtain
 Successfully challenge the Calyx (Golden) stages in Belobog to obtain Universal Enhancement Materials and synthesis materials on top of the already existing rewards.
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/71e0aba55fea583d904499e50530078f_193085422864894410.png)
-
------
-
-# [Version 2.0 Update and Maintenance Notice](archive/451.md)
-## Version 2.0 Update and Maintenance Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/8169f3540c7289ca830827357d5c5fa5_3627205160608088104.jpg)
-
-Dear Trailblazers,
-
-The Crew is set to conduct a version update and maintenance soon. The game will be updated to Version 2.0 "If One Dreams At Midnight" upon maintenance completion.
-
-During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
-
-### Update Time
-
-Begins at 2024/02/06 06:00:00 (global). The update will take approximately **5** hours.
-
-### How to Update
-
-After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
-
-- PC: Exit the game, restart the launcher, then click "Update"
-
-- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
-
-- iOS: Enter the App Store and tap "Update"
-
-### Compensation Details
-
-■ Server Maintenance Compensation
-
-Compensation: **Stellar Jade ×300**
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/02/06 06:00:00 (global)
-
-※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 2.0 ends.
-
-※ Version 2.0 will last for 7 weeks and will end at 2024/03/27 06:00:00 (global)
-
-### Device Specifications
-
-■ Recommended Specifications:
-
-- PC:
-
-Device specifications: i7/8G memory, discrete graphics card (Nvidia GeForce GTX 1060 or better)
-
-System: Windows 10 64-bit or higher
-
-- Android:
-
-Device specifications: Snapdragon 855, Dimensity 1000, Kirin 990, or better processors.
-
-RAM: 6 GB or more
-
-System: Android 9 or higher
-
-- iOS:
-
-Device specifications: iPhone X, iPhone XR, or later models. iPad with A12 processor or better
-
-System: iOS 11.0 or higher
-
-■ Supported Specifications
-
-- PC:
-
-Device specifications: i3/6G memory, discrete graphics card (Nvidia GeForce GTX 650 or better)
-
-System: Windows 7 64-bit or better
-
-- Android:
-
-Device specifications: Snapdragon 835, Dimensity 720, Kirin 810, or better processors.
-
-RAM: 4 GB or more
-
-System: Android 8 or better
-
-- iOS:
-
-Device specifications: iPhone 8 Plus or later models. iPad with A10 processor or higher
-
-System: iOS 11.0 or higher
 
 -----
 
