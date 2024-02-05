@@ -960,40 +960,6 @@ Following the arrival of Version 1.6, new content has also accompanied the updat
 
 -----
 
-# [New Version 1.6 Herta Contracts](archive/410.md)
-## New Version 1.6 Herta Contracts
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/06/624e98431d6345b3c8bc4f3745f70bde_3756762077178989279.png)
-
-Dear Trailblazers,
-
-Herta Contracts have been added to the Contract Shop!
-
-### Herta Contract: Roaming Share
-
-Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
-
-Contract Content: Traveler's Guide ×30, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
-
-### Herta Contract: Aether Refill
-
-Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
-
-Contract Content: Refined Aether ×25, Credit ×30,000
-
-Price: Oneiric Shard ×330. A maximum of **5** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Availability Period: After the Version 1.6 update ends – 2024/02/05 15:00:00 (server)
-
-Contract Content: **universal Path material Tears of Dreams ×150** and Credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
 # [Tales of the Fantastic: Now In Conventional Memoir](archive/417.md)
 ## Tales of the Fantastic Becoming A Permanent Game Mode
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/15/f6abdb014f91a0d12a04e850bd6f8cf2_449210600111185018.jpg)
