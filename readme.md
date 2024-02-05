@@ -1,3 +1,31 @@
+# [Dreamchaser Bulletin: Explore Penacony and complete missions to receive rewards such as Stellar Jades](archive/460.md)
+## Dreamchaser Bulletin Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/49a931a31f1bba349368a15ee79e93f4_3996629766241885083.jpg)
+
+On your way to Penacony, you receive a tabloid in your inbox. It may be worth examining to see if there is any noteworthy news.
+
+### Event Period
+
+After the Version 2.0 update — 2024/03/25 03:59:00 (server)
+
+### Participation Requirements
+
+Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead"
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/ad64e8580311c864f8af309f4a121d7e_2711521447946138792.png)
+
+### Event Details
+
+- During the event, Trailblazers will have access to all news bulletins on the page.
+
+- Trailblazers will receive rewards by completing the required news bulletins in Penacony.
+
+- During the event period, rewards for each news bulletin can only be obtained once.
+
+-----
+
 # [Version 2.0 Update and Maintenance Notice](archive/451.md)
 ## Version 2.0 Update and Maintenance Notice
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/8169f3540c7289ca830827357d5c5fa5_3627205160608088104.jpg)
