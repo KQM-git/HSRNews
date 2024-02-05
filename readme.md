@@ -1,3 +1,21 @@
+# [Survey With Rewards](archive/476.md)
+## Survey With Rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/02/7b68fb797d52db232782a5f3ed0d8aa7_3160821553234035970.png)
+
+Dear Trailblazers,
+
+To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
+
+### Survey Link
+
+[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzk-72qB-sebxwTTv9cvPliNriHgTajQnMKOoJyI8GHHFO&game_biz=hkrpg_global&surveyId=19659&format=1&sign_type=2&authkey_ver=1)
+
+### Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+-----
+
 # [Dreamchaser Bulletin: Explore Penacony and complete missions to receive rewards such as Stellar Jades](archive/460.md)
 ## Dreamchaser Bulletin Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/49a931a31f1bba349368a15ee79e93f4_3996629766241885083.jpg)
@@ -23,90 +41,6 @@ Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long 
 - Trailblazers will receive rewards by completing the required news bulletins in Penacony.
 
 - During the event period, rewards for each news bulletin can only be obtained once.
-
------
-
-# [Version 2.0 Update and Maintenance Notice](archive/451.md)
-## Version 2.0 Update and Maintenance Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/8169f3540c7289ca830827357d5c5fa5_3627205160608088104.jpg)
-
-Dear Trailblazers,
-
-The Crew is set to conduct a version update and maintenance soon. The game will be updated to Version 2.0 "If One Dreams At Midnight" upon maintenance completion.
-
-During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
-
-### Update Time
-
-Begins at 2024/02/06 06:00:00 (global). The update will take approximately **5** hours.
-
-### How to Update
-
-After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
-
-- PC: Exit the game, restart the launcher, then click "Update"
-
-- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
-
-- iOS: Enter the App Store and tap "Update"
-
-### Compensation Details
-
-■ Server Maintenance Compensation
-
-Compensation: **Stellar Jade ×300**
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/02/06 06:00:00 (global)
-
-※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 2.0 ends.
-
-※ Version 2.0 will last for 7 weeks and will end at 2024/03/27 06:00:00 (global)
-
-### Device Specifications
-
-■ Recommended Specifications:
-
-- PC:
-
-Device specifications: i7/8G memory, discrete graphics card (Nvidia GeForce GTX 1060 or better)
-
-System: Windows 10 64-bit or higher
-
-- Android:
-
-Device specifications: Snapdragon 855, Dimensity 1000, Kirin 990, or better processors.
-
-RAM: 6 GB or more
-
-System: Android 9 or higher
-
-- iOS:
-
-Device specifications: iPhone X, iPhone XR, or later models. iPad with A12 processor or better
-
-System: iOS 11.0 or higher
-
-■ Supported Specifications
-
-- PC:
-
-Device specifications: i3/6G memory, discrete graphics card (Nvidia GeForce GTX 650 or better)
-
-System: Windows 7 64-bit or better
-
-- Android:
-
-Device specifications: Snapdragon 835, Dimensity 720, Kirin 810, or better processors.
-
-RAM: 4 GB or more
-
-System: Android 8 or better
-
-- iOS:
-
-Device specifications: iPhone 8 Plus or later models. iPad with A10 processor or higher
-
-System: iOS 11.0 or higher
 
 -----
 
@@ -389,52 +323,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 - Fixes an issue in Simulated Universe: Gold and Gears where you cannot make occurrence choices in certain circumstances upon encountering the Occurrence "Mechanical City 'Cogito Hair Salon' — Genius Society."
 
 - Fixes an issue where you don't get Cheat attempts at the start of a challenge when you gain the Unlock Cheat Function effect from the Communing Trail: Remembrance.
-
------
-
-# [Pure Fiction: Challenge the new permanent game mode and obtain rewards such as Stellar Jades](archive/426.md)
-## Pure Fiction: Challenge the new permanent game mode and obtain rewards such as Stellar Jades
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/54517ab544340029960925c65c1c6af4_9146654071934453966.jpg)
-
-Pure Fiction contains a series of challenging stages. In this mode, you need to challenge the stages and earn the required number of points to pass the challenge and get splendid rewards. In addition, you will get extra rewards by achieving specific targets. The difficulty and rewards of Pure Fiction stages are not affected by your Equilibrium Level.
-
-### Availability
-
-Permanently available after 2024/01/08 04:00:00 (server)
-
-### How to Join
-
-Complete the Trailblaze Mission "Xianzhou Luofu — Demise of Immortality, Finale of Calamity," be at Equilibrium Level 3 or higher, and read specific Messages.
-
-### Gameplay Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/12/13/419e54d1293dcf4ff73129bad6a72c09_1135218323904269182.png)
-
-### How to Play
-
-- Completing the Adventure Mission **"Youci's Clever Decor"** will unlock Pure Fiction**.
-
-- In the Pure Fiction game mode, Trailblazers will need to challenge different stages and accumulate points. Each stage has two nodes. Trailblazers need to **assemble two teams** and **choose a buff for each team** before attempting the challenge.
-
-- Whimsicality: Each Pure Fiction event has its unique rules, resulting in various battle effects. The effects only take effect in the battles during the current event.
-
-- Cacophony: To deal with various Whimsicalities, various buffs are provided at the beginning of each Cacophony event. You can select one of the buffs before challenging any stage in the Pure Fiction.
-
-- During combat, enemies will continuously appear in a limited number of Cycles. Deal damage to enemies or defeat them to earn points.
-
-- Each stage contains two battles, namely Node 1 and Node 2. Your final points are the total points earned in both battles, and your highest points will be updated at the end of each battle.
-
-- Based on the points earned in each stage, Trailblazers will receive corresponding stars for that specific stage. Earning stars for the current Pure Fiction period can earn you various rewards based on the total start count.
-
-- Complete the Adventure Mission "Youci's Clever Decor" and clear Pure Fiction stage 2 during any phase to unlock the character Lynx (Abundance: Quantum).
-
-### Things to Note
-
-- The difficulty and rewards of Pure Fiction stages are **not affected by your Equilibrium Level**.
-
-- Pure Fiction will have its **stages and rewards updated periodically**. A new period of Pure Fiction will take effect every 28 days, and every period of Pure Fiction will last 42 days.
-
-- The highest Pure Fiction stage that you passed with 3 stars will be recorded. Whenever a new period starts, the recorded stage and all prior stages will be immediately unlocked according to your past performance. After performing quick unlock, you can directly challenge the highest stage that you passed with 3 stars. Once you have passed that stage with 3 stars, all the previous stages will be immediately cleared with a 3-star rating, and **all rewards from those stages** will be delivered. **No more than the first 3 stages** can be immediately unlocked in this way.
 
 -----
 
@@ -889,86 +777,6 @@ I have already listed them in the data bank and saved a few samples. Perhaps you
 ※ A message from Pom-Pom
 
 ※ After Version 1.6 update and until the end of Version 2.1, Trailblazers at **Equilibrium Level ≥ 1** will be able to claim **Tears of Dreams ×150** through their in-game mailbox.
-
------
-
-# ["Crown of the Mundane and Divine" Trailblaze Continuance Details](archive/430.md)
-## "Crown of the Mundane and Divine" Trailblaze Continuance Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/07/775366c1f20d4665a2975388cd9a4754_5073311655845766793.jpg)
-
-The space station has been bustling with activity lately. With the latest update to the Simulated Universe and the gathering of prominent figures from the Genius Society, everyone seems to have their own agenda. You can't help but feel that there might be some unexpected events on the horizon.
-
-### Availability
-
-Permanently available after the Version 1.6 update
-
-### Requirement
-
-Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy"
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/12/13/213b0d7cbbc8c25f36ebd600a4559186_175272961418129411.png)
-
------
-
-# [Tales of the Fantastic: Now In Conventional Memoir](archive/417.md)
-## Tales of the Fantastic Becoming A Permanent Game Mode
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/12/15/f6abdb014f91a0d12a04e850bd6f8cf2_449210600111185018.jpg)
-
-Many on the Xianzhou are already speaking of the feats of the Nameless. The storyteller also hopes the Trailblazer can help him to retell the stories of their trailblazing adventure.
-
-※ "Tales of the Fantastic" will be moved to Conventional Memoir after the Version 1.6 update, where Trailblazers can continue to experience its gameplay.
-
-### Permanent Game Mode Details
-
-- After "Tales of the Fantastic" becomes a permanent game mode, the previous **event challenge progress**, **points**, and **reward claim status** will be **retained**.
-
-- Trailblazers who haven't completed all the event content or missions can continue to challenge the gameplay after it is unlocked to get rewards.
-
-- If Trailblazers haven't completed missions related to "Tales of the Fantastic," they can experience the game mode from the start of the corresponding mission after it is unlocked.
-
-- If the current event is concluded, and **there are completed but unclaimed event rewards**, they will be sent during Version 1.6 through the in-game mail.
-
-- If Trailblazers have participated in the full event before and claimed all rewards, they **cannot replay the challenges** to receive additional rewards.
-
-### Availability
-
-Permanently available after the Version 1.6 update
-
-### Participation Requirement
-
-Complete the Trailblaze Mission "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant"
-
-### Gameplay Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2023/12/19/af6b9cde221ceb8943bde6a61c98608a_2689175048156790360.png)
-
-### Gameplay Rules
-
-- There are a total of 3 Hero's Journeys. Upon completion of each Journey, some "Legends Past and Present" combat challenges will be unlocked.
-
-- Once Trailblazers complete a Hero's Journey, they will receive a Protagonist Model and gradually improve the abilities within it. These abilities can help to form a more riveting experience in Legends Past and Present.
-
-- The Protagonist Model can provide various Plot Armor combinations that can be freely adjusted, and their effects will be active in Legends Past and Present.
-
-- Good combinations of Plot Armor in the Protagonist Model will result in higher combat scores.
-
-- Trailblazers can use trial characters in Legends Past and Present.
-
-- During combat, enemies will continuously appear for a limited number of rounds. Points will be awarded for dealing damage to and defeating enemies. At the end of each battle, the highest score will be updated based on the results of the current challenge.
-
-- Increasing the Equilibrium Level will also increase enemy and trial character levels in the event.
-
-■ Reward Claim Details
-
-- Trailblazers can claim challenge rewards from the Rewards List after reaching certain scores in Legends Past and Present.
-
-- When at least 10,000 points have been scored for each Legend Past and Present, a new section of the Readable Legend of the Trailblazer will be unlocked that corresponds to this particular Legend Past and Present. The key characters in the text will also experience changes depending on the characters used.
-
-- When all sections of the Readable have been unlocked, the item Legend of the Trailblazer can be claimed and you can review the story in your Inventory among mission items.
-
-- After claiming Legend of the Trailblazer, you can go to Mr. Xiyan to restart the battles and change the characters scribed in the story.
 
 -----
 
