@@ -1,21 +1,3 @@
-# [Survey With Rewards](archive/476.md)
-## Survey With Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/02/7b68fb797d52db232782a5f3ed0d8aa7_3160821553234035970.png)
-
-Dear Trailblazers,
-
-To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
-
-### Survey Link
-
-[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzk-72qB-sebxwTTv9cvPliNriHgTajQnMKOoJyI8GHHFO&game_biz=hkrpg_global&surveyId=19659&format=1&sign_type=2&authkey_ver=1)
-
-### Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
------
-
 # [Dreamchaser Bulletin: Explore Penacony and complete missions to receive rewards such as Stellar Jades](archive/460.md)
 ## Dreamchaser Bulletin Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/49a931a31f1bba349368a15ee79e93f4_3996629766241885083.jpg)
@@ -85,6 +67,24 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 ![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/3ffa7b4dfe0ee91f4e834d709b5a1307_5882596921013697997.png)
 
 ※ Trailblazer can use the Mission > Fate's Atlas system to check the unlock criteria for the previous versions' Companion Missions.
+
+-----
+
+# [Survey With Rewards](archive/476.md)
+## Survey With Rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/02/7b68fb797d52db232782a5f3ed0d8aa7_3160821553234035970.png)
+
+Dear Trailblazers,
+
+To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
+
+### Survey Link
+
+[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzk-72qB-sebxwTTv9cvPliNriHgTajQnMKOoJyI8GHHFO&game_biz=hkrpg_global&surveyId=19659&format=1&sign_type=2&authkey_ver=1)
+
+### Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
 
 -----
 
