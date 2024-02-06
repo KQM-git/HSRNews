@@ -70,6 +70,40 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 
 -----
 
+# [Game Version 2.0 Optimization and Known Issues](archive/484.md)
+## Game Version 2.0 Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Known Issues
+
+■2024/02/06
+
+- There is a known issue where Basic Treasures may disappear from the map due to a map error after speaking with Aventurine during the Trailblaze Mission "Penacony - The Youths Who Chase Dreams." To obtain the missing Basic Treasures, Trailblazers can go to the corresponding map during the Adventure Mission "The Trees At Peace." The dialogue-manifested map error will be fixed in the Version 2.1 update.
+
+- There's a known issue on certain Samsung devices where the game may crash during the download or verification process. This problem will be fixed in future updates. If Trailblazers run into this issue, please go to the [Login menu] - [Settings] and change the [Display Mode] from [Compatible Mode] to [ Normal Mode] and restart the game to resolve the issue.
+
+### Game Updates and Improvements Overview
+
+■2024/02/06
+
+- Fixes an issue in the Trailblaze Mission "Penacony - The Youths Who Chase Dreams" where the game may show a white screen after speaking with the "hotel doorman" and interacting with the door.
+
+- Fixes an issue in the Trailblaze Mission "Penacony - The Youths Who Chase Dreams" where there is a chance you cannot interact with the door after speaking with the "hotel doorman."
+
+- Fixes an issue where there is a chance for stage verification failure after using the "Dreamy Cone (Three Flavors)" item before entering battle.
+
+- Fixes an issue where there would still be a red dot displayed on the [Phone] when the "Dreamscape Pass" has new content even if the Trailblazer is in a map outside of "Penacony."
+
+- Fixes an issue where the red dot for the "Navigation - Holographic Overview" will not go away.
+
+- Adjusts the name and description of the "Pika White Grape Soda" item.
+
+-----
+
 # [Survey With Rewards](archive/476.md)
 ## Survey With Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/02/7b68fb797d52db232782a5f3ed0d8aa7_3160821553234035970.png)
