@@ -242,7 +242,7 @@ Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account whil
 
 # [Version 2.0 "If One Dreams At Midnight" Update](archive/448.md)
 ## Version 2.0 Update
-
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/06/7a466df6b1531f80489d5be9b3db9a9f_4562964224995319165.png)
 
 A new journey is about to begin in Penacony, the Planet of Festivities — Enjoy your vacation in a gilded dream!
 
@@ -459,8 +459,6 @@ New Stages for Penacony and the Xianzhou Luofu:
 - New Dreamscape Pass: A copy of the Dreamscape Scrapbook held by every guest of The Reverie Hotel. Trailblazers can collect stickers by exploring Penacony and via completing missions and world missions. Using the stickers to decorate the scrapbook will increase the completion of the corresponding pages and earn rewards. After collecting a certain number of stickers, corresponding rewards can be claimed from the Sticker Collection as well!
 
 - New "Clockie's Offering": By exploring Penacony and completing missions, Trailblazers can obtain "Clock Credits" to upgrade the Clockie Statue Level and collect corresponding rewards.
-
-- New Honkai: Star Rail - Cloud access point on the phone that Trailblazers can select and use.
 
 **■ Gameplay**
 
