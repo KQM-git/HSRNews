@@ -336,7 +336,7 @@ Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
 
 Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
 
-**■ 5-Star "What Is Real? (Abundance)"**
+**■ 4-Star "What Is Real? (Abundance)"**
 
 Can be exchanged with Lucent Afterglow at the Light Cone Manifest store.
 
