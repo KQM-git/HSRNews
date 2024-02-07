@@ -16,6 +16,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/02/07
+
+- Fixes an issue in the Trailblazing Mission "Penacony — Whodunit" where, after knocking down the chandelier, there was a chance that players could not proceed further in the mission. Trailblazers who have run into this issue can resolve it by re-entering the map "The Reverie (Dreamscape)" and continuing the mission as normal.
+
 ■2024/02/06
 
 - Fixes an issue in the Trailblaze Mission "Penacony - The Youths Who Chase Dreams" where the game may show a white screen after speaking with the "hotel doorman" and interacting with the door.
