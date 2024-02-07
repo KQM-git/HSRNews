@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2024/02/07
+
+- There is a known issue that when leaving Robert's Synesthesia Dreamscape in the Adventure Mission "Cosmic Star," map abnormalities will lead to an inability to proceed with the mission. If Trailblazers encounter this issue, they can resolve it by restarting the game.
+
 ■2024/02/06
 
 - There is a known issue where Basic Treasures may disappear from the map due to a map error after speaking with Aventurine during the Trailblaze Mission "Penacony - The Youths Who Chase Dreams." To obtain the missing Basic Treasures, Trailblazers can go to the corresponding map during the Adventure Mission "The Trees At Peace." The dialogue-manifested map error will be fixed in the Version 2.1 update.
@@ -19,6 +23,20 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 ■2024/02/07
 
 - Fixes an issue in the Trailblazing Mission "Penacony — Whodunit" where, after knocking down the chandelier, there was a chance that players could not proceed further in the mission. Trailblazers who have run into this issue can resolve it by re-entering the map "The Reverie (Dreamscape)" and continuing the mission as normal.
+
+- Fixes an issue where the screen has a chance of being abnormal when viewing other Trailblazers' [Trailblazer Profiles].
+
+- Fixes an issue where there is a chance that the [Missions] menu might display blank missions after completing the Adventure Mission "Cosmic Star."
+
+- Fixes an issue where the game's progress becomes abnormal after interacting with a vending machine near the "Goethe Hotel" in the "Administrative District" map.
+
+- Fixes an issue where some objects in the map have a chance of becoming blurry.
+
+- Fixes an issue where there was a chance of being unable to continue the Trailblaze Mission "Penacony — The Sound and the Fury" when interacting with the hotel elevator in poor network conditions.
+
+- Fixes an issue where the screen would abnormally turn white in the map "The Reverie (Reality)" when using certain Android devices.
+
+- Fixes an issue where, during the Trailblaze Mission "Penacony — Whodunit," players may encounter black screen when performing certain operations to leave and return to the location "The Reverie — Dreamscape."
 
 ■2024/02/06
 
