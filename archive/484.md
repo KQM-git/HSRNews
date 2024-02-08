@@ -22,7 +22,17 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ■2024/02/08
 
-- The Express Crew has received feedback that there was an error in the Automaton Stealth Bomb and Mine Cart Puzzle gameplay. This problem has been fixed.
+- The Express Crew has received feedback that there was an error in the Automaton Stealth Bomb and Mine Cart Puzzle gameplay.This problem has been fixed.
+
+- Fixes an issue where there was a chance of being unable to complete the gameplay "Dream Ticker" when using mobile devices and setting the image quality to "Very Low."
+
+- Fixes an issue where during the Trailblaze Mission "Penacony - Through a Glass Darkly," there are certain abnormal NPCs displayed in the Golden Hour map.
+
+- Fixes an issue in where there was an abnormal option labeled [Investigate] in the "Hanu's Prison Break" that renders the game unable to progress after being selected.
+
+- Adjusts certain dialgoue choices for the conversation with NPC "Dr. Edward." Adds the [Touch the Memory Bubble.] choice and removes [Nameless's Memory Bubble]. After the adjustment, Trailblazers can choose the [I have some dreams to share with you.] line to continue explore related topics. Concurrently, they can select [Touch the Memory Bubble.] under the  [Can we talk for a while?] dialogue option to view the [Nameless's Memory Bubble].
+
+- Fixes an issue where there is a chance of encountering an abnormality in combat when facing the enemy "Dreamjolt Troupe's Sweet Gorilla."
 
 ■2024/02/07
 
@@ -33,8 +43,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 - Fixes an issue where there is a chance that the [Missions] menu might display blank missions after completing the Adventure Mission "Cosmic Star."
 
 - Fixes an issue where the game's progress becomes abnormal after interacting with a vending machine near the "Goethe Hotel" in the "Administrative District" map.
-
-- Fixes an issue where some objects in the map have a chance of becoming blurry.
 
 - Fixes an issue where there was a chance of being unable to continue the Trailblaze Mission "Penacony — The Sound and the Fury" when interacting with the hotel elevator in poor network conditions.
 
