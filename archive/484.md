@@ -18,6 +18,8 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ■2024/02/09
 
+- Fixes an issue where there is a chance that players could not progress the game after completing the "Hanu's Adventure" stage in the "Hanu's Prison Break" event. If you run into this issue, please restart the game and allow the game to download the latest update.
+
 - Fixes an issue that when leaving Robert's Synesthesia Dreamscape in the Adventure Mission "Cosmic Star," map abnormalities will lead to an inability to proceed with the mission.
 
 ■2024/02/08
