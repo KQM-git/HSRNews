@@ -8,10 +8,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
-■2024/02/07
-
-- There is a known issue that when leaving Robert's Synesthesia Dreamscape in the Adventure Mission "Cosmic Star," map abnormalities will lead to an inability to proceed with the mission. If Trailblazers encounter this issue, they can resolve it by restarting the game.
-
 ■2024/02/06
 
 - There is a known issue where Basic Treasures may disappear from the map due to a map error after speaking with Aventurine during the Trailblaze Mission "Penacony - The Youths Who Chase Dreams." To obtain the missing Basic Treasures, Trailblazers can go to the corresponding map during the Adventure Mission "The Trees At Peace." The dialogue-manifested map error will be fixed in the Version 2.1 update.
@@ -19,6 +15,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 - There's a known issue on certain Samsung devices where the game may crash during the download or verification process. This problem will be fixed in future updates. If Trailblazers run into this issue, please go to the [Login menu] - [Settings] and change the [Display Mode] from [Compatible Mode] to [ Normal Mode] and restart the game to resolve the issue.
 
 ### Game Updates and Improvements Overview
+
+■2024/02/09
+
+- Fixes an issue that when leaving Robert's Synesthesia Dreamscape in the Adventure Mission "Cosmic Star," map abnormalities will lead to an inability to proceed with the mission.
 
 ■2024/02/08
 
