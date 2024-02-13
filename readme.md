@@ -158,30 +158,6 @@ Survey responses cannot be changed after submission. Please be sure to fill out 
 
 -----
 
-# [HoYoFair Music Selection #1 Now Released](archive/468.md)
-## HoYoFair Music Selection #1 Now Released
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/05/bf199a684c053b3130ea9d5e08f8456c_6771977728551943923.jpg)
-
-The first EP "First Contact" from the HoYoFair-initiated fan music project, Star Rail HoYoFair Music Selection, is now available on major streaming platforms!
-
-[ Learn More](https://hoyo.link/dnzgFBAL)
-
-### Content Introduction
-
-- "First Contact" includes sides A/B with a total of 17 tracks. The A-Side records 11 original songs and the May'n Cover of the game's official release song "Interstellar Journey". The B-Side has 5 reinterpretations of Honkai: Star Rail OST from the "Cosmic Remix" Fan Concert.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/c55678424b65db5ec2742150444566f0_2392560973678258125.jpg)
-
-Additionally, listen to the EP and share how you feel about the music for a chance to win original "First Contact" series merchandise!
-
-[ Go to the event](https://hoyo.link/dnzgFBAL)
-
-- Event Duration: 2024/02/09 18:00:00 (global) - 2024/03/03 23:59:00 (global)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/05/1ac3af1443843f67935701f1018f0b90_7500878506542093536.jpg)
-
------
-
 # [Version 2.0 Nameless Honor Details](archive/454.md)
 ## Version 2.0 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/35ec693425963336e2991a0d65d59421_2352913138518186611.jpg)
