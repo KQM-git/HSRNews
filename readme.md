@@ -16,6 +16,26 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/02/18
+
+- Fixes the issue where there is a chance Trailblazers are unable to claim the rewards after defeating enemy Warp Trotters following the V2.0 update. If you have already encountered this issue, please defeat the enemy Warp Trotter again following the V2.1 update to claim the rewards as normal.
+
+- Fixes an issue where certain images have a chance of being abnormally displayed in Fate's Atlas.
+
+- Fixes an issue where there is a chance for the game's progression to become abnormal when you head to acquire character ascension materials from the Team Setup interfaces in certain game modes.
+
+- Fixes an issue where you cannot enter the regular Simulated Universe in the Simulated Universe game mode.
+
+- Fixes an issue where there is a chance that jigsaw pieces won't be displayed on certain Android devices in the "Dream Jigsaw" game mode.
+
+- Fixes an issue where there is a chance you cannot complete Black Swan's Memory Bubble stage during the Companion Mission "Masquerade Duet." Trailblazers who have encountered this issue can follow the directions to complete this mission.
+
+- Fixes the issue where the brief description of the "Arcana" debuff was incorrect. This fix is for text only and doesn't affect the actual effects.
+
+- Fixes an issue where the NPC "Barrle's" name has errors in certain maps.
+
+- Fixes the issue where the brief description of the enemy "Aurumaton Gatekeeper's" "Farewell Etiquette" ability was incorrect. This fix is for text only and doesn't affect the actual effects.
+
 ■2024/02/09
 
 - Fixes an issue where there is a chance that players could not progress the game after completing the "Hanu's Adventure" stage in the "Hanu's Prison Break" event. If you run into this issue, please restart the game and allow the game to download the latest update.
