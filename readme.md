@@ -88,16 +88,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [EP: The Flapper Sinthome (Part 1)](archive/502.md)
-## EP: The Flapper Sinthome (Part 1)
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/08/0881563b3ced882295cd97fda01fec9c_1151696372507731008.jpg)
-
-One's desires must be satisfied through denial, and love means giving something you don't have to someone who doesn't want it.
-
-[ Watch now](https://youtu.be/J-cn3BPK2cw)
-
------
-
 # [Dreamchaser Bulletin: Explore Penacony and complete missions to receive rewards such as Stellar Jades](archive/460.md)
 ## Dreamchaser Bulletin Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/49a931a31f1bba349368a15ee79e93f4_3996629766241885083.jpg)
@@ -185,6 +175,16 @@ To better understand Trailblazers' gaming habits and provide a better gaming exp
 ### Note
 
 Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+-----
+
+# [EP: The Flapper Sinthome (Part 1)](archive/502.md)
+## EP: The Flapper Sinthome (Part 1)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/08/0881563b3ced882295cd97fda01fec9c_1151696372507731008.jpg)
+
+One's desires must be satisfied through denial, and love means giving something you don't have to someone who doesn't want it.
+
+[ Watch now](https://youtu.be/J-cn3BPK2cw)
 
 -----
 
