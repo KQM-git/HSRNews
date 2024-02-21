@@ -112,6 +112,16 @@ Unlock Simulated Universe: World 3
 
 -----
 
+# [EP: The Flapper Sinthome (Part 2)](archive/503.md)
+## EP: The Flapper Sinthome (Part 2)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/20/f5157aeb090b350862737f3bdbf7d9da_7665631080843343917.jpg)
+
+In essence, are dreams not a means to pay homage to the lost aspects of reality?
+
+[ Watch now](https://youtu.be/7-Q3ieKKgKA)
+
+-----
+
 # [Dreamchaser Bulletin: Explore Penacony and complete missions to receive rewards such as Stellar Jades](archive/460.md)
 ## Dreamchaser Bulletin Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/49a931a31f1bba349368a15ee79e93f4_3996629766241885083.jpg)
