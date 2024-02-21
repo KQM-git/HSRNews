@@ -16,6 +16,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/02/21
+
+- Fixes an issue where in certain situations Trailblazers cannot head to the Dreamscape Lobby during the progress of the Trailblaze Mission "Penacony - Should One Awaken at Midnight."
+
+- Fixes an issue where there is an abnormal probability of obtaining the materials "Dream Making Engine" and "Shards of Desires" after defeating elite or boss enemies in the Simulated Universe.
+
 ■2024/02/18
 
 - Fixes the issue where there is a chance Trailblazers are unable to claim the rewards after defeating enemy Warp Trotters following the V2.0 update. If you have already encountered this issue, please defeat the enemy Warp Trotter again following the V2.1 update to claim the rewards as normal.
