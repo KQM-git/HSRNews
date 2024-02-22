@@ -226,16 +226,6 @@ Survey responses cannot be changed after submission. Please be sure to fill out 
 
 -----
 
-# [EP: The Flapper Sinthome (Part 1)](archive/502.md)
-## EP: The Flapper Sinthome (Part 1)
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/08/0881563b3ced882295cd97fda01fec9c_1151696372507731008.jpg)
-
-One's desires must be satisfied through denial, and love means giving something you don't have to someone who doesn't want it.
-
-[ Watch now](https://youtu.be/J-cn3BPK2cw)
-
------
-
 # [Version 2.0 Nameless Honor Details](archive/454.md)
 ## Version 2.0 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/35ec693425963336e2991a0d65d59421_2352913138518186611.jpg)
