@@ -20,6 +20,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/02/22
+
+- Fixes an issue where there was a chance for the game to crash when Trailblazers enter battle on some Android devices.
+
 ■2024/02/21
 
 - Fixes an issue where in certain situations Trailblazers cannot head to the Dreamscape Lobby during the progress of the Trailblaze Mission "Penacony - Should One Awaken at Midnight."
