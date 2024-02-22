@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2024/02/22
+
+- It is known that the reminder email for the end of the "Planar Fissure" limited-time event is being sent out at an abnormal time. In Version 2.0, the end time for the "Planar Fissure" limited-time event is 2024/02/29 03:59:00 (server). Please plan your challenge time accordingly, Trailblazers.
+
 ■2024/02/06
 
 - There is a known issue where Basic Treasures may disappear from the map due to a map error after speaking with Aventurine during the Trailblaze Mission "Penacony - The Youths Who Chase Dreams." To obtain the missing Basic Treasures, Trailblazers can go to the corresponding map during the Adventure Mission "The Trees At Peace." The dialogue-manifested map error will be fixed in the Version 2.1 update.
