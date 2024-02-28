@@ -20,6 +20,16 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/02/28
+
+- Optimizes how certain in-game scenery models perform when using specific devices.
+
+- Optimizes the achievement name of "If I Can Save One Heart From Cracking."
+
+- Fixes an issue where the Trailblaze Mission "Penacony — Good Omen, My Friend" has a chance of abnormally disappearing. Trailblazers who encounter this issue can continue their mission progress through their mission interface.
+
+- Fixes the issue where the description of the "Avgin" entry was incorrect during the loading interface.
+
 ■2024/02/22
 
 - Fixes an issue where there was a chance for the game to crash when Trailblazers enter battle on some Android devices.
