@@ -110,30 +110,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/458.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/9d378e12a5b9f4685446d59593ae318b_4510897352352542401.png)
-
-### Event Period
-
-2024/02/22 04:00:00 (server) – 2024/02/29 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event period, get double rewards from immersion devices in the Simulated Universe.
-
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Dreamchaser Bulletin: Explore Penacony and complete missions to receive rewards such as Stellar Jades](archive/460.md)
 ## Dreamchaser Bulletin Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/49a931a31f1bba349368a15ee79e93f4_3996629766241885083.jpg)
