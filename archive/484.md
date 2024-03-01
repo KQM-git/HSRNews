@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2024/03/01
+
+- It is known that, in the Simulated Universe, possessing the Curio "Infinitely Recursive Code" or when the Dice Face effect is "Propagation: Spinal Cord Regrown" or "General Buff: Rejuvenation," there is a probability of abnormal effects occurring with Sparkle (Harmony: Quantum)'s Talent "Red Herring." This issue will be fixed in version 2.1.
+
 ■2024/02/06
 
 - There is a known issue where Basic Treasures may disappear from the map due to a map error after speaking with Aventurine during the Trailblaze Mission "Penacony - The Youths Who Chase Dreams." To obtain the missing Basic Treasures, Trailblazers can go to the corresponding map during the Adventure Mission "The Trees At Peace." The dialogue-manifested map error will be fixed in the Version 2.1 update.
