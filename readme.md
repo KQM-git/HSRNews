@@ -20,6 +20,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/03/04
+
+- Updates certain related resources for subsequent content.
+
 ■2024/02/28
 
 - Fixes an issue where certain environments are abnormally displayed in "Penacony" for certain devices.
