@@ -8,9 +8,13 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2024/03/06
+
+- It is known that stage points in Pure Fiction: An Expression of Eloquence have a chance of exceeding 80,000. After the issue is fixed, re-challenging the stage will see the max points capped at 80,000.
+
 ■2024/03/01
 
-- It is known that, in the Simulated Universe, possessing the Curio "Infinitely Recursive Code" or when the Dice Face effect is "Propagation: Spinal Cord Regrown" or "General Buff: Rejuvenation," there is a probability of abnormal effects occurring with Sparkle (Harmony: Quantum)'s Talent "Red Herring." This issue will be fixed in version 2.1.
+- It is known that, in the Simulated Universe, possessing the Curio "Infinitely Recursive Code" or when the Dice Face effect is "Propagation: Spinal Cord Regrown" or "General Buff: Rejuvenation," there is a probability of abnormal effects occurring with Sparkle (Harmony: Quantum)'s Talent "Red Herring." This issue will be fixed in version 2.1.
 
 ■2024/02/06
 
@@ -19,6 +23,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 - There's a known issue on certain Samsung devices where the game may crash during the download or verification process. This problem will be fixed in future updates. If Trailblazers run into this issue, please go to the [Login menu] - [Settings] and change the [Display Mode] from [Compatible Mode] to [ Normal Mode] and restart the game to resolve the issue.
 
 ### Game Updates and Improvements Overview
+
+■2024/03/06
+
+- Optimizes certain English voice-over lines for the Trailblaze Mission "Penacony — Gentleness, the Name of Nocturne." The use of the word "rock" was incorrect in the context of the sentence. The subtitles have been adjusted to: "Here's a hint for you — Since you can't convince anyone, why don't you befriend a mute? At least a mute won't be able to refute your arguments, haha." The changes will take effect for English voice lines in version 2.2.
 
 ■2024/03/04
 
