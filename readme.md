@@ -126,6 +126,30 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/459.md)
+## Garden of Plenty Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/658a5b95b1fcbbce4821d4185131fc76_7888307327110028257.png)
+
+### Event Period
+
+2024/03/16 04:00:00 (server) – 2024/03/23 03:59:00 (server)
+
+### Participation Requirements
+
+Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
+
+### Event Details
+
+- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive double rewards.
+
+- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- The number of daily double reward opportunities is **limited** and can be viewed in the Garden of Plenty event page.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # [Penacony Food Fest: Submit the designated ingredients to obtain Stellar Jades and rewards](archive/456.md)
 ## Penacony Food Fest Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/04/30f5e1c0be06a7a833096d38b0bad18f_2058496094050354403.jpg)
