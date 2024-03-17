@@ -1,3 +1,23 @@
+# [First-Time Top-up Bonus Refreshed](archive/515.md)
+## First-Time Top-up Bonus Refreshed
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/954ba8dc153d6b4f7d2a2763dc5345c9_2460521990710471394.jpg)
+
+Dear Trailblazers,
+
+After the V2.1 update, the shop's Oneiric Pouch interface will reset the first-time top-up. All Oneiric Shard bundles will reset their first top-up bonus state.
+
+### Reset Time
+
+After the V2.1 update
+
+### Reset Details
+
+- After the reset, all bundles will have their first top-up bonus refreshed.
+
+- When a bundle that the player has not purchased before is reset, the previous first top-up bonus will not be retained, and the bonus will not be triggered twice after the reset.
+
+-----
+
 # [Game Version 2.0 Optimization and Known Issues](archive/484.md)
 ## Game Version 2.0 Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
