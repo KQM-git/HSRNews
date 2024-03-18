@@ -170,36 +170,6 @@ Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
 
 -----
 
-# [Penacony Food Fest: Submit the designated ingredients to obtain Stellar Jades and rewards](archive/456.md)
-## Penacony Food Fest Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/04/30f5e1c0be06a7a833096d38b0bad18f_2058496094050354403.jpg)
-
-The Clock Diner in the commercial district is holding an annual food festival. Bring your own ingredients and we'll cook them for free. Dreamy food, delivered by mail!
-
-### Event Period
-
-2024/03/06 12:00:00 (server) – 2024/03/18 03:59:00 (server)
-
-### Participation Requirement
-
-Complete the Trailblaze Mission "Penacony — Tales from the Golden Age"
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/18/dae535e36a84aa082b5a47919f373472_4740265094934823577.png)
-
-### Event Details
-
-- During the event, Jay will reveal a new Dreamy Cuisine dish **every day** and its required ingredients. There are a total of **7** dishes.
-
-- Once the Trailblazer has **collected and submitted the cuisine dish's required ingredients for the day**, they will receive the **corresponding cuisine and rewards**.
-
-- When Trailblazers submit their ingredients, the diners will produce the related Dreamy Cuisine dish, and when the time comes, Trailblazers will also receive **corresponding replies from their friends**.
-
-- As the Food Fest progresses, Trailblazers can also select an **Express Crew companion** they wish to gift a reward to on the **last day** and receive a **special letter** from said companion.
-
------
-
 # [Dreamchaser Bulletin: Explore Penacony and complete missions to receive rewards such as Stellar Jades](archive/460.md)
 ## Dreamchaser Bulletin Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/49a931a31f1bba349368a15ee79e93f4_3996629766241885083.jpg)
