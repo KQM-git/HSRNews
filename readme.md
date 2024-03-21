@@ -18,6 +18,40 @@ After the V2.1 update
 
 -----
 
+# [Store — Embers Exchange and Store — Starlight Exchange Update](archive/522.md)
+## Store Exchange Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/06/15/d39fc89b1b63bd9efd4d354b1206f252_8523203206174795633.png)
+
+Dear Trailblazers,
+
+Store — Embers Exchange and Store — Starlight Exchange Update
+
+### Store — Embers Exchange Update
+
+- Update Time
+
+2024/04/01 04:00:00 (server)
+
+※ Please note the exchange limit. Item availability will be reset on the 1st day of every month at 04:00 (server time).
+
+- Update Content
+
+Alien Tree Seed, Nourishing Honey, Scattered Stardust, Crystal Meteorites
+
+### Store — Starlight Exchange Update
+
+- Update Time
+
+After the V2.1 update
+
+- Update Content
+
+Tracks of Destiny
+
+※ Exchange Pre-requisite: Trailblaze Level 40 or above
+
+-----
+
 # [Game Version 2.0 Optimization and Known Issues](archive/484.md)
 ## Game Version 2.0 Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
