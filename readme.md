@@ -100,6 +100,46 @@ System: iOS 12.0 or higher
 
 -----
 
+# [Play Simulated Universe: World 9 to Get New Planar Ornaments](archive/509.md)
+## Simulated Universe: World 9 Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/fe0b8fb1373a51dab0101997d90afaa6_3441716243552704406.jpg)
+
+### Availability
+
+Permanently available after the Version 2.1 update
+
+### Simulated Universe: World 9 Unlock Requirements
+
+World 9 will be unlocked in the Simulated Universe after passing Simulated Universe: World 8.
+
+### Planar Ornament Details
+
+Challenge Simulated Universe: World 9 and use Trailblaze Power or Immersifier to obtain new Planar Ornaments from Immersion Rewards.
+
+New Planar Ornament Effects Preview:
+
+- Sigonia, the Unclaimed Desolation
+
+Link Rope: Sigonia's Knot of Cyclicality
+
+Planar Sphere: Sigonia's Gaiathra Berth
+
+2-Pc Set effect:
+
+Increases the wearer's CRIT Rate by 4%. When enemies are defeated, the wearer's CRIT DMG increases by 4%, up to 10 times.
+
+- Izumo Gensei and Takama Divine Realm
+
+Link Rope: Izumo's Blades of Origin and End
+
+Planar Sphere: Izumo's Magatsu no Morokami
+
+2-Pc Set effect:
+
+Increases the wearer's ATK by 12%. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by 12%.
+
+-----
+
 # [New Stagnant Shadow and Calyx (Crimson) Stages](archive/514.md)
 ## Version 2.1 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/68866258e50ae4fb9f63bf58dd8fb249_7096358593774532227.jpg)
