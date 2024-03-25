@@ -346,34 +346,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [Dreamchaser Bulletin: Explore Penacony and complete missions to receive rewards such as Stellar Jades](archive/460.md)
-## Dreamchaser Bulletin Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/49a931a31f1bba349368a15ee79e93f4_3996629766241885083.jpg)
-
-On your way to Penacony, you receive a tabloid in your inbox. It may be worth examining to see if there is any noteworthy news.
-
-### Event Period
-
-After the Version 2.0 update — 2024/03/25 03:59:00 (server)
-
-### Participation Requirements
-
-Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead"
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/ad64e8580311c864f8af309f4a121d7e_2711521447946138792.png)
-
-### Event Details
-
-- During the event, Trailblazers will have access to all news bulletins on the page.
-
-- Trailblazers will receive rewards by completing the required news bulletins in Penacony.
-
-- During the event period, rewards for each news bulletin can only be obtained once.
-
------
-
 # ["Long Day's Journey Into Night" Trailblaze Mission Details](archive/461.md)
 ## Version 2.0 Trailblaze Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/9f9d4884f42f4873c33c655bc19d3ab1_1066397399110003040.jpg)
@@ -433,48 +405,6 @@ To better understand Trailblazers' gaming habits and provide a better gaming exp
 ### Note
 
 Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
------
-
-# [Version 2.0 Nameless Honor Details](archive/454.md)
-## Version 2.0 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/35ec693425963336e2991a0d65d59421_2352913138518186611.jpg)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as **Star Rail Passes, Self-Modeling Resins, and Tracks of Destiny**.
-
-After unlocking Nameless Glory, you will immediately obtain **Stellar Jades ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Self-Modeling Resin ×1, Relic Remains, the universal Path material Tears of Dreams**, and more!
-
-Upon purchasing the Nameless Medal, in addition to the rewards mentioned above, Trailblazers will also immediately **increase Nameless Honor level by 10** and receive the avatar **"Sparkle: Illusion"**, the avatar**"Sampo: Illusion," Stellar Jade ×200, and Fuels**!
-
-### Start Date
-
-After the Version 2.0 update — 2024/03/25 03:59:00 (server)
-
-### Participation Requirements
-
-Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes, Self-Modeling Resin, Tracks of Destiny**, and more.
-
-- This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Note
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/03/25 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/03/24 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
 
 -----
 
