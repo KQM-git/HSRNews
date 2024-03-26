@@ -20,7 +20,7 @@ After the V2.1 update
 
 # [Version 2.1 "Into the Yawning Chasm" Update](archive/516.md)
 ## Version 2.1 Update
-
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/26/7a466df6b1531f80489d5be9b3db9a9f_3082899161961503451.png)
 
 In joy, find tears, in mourning, find laughter. Taste the dreams of the mad among syrup most acerbic.
 
