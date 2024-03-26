@@ -18,6 +18,478 @@ After the V2.1 update
 
 -----
 
+# [Version 2.1 "Into the Yawning Chasm" Update](archive/516.md)
+## Version 2.1 Update
+
+
+In joy, find tears, in mourning, find laughter. Taste the dreams of the mad among syrup most acerbic.
+
+Dear Trailblazers,
+
+Welcome to Version 2.1 "Into the Yawning Chasm"!
+
+### Update and Compensation Details
+
+**■ Update Time**
+
+Begins at 2024/03/27 06:00:00 (global). The update will take approximately 5 hours.
+
+**■ Compensation Details**
+
+- Server Maintenance Compensation
+
+Compensation: Stellar Jade ×300
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/03/27 06:00:00 (global)
+
+※ Please claim before the Version 2.2 server maintenance.
+
+- Bug Compensation
+
+Compensation: Stellar Jade ×300
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/03/27 06:00:00 (global)
+
+※ Please log in to claim the mail before 2024/04/26 23:59:00 (global).
+
+The Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Be sure to claim it in time.
+
+**■ How to Update**
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+- PS5™: Open the system menu > Select Honkai: Star Rail > Press the OPTIONS button on the controller > Select and confirm the update
+
+### Version Update Details
+
+1. New Areas
+
+**■ Dewlight Pavilion**
+
+- The official residence of The Family located in Moment of Morning Dew, where the heads of the Five Lineages congregate regularly to discuss matters of import. Outside of guests with an invitation, ingress is strictly prohibited.
+
+**■ Clock Studios Theme Park**
+
+- A film and television theme park built around Penacony's famous cartoon character has attracted countless animation enthusiasts who love Clockie to come and visit.
+
+2. New Characters
+
+**■ 5-Star character Acheron (Nihility: Lightning)**
+
+- Acheron is a DPS character who accumulates charges by inflicting debuffs on enemies to unleash her Ultimate. With her Ultimate, Acheron ignores enemy Weakness Types, drains all enemies' Toughness, and reduces their Type RES. Acheron's Technique can also instantly eliminate some enemy targets during exploration.
+
+**■ 5-Star character Aventurine (Preservation: Imaginary)**
+
+- Aventurine is a defensive character who can provide a stackable Shield effect called Fortified Wager for all allies and increase the Effect RES of allies. Additionally, Aventurine can accumulate charges through various means and trigger follow-up attacks.
+
+**■ 4-Star character Gallagher (Abundance: Fire)**
+
+- Gallagher is a support character with offensive capabilities. His Ultimate can attack all enemy targets, causing them to fall into the "Besotted" state, while also strengthening Gallagher's next Basic ATK. When allies attack Besotted enemies, the attacker's health is restored.
+
+3. New Light Cones
+
+**■ 5-Star Along the Passing Shore (Nihility)**
+
+Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
+
+**■ 5-Star Inherently Unjust Destiny (Preservation)**
+
+Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
+
+**■ 4-Star Concert for Two (Preservation)**
+
+Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
+
+4. New Story
+
+**■ Trailblaze Mission "Penacony — The Devil in Velvet"**
+
+- You witnessed the truth that Aventurine spoke of — the truth that could overturn Penacony. And now, you wonder what kind of a show will play next...
+
+- Availability: Permanently available after the Version 2.1 update
+
+- Unlock Conditions: Complete the Trailblaze Mission "Penacony — Whodunit"
+
+5. New Events
+
+**■ Cosmodyssey**
+
+- The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...
+
+- Event Period: After the Version 2.1 update – 2024/05/06 03:59:00 (server)
+
+- Requirement: Trailblaze Level ≥ 21
+
+**■ Vignettes in a Cup**
+
+- The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the bar are not ordinary customers...
+
+- Event Period: 2024/03/29 12:00:00 (server) – 2024/05/06 03:59:00 (server)
+
+- Participation Requirement: Complete the Trailblaze Mission "Penacony — A Walk Among the Tombstones"
+
+**■ Tides of War**
+
+- A researcher from the Maintenance Department is your "Fanboy." He used Memory Bubbles to recreate his favorite childhood game. He specifically asked someone to invite you to play it, even preparing a "support function" for you. It really is too kind to refuse...
+
+- Event Period: 2024/04/13 12:00:00 (server) – 2024/05/06 03:59:00 (server)
+
+- Participation Requirement: Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy."
+
+**■ Festive Gifts**
+
+- Log in every day during the event to obtain check-in rewards. Trailblazers can claim Star Rail Special Pass ×20 after checking in for 7 days!
+
+- Event Period: After the Version 2.1 update – 2024/05/07 03:59:00 (server)
+
+※ Please refer to future announcements for information on other events.
+
+6. Others
+
+**■ Enemies**
+
+- Dreamjolt Troupe's Winder Goon, Memory Zone Meme "Something In The Mirror," Memory Zone Meme "Shell of Faded Rage," "Ten Stonehearts" Aventurine of Stratagems, Memory Zone Meme "Something Unto Death" (Complete), Dreamjolt Troupe's Beyond Overcooked (Bug), Dreamjolt Troupe's Sweet Gorilla (Bug)
+
+**■ Stage**
+
+- Bud of Preservation (Clock Studios Theme Park)
+
+Complete the challenge to obtain new Preservation Trace Materials.
+
+- Calyx: Bud of Abundance (Fyxestroll Garden)
+
+Complete the challenge to obtain new Abundance Trace Materials.
+
+- Stagnant Shadow: Shape of Ire
+
+Complete the challenge to obtain the Fire-Type character Ascension material "Raging Heart."
+
+**■ Relic**
+
+- Planar Ornament — Sigonia, the Unclaimed Desolation
+
+- Planar Ornament — Izumo Gensei and Takama Divine Realm
+
+**■ System**
+
+- New Fate's Ensemble system. Allows Trailblazers to switch to other characters' perspectives to advance the story during specific missions.
+
+**■ Gameplay**
+
+- Simulated Universe: World 9
+
+Trailblazers can use Trailblaze Power or Immersifier to get new the Planar Ornaments Sigonia, the Unclaimed Desolation and Izumo Gensei and Takama Divine Realm from Immersion Rewards.
+
+- Treasures Lightward: New Permanent Game Mode "Forgotten Hall: Memory of Chaos" and "Pure Fiction" will be alternatively refreshed. Please check out the following for details.
+
+Pure Fiction: Deceitful Chaos
+
+2024/04/01 04:00:00 (server) – 2024/05/13 03:59:00 (server)
+
+When allies use an Ultimate to attack target(s), inflicts Shatter to the target(s) for up to 6 stacks. At the start of the target's turn or when target is eliminated, deals a set amount of DMG to the target and adjacent targets based on the number of Shatter stacks.
+
+Memory of Chaos: Chronicle of the White Nights Dream Kingdom
+
+2024/04/15 04:00:00 (server) – 2024/05/27 03:59:00 (server)
+
+After every attack launched by an ally, apply 1 stack of Memory Imprint to all enemies. Enemies with Memory Imprint receive 5% more DMG. This effect stacks up to 6 stacks. When Memory Imprint stacks to maximum stacks, immediately deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies.
+
+When enemy targets enter battle and other targets on the field have the Memory Imprint status, these new targets will receive the same number of Memory Imprint stakes.
+
+At the start of every wave of Cycle, remove Memory Imprint from all enemies.
+
+Pure Fiction: Fictitious Wordsmithing
+
+2024/04/29 04:00:00 (server) – 2024/06/10 03:59:00 (server)
+
+Accumulate the amount of DMG dealt by follow-up attacks by allies. When this DMG amount reaches 100%, deal a set amount of DMG to all enemies.
+
+**■ Others**
+
+- Some photos have been added to the photo wall on March 7th's room. Trailblazers can check it out after completing the corresponding Trailblaze Missions.
+
+- The "Tracks of Destiny" item has been newly added to the Starlight Exchange and can be exchanged by Trailblazers with Trailblaze Level at or above 40 using "Undying Starlight."
+
+- New pages and collectible stickers have been added to the Dreamscape Pass.
+
+- Adds avatars, readables, data bank entries, Achievements, stickers, and loading screen introductory texts.
+
+- The max Statue Level for Clockie's Offering has been updated. Trailblazers can obtain Clock Credits to raise the statue level and obtain Level Rewards.
+
+- Adds messages for certain characters. These messages will be sent following the storylines with future version updates.
+
+### Adjustments and Optimizations
+
+■ Characters and Enemies
+
+- Adjusts the hint text for Ultimate buffs for the characters Luocha (Abundance: Imaginary)'s Eidolon 1 and Hanya (Harmony: Physical)'s Eidolon 6. The adjusted text will be altered to "ATK Boost." This adjustment will not affect the abilities' actual performance.
+
+- Adjusts the character portrait background coloring for the characters Huohuo (Abundance: Wind), Argenti (Erudition: Physical), Clara (Destruction: Physical), and Hanya (Harmony: Physical). This adjustment will not affect the actual performance of Ultimates.
+
+- Adjust the default ally target selection logic for the character Sparkle (Harmony: Quantum)'s Skill when manually engaged in battle.
+
+- Adjusts the target selection logic for Sparkle (Harmony: Quantum)'s Skill during auto-battle.
+
+- Adjusts Numby's automatic Basic Treasure and Trotter search experience within a certain range during exploration for the character Topaz & Numby (The Hunt: Fire).
+
+- Adjusts the timing of characters' Technique and Technique Point deduction to synchronize their effects.
+
+- Adjusts the text description for the enemy Lordly Trashcan's ability "The Can's Tribulations." This adjustment does not affect the enemy ability's effects.
+
+- Adjusts certain ability descriptions and effect icons for the enemy "Dreamjolt Troupe's Mr. Domescreen."
+
+- Adjusts certain ability descriptions for the enemy "Dreamjolt Troupe's Beyond Overcooked."
+
+- Optimizes the effects when the character Dr. Ratio (The Hunt: Imaginary) uses his Technique during the "Dreamwalker" gameplay mode.
+
+- Optimizes the character model mouth-corners for Jing Yuan (Erudition: Lightning) and Sampo (Nihility: Wind).
+
+- Optimizes the experience of using Sparkle (Harmony: Quantum) in the overworld.
+
+- Optimizes the UI hint effect when Hanya (Harmony: Physical) inflicts a single enemy with Burden.
+
+- Optimizes the character model performance of the Memory Zone Meme "Heartbreaker" while under the Safeguard state.
+
+- Optimizes the prompt for the enemy Automaton Grizzly when they are unable to summon their allies.
+
+- Optimizes the description for the debuff Strong Reverberation and adds descriptions regarding delaying the character's action.
+
+■ System
+
+- You will also be able to review the amount of materials available in the Assignment > Special Materials interface. New Claim All function allows for the immediate re-dispatching of an assignment after all returns are claimed.
+
+- When synthesizing materials of the same series in the Synthesize — Material Synthesis interface, you will be able to switch between synthesizing purple or blue-rarity material.
+
+- Adds a new Light Cone lock on feature to the Inventory — Light Cone menu. Currently supports the locking and unlocking of all 4-star Light Cones functions. The new Light Cone filter feature allows Trailblazers to filter for different Light Cones from the various Paths. The Light Cone salvaging supports salvaging 4-star Light Cones. Light Cone Superimposition supports applying Light Cones that have already been locked on.
+
+- The maximum quantity of Relics that can be stored in the Inventory has been increased to 2000.
+
+- Adjusts the images for the Trailblaze Missions "Xianzhou Luofu — Topclouded Towerthrust," "Xianzhou Luofu — Desolate Depths of Despair," and "Xianzhou Luofu — A Dragon Gallant, Its Ocean Distant" in the Fate's Atlas system.
+
+- Adds an "Expiring Soon" hint display when Trailblazers have less than 3 days left for their Express Supply Pass.
+
+- Optimizes the achievement requirements for Pure Fiction and Forgotten Hall in This Period's Missions for the Nameless Honor. Trailblazers will be able to complete the corresponding This Period's Missions for the Nameless Honor when they repeatedly challenge stages where they have already obtained stars.
+
+- If Trailblazers have already visited specific maps where temporary early access stages are located, the [Teleport] button in the "Interastral Peace Guide — Survival Index" will directly transition to the corresponding map.
+
+- When enhancing Light Cones and Relics, you can now hold the button down to apply the requisite materials needed for enhancement and can also quickly remove certain materials by holding down the top left corner of the already placed materials.
+
+- New red notification reminders have been added for when the Pure Fiction and Forgotten Hall "Jokes Come True" store has "Self-Modeling Resins" to trade.
+
+- From 2024/04/26 00:00:00 (server), the birthday cake in the birthday mail will switch from First Voyage's Blessing to Wayfare's Blessing. Please stay tuned for future announcements.
+
+- Adjusts certain effect descriptions and icons for the Consumable "Pika White Grape Soda." This adjustment does not affect the actual effect of the consumable.
+
+- In version 2.1, the newly added storyline characters' abilities and effect information can be viewed in the Real-Time Combat View interface.
+
+■ Audio
+
+- Adjusts the volume of sound effects for the NPC Dreamjolt Troupe's Birdskull's movements during certain cinematics.
+
+- Adjusts the background music volume during battles with the enemy "Something Unto Death" in the Trailblaze Mission "Penacony" — "Through a Glass Darkly."
+
+- Adjusts the presentation of background music during certain cinematics.
+
+- Adjusts the audio effects of some items in the Penacony map during dialogues.
+
+- Optimizes certain story performances and background sound effects for the Trailblaze Mission "Penacony — The Youths Who Chase Dreams."
+
+■ Others
+
+- Adjusts the Charge consumption conditions and relevant descriptions regarding Brain in a Vat in the Simulated Universe. After the adjustment, Brain in a Vat's effect description becomes: If the Enlightenment Charge of "Brain in a Vat" reaches 100%, when a character uses their Ultimate through a method other than "Brain in a Vat," the Ultimate will be activated again, consuming 100% of the Enlightenment Charge.
+
+- The regular Simulated Universe now supports challenging the highest difficulty level from the start to obtain the first-clear rewards for lower difficulties when cleared for the first time.
+
+- Adjusts the position of NPC Sir Whittaker on the map.
+
+- Adjusts the combat difficulty with enemy Bronya during the Trailblaze Mission "Jarilo-VI — You Can Run, But You Can't Hide."
+
+- Optimizes the clarity of certain image icons for the PS5™ version.
+
+### Bug Fixes
+
+■ Characters and Enemies
+
+- Fixes the issue where the Light Cone "Earthly Escapade (Harmony)" would not grant the wearer 1 extra stack of Radiant Flame when Hanya (Harmony: Physical)'s Trace "Netherworld" triggers its effect to additionally recover 1 Skill Point.
+
+- Fixes the issue where Dr. Ratio (The Hunt: Imaginary)'s Technique Buff will display abnormally when Sparkle (Harmony: Quantum) or Fu Xuan (Preservation: Quantum) uses their Technique after he uses his Technique to Taunt enemies close by.
+
+- Fixes the issue where, if multiple characters in the team are equipped with the Light Cone "Earthly Escapade (Harmony)" and any wearer's "Mask" effect duration ends, the "Mask" effect on all other allied wearers will also cease to provide CRIT Rate and CRIT DMG Boosts to allies.
+
+- Fixes an issue where some effects were not displayed correctly when the character Blade (Destruction: Wind) uses a Technique.
+
+- Fixes an issue where under specific circumstances, when the character Misha (Destruction: Ice) uses a Technique to place enemies in a dimension, enemies still remain mobile.
+
+- Fixes an issue where under specific circumstances, some effects of the Technique cast by the character Misha (Destruction: Ice) were not displayed correctly.
+
+- Fixes an issue where the character Misha (Destruction: Ice) was unable to break destructible objects under specific circumstances when using a Technique.
+
+- Fixes an issue where pausing the game during the execution of the Ultimate by the character Misha (Destruction: Ice) using a controller caused some effects of the ability to display incorrectly.
+
+- Fixes an issue where the character model of Black Swan (Nihility: Wind) behaved abnormally when using Basic ATKs during exploration.
+
+- Fixes an issue where the positioning effects for the character Pela (Nihility: Ice)'s Eidolon 6 was abnormal during combat.
+
+- Fixes an issue where the character Blade (Destruction: Wind) equipped with the "Flames Afar (Destruction)" Light Cone would not accumulate his HP consumed when using his Ultimate Death Sentence.
+
+- Fixes an issue where during the repair of the Curio "Infinitely Recursive Code," the character Sparkle (Harmony: Quantum) couldn't correctly trigger her Talent "Red Herring" when additional Skill Points are consumed.
+
+- Fixes an issue where in the "Simulated Universe," when the Dice Effect is "Propagation: Spinal Cord Regrown" or "General Buff: Rejuvenation," the character Sparkle (Harmony: Quantum)'s Talent "Red Herring" had a chance of displaying abnormal effects.
+
+- Fixes an issue where under specific circumstances, some character models are displayed abnormally when entering battle with the screen-cracking effect in the Simulated Universe.
+
+- Fixed an issue where under specific circumstances during plot performances, the ending effects of Seele (The Hunt: Quantum)'s Technique would appear.
+
+- Fixes the issue where Seele (The Hunt: Quantum)'s Trace "Rippling Waves" displays a different effect on the Action Order bar from the actual action order under certain circumstances.
+
+- Fixes the issue where, when Xueyi (Destruction: Quantum) enters battle using her Technique and multiple Dreamjolt Troupe's Mr. Domescreens are present in the enemy team, only one Mr. Domescreen would change to Surprise Channel.
+
+- Fixes the issue where certain characters' models, movements, and special effects are displayed abnormally.
+
+- Fixes the issue where the enemy Memory Zone Meme "Allseer" is attacking in an abnormal direction in the overworld.
+
+- Fixes an issue where the text description of the ability "Go Into That Good Night" for the enemy Memory Zone Meme "Something Unto Death" did not match its actual effect. This fix only addresses the text description and does not affect the actual ability's effect.
+
+- Fixes an issue where the Combustion of allies' Skill Points caused by the enemy Stellaron Hunter: Sam's ability SGE: Molten Core wasn't properly removed when Sam was Weakness Broken and defeated at the same time.
+
+- Fixes inconsistencies in the text descriptions of certain abilities related to the enemy Stellaron Hunter: Sam exiting the "Secondary Combustion" state. This fix does not affect the actual effects of the enemy's abilities.
+
+- Fixes an issue where the DMG Type description of the ability "Lion's Roar" for the enemy Entranced Ingenium: Obedient Dracolion was incorrect. This fix does not affect the actual effect of the enemy's ability.
+
+- Fixes the issue where, when in combat against the enemy "Something Unto Death," some character abilities become abnormally displayed after the character becomes afflicted with Morbid Dream or is knocked down.
+
+- Fixes the issue that the warning hint would still appear after the enemy Warp Trotter has already escaped.
+
+■ Combat
+
+- Fixes an issue where reconnecting to the network during specific circumstances in battle would result in no rewards received after defeating an enemy Warp Trotter. With the 2.1 version update, Trailblazers can now defeat the abnormal Warp Trotters encountered in Version 2.0 and obtain their rewards.
+
+- Fixes an issue in the Sealed Sector stage where characters of certain body types were unable to move properly in specific locations.
+
+- Fixes the issue where some Stage Buff effects cannot deal DMG to special enemies in the game mode Forgotten Hall — Pure Fiction.
+
+■ System
+
+- Fixes an issue where selecting the "Voice" tab while certain characters were playing idle animations in the character details screen could occasionally cause the character model to be displayed abnormally.
+
+- Fixes an issue where certain entries in the "Dreamwalker" entry of the Tutorials had a chance of not unlocking properly.
+
+- Fixes an issue where the icon for the "increases chance to resist Frozen" effect provided by consumables was displaying incorrectly on the main interface.
+
+- Fixes an issue where "Remaining count" is displayed incorrectly on the consumable interface.
+
+- Fixes an issue where abnormal behavior occurs upon incorrectly selecting an unselectable target during battle after using the consumable item "Dreamy Cone (Three Flavors)."
+
+- Fixes an issue where some newly added materials in Version 2.0 were sorted incorrectly in the Inventory.
+
+- Fixes an issue where the quantity of Clock Credits was abnormal in a single submission when upgrading the Clockie's Offering Statue Level to 10. This fix does not affect the actual progression of the statue level in Clockie's Offering.
+
+- Fixes an issue where under specific circumstances, the Achievements "Roulette of Destiny" and "Sixty-Sided Die" can't be completed.
+
+- Fixes an issue where the star indicator for the 3-star Light Cone was not centered in the data bank interface.
+
+- Fixes an issue in the data bank interface where the shoe color for the enemy "Cloud Knight Lieutenant: Yanqing" was displayed abnormally.
+
+- Fixes an issue in the "Replace Relic" interface where the icon for the Planar Ornament "Penacony, Land of the Dreams" in the "Recommended Set" was incorrectly displayed as a 2-star relic icon.
+
+- Fixes the issue where the material icons in "Drop Info" in the Enemy Info interface do not change with Equilibrium Levels.
+
+- Fixes the issue where some consumables are ordered incorrectly in the Inventory.
+
+- Fixes the issue where custom texts are displayed abnormally in certain interfaces and has a chance to make the corresponding interface unable to be operated.
+
+■ Missions
+
+- Fixes an issue in the Trailblaze Mission "Penacony — The Youths Who Chase Dreams" where the scene was erroneous when talking to Aventurine, causing Basic Treasures to disappear after the conversation. Trailblazers can now obtain Basic Treasures in the corresponding scene during the Adventure Mission "The Trees At Peace."
+
+- Fixes the issue where some voice lines are abnormal during the Trailblaze Mission "Penacony — Gentleness, the Name of Nocturne."
+
+■ Gameplay
+
+- Fixes an issue where NPCs were not displayed correctly in certain stages of the "Hanu's Prison Break" game mode under specific circumstances.
+
+- Fixes an issue where certain Techniques that could create special dimensions were ineffective against enemies appearing in wave 3/3 in the "Pure Fiction" gameplay mode.
+
+- Fixes an issue where players were not receiving credit rewards upon completing the "Simulated Universe: Swarm Disaster" Preservation II storyline. Players who encountered this issue will receive the corresponding rewards gradually within two weeks after the 2.1 version update.
+
+- Fixes the issue where damage from Arcana is activated abnormally in the Forgotten Hall — The Voyage of Navis Astriger — Memory of Xianzhou Stage 1.
+
+- Fixes an issue where after using a Technique before battle in the Memory of Chaos: Eve of Wanton Feast, the Technique Buff will not take effect on the Sequence Trotter.
+
+- Fixes the issue where, after entering battle from being ambushed, the special mechanism where the enemy Toughness cannot be reduced is not activated in certain stages.
+
+■ Environment Visuals
+
+- Fixes an issue where entering the Clockie's Offering interface with the character "Topaz & Numby (The Hunt: Fire)" caused the interface to appear blurry.
+
+- Fixes an issue where objects within the map such as "Dream Jigsaw" became excessively blurry under specific circumstances.
+
+- Fixes abnormal behavior of certain map-based objects.
+
+- Fixes the issue where some lighting effects are displayed abnormally in certain combat scenes.
+
+- Fixes the issue where the special effects of some characters' Techniques abnormally appear in the Parlor Car map and the game mode Aetherium Wars.
+
+■ Audio
+
+- Fixed some Chinese voiceover errors for the character "Ruan Mei (Harmony: Ice)" in the "Hobbies: Pastry Tasting" voice line.
+
+- Fixes some Chinese noun errors in the voiceover for the Trailblaze Continuance "Jarilo-VI" — "Future Market."
+
+- Fixes certain abnormal English voice lines for the character "Xueyi (Destruction: Quantum)."
+
+- Fixed certain incorrect English dialogue voice lines in the Trailblaze Mission "Penacony" — "The Sound and the Fury."
+
+- Fixes certain incorrect English dialogue voice lines in the Companion Mission "Masquerade Duet."
+
+- Fixes certain incorrect English dialogue voice lines for the NPC Hirata Heiji in Dream's Edge.
+
+- Fixes certain incorrect Japanese interjections in the cutscenes of Trailblaze Mission "Penacony" — "Whodunnit."
+
+- Fixes certain incorrect Japanese dialogue voice lines in the Trailblaze Mission "Penacony" — "The Sound and the Fury."
+
+- Fixes certain incorrect Japanese dialogue voice lines in the Companion Mission "Masquerade Duet."
+
+- Fixes incorrect Korean voice lines for the character "Jing Yuan (Erudition: Lightning)" during turn idling and "Black Swan (Nihility: Wind)" when downed.
+
+- Fixes certain incorrect Korean dialogue voice lines in the Trailblaze Mission "Penacony" — "The Sound and the Fury."
+
+- Fixes certain incorrect Korean dialogue voice lines during the Trailblaze Continuance "Xianzhou Luofu — A Foxian Tale of the Haunted."
+
+- Fixes certain incorrect Korean dialogue voice lines in the Companion Mission "Masquerade Duet."
+
+- Fixes certain incorrect Korean dialogue voice lines with NPC Welt in the Parlor Car, specifically for the part "About companions... - About Dan Heng."
+
+■ Others
+
+- In-game texts for the 13 languages have been adjusted, optimized, and fixed. These changes do not affect the actual effects. Trailblazers can switch the game language through "Phone — Settings — Language" and view the corresponding changes in the announcement.
+
+**Fixes and optimizations in English include the following (they have no impact on the actual in-game effects):**
+
+- Adjusts and optimizes some Achievement names, interaction texts, names of some of the content during Navigation, introduction texts to some content during Navigation, phonogram disk names, loading screen texts, readables, text messages, Simulated Universe index entries, hint texts, mission dialogues, event details, buff names, buff effect descriptions, enemy abilities, Relic abilities, NPC names, Relic sources, and tutorial hints.
+
+- Optimizes the descriptions to achieve the "On the Path of Voracity..." Achievement.
+
+- Optimizes the descriptions in some of the character stories for Asta (Harmony: Fire), Yanqing (The Hunt: Ice), Xueyi (Destruction: Quantum), and Ruan Mei (Harmony: Ice).
+
+- Optimizes the descriptions for the Eidolons for Dr. Ratio (The Hunt: Imaginary) and Black Swan (Nihility: Wind).
+
+- Optimizes the simplified descriptions for Misha (Destruction: Ice)'s Skill, Talent, and Ultimate.
+
+- Optimizes the description for Sparkle (Harmony: Quantum)'s Traces.
+
+- Optimizes some character voice subtitles for Xueyi (Destruction: Quantum), Argenti (Erudition: Physical), and Sparkle (Harmony: Quantum).
+
+- Optimizes the Light Cone ability description for the Light Cone "Fermata (Nihility)."
+
+- Optimizes the Light Cone ability description for the Light Cone "What Is Real? (Abundance)."
+
+-----
+
 # [Play Simulated Universe: World 9 to Get New Planar Ornaments](archive/509.md)
 ## Simulated Universe: World 9 Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/fe0b8fb1373a51dab0101997d90afaa6_3441716243552704406.jpg)
@@ -759,94 +1231,6 @@ Summons a Trotter at the beginning of each wave or each Cycle. The Trotter takes
 - Optimizes some of the text in various parts, including rule explanations, item descriptions, record names, readables, Anchor explanations, messages, Trailblaze Missions, Adventure Mission guides, story dialogues, tutorials and instructions, and data bank descriptions.
 
 "PlayStation", "PS5", "PS4", "DualSense", "DUALSHOCK" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-
------
-
-# [New Stages for Version 2.0](archive/452.md)
-## New Stages for Version 2.0
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/23/cc3ad21206d97d7754f92486330f5d04_5715451099015038408.jpg)
-
-Dear Trailblazers,
-
-After the Version 2.0 update, Penacony and the Xianzhou Luofu will gain new Cavern of Corrosion, Stagnant Shadow, Calyx (Crimson), and Calyx (Golden).
-
-At the same time, the Calyx (Golden) stages will provide Universal Enhancement Materials and synthesis materials on top of the existing rewards.
-
-### Cavern of Corrosion
-
-Cavern of Corrosion: Path of Dreamdive
-
-Complete this stage successfully to obtain the new Cavern Relics "Pioneer Diver of Dead Waters" and "Watchmaker, Master of Dream Machinations."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/02/01/7453a441c4f3a2b3d0d2759997e069fc_8244759878984893090.png)
-
-**New Cavern Relic Effects Preview:**
-
-- Pioneer Diver of Dead Waters
-
-2-piece Set Effect: Increases DMG dealt to enemies with debuff by 12%.
-
-4-piece Set Effect: Increases CRIT Rate by 4%. The wearer deals 8%/12% increased CRIT DMG to enemies with at least 2/3 debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by 100%, lasting for 1 turn.
-
-- Watchmaker, Master of Dream Machinations
-
-2-piece Set Effect: Increases Break Effect by 16%.
-
-4-piece Set Effect: When the wearer uses their Ultimate on an ally, Break Effect for all allies increases by 30% for 2 turns. This effect cannot be stacked.
-
-### Stagnant Shadow
-
-■ Stagnant Shadow: Shape of Nectar
-
-Clear the stage to obtain the **new Ice-Type** character Ascension material "Dream Fridge."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/f049c270ff83e54d47867bab309b9880_6640666952762790250.png)
-
-■ Stagnant Shadow: Shape of Roast
-
-Clear the stage to obtain the **new Quantum-Type** character Ascension material "Dream Flamer."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/461761b0c873be01d077f5f800c62fce_4260292609436198534.png)
-
-### Calyx (Crimson)
-
-■ Bud of Harmony: The Reverie — Dreamscape
-
-Clear the stage to obtain the new **Harmony** character Trace Materials "Heavenly Melody," "Celestial Section," and "Firmament Note."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/50dded204f44cc1eff9864e43168ecbf_1699994396142718090.png)
-
-■ Bud of Nihility: Alchemy Commission
-
-Clear the stage to obtain the new **Nihility** character Trace Materials "Fiery Spirit," "Starfire Essence," and "Heaven Incinerator."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/e69999b01079c5be28970bca50d71260_874566490356811260.png)
-
-■ Bud of Destruction: Scalegorge Waterscape
-
-Clear the stage to obtain the new **Destruction** character Trace Materials "Borisin Teeth," "Lupitoxin Sawteeth," and "Moon Madness Fang."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/3a33e918e03464364c0aa968d63dd94d_3377904337455014019.png)
-
-### Calyx (Golden)
-
-■ Penacony
-
-Successfully challenge the Calyx (Golden) stages in Penacony to obtain Universal Enhancement Materials and synthesis materials on top of the already existing rewards.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/0ec0c3050cdf5332874c02b26597a17f_5274409915056977418.png)
-
-■ Xianzhou Luofu
-
-Successfully challenge the Calyx (Golden) stages in the Xianzhou Luofu to obtain Universal Enhancement Materials and synthesis materials on top of the already existing rewards.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/66c6d5a149d6bf6d54585b90248de019_5129385466374362136.png)
-
-■ Belobog
-
-Successfully challenge the Calyx (Golden) stages in Belobog to obtain Universal Enhancement Materials and synthesis materials on top of the already existing rewards.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/01/23/71e0aba55fea583d904499e50530078f_193085422864894410.png)
 
 -----
 
