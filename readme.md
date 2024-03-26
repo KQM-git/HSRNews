@@ -254,7 +254,7 @@ Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI —
 
 Dear Trailblazers,
 
-After the Version 2.1 update — 2024/05/07 15:00:00 (global), new Herta Contracts will become available in the Contract Shop!
+After the Version 2.1 update — 2024/05/07 15:00:00 (server), new Herta Contracts will become available in the Contract Shop!
 
 ### Herta Contract: Roaming Refill
 
