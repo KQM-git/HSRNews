@@ -480,28 +480,6 @@ Survey responses cannot be changed after submission. Please be sure to fill out 
 
 -----
 
-# [New Version 2.0 Herta Contracts Details](archive/455.md)
-## New Version 2.0 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/01/18/624e98431d6345b3c8bc4f3745f70bde_8266436193377704610.png)
-
-Dear Trailblazers,
-
-After the Version 2.0 update — 2024/03/26 15:00:00 (server), new Herta Contracts will be coming to the Contract Shop!
-
-### Herta Contract: Roaming Refill
-
-Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
-
-Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Contract Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
 # [Version 2.0 "If One Dreams At Midnight" Update](archive/448.md)
 ## Version 2.0 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/06/7a466df6b1531f80489d5be9b3db9a9f_4562964224995319165.png)
