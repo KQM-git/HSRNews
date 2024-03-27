@@ -12,6 +12,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Fixes an issue where certain models may disappear in Simulate Universe: World 9's maps. Trailblazers who encountered this issue can End and Finalize their run before re-entering Simulated Universe to resolve the problem.
 
+- Fixes an issue where there is a chance for specific actions to deadlock mission progress after initiating Clockwork with the NPC Amiky in the Trailblaze Mission "Penacony" — "Why Do the Heathen Rage?"
+
+- Fixes an issue where there is a chance that the number of Current Trailblaze Funds might be incorrectly displayed after Trailblazers contribute their Funds in the Cosmodyssey event.
+
 -----
 
 # [First-Time Top-up Bonus Refreshed](archive/515.md)
