@@ -1,3 +1,19 @@
+# [Game Version 2.1 Optimization and Known Issues](archive/535.md)
+## Game Version 2.1 Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Game Updates and Improvements Overview
+
+■2024/03/27
+
+- Fixes an issue where certain models may disappear in Simulate Universe: World 9's maps. Trailblazers who encountered this issue can End and Finalize their run before re-entering Simulated Universe to resolve the problem.
+
+-----
+
 # [First-Time Top-up Bonus Refreshed](archive/515.md)
 ## First-Time Top-up Bonus Refreshed
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/954ba8dc153d6b4f7d2a2763dc5345c9_2460521990710471394.jpg)
