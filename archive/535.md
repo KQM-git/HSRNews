@@ -8,6 +8,30 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/03/28
+
+- Fixes an issue where there is an inconsistency for the Lv. 1-12 "Molten Detonation" Skill description and actual effect for the character Himeko (Erudition: Fire) after the Version 2.1 update.
+
+The contents at present have been realigned with the previous version.
+
+▌Compensation
+
+Stellar Jade ×100
+
+▌Compensation Eligibility
+
+Trailblazers with Trailblaze Level ≥ 4 before 2024/03/28 23:59:00 (global)
+
+The Express Crew will offer forth compensation via the in-game mail to Trailblazer within 24 hours after the problem is fixed. Trailblazers should log in and claim the mail before 2024/04/27 23:59:00 (global). The mail will remain valid for 30 days, so please make sure to claim it in a timely manner.
+
+- Adjusts the combat difficulty of the Trailblaze Mission "Penacony — A Walk Among the Tombstones." If Trailblazers have not started the challenge, please retry the challenge after updating and restarting the game.
+
+- Fixes an issue where two Pom-Pom NPCs may appear in the Parlor Car in the mission process of the "Cosmodyssey" event.
+
+- Fixes an issue in the Cookie Bakery game mode of the "Cosmodyssey" event where the game may not progress forward under certain conditions.
+
+- Fixes an issue in the Trailblaze Mission "Penacony — A Walk Among the Tombstones," where certain texts are partially missing for the English, Spanish, Russian, Indonesian, French, German, and Portuguese languages. The missing text has been added, and the corresponding English voice-over will be fixed in an upcoming version.
+
 ■2024/03/27
 
 - Fixes an issue where certain models may disappear in Simulate Universe: World 9's maps. Trailblazers who encountered this issue can End and Finalize their run before re-entering Simulated Universe to resolve the problem.
