@@ -8,11 +8,17 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/03/29
+
+- Fixes an issue where the the technique effects for Himeko (Erudition: Fire), Welt (Nihility: Imaginary), Jingliu (Destruction: Ice), Dr. Ratio (The Hunt: Imaginary), and Misha (Destruction: Ice) may not take effect due to poor network connection when they use their Techniques to enter battle.
+
+- Fixes an issue where hitting the Flip button has a chance of being unresponsive while playing "Hamster Ball Knight: Fast & Furynuts" on mobile devices.
+
+- Fixes an issue where there is a chance that mission progress will be stuck on certain devices during the Adventure Mission "Morose Monsters (I)."
+
 ■2024/03/28
 
-- Fixes an issue where there is an inconsistency for the Lv. 1-12 "Molten Detonation" Skill description and actual effect for the character Himeko (Erudition: Fire) after the Version 2.1 update.
-
-The contents at present have been realigned with the previous version.
+- Fixes an issue where there is an inconsistency for the Lv. 1-12 "Molten Detonation" Skill description and actual effect for the character Himeko (Erudition: Fire) after the Version 2.1 update. The contents at present have been realigned with the previous version.
 
 ▌Compensation
 
