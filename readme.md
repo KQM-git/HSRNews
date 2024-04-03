@@ -1,19 +1,3 @@
-# [HoYoLAB Daily Check-in Reminder](archive/539.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/29/763853a5b2036a6b2bde414d48fed891_6108595327941439615.png)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
-
------
-
 # [Game Version 2.1 Optimization and Known Issues](archive/535.md)
 ## Game Version 2.1 Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
@@ -77,6 +61,22 @@ The Express Crew will offer forth compensation via the in-game mail to Trailblaz
 - Fixes an issue where there is a chance for specific actions to deadlock mission progress after initiating Clockwork with the NPC Amiky in the Trailblaze Mission "Penacony" — "Why Do the Heathen Rage?"
 
 - Fixes an issue where there is a chance that the number of Current Trailblaze Funds might be incorrectly displayed after Trailblazers contribute their Funds in the Cosmodyssey event.
+
+-----
+
+# [HoYoLAB Daily Check-in Reminder](archive/539.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/29/763853a5b2036a6b2bde414d48fed891_6108595327941439615.png)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://hoyo.link/8aiwCBAd)
+
+Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
 
 -----
 
