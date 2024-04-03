@@ -6,6 +6,12 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
 
+### Known Issues
+
+■2024/04/03
+
+- It is known that when certain characters and Acheron (Nihility: Lightning) are in the Team Lineup for Pure Fiction "Tales of the Fantastic," newly appearing enemies will cause "Slashed Dream" to be abnormally stacked.
+
 ### Game Updates and Improvements Overview
 
 ■2024/04/03
