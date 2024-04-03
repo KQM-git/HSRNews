@@ -24,6 +24,22 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/04/03
+
+- Fixes an issue in the Trailblaze Mission "Penacony — All the Sad Tales" where the gate near the Space Anchor "Screening Area Entrance" in the Clock Studios Theme Park area could not be opened under specific circumstances, preventing progression in the mission.
+
+- Fixes an issue in the Cosmodyssey event where there was a chance for the Trailblazer's avatar on the map to display incorrectly.
+
+- Fixes an issue where using "Claim All" to collect completed Assignment rewards would cause the assignment report page to display an incorrect number of assignment rewards. This issue does not affect the actual rewards received from the assignments.
+
+- Fixes an issue where certain dialogue scenes would display abnormally when playing on a PS5™ device.
+
+- Fixes issues in the Trailblaze Missions "Penacony — Double Indemnity" and "Penacony — Heaven is a Place on Earth" where there were inaccuracies in some of the storyline texts.
+
+- Fixes the issue where the description of the "Firefly" entry was incorrect during the loading interface.
+
+- Fixes an issue with the text description of the Commemorative Photo item.
+
 ■2024/03/29
 
 - Fixes an issue where the the technique effects for Himeko (Erudition: Fire), Welt (Nihility: Imaginary), Jingliu (Destruction: Ice), Dr. Ratio (The Hunt: Imaginary), and Misha (Destruction: Ice) may not take effect due to poor network connection when they use their Techniques to enter battle.
