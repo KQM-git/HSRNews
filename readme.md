@@ -100,22 +100,6 @@ Pwnisher has been invited as the contest's judge. He is a 3D/Visual effects arti
 
 -----
 
-# [HoYoLAB Daily Check-in Reminder](archive/539.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/29/763853a5b2036a6b2bde414d48fed891_6108595327941439615.png)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
-
------
-
 # [First-Time Top-up Bonus Refreshed](archive/515.md)
 ## First-Time Top-up Bonus Refreshed
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/954ba8dc153d6b4f7d2a2763dc5345c9_2460521990710471394.jpg)
