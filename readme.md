@@ -100,6 +100,30 @@ Pwnisher has been invited as the contest's judge. He is a 3D/Visual effects arti
 
 -----
 
+# [Planar Fissure 300% Event: Planar Ornaments Drop Rate Tripled for a Limited Time](archive/520.md)
+## Planar Fissure 300% Event: Planar Ornaments Drop Rate Tripled for a Limited Time
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/86c6a38ed4d45fdfbf936cb27764adcc_2983984063650243097.jpg)
+
+### Event Period
+
+2024/04/10 04:00:00 (server) – 2024/04/17 03:59:59 (server)
+
+### Participation Requirements
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the **Planar Fissure 300%** event period, get **triple rewards** from immersion devices in the Simulated Universe.
+
+- You will get **two additional rewards** on top of default drops after consuming an event triple reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of triple reward opportunities is limited and can be viewed in the Planar Fissure 300% event page.
+
+- The triple reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Birthday Cake Update Details](archive/510.md)
 ## Birthday Cake Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/17c330574e986019183884f0fa195cbe_565012108560466770.jpg)
