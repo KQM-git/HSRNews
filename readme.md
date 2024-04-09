@@ -100,6 +100,36 @@ Pwnisher has been invited as the contest's judge. He is a 3D/Visual effects arti
 
 -----
 
+# [Birthday Cake Update Details](archive/510.md)
+## Birthday Cake Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/17c330574e986019183884f0fa195cbe_565012108560466770.jpg)
+
+Dear Trailblazers,
+
+As Honkai: Star Rail approaches its one-year birthday, the birthday cake in the birthday mail will also have an update.
+
+### Birthday Cake Update Details
+
+- From 2024/04/26 00:00:00 (server), the birthday cake in the birthday mail will switch from First Voyage's Blessing to Wayfare's Blessing.
+
+- If the Trailblazer's birthday is set for April 27, logging into the game on April 27 will get them the new birthday cake Wayfare's Blessing.
+
+- If the Trailblazer's birthday is set for April 24, logging into the game on April 24, 2025, will get them the new birthday cake Wayfare's Blessing.
+
+### Special Note
+
+- If the Trailblazer logged into the game for the first time before their birthdate, they will receive the birthday mail and cake after the **anniversary date** (between April 26 and next year's April 25).
+
+- If the Trailblazer logged into the game for the first time after their birthdate, they will receive the birthday mail and cake after the **next anniversary date** (between next year's April 26 and the following year's April 25).
+
+■ Example
+
+- If the Trailblazer first logged into the game on 2024/03/27 and set their birthday as April 21 then did not log back in till 2024/04/27, they will then receive First Voyage's Blessing due to the birthday mail compensation rule. If the Trailblazer logs in within 30 days after 2025/04/21, then they will receive the birthday cake Wayfare's Blessing.
+
+- If the Trailblazer first logged into the game on 2024/05/10 and set their birthday as May 1, then they will receive the birthday cake for the next year on 2025/05/01.
+
+-----
+
 # [First-Time Top-up Bonus Refreshed](archive/515.md)
 ## First-Time Top-up Bonus Refreshed
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/954ba8dc153d6b4f7d2a2763dc5345c9_2460521990710471394.jpg)
