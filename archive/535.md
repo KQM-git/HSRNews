@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/04/10
+
+- Fixes an issue where there was a chance of incorrect dialogue appearing in the story dialogue in the "Clockwork" game mode.
+
 ■2024/04/03
 
 - Fixes an issue in the Trailblaze Mission "Penacony — All the Sad Tales" where the gate near the Space Anchor "Screening Area Entrance" in the Clock Studios Theme Park area could not be opened under specific circumstances, preventing progression in the mission.
