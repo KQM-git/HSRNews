@@ -74,124 +74,6 @@ The Express Crew will offer forth compensation via the in-game mail to Trailblaz
 
 -----
 
-# [Planar Fissure 300% Event: Planar Ornaments Drop Rate Tripled for a Limited Time](archive/520.md)
-## Planar Fissure 300% Event: Planar Ornaments Drop Rate Tripled for a Limited Time
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/86c6a38ed4d45fdfbf936cb27764adcc_2983984063650243097.jpg)
-
-### Event Period
-
-2024/04/10 04:00:00 (server) – 2024/04/17 03:59:59 (server)
-
-### Participation Requirements
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the **Planar Fissure 300%** event period, get **triple rewards** from immersion devices in the Simulated Universe.
-
-- You will get **two additional rewards** on top of default drops after consuming an event triple reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of triple reward opportunities is limited and can be viewed in the Planar Fissure 300% event page.
-
-- The triple reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
-# [Birthday Cake Update Details](archive/510.md)
-## Birthday Cake Update Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/17c330574e986019183884f0fa195cbe_565012108560466770.jpg)
-
-Dear Trailblazers,
-
-As Honkai: Star Rail approaches its one-year birthday, the birthday cake in the birthday mail will also have an update.
-
-### Birthday Cake Update Details
-
-- From 2024/04/26 00:00:00 (server), the birthday cake in the birthday mail will switch from First Voyage's Blessing to Wayfare's Blessing.
-
-- If the Trailblazer's birthday is set for April 27, logging into the game on April 27 will get them the new birthday cake Wayfare's Blessing.
-
-- If the Trailblazer's birthday is set for April 24, logging into the game on April 24, 2025, will get them the new birthday cake Wayfare's Blessing.
-
-### Special Note
-
-- If the Trailblazer logged into the game for the first time before their birthdate, they will receive the birthday mail and cake after the **anniversary date** (between April 26 and next year's April 25).
-
-- If the Trailblazer logged into the game for the first time after their birthdate, they will receive the birthday mail and cake after the **next anniversary date** (between next year's April 26 and the following year's April 25).
-
-■ Example
-
-- If the Trailblazer first logged into the game on 2024/03/27 and set their birthday as April 21 then did not log back in till 2024/04/27, they will then receive First Voyage's Blessing due to the birthday mail compensation rule. If the Trailblazer logs in within 30 days after 2025/04/21, then they will receive the birthday cake Wayfare's Blessing.
-
-- If the Trailblazer first logged into the game on 2024/05/10 and set their birthday as May 1, then they will receive the birthday cake for the next year on 2025/05/01.
-
------
-
-# [First-Time Top-up Bonus Refreshed](archive/515.md)
-## First-Time Top-up Bonus Refreshed
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/954ba8dc153d6b4f7d2a2763dc5345c9_2460521990710471394.jpg)
-
-Dear Trailblazers,
-
-After the V2.1 update, the shop's Oneiric Pouch interface will reset the first-time top-up. All Oneiric Shard bundles will reset their first top-up bonus state.
-
-### Reset Time
-
-After the V2.1 update
-
-### Reset Details
-
-- After the reset, all bundles will have their first top-up bonus refreshed.
-
-- When a bundle that the player has not purchased before is reset, the previous first top-up bonus will not be retained, and the bonus will not be triggered twice after the reset.
-
------
-
-# [Version 2.1 HoYoLAB Tools Update](archive/521.md)
-## Version 2.1 HoYoLAB Tools Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/18/efc135cec7c5ff8a93e7b2ab3b255768_1216941612047689898.jpg)
-
-Following the arrival of Version 2.1, new version content has also been added to HoYoLAB's community tools to help Trailblazers in their cosmic adventures! Come and take a look!
-
-### Honkai: Star Rail Map
-
-- Adds information regarding the maps Clock Studios Theme Park and Dewlight Pavilion. Supports displaying 3-dimensional maps in different layers, allowing Trailblazers to explore the new world at will.
-
-[ Click to go to Honkai: Star Rail Map](https://hoyo.link/71mwCBAd)
-
-### Battle Records
-
-- Supports the detailed character stats display (only viewable to yourself) which includes data such as Relic stats.
-
-- Supports sharing detailed character stats.
-
-- Adds character widgets for all characters. Use character widgets to accompany you and make posts to receive avatar frames and character fan badge rewards!
-
-[ Battle Records](https://hoyo.link/3bnwCBAd)
-
-### Leveling Calculator
-
-- Adds leveling materials related to Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire). Trailblazers who want to start collecting new character leveling materials early can use this to your advantage!
-
-[ Leveling Calculator](https://hoyo.link/3dpwCBAd)
-
-### HoYoWiki
-
-- Adds character information for Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire).
-
-※ We are also working hard to set up more V2.1 information. Stay tuned!
-
-[ HoYoWiki](https://hoyo.link/c5lwCBAd)
-
-### Lineup Assistant
-
-- Adds the three characters of Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire).
-
-[ Go to Lineup Assistant](https://act.hoyolab.com/sr/event/lineup/index.html?hyl_presentation_style=fullscreen&utm_id=6&utm_medium=notice&utm_source=ingame)
-
------
-
 # [Version 2.1 "Into the Yawning Chasm" Update](archive/516.md)
 ## Version 2.1 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/26/7a466df6b1531f80489d5be9b3db9a9f_3082899161961503451.png)
@@ -661,6 +543,124 @@ Accumulate the amount of DMG dealt by follow-up attacks by allies. When this DMG
 - Optimizes the Light Cone ability description for the Light Cone "Fermata (Nihility)."
 
 - Optimizes the Light Cone ability description for the Light Cone "What Is Real? (Abundance)."
+
+-----
+
+# [Planar Fissure 300% Event: Planar Ornaments Drop Rate Tripled for a Limited Time](archive/520.md)
+## Planar Fissure 300% Event: Planar Ornaments Drop Rate Tripled for a Limited Time
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/86c6a38ed4d45fdfbf936cb27764adcc_2983984063650243097.jpg)
+
+### Event Period
+
+2024/04/10 04:00:00 (server) – 2024/04/17 03:59:59 (server)
+
+### Participation Requirements
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the **Planar Fissure 300%** event period, get **triple rewards** from immersion devices in the Simulated Universe.
+
+- You will get **two additional rewards** on top of default drops after consuming an event triple reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of triple reward opportunities is limited and can be viewed in the Planar Fissure 300% event page.
+
+- The triple reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
+# [Birthday Cake Update Details](archive/510.md)
+## Birthday Cake Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/17c330574e986019183884f0fa195cbe_565012108560466770.jpg)
+
+Dear Trailblazers,
+
+As Honkai: Star Rail approaches its one-year birthday, the birthday cake in the birthday mail will also have an update.
+
+### Birthday Cake Update Details
+
+- From 2024/04/26 00:00:00 (server), the birthday cake in the birthday mail will switch from First Voyage's Blessing to Wayfare's Blessing.
+
+- If the Trailblazer's birthday is set for April 27, logging into the game on April 27 will get them the new birthday cake Wayfare's Blessing.
+
+- If the Trailblazer's birthday is set for April 24, logging into the game on April 24, 2025, will get them the new birthday cake Wayfare's Blessing.
+
+### Special Note
+
+- If the Trailblazer logged into the game for the first time before their birthdate, they will receive the birthday mail and cake after the **anniversary date** (between April 26 and next year's April 25).
+
+- If the Trailblazer logged into the game for the first time after their birthdate, they will receive the birthday mail and cake after the **next anniversary date** (between next year's April 26 and the following year's April 25).
+
+■ Example
+
+- If the Trailblazer first logged into the game on 2024/03/27 and set their birthday as April 21 then did not log back in till 2024/04/27, they will then receive First Voyage's Blessing due to the birthday mail compensation rule. If the Trailblazer logs in within 30 days after 2025/04/21, then they will receive the birthday cake Wayfare's Blessing.
+
+- If the Trailblazer first logged into the game on 2024/05/10 and set their birthday as May 1, then they will receive the birthday cake for the next year on 2025/05/01.
+
+-----
+
+# [First-Time Top-up Bonus Refreshed](archive/515.md)
+## First-Time Top-up Bonus Refreshed
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/954ba8dc153d6b4f7d2a2763dc5345c9_2460521990710471394.jpg)
+
+Dear Trailblazers,
+
+After the V2.1 update, the shop's Oneiric Pouch interface will reset the first-time top-up. All Oneiric Shard bundles will reset their first top-up bonus state.
+
+### Reset Time
+
+After the V2.1 update
+
+### Reset Details
+
+- After the reset, all bundles will have their first top-up bonus refreshed.
+
+- When a bundle that the player has not purchased before is reset, the previous first top-up bonus will not be retained, and the bonus will not be triggered twice after the reset.
+
+-----
+
+# [Version 2.1 HoYoLAB Tools Update](archive/521.md)
+## Version 2.1 HoYoLAB Tools Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/18/efc135cec7c5ff8a93e7b2ab3b255768_1216941612047689898.jpg)
+
+Following the arrival of Version 2.1, new version content has also been added to HoYoLAB's community tools to help Trailblazers in their cosmic adventures! Come and take a look!
+
+### Honkai: Star Rail Map
+
+- Adds information regarding the maps Clock Studios Theme Park and Dewlight Pavilion. Supports displaying 3-dimensional maps in different layers, allowing Trailblazers to explore the new world at will.
+
+[ Click to go to Honkai: Star Rail Map](https://hoyo.link/71mwCBAd)
+
+### Battle Records
+
+- Supports the detailed character stats display (only viewable to yourself) which includes data such as Relic stats.
+
+- Supports sharing detailed character stats.
+
+- Adds character widgets for all characters. Use character widgets to accompany you and make posts to receive avatar frames and character fan badge rewards!
+
+[ Battle Records](https://hoyo.link/3bnwCBAd)
+
+### Leveling Calculator
+
+- Adds leveling materials related to Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire). Trailblazers who want to start collecting new character leveling materials early can use this to your advantage!
+
+[ Leveling Calculator](https://hoyo.link/3dpwCBAd)
+
+### HoYoWiki
+
+- Adds character information for Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire).
+
+※ We are also working hard to set up more V2.1 information. Stay tuned!
+
+[ HoYoWiki](https://hoyo.link/c5lwCBAd)
+
+### Lineup Assistant
+
+- Adds the three characters of Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire).
+
+[ Go to Lineup Assistant](https://act.hoyolab.com/sr/event/lineup/index.html?hyl_presentation_style=fullscreen&utm_id=6&utm_medium=notice&utm_source=ingame)
 
 -----
 
