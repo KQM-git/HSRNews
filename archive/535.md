@@ -14,6 +14,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/04/16
+
+- Fixes an issue in the Simulated Universe gameplay in which the "Simulated Universe Index - Curio" was not unlocked under certain circumstances. Additionally, adjusts the unlocking conditions for difficulty levels II, III, IV, and V in "Simulated Universe • World 3." Trailblazers who have encountered this issue will have the "Simulated Universe Index - Curio" unlocked by the Express Crew within 14 working days.
+
+- Adjusts the unlocking conditions for the "Simulated Universe Index - Curio" and the description of the Adventure Mission "Good Stuff" mission tutorial.
+
 ■2024/04/10
 
 - Fixes an issue where there was a chance of incorrect dialogue appearing in the story dialogue in the "Clockwork" game mode.
