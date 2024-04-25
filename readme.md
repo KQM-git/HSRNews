@@ -80,6 +80,28 @@ The Express Crew will offer forth compensation via the in-game mail to Trailblaz
 
 -----
 
+# [Realm of the Strange 300% Event: Cavern Relic drop rate tripled for a limited time](archive/526.md)
+## <h1 style="">Event Period</h1>
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/19/9482424ef5dce9727e403061670e5d37_1596559714094810950.jpg)
+
+2024/04/26 04:00:00 (server) – 2024/05/03 03:59:59 (server)
+
+### Participation Requirements
+
+Unlock Cavern of Corrosion: Path of Drifting
+
+### Event Details
+
+- During the **Realm of the Strange 300%** event, get **triple rewards** when you challenge and beat Cavern of Corrosion.
+
+- You will get **two additional rewards** on top of default drops after consuming an event triple reward opportunity and Trailblaze Power.
+
+- During the event, the number of daily triple reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange 300% event page.
+
+- Triple reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # [Version 2.1 "Into the Yawning Chasm" Update](archive/516.md)
 ## Version 2.1 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/26/7a466df6b1531f80489d5be9b3db9a9f_3082899161961503451.png)
