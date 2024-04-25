@@ -81,8 +81,10 @@ The Express Crew will offer forth compensation via the in-game mail to Trailblaz
 -----
 
 # [Realm of the Strange 300% Event: Cavern Relic drop rate tripled for a limited time](archive/526.md)
-## <h1 style="">Event Period</h1>
+## Realm of the Strange 300% Event: Cavern Relic drop rate tripled for a limited time
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/19/9482424ef5dce9727e403061670e5d37_1596559714094810950.jpg)
+
+### Event Period
 
 2024/04/26 04:00:00 (server) – 2024/05/03 03:59:59 (server)
 
