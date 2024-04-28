@@ -1,25 +1,3 @@
-# [Version 2.1 "Into the Yawning Chasm" Satisfaction Survey](archive/568.md)
-## Version 2.1 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/11/64f750577627982c2225314c2376a57b_3981954430943708393.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 2.1, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with **credit ×30,000** if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-iER6sB-sebxwTTv9cvPliNq7dZ-T2m5GXriBOYRFeLT0&game_biz=hkrpg_global&surveyId=22111&format=1&sign_type=2&authkey_ver=1)
-
-### Attention
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # [Game Version 2.1 Optimization and Known Issues](archive/535.md)
 ## Game Version 2.1 Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
