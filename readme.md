@@ -576,22 +576,6 @@ Accumulate the amount of DMG dealt by follow-up attacks by allies. When this DMG
 
 -----
 
-# [HoYoFair "S.P.A.R.K.L.E A Star Rail Jazznight" Has Been Released](archive/551.md)
-## HoYoFair "S.P.A.R.K.L.E A Star Rail Jazznight" Has Been Released
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/ca19c24b2d2054f125ce4032ade3cee9_6567822941460637958.png)
-
-The S.P.A.R.K.L.E ~Sandman Peeps As Rhythm Keeps LIVE EVENT~ Jazz Night, hosted by HoYoFair, has been released! A Dream Abduction Case is quietly unfolding somewhere in Penacony.
-
-Famous jazz artists gather here on this night. Hurry and accept the fox and hound's invitation to watch this special jazz music festival!
-
-[ To the Jazznight](https://act.hoyoverse.com/puzzle/hkrpg/pz_0cLNSIl80j/index.html?utm_source=ingame&utm_medium=announcement)
-
-### Program List Introduction
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/22/0d7b7b5971c21ee364ed36635c895dda_4756865832019984147.png)
-
------
-
 # [Birthday Cake Update Details](archive/510.md)
 ## Birthday Cake Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/17c330574e986019183884f0fa195cbe_565012108560466770.jpg)
