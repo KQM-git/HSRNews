@@ -1,3 +1,29 @@
+# ["The Fool Always Rings Twice" Trailblaze Mission Details](archive/546.md)
+## Version 2.2 Trailblaze Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/62fb186cbed4419fcbb5efb92c1103ac_2590386092241767523.jpg)
+
+The secret lying within the shadows of Penacony has already been revealed, yet the countdown to the Charmony Festival continues...
+
+### Availability
+
+Permanently available after the Version 2.2 update
+
+### Requirement
+
+Complete the Trailblaze Mission "Penacony — A Walk Among the Tombstones"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/0af9bca84bf094948d5288bad07ecb9e_2095064272552957063.png)
+
+### Note
+
+- After completing Trailblaze Mission "Penacony — Beauty and Destruction," some characters who have obtained Visitor Verification may not visit the Express and send Messages temporarily.
+
+- If Trailblazer has obtained the character but hasn't obtained Message reward and Visitor Verification dialogue reward, these rewards will be issued via other means in the game.
+
+-----
+
 # [Game Version 2.1 Optimization and Known Issues](archive/535.md)
 ## Game Version 2.1 Optimization and Known Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
