@@ -1,3 +1,151 @@
+# [Version 2.2 Update and Maintenance Notice](archive/550.md)
+## Version 2.2 Update and Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/98ed7a5e30ef9a0be22869a275f69dbe_3614639978216689076.jpg)
+
+Dear Trailblazers,
+
+The Crew is set to run version update and maintenance soon. The game will be updated to Version 2.2 "Then Wake to Weep" upon maintenance completion.
+
+During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
+
+### Update Time
+
+Begins at 2024/05/08 06:00:00 (global). The update will take approximately 5 hours.
+
+### How to Update
+
+After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+- PS5™: Open the system menu > Select Honkai: Star Rail > Press the OPTIONS button on the controller > Select and confirm the update
+
+### Compensation Details
+
+■ Server Maintenance Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/05/08 06:00:00 (global)
+
+※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 2.2 ends.
+
+### Device Specifications
+
+■ Recommended Specifications:
+
+- PC:
+
+Device specifications: i7/8G memory, discrete graphics card (Nvidia GeForce GTX 1060 or better)
+
+System: Windows 10 64-bit or higher
+
+- Android:
+
+Device specifications: Snapdragon 855, Dimensity 1000, Kirin 990, or better processors.
+
+RAM: 6 GB or more
+
+System: Android 9 or higher
+
+- iOS:
+
+Device specifications: iPhone X, iPhone XR, or later models. iPad with A12 processor or better
+
+System: iOS 12.0 or higher
+
+■ Supported Specifications
+
+- PC:
+
+Device specifications: i3/6G memory, discrete graphics card (Nvidia GeForce GTX 650 or better)
+
+System: Windows 7 64-bit or better
+
+- Android:
+
+Device specifications: Snapdragon 835, Dimensity 720, Kirin 810, or better processors.
+
+RAM: 4 GB or more
+
+System: Android 8 or better
+
+- iOS:
+
+Device specifications: iPhone 8 Plus or later models. iPad with A10 processor or higher
+
+System: iOS 12.0 or higher
+
+-----
+
+# [Version 2.2 Nameless Honor Details](archive/543.md)
+## Version 2.2 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/ea1c8bd85d3f61594d0a414f0a54b942_8591877822565572426.jpg)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
+
+After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone** of your choice, **Self-Modeling Resin ×1**, **Relic Remains**, universal path material **Tears of Dreams**, and other rewards!
+
+If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately increase their Nameless Honor level by 10 and receive the avatar **"Acheron: Ambush,"** the avatar **"Boothill: Ambush,"** as well as **200 Stellar Jades** and **Fuel rewards**!
+
+### Start Date
+
+After the Version 2.2 update – 2024/06/17 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Note
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/06/17 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/06/16 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
+
+-----
+
+# [New Version 2.2 Herta Contracts Details](archive/542.md)
+## New Version 2.2 Herta Contracts Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/08/624e98431d6345b3c8bc4f3745f70bde_2505738803933807173.png)
+
+Dear Trailblazers,
+
+After the Version 2.2 update – 2024/06/18 15:00:00 (server). New Herta Contracts in the Contract Shop!
+
+### Herta Contract: Roaming Refill
+
+Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
+
+Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply V2
+
+Contract Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
+
+-----
+
 # ["The Fool Always Rings Twice" Trailblaze Mission Details](archive/546.md)
 ## Version 2.2 Trailblaze Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/62fb186cbed4419fcbb5efb92c1103ac_2590386092241767523.jpg)
