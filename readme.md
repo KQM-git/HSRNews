@@ -804,50 +804,6 @@ After the V2.1 update
 
 -----
 
-# [Version 2.1 HoYoLAB Tools Update](archive/521.md)
-## Version 2.1 HoYoLAB Tools Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/18/efc135cec7c5ff8a93e7b2ab3b255768_1216941612047689898.jpg)
-
-Following the arrival of Version 2.1, new version content has also been added to HoYoLAB's community tools to help Trailblazers in their cosmic adventures! Come and take a look!
-
-### Honkai: Star Rail Map
-
-- Adds information regarding the maps Clock Studios Theme Park and Dewlight Pavilion. Supports displaying 3-dimensional maps in different layers, allowing Trailblazers to explore the new world at will.
-
-[ Click to go to Honkai: Star Rail Map](https://hoyo.link/71mwCBAd)
-
-### Battle Records
-
-- Supports the detailed character stats display (only viewable to yourself) which includes data such as Relic stats.
-
-- Supports sharing detailed character stats.
-
-- Adds character widgets for all characters. Use character widgets to accompany you and make posts to receive avatar frames and character fan badge rewards!
-
-[ Battle Records](https://hoyo.link/3bnwCBAd)
-
-### Leveling Calculator
-
-- Adds leveling materials related to Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire). Trailblazers who want to start collecting new character leveling materials early can use this to your advantage!
-
-[ Leveling Calculator](https://hoyo.link/3dpwCBAd)
-
-### HoYoWiki
-
-- Adds character information for Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire).
-
-※ We are also working hard to set up more V2.1 information. Stay tuned!
-
-[ HoYoWiki](https://hoyo.link/c5lwCBAd)
-
-### Lineup Assistant
-
-- Adds the three characters of Acheron (Nihility: Lightning), Aventurine (Preservation: Imaginary), and Gallagher (Abundance: Fire).
-
-[ Go to Lineup Assistant](https://act.hoyolab.com/sr/event/lineup/index.html?hyl_presentation_style=fullscreen&utm_id=6&utm_medium=notice&utm_source=ingame)
-
------
-
 # [Play Simulated Universe: World 9 to Get New Planar Ornaments](archive/509.md)
 ## Simulated Universe: World 9 Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/03/12/fe0b8fb1373a51dab0101997d90afaa6_3441716243552704406.jpg)
