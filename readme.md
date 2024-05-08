@@ -12,6 +12,18 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - It is known that in some of the story dialogues for the Version 2.2 content, the English voiceover for the character Argenti (Erudition: Physical) is not available. This should be addressed in future updates.
 
+### Game Updates and Improvements Overview
+
+■2024/05/08
+
+- Fixes an issue in the mission flow of the "Penacony - Seabiscuit" mission where certain actions might prevent further quest progress.
+
+- Fixes an issue where engaging in combat with the enemy "The Past, Present, and Eternal Show" could sometimes lead to abnormal battle progress.
+
+- Fixes an issue in "Simulated Universe: Expansion Module" where the Path Resonance "Resonance Interplay: Pit and Pendulum" and "Resonance Interplay: Startling Breeze" could exhibit abnormal effects.
+
+- Fixes an issue where using mobile devices for the "Origami Bird" and "Dream Jigsaw" gameplay modes in the "Golden Hour" map may cause the game to experience abnormal progress.
+
 -----
 
 # [Version 2.2 "Then Wake to Weep" Update](archive/556.md)
