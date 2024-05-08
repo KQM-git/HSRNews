@@ -1,3 +1,19 @@
+# [Game Version 2.2 Optimization and Known Issues](archive/580.md)
+## Game Version 2.2 Optimization and Known Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Known Issues
+
+■2024/05/08
+
+- It is known that in some of the story dialogues for the Version 2.2 content, the English voiceover for the character Argenti (Erudition: Physical) is not available. This should be addressed in future updates.
+
+-----
+
 # [Version 2.2 "Then Wake to Weep" Update](archive/556.md)
 ## Version 2.2 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/07/2956955d9cdae7d20ba92962ad8da941_6058064578518912685.jpg)
@@ -399,22 +415,6 @@ After the Trotter is defeated, Advance the attacker's action Forward by 100%, th
 - Optimizes the Achievement name for the Achievement "Make Your Dreams a Blast."
 
 - Optimizes the descriptions to achieve the "Nuke Them From Orbit," "XK-Class Scenario," "Gloomy Blues," and "Lady Snowblood" Achievements.
-
------
-
-# [Game Version 2.2 Optimization and Known Issues](archive/580.md)
-## Game Version 2.2 Optimization and Known Issues
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
-
-### Known Issues
-
-■2024/05/08
-
-- It is known that in some of the story dialogues for the Version 2.2 content, the English voiceover for the character Argenti (Erudition: Physical) is not available. This should be addressed in future updates.
 
 -----
 
