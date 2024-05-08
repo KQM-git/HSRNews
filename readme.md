@@ -1,93 +1,3 @@
-# [Version 2.2 Nameless Honor Details](archive/543.md)
-## Version 2.2 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/ea1c8bd85d3f61594d0a414f0a54b942_8591877822565572426.jpg)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
-
-After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone** of your choice, **Self-Modeling Resin ×1**, **Relic Remains**, universal path material **Tears of Dreams**, and other rewards!
-
-If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately increase their Nameless Honor level by 10 and receive the avatar **"Acheron: Ambush,"** the avatar **"Boothill: Ambush,"** as well as **200 Stellar Jades** and **Fuel rewards**!
-
-### Start Date
-
-After the Version 2.2 update – 2024/06/17 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
-
-- This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Note
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/06/17 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/06/16 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
-
------
-
-# [New Version 2.2 Herta Contracts Details](archive/542.md)
-## New Version 2.2 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/08/624e98431d6345b3c8bc4f3745f70bde_2505738803933807173.png)
-
-Dear Trailblazers,
-
-After the Version 2.2 update – 2024/06/18 15:00:00 (server). New Herta Contracts in the Contract Shop!
-
-### Herta Contract: Roaming Refill
-
-Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
-
-Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Contract Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
-# ["The Fool Always Rings Twice" Trailblaze Mission Details](archive/546.md)
-## Version 2.2 Trailblaze Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/62fb186cbed4419fcbb5efb92c1103ac_2590386092241767523.jpg)
-
-The secret lying within the shadows of Penacony has already been revealed, yet the countdown to the Charmony Festival continues...
-
-### Availability
-
-Permanently available after the Version 2.2 update
-
-### Requirement
-
-Complete the Trailblaze Mission "Penacony — A Walk Among the Tombstones"
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/0af9bca84bf094948d5288bad07ecb9e_2095064272552957063.png)
-
-### Note
-
-- After completing Trailblaze Mission "Penacony — Beauty and Destruction," some characters who have obtained Visitor Verification may not visit the Express and send Messages temporarily.
-
-- If Trailblazer has obtained the character but hasn't obtained Message reward and Visitor Verification dialogue reward, these rewards will be issued via other means in the game.
-
------
-
 # [Version 2.2 "Then Wake to Weep" Update](archive/556.md)
 ## Version 2.2 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/07/2956955d9cdae7d20ba92962ad8da941_6058064578518912685.jpg)
@@ -492,6 +402,32 @@ After the Trotter is defeated, Advance the attacker's action Forward by 100%, th
 
 -----
 
+# ["The Fool Always Rings Twice" Trailblaze Mission Details](archive/546.md)
+## Version 2.2 Trailblaze Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/62fb186cbed4419fcbb5efb92c1103ac_2590386092241767523.jpg)
+
+The secret lying within the shadows of Penacony has already been revealed, yet the countdown to the Charmony Festival continues...
+
+### Availability
+
+Permanently available after the Version 2.2 update
+
+### Requirement
+
+Complete the Trailblaze Mission "Penacony — A Walk Among the Tombstones"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/0af9bca84bf094948d5288bad07ecb9e_2095064272552957063.png)
+
+### Note
+
+- After completing Trailblaze Mission "Penacony — Beauty and Destruction," some characters who have obtained Visitor Verification may not visit the Express and send Messages temporarily.
+
+- If Trailblazer has obtained the character but hasn't obtained Message reward and Visitor Verification dialogue reward, these rewards will be issued via other means in the game.
+
+-----
+
 # [Version 2.2 New Stages](archive/541.md)
 ## Version 2.2 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/15/afbc481eb2fe0b58db36b432aaa41ea5_7353081101901967369.jpg)
@@ -517,6 +453,70 @@ Clear the stage to obtain the new **Physical-Type** character **Ascension materi
 Clear the stage to obtain the new **Hunt** character **Trace Material** "Countertemporal Shot," "Destined Expiration," and "Meteoric Bullet."
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/52e43a1b9bba5142b2a9bdc1ba9c7249_5184830354244443478.png)
+
+-----
+
+# [Version 2.2 Nameless Honor Details](archive/543.md)
+## Version 2.2 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/ea1c8bd85d3f61594d0a414f0a54b942_8591877822565572426.jpg)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
+
+After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone** of your choice, **Self-Modeling Resin ×1**, **Relic Remains**, universal path material **Tears of Dreams**, and other rewards!
+
+If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately increase their Nameless Honor level by 10 and receive the avatar **"Acheron: Ambush,"** the avatar **"Boothill: Ambush,"** as well as **200 Stellar Jades** and **Fuel rewards**!
+
+### Start Date
+
+After the Version 2.2 update – 2024/06/17 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Note
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/06/17 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/06/16 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
+
+-----
+
+# [New Version 2.2 Herta Contracts Details](archive/542.md)
+## New Version 2.2 Herta Contracts Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/08/624e98431d6345b3c8bc4f3745f70bde_2505738803933807173.png)
+
+Dear Trailblazers,
+
+After the Version 2.2 update – 2024/06/18 15:00:00 (server). New Herta Contracts in the Contract Shop!
+
+### Herta Contract: Roaming Refill
+
+Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
+
+Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply V2
+
+Contract Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
 
 -----
 
