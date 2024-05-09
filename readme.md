@@ -1,6 +1,6 @@
 # [Game Version 2.2 Optimization and Known Issues](archive/580.md)
 ## Game Version 2.2 Optimization and Known Issues
-![Banner](https://sdk.hoyoverse.com/upload/ann/2023/11/15/4e2d5b721f610bb56437836594e6f1d4_357259073977385017.png)
+
 
 Dear Trailblazers,
 
@@ -17,6 +17,18 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 ■2024/05/09
 
 - Fixes an issue in the Trailblaze Mission "Penacony - And on the Eighth Day" where there is a chance you cannot progress the game after defeating the enemy "Harmonious Choir: The Great Septimus."
+
+- Fixes an issue where after completing the Trailblaze Mission "Penacony - And on the Eighth Day," the "Clock Studios Theme Park" map has a chance of having its NPCs disappear.
+
+- Fixes an issue in the progress of the Trailblaze Mission "Penacony - Bullet & Brain" where you may occasionally get the "Failed to obtain information" error message should you switch to Boothill's POV.
+
+- Fixes an issue in the "Clockie: Dreamjoy Memoir" event where there is a chance that you cannot drag the dice.
+
+- Fixes an issue in the "Gunfire Time: Gunfire Trial" game mode where there is a chance that the "Hanu's Adventure transformation device" may not follow the elevator.
+
+- Fixes an issue where performing certain actions has a chance of making you unable to progress the game after activating Clockwork on the NPC "Colleen."
+
+- Fixes an issue where choosing the dialogue option "Oust the Dreamchaser from the Dreamscape." may cause you to be unable to progress the game, when speaking to the Lordly Trashcan in the Dewlight Pavilion City Sandpit.
 
 ■2024/05/08
 
