@@ -430,6 +430,20 @@ After the Trotter is defeated, Advance the attacker's action Forward by 100%, th
 
 -----
 
+# [EP: If I Can Stop One Heart From Breaking](archive/582.md)
+## EP: If I Can Stop One Heart From Breaking
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/09/3952a21c6bef2c85ebfdbaeaa758872e_6666461733327637609.jpg)
+
+Easing the suffering of a life,
+
+soothing a kind of mordancy,
+
+helping a fainted bird return to its nest.
+
+[ Watch now](https://youtu.be/xFHNWJVsjmY)
+
+-----
+
 # [Version 2.2 HoYoLAB Tools Update](archive/563.md)
 ## Version 2.2 HoYoLAB Tools Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/30/a921c286195cdc759ac04142a823c449_4215299339041827600.jpg)
