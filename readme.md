@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/05/09
+
+- Fixes an issue in the Trailblaze Mission "Penacony - And on the Eighth Day" where there is a chance you cannot progress the game after defeating the enemy "Harmonious Choir: The Great Septimus."
+
 ■2024/05/08
 
 - Fixes an issue in the mission flow of the "Penacony - Seabiscuit" mission where certain actions might prevent further quest progress.
