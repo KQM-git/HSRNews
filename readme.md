@@ -446,6 +446,22 @@ After the Trotter is defeated, Advance the attacker's action Forward by 100%, th
 
 -----
 
+# [HoYoLAB Daily Check-in Reminder](archive/583.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/09/3194659e1c002ae30324906214c346c1_4784698726857124790.jpg)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://hoyo.link/8aiwCBAd)
+
+Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
+
+-----
+
 # [EP: If I Can Stop One Heart From Breaking](archive/582.md)
 ## EP: If I Can Stop One Heart From Breaking
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/09/3952a21c6bef2c85ebfdbaeaa758872e_6666461733327637609.jpg)
