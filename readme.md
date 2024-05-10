@@ -446,6 +446,30 @@ After the Trotter is defeated, Advance the attacker's action Forward by 100%, th
 
 -----
 
+# [Version 2.2 Twitch Stream Incentive Program Has Begun](archive/566.md)
+## Version 2.2 Twitch Stream Incentive Program Has Begun
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/28/c33a088b9b0c0fcc4f6324e52f95a346_5837614977089430772.png)
+
+Hello, Trailblazers!
+
+After the Version 2.2 update, Trailblazers can earn up to **30 Stellar Jades** by watching Honkai: Star Rail livestreams on Twitch in any channel marked with the "drop" label.
+
+[ Go to the event](https://hoyo.link/5ZWiFBAL)
+
+### Event Period
+
+2024/05/08 10:00:00 (global) – 2024/06/04 10:00:00 (global)
+
+### Note
+
+- Before claiming the rewards, please ensure that your Trailblaze Level ≥ 4 and that the HoYoverse Account you use is linked to your Twitch account.
+
+- After claiming your rewards in your Twitch Inventory, your corresponding rewards will be dispatched via in-game mail.
+
+※ For more information, go to the event link above.
+
+-----
+
 # [HoYoLAB Daily Check-in Reminder](archive/583.md)
 ## HoYoLAB Daily Check-in Reminder
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/09/3194659e1c002ae30324906214c346c1_4784698726857124790.jpg)
