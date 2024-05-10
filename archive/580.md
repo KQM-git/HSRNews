@@ -14,6 +14,22 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/05/10
+
+- Fixes an issue in the story combat of the Trailblaze Mission "Penacony - And on the Eighth Day" where there is a chance you cannot progress the game after the cutscene animation ends.
+
+- Fixes an issue in the Trailblaze Mission "Penacony - Bullet & Brain" where the attack icon may be incorrect when exploring the scene in the story character Boothill's POV.
+
+- Fixes an issue in the Trailblaze Mission "Penacony - The Sun Also Rises" where there is a chance you cannot continue the mission's progress after speaking to the IPC representative.
+
+- Fixes an issue in Trailblaze Continuance "Xianzhou Luofu - Foxian Dream," where fighting against the enemy "Cirrus" could occasionally result in a stage verification failure.
+
+- Fixes an issue where certain actions may prevent you from progressing the game after using Clockwork on the NPC "Kaimee."
+
+- Fixes an issue where there is a chance you cannot progress the game when entering the game mode "Hanu Wars: Street Warfare."
+
+- Fixes an issue in the "Assignments" menu where there is a chance of experiencing an abnormal graphical display.
+
 ■2024/05/09
 
 - Fixes an issue in the Trailblaze Mission "Penacony - And on the Eighth Day" where there is a chance you cannot progress the game after defeating the enemy "Harmonious Choir: The Great Septimus."
