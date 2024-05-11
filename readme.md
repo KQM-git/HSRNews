@@ -58,6 +58,20 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [EP: Hope Is the Thing With Feathers](archive/564.md)
+## EP: Hope Is the Thing With Feathers
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/08/b74e7985ebe3648c6d81f05d05b55273_1035144331737446126.jpg)
+
+"Hope" is the thing with feathers - That perches in the soul -
+
+And sings the tune without the words -
+
+And never stops - at all -
+
+[ Watch now](https://youtu.be/l8-v7ZnNB_c)
+
+-----
+
 # [Version 2.2 "Then Wake to Weep" Update](archive/556.md)
 ## Version 2.2 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/07/2956955d9cdae7d20ba92962ad8da941_6058064578518912685.jpg)
