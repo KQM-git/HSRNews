@@ -530,24 +530,6 @@ helping a fainted bird return to its nest.
 
 -----
 
-# [Robin's All-New Album "INSIDE" is Now Available](archive/562.md)
-## Robin's All-New Album "INSIDE" is Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/26/2d2272d1f53545f2f9a598f4529f20c9_3513539771816764912.jpg)
-
-"Hope" is the thing with feathers. That perches in the soul. And sings the tune without the words. And never stops. at all.
-
-The Cosmic Songstress Robin's new album "INSIDE" has been released. We welcome all Trailblazers to have a listen!
-
-[ Go and listen](https://hoyo.link/aYciFBAL)
-
-Concurrently, "The Robin I Like" social media event is in progress!
-
-Like a carefully crafted multifaceted gemstone, which aspect of her do you prefer the most? Head to social media platforms and send a piece of fan mail to Robin for a chance to win an exclusive reward from Robin!
-
-[ Go to the event](https://hoyo.link/0fciFBAL)
-
------
-
 # [Version 2.2 HoYoLAB Tools Update](archive/563.md)
 ## Version 2.2 HoYoLAB Tools Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/30/a921c286195cdc759ac04142a823c449_4215299339041827600.jpg)
