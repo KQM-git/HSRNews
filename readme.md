@@ -516,50 +516,6 @@ Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 day
 
 -----
 
-# [Version 2.2 HoYoLAB Tools Update](archive/563.md)
-## Version 2.2 HoYoLAB Tools Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/30/a921c286195cdc759ac04142a823c449_4215299339041827600.jpg)
-
-Following the arrival of Version 2.2, new version content has also been added to HoYoLAB's community tools to help Trailblazers in their cosmic adventures! Come and take a look!
-
-### Honkai: Star Rail Map
-
-- Adds information regarding the Dreamflux Reef, SoulGlad™ Scorchsand Audition Venue, and Penacony Grand Theater maps and supports displaying 3-dimensional maps in different layers, allowing Trailblazers to explore the new world at will.
-
-[ Click to go to Honkai: Star Rail Map](https://hoyo.link/71mwCBAd)
-
-### Battle Records
-
-- Supports the detailed character stats display (only viewable to yourself) which includes data such as Relic stats.
-
-- Supports sharing detailed character stats.
-
-- New character background images and widgets for Robin (Harmony: Physical) and Boothill (The Hunt: Physical) added.
-
-[ Battle Records](https://hoyo.link/3bnwCBAd)
-
-### Leveling Calculator
-
-- Adds leveling materials related to "Robin (Harmony: Physical)," and "Boothill (The Hunt: Physical)." Trailblazers who want to start collecting new character leveling materials early can use this to help your advantage!
-
-[ Leveling Calculator](https://hoyo.link/3dpwCBAd)
-
-### HoYoWiki
-
-- New character information for Robin (Harmony: Physical) and Boothill (The Hunt: Physical) added.
-
-※ We are also working hard to set up more V2.2 information. Stay tuned!
-
-[ HoYoWiki](https://hoyo.link/c5lwCBAd)
-
-### Lineup Assistant
-
-- New characters Robin (Harmony: Physical) and Boothill (The Hunt: Physical) added.
-
-[ Go to Lineup Assistant](https://act.hoyolab.com/sr/event/lineup/index.html?hyl_presentation_style=fullscreen&utm_id=6&utm_medium=notice&utm_source=ingame)
-
------
-
 # ["The Fool Always Rings Twice" Trailblaze Mission Details](archive/546.md)
 ## Version 2.2 Trailblaze Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/62fb186cbed4419fcbb5efb92c1103ac_2590386092241767523.jpg)
