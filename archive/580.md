@@ -14,6 +14,16 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/05/15
+
+- Fixes an issue where when obtaining the Light Cone "For Tomorrow's Journey (Harmony)," there is a chance of encountering a black screen after checking the Light Cone's detailed information.
+
+- Fixes an issue during the progress of Adventure Mission "Dream Song," when speaking to Dr. Blues, there is a chance of encountering [Failed to obtain information] and being unable to continue progressing through the game.
+
+- Fixes an issue where experiencing certain game modes after a battle will have a chance of showing [System Error (2629)].
+
+- Fixes an issue when speaking to Micah, repeatedly selecting the same dialogue option has a chance of making you unable to progress the game.
+
 ■2024/05/10
 
 - Fixes an issue in the story combat of the Trailblaze Mission "Penacony - And on the Eighth Day" where there is a chance you cannot progress the game after the cutscene animation ends.
