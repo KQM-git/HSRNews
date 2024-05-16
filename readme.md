@@ -96,20 +96,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [EP: Hope Is the Thing With Feathers](archive/564.md)
-## EP: Hope Is the Thing With Feathers
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/08/b74e7985ebe3648c6d81f05d05b55273_1035144331737446126.jpg)
-
-"Hope" is the thing with feathers - That perches in the soul -
-
-And sings the tune without the words -
-
-And never stops - at all -
-
-[ Watch now](https://youtu.be/l8-v7ZnNB_c)
-
------
-
 # [Version 2.2 "Then Wake to Weep" Update](archive/556.md)
 ## Version 2.2 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/07/2956955d9cdae7d20ba92962ad8da941_6058064578518912685.jpg)
@@ -511,46 +497,6 @@ After the Trotter is defeated, Advance the attacker's action Forward by 100%, th
 - Optimizes the Achievement name for the Achievement "Make Your Dreams a Blast."
 
 - Optimizes the descriptions to achieve the "Nuke Them From Orbit," "XK-Class Scenario," "Gloomy Blues," and "Lady Snowblood" Achievements.
-
------
-
-# [Version 2.2 Twitch Stream Incentive Program Has Begun](archive/566.md)
-## Version 2.2 Twitch Stream Incentive Program Has Begun
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/28/c33a088b9b0c0fcc4f6324e52f95a346_5837614977089430772.png)
-
-Hello, Trailblazers!
-
-After the Version 2.2 update, Trailblazers can earn up to **30 Stellar Jades** by watching Honkai: Star Rail livestreams on Twitch in any channel marked with the "drop" label.
-
-[ Go to the event](https://hoyo.link/5ZWiFBAL)
-
-### Event Period
-
-2024/05/08 10:00:00 (global) – 2024/06/04 10:00:00 (global)
-
-### Note
-
-- Before claiming the rewards, please ensure that your Trailblaze Level ≥ 4 and that the HoYoverse Account you use is linked to your Twitch account.
-
-- After claiming your rewards in your Twitch Inventory, your corresponding rewards will be dispatched via in-game mail.
-
-※ For more information, go to the event link above.
-
------
-
-# [HoYoLAB Daily Check-in Reminder](archive/583.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/09/3194659e1c002ae30324906214c346c1_4784698726857124790.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
 
 -----
 
