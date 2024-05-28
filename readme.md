@@ -66,6 +66,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/05/28
+
+- Updates certain related resources for subsequent content.
+
 ■2024/05/15
 
 - Fixes an issue where when obtaining the Light Cone "For Tomorrow's Journey (Harmony)," there is a chance of encountering a black screen after checking the Light Cone's detailed information.
