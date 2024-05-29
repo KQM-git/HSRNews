@@ -36,6 +36,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2024/05/29
+
+- It is known that when the character Dan Heng • Imbibitor Lunae (Destruction: Imaginary) unleashes their Ultimate or uses the Cloudhymn Roar ability in the Echo of War: Divine Seed stage, the dragon whiskers in the ability animation abnormally vanishes. At the same time, certain Trailblaze Mission cutscenes also have the dragon whiskers abnormally vanishing. The mentioned issues will be amended in Version 2.3.
+
 ■2024/05/08
 
 - It is known that in some of the story dialogues for the Version 2.2 content, the English voiceover for the character Argenti (Erudition: Physical) is not available. This should be addressed in future updates.
