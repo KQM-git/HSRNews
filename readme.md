@@ -1,31 +1,3 @@
-# [All About Boothill...: Complete Event Assignments to get rewards such as Stellar Jades](archive/547.md)
-## All About Boothill... Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/1a3334abc10fae8ab98dda6898a27a1c_3069232167349016013.jpg)
-
-An interstellar cowboy is stirring up a huge amount of trouble in the Cosmos and multiple factions have issued assignments against him. As someone with outstanding combat skills, this is a great opportunity for you to make some cash...
-
-### Event Start Date
-
-2024/05/17 04:00:00 (server) – 2024/06/03 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ 21
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/d65e9e38c17f138d584c06742c6fb533_6942408502478297803.png)
-
-### Event Details
-
-- **24** assignments will be issued at the start of the event. Trailblazers can take on **4** assignments concurrently at max.
-
-- Assign characters to complete event assignments to obtain rewards. Using recommended Paths or high-level characters can improve assignment evaluation and result in **additional rewards**.
-
-- Trailblazers can also use their Friends' **Support characters** when assigning characters to complete event assignments. Event assignments do not occupy the max amount of normal assignments available or the characters used for said normal assignments.
-
------
-
 # [Game Version 2.2 Optimization and Known Issues](archive/580.md)
 ## Game Version 2.2 Optimization and Known Issues
 
@@ -107,6 +79,34 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 - Fixes an issue in "Simulated Universe: Expansion Module" where the Path Resonance "Resonance Interplay: Pit and Pendulum" and "Resonance Interplay: Startling Breeze" could exhibit abnormal effects.
 
 - Fixes an issue where using mobile devices for the "Origami Bird" and "Dream Jigsaw" gameplay modes in the "Golden Hour" map may cause the game to experience abnormal progress.
+
+-----
+
+# [All About Boothill...: Complete Event Assignments to get rewards such as Stellar Jades](archive/547.md)
+## All About Boothill... Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/1a3334abc10fae8ab98dda6898a27a1c_3069232167349016013.jpg)
+
+An interstellar cowboy is stirring up a huge amount of trouble in the Cosmos and multiple factions have issued assignments against him. As someone with outstanding combat skills, this is a great opportunity for you to make some cash...
+
+### Event Start Date
+
+2024/05/17 04:00:00 (server) – 2024/06/03 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ 21
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/d65e9e38c17f138d584c06742c6fb533_6942408502478297803.png)
+
+### Event Details
+
+- **24** assignments will be issued at the start of the event. Trailblazers can take on **4** assignments concurrently at max.
+
+- Assign characters to complete event assignments to obtain rewards. Using recommended Paths or high-level characters can improve assignment evaluation and result in **additional rewards**.
+
+- Trailblazers can also use their Friends' **Support characters** when assigning characters to complete event assignments. Event assignments do not occupy the max amount of normal assignments available or the characters used for said normal assignments.
 
 -----
 
