@@ -82,6 +82,20 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [The Flapper Sinthome (Part 1) Penacony Music Album Officially Released](archive/601.md)
+## The Flapper Sinthome (Part 1) Officially Released
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/b0673ca03a7e325b8dfd2ed8f2fdbff8_5333540671647864218.jpg)
+
+Hello, Trailblazers
+
+The all-new Penacony album "The Flapper Sinthome (Part 1)" has been officially released for Honkai: Star Rail!
+
+The album includes 32 original tracks created by the HOYO-MiX music team for Honkai: Star Rail. We welcome Trailblazers to have a listen.
+
+[ Have a listen](https://www.hoyolab.com/article_pre/18014398241031522)
+
+-----
+
 # [All About Boothill...: Complete Event Assignments to get rewards such as Stellar Jades](archive/547.md)
 ## All About Boothill... Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/1a3334abc10fae8ab98dda6898a27a1c_3069232167349016013.jpg)
