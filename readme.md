@@ -96,34 +96,6 @@ The album includes 32 original tracks created by the HOYO-MiX music team for Hon
 
 -----
 
-# [All About Boothill...: Complete Event Assignments to get rewards such as Stellar Jades](archive/547.md)
-## All About Boothill... Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/1a3334abc10fae8ab98dda6898a27a1c_3069232167349016013.jpg)
-
-An interstellar cowboy is stirring up a huge amount of trouble in the Cosmos and multiple factions have issued assignments against him. As someone with outstanding combat skills, this is a great opportunity for you to make some cash...
-
-### Event Start Date
-
-2024/05/17 04:00:00 (server) – 2024/06/03 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ 21
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/04/23/d65e9e38c17f138d584c06742c6fb533_6942408502478297803.png)
-
-### Event Details
-
-- **24** assignments will be issued at the start of the event. Trailblazers can take on **4** assignments concurrently at max.
-
-- Assign characters to complete event assignments to obtain rewards. Using recommended Paths or high-level characters can improve assignment evaluation and result in **additional rewards**.
-
-- Trailblazers can also use their Friends' **Support characters** when assigning characters to complete event assignments. Event assignments do not occupy the max amount of normal assignments available or the characters used for said normal assignments.
-
------
-
 # [Version 2.2 "Then Wake to Weep" Update](archive/556.md)
 ## Version 2.2 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/07/2956955d9cdae7d20ba92962ad8da941_6058064578518912685.jpg)
