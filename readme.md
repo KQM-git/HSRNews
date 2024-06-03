@@ -82,6 +82,20 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [The Flapper Sinthome (Part 1) Penacony Music Album Officially Released](archive/611.md)
+## The Flapper Sinthome (Part 1) Officially Released
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/b0673ca03a7e325b8dfd2ed8f2fdbff8_2081821775340639357.jpg)
+
+Hello, Trailblazers
+
+The all-new Penacony album "The Flapper Sinthome (Part 1)" has been officially released for Honkai: Star Rail!
+
+The album includes 32 original tracks created by the HOYO-MiX music team for Honkai: Star Rail. We welcome Trailblazers to have a listen.
+
+[ Have a listen](https://www.hoyolab.com/article/29278299)
+
+-----
+
 # [Version 2.2 "Then Wake to Weep" Update](archive/556.md)
 ## Version 2.2 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/07/2956955d9cdae7d20ba92962ad8da941_6058064578518912685.jpg)
