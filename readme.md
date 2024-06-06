@@ -82,20 +82,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [The Flapper Sinthome (Part 1) Penacony Music Album Officially Released](archive/611.md)
-## The Flapper Sinthome (Part 1) Officially Released
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/b0673ca03a7e325b8dfd2ed8f2fdbff8_2081821775340639357.jpg)
-
-Hello, Trailblazers
-
-The all-new Penacony album "The Flapper Sinthome (Part 1)" has been officially released for Honkai: Star Rail!
-
-The album includes 32 original tracks created by the HOYO-MiX music team for Honkai: Star Rail. We welcome Trailblazers to have a listen.
-
-[ Have a listen](https://www.hoyolab.com/article/29278299)
-
------
-
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/544.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/08/658a5b95b1fcbbce4821d4185131fc76_7128660807835056186.png)
@@ -117,6 +103,20 @@ Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
 - The number of daily double reward opportunities is **limited** and can be viewed in the Garden of Plenty event page.
 
 - Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
+# [The Flapper Sinthome (Part 1) Penacony Music Album Officially Released](archive/611.md)
+## The Flapper Sinthome (Part 1) Officially Released
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/03/b0673ca03a7e325b8dfd2ed8f2fdbff8_2081821775340639357.jpg)
+
+Hello, Trailblazers
+
+The all-new Penacony album "The Flapper Sinthome (Part 1)" has been officially released for Honkai: Star Rail!
+
+The album includes 32 original tracks created by the HOYO-MiX music team for Honkai: Star Rail. We welcome Trailblazers to have a listen.
+
+[ Have a listen](https://www.hoyolab.com/article/29278299)
 
 -----
 
