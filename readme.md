@@ -1,3 +1,91 @@
+# [Apocalyptic Shadow: Challenge the new permanent game mode and obtain rewards such as Stellar Jades](archive/591.md)
+## Apocalyptic Shadow Game Mode Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/04/4bcd7ea643510ee62709e27828bf08ac_5322207612797443737.jpg)
+
+Dr. Edward has struck a deal with a member of the mysterious Creed Exequy... They wish to seek traces of the shapeless prince in the experiences of your deadly struggles.
+
+### Availability
+
+Permanently available after the Version 2.3 update
+
+### Participation Requirement
+
+Equilibrium Level 3 and above
+
+※ This content can be experienced in advance through the **Finality's Vision** function.
+
+### Gameplay Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/26751b35e920c16f2a41a9bb3b7325e1_8403257567960419899.png)
+
+※ The Forgotten Hall: Memory of Chaos, Apocalyptic Shadow, and Pure Fiction modes will yield up to **Stellar Jade ×800** and other rewards per phase from Version 2.3 onwards.
+
+### Nether Puppet Event
+
+After you clear **Apocalyptic Shadow's Difficulty 2** for the first time, you can claim the character Xueyi (Destruction: Quantum), **Stellar Jades ×300**, and **Self-Modeling Resin** ×1 as rewards.
+
+### How to Play
+
+- Apocalyptic Shadow is a relatively challenging game mode. In Apocalyptic Shadow, Trailblazers must face materializations of the Finality and defeat **bosses and formidable foes** they have faced before.
+
+- Each phase of Apocalyptic Shadow will refresh and offer the materializations of 2 bosses across 4 different difficulties.
+
+- **Challenge and defeat 2 bosses** to clear the current difficulty and earn the mode's rewards. Additionally, reaching specific points will also allow you to gain additional rewards. Equilibrium Levels will not affect the difficulty and rewards in Apocalyptic Shadow stages.
+
+- Stages and rewards in Apocalyptic Shadow are **regularly updated**.
+
+**Ruinous Embers**
+
+- Apocalyptic Shadow has its unique rules, and there will be different **stage effects** during battles. Each period of Apocalyptic Shadow has its unique effects that only take effect within the current period.
+
+**■ Boss Trait**
+
+- In Apocalyptic Shadow, formidable foe materializations will have slight differences between them and regular Enemy Bosses. Trailblazers can check out the details by reading about the enemies' traits when the battle begins.
+
+- With the increasing difficulty, bosses will also gain new traits.
+
+**■ Finality's Axiom**
+
+- After each Apocalyptic Shadow phase update, various Finality's Axiom **buffs** will be updated for each boss.
+
+- Before challenging the boss, you can pick one buff for **each team**.
+
+**■ Points**
+
+- The stage contains **action value timers**. The corresponding action values will be deducted after allies or enemies take action.
+
+- The stage finalization point calculation is influenced by 2 factors: The percentage of **HP left** for the boss, and the **remaining action value** after successfully defeating the boss.
+
+- When you successfully defeat the boss, your points will equal 100% of the boss's HP value and the action value remaining at the time of their defeat.
+
+- When you do not defeat the boss successfully, you will only get points based on their remaining HP percentage.
+
+- Each difficulty level contains two battles, namely Node 1 and Node 2. Your final points are the total points earned in both battles, and the highest historical points for the current difficulty will be updated based on the points earned this time.
+
+**■ Retrying Challenges**
+
+- After finishing the stage, the team that completed the current challenge will be recorded. You can use this **set team** to separately challenge Node 1 or 2 in the future. Retrying the challenge will come with the following rules:
+
+- The **members** of your team are set, and Paths are based on their state during the initial challenge attempt. Levels, Traces, and Eidolons will use their latest states when repeating the challenge.
+
+- Team members cannot change **Light Cones**. They will use the initial Light Cone they had during the initial challenge, and the Light Cone will be set to their latest level at the time of the repeated challenge attempt. Should you no longer possess the Light Cone in your inventory, the Light Cone's level will be set to its state during the first challenge.
+
+- Team members cannot change **Relics**. They will use the initial Relics they had during the initial challenge, and the Relics will be set to their latest levels and stats at the time of the repeated challenge attempt. Should you no longer possess the Light Cone in your inventory, the Relics' levels and stats will be set to its state during the first challenge.
+
+- After you have separately challenged Node 1 or 2, your highest historical points for the current difficulty will be updated based on the total points earned in both Nodes.
+
+- You can also use the Swap Lineup function to **re-edit your Team Lineup**, Light Cones, and Relics in the 2 teams before conducting separate challenges for Node 1 and 2. The **points for both Nodes will reset** in this case, but the historical record for this difficulty will not reset.
+
+**■ Quick Unlock**
+
+- The Trailblazer's highest Apocalyptic Shadow difficulty that you passed with 3-stars will be recorded. Whenever a new period starts, the recorded difficulty and all prior difficulties will be immediately unlocked according to your past performance.
+
+- After performing quick unlock, you can directly challenge the highest difficulty that you passed with 3-stars. Once you have passed that difficulty with 3-stars, all the previous difficulties will be immediately cleared with a 3-star rating, and all rewards from those difficulties will be delivered.
+
+- No more than the **first 3 difficulties** can be immediately unlocked in this way.
+
+-----
+
 # [Finality's Vision Feature Description: Experience certain pieces of content in advance](archive/592.md)
 ## Finality's Vision Feature Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/04/21c6889efc37b99b7ba91e826d330f26_6106792340174432084.jpg)
