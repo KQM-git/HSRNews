@@ -240,28 +240,6 @@ Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
 
 -----
 
-# [Version 2.2 "Then Wake to Weep" Satisfaction Survey](archive/602.md)
-## Version 2.2 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/04/22/64f750577627982c2225314c2376a57b_8360853152238239055.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 2.2, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with **credit ×30,000** if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-iE3FtB-sebxwTTv9cvPliNtgrbhUZ84FC_Lqx7dz-wfG&game_biz=hkrpg_global&surveyId=22785&format=1&sign_type=2&authkey_ver=1)
-
-### Things to Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # [Version 2.2 "Then Wake to Weep" Update](archive/556.md)
 ## Version 2.2 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/07/2956955d9cdae7d20ba92962ad8da941_6058064578518912685.jpg)
