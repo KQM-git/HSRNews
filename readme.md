@@ -1,3 +1,63 @@
+# [Starlit Homecoming Event Update Details](archive/593.md)
+## Starlit Homecoming Event Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/b661fd2a652e466bcaffd6c3d1cae920_8783150420153897852.jpg)
+
+Dear Trailblazers,
+
+When Version 2.3 begins, the Returner Event "Starlit Homecoming" will be **updated**. Eligible Trailblazers can complete the event **quicker** to get a 4-star Light Cone of their choice, Stellar Jades, and other rewards.
+
+### Update Content
+
+- Optimizes the display of the Starlit Homecoming event menu.
+
+- **Removes** the limit of **unlocking 4 stages per day**. Adjusts the Returning Trail required for return missions, rewards, and claiming rewards. Missions in Path of Return can now be all **completed in one go**. Trailblazers can complete the event faster and obtain Memo-Keeping Light Casket.
+
+- **Removed** the **daily limit** on Double Rewards chances. At the same time, **added 4 double reward chances for Cavern Relics and Planar Ornaments**. Trailblazers will get **42 double reward chances** for Calyxes during the Return period, and **4 double reward chances for Cavern Relics and Planar Ornaments**. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
+
+※ If Trailblazers have **activated** the Starlit Homecoming event **before the Version 2.3 update**, your event progression **will not** be **affected** by the update. However, you **will also not have the 4 double-reward chances** from Cavern Relics and Planar Ornaments obtained via the Path of Return. But the 4 stage daily unlock limit will also be waived, so you can complete all Returning Missions at once after the update.
+
+### Event Period
+
+From the day of activating the Starlit Homecoming event to 04:00 of the 15th day after the activation (server time)
+
+※ If you logged in to the game and activated the Starlit Homecoming event on January 1, then the event will last until 04:00, January 15 (server time).
+
+### Return Requirements
+
+- Trailblaze Level ≥ 10 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge."
+
+- Have not logged in for at least 14 days.
+
+- The previous activation of the Starlit Homecoming event is at least 40 days ago
+
+### Event Details
+
+- During the event, returning Trailblazers can receive "A Gift for Returners" for one time only.
+
+- Participate in and complete the 7-Day Check-In and the Path of Return events to receive their corresponding rewards. Challenging and passing Calyxes, Cavern of Corrosion, Simulated Universe, and Divergent Universe during the event will also provide double material drops from Double Rewards.
+
+■ 7-Day Check-In Rewards
+
+- During the event, log into the game every day to receive Stellar Jade, Fuel and other rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 7 days of rewards are provided.
+
+■ Path of Return Mission Rewards
+
+- During the event, complete specific missions to receive mission rewards and "The Returning Trails." Accumulate sufficient "The Returning Trails" to receive rewards at specific milestones. Extra rewards at each milestone can only be claimed once. Accumulate 400 "The Returning Trails" to claim a Memo-Keeping Light Casket.
+
+- Open the Memo-Keeping Light Casket to choose one of the following 4-Star Light Cones: Quid Pro Quo (Abundance), Fermata (Nihility), We Are Wildfire (Preservation), River Flows in Spring (The Hunt), Past and Future (Harmony), Woof! Walk Time! (Destruction), and The Seriousness of Breakfast (Erudition).
+
+■ Double Rewards Extra Drops
+
+- Trailblazers will get 42 double reward chances for Calyxes during the Return period, and 4 double reward chances for Cavern Relics and Planar Ornaments. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
+
+※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily double drop for Garden of Plenty will be **consumed first** when Trailblazers complete Calyx challenges.
+
+■ Return Survey
+
+- Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.
+
+-----
+
 # [Apocalyptic Shadow: Challenge the new permanent game mode and obtain rewards such as Stellar Jades](archive/591.md)
 ## Apocalyptic Shadow Game Mode Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/04/4bcd7ea643510ee62709e27828bf08ac_5322207612797443737.jpg)
