@@ -1,3 +1,23 @@
+# [Farewell, Penacony Trailblaze Mission Details](archive/595.md)
+## Farewell, Penacony Trailblaze Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/38b7b71838b84489ef08adb3c685315a_7299140596214606074.jpg)
+
+The trailblazing expedition of Penacony has come to a wonderful conclusion. It's time to stride forward to the next destination — but before moving on, let's bid a formal farewell to the white night behind you.
+
+### Availability
+
+Permanently available after the Version 2.3 update
+
+### Requirement
+
+Participation Requirement: Complete the Trailblaze Mission "Penacony — And on the Eighth Day"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/04/29a71fa100913699eeecac79c2a7acf3_6261552155272594331.png)
+
+-----
+
 # [Starlit Homecoming Event Update Details](archive/593.md)
 ## Starlit Homecoming Event Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/b661fd2a652e466bcaffd6c3d1cae920_8783150420153897852.jpg)
