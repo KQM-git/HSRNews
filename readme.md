@@ -1,3 +1,29 @@
+# [Honkai: Star Rail PC Launcher Update Summary](archive/614.md)
+## Honkai: Star Rail PC Launcher Update Summary
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/14/a554beebfc123b607c8d6baf36cd9820_2197884734840390489.jpg)
+
+Hello, Trailblazers!
+
+The Honkai: Star Rail PC launcher will be updated to the HoYoPlay launcher soon. Trailblazers, please watch out for launcher-related notifications.
+
+### Update Time
+
+2024/06/17 11:00:00 (global)
+
+※ After this update, we will stop all maintenance and support for the old Honkai: Star Rail PC launcher. Trailblazers who get the launcher notification should update to HoYoPlay as soon as possible to continue using launcher-related functions.
+
+### What is HoYoPlay?
+
+- HoYoPlay is a unified launcher that brings together various PC games from the HoYoverse. Trailblazers can utilize this launcher to download and launch multiple games from the HoYoverse.
+
+- After this update, the Trailblazers who have not installed HoYoPlay might see a new HoYoPlay icon on their PC.
+
+※ For more FAQs, please view the HoYoPlay FAQs section. If you have further questions, please feel free to contact us via the channels below.
+
+● In the game, select Phone -> Bug Report
+
+-----
+
 # [Farewell, Penacony Trailblaze Mission Details](archive/595.md)
 ## Farewell, Penacony Trailblaze Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/38b7b71838b84489ef08adb3c685315a_7299140596214606074.jpg)
