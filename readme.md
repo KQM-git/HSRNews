@@ -24,6 +24,72 @@ The Honkai: Star Rail PC launcher will be updated to the HoYoPlay launcher soon.
 
 -----
 
+# [Version 2.3 New Stages](archive/588.md)
+## Version 2.3 New Stages
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/04/26cbb7a951c155a53a5ab126568dc8d0_2157450005936133411.jpg)
+
+Dear Trailblazers,
+
+After the Version 2.3 update, the new stages include Cavern of Corrosion: Path of Cavalier, Divergent Universe: Eternal Comedy, and Bud of Erudition (Penacony Grand Theater).
+
+### Cavern of Corrosion
+
+■ Cavern of Corrosion: Path of Cavalier
+
+Successfully challenging the Cavern of Corrosion: Path of Cavalier stage located at Penacony — Penacony Grand Theater will reward you with the brand new Cavern Relic sets **"Iron Cavalry Against the Scourge" and "The Wind-Soaring Valorous."**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/b50a030e48ad9819d704674d01179e55_6935983810344510286.png)
+
+New Cavern Relic Effects Preview:
+
+- **Iron Cavalry Against the Scourge**
+
+2-piece Set Effect: Increases Break Effect by 16%.
+
+4-piece Set Effect: If the wearer's Break Effect is 150% or higher, ignores 10% of the enemy target's DEF when dealing Break DMG to them. When the wearer's Break Effect is 250% or higher, the Super Break DMG they deal to enemy targets additionally ignores 15% of the targets' DEF.
+
+- **The Wind-Soaring Valorous**
+
+2-Pc Set: Increases ATK by 12%.
+
+Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases the DMG dealt by their Ultimate by 36%, lasting for 1 turn.
+
+### Planar Ornament Extraction
+
+■ Divergent Universe: Eternal Comedy
+
+Successfully challenge Divergent Universe: Eternal Comedy and use Trailblaze Power or Planar Ornament Extraction to obtain new Planar Ornaments **Forge of the Kalpagni Lantern and Duran, Dynasty of Running Wolves** from Immersion Rewards.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/28c504931876efb5a39e9bf496de7e6d_6489854813350970017.png)
+
+New Planar Ornament Effects Preview:
+
+- **Forge of the Kalpagni Lantern**
+
+Link Rope: Forge's Heavenly Flamewheel Silk
+
+Planar Sphere: Forge's Lotus Lantern Wick
+
+Increase the wearer's SPD by 6%. When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn.
+
+- **Duran, Dynasty of Running Wolves**
+
+Link Rope: Duran's Mechabeast Bridle
+
+Planar Sphere: Duran's Tent of Golden Sky
+
+When allies use follow-up attacks, the wearer receives 1 stack of Merit, stacking up to 5 times. Every stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%.
+
+### Calyx (Crimson)
+
+■ Bud of Erudition (Penacony Grand Theater)
+
+Clear the stage to obtain the new **Erudition** character **Trace Materials** "Exquisite Colored Draft," "Dynamic Outlining," and "Rough Sketch."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/c36fdd8ee8f0bbf5daadc7c56833a8bd_2030542906890519559.png)
+
+-----
+
 # [Version 2.3 Nameless Honor Details](archive/586.md)
 ## Version 2.3 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/43ccff60796a50ca3342537488655f88_8091202521190966645.jpg)
