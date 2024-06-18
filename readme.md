@@ -102,15 +102,15 @@ New Cavern Relic Effects Preview:
 
 - **Iron Cavalry Against the Scourge**
 
-2-piece Set Effect: Increases Break Effect by 16%.
+2-Pc Set: Increases Break Effect by 16%.
 
-4-piece Set Effect: If the wearer's Break Effect is 150% or higher, ignores 10% of the enemy target's DEF when dealing Break DMG to them. When the wearer's Break Effect is 250% or higher, the Super Break DMG they deal to enemy targets additionally ignores 15% of the targets' DEF.
+4-Pc Set: If the wearer's Break Effect is 150% or higher, ignores 10% of the enemy target's DEF when dealing Break DMG to them. When the wearer's Break Effect is 250% or higher, the Super Break DMG they deal to enemy targets additionally ignores 15% of the targets' DEF.
 
 - **The Wind-Soaring Valorous**
 
 2-Pc Set: Increases ATK by 12%.
 
-Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases the DMG dealt by their Ultimate by 36%, lasting for 1 turn.
+4-Pc Set: Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases the DMG dealt by their Ultimate by 36%, lasting for 1 turn.
 
 ### Planar Ornament Extraction
 
@@ -128,7 +128,7 @@ Link Rope: Forge's Heavenly Flamewheel Silk
 
 Planar Sphere: Forge's Lotus Lantern Wick
 
-Increase the wearer's SPD by 6%. When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn.
+2-Pc Set: Increase the wearer's SPD by 6%. When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn.
 
 - **Duran, Dynasty of Running Wolves**
 
@@ -136,7 +136,7 @@ Link Rope: Duran's Mechabeast Bridle
 
 Planar Sphere: Duran's Tent of Golden Sky
 
-When allies use follow-up attacks, the wearer receives 1 stack of Merit, stacking up to 5 times. Every stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%.
+2-Pc Set: When allies use follow-up attacks, the wearer receives 1 stack of Merit, stacking up to 5 times. Every stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%.
 
 ### Calyx (Crimson)
 
