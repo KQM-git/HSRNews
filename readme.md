@@ -1,213 +1,3 @@
-# [Version 2.3 New Stages](archive/588.md)
-## Version 2.3 New Stages
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/04/26cbb7a951c155a53a5ab126568dc8d0_2157450005936133411.jpg)
-
-Dear Trailblazers,
-
-After the Version 2.3 update, the new stages include Cavern of Corrosion: Path of Cavalier, Divergent Universe: Eternal Comedy, and Bud of Erudition (Penacony Grand Theater).
-
-### Cavern of Corrosion
-
-■ Cavern of Corrosion: Path of Cavalier
-
-Successfully challenging the Cavern of Corrosion: Path of Cavalier stage located at Penacony — Penacony Grand Theater will reward you with the brand new Cavern Relic sets **"Iron Cavalry Against the Scourge" and "The Wind-Soaring Valorous."**
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/b50a030e48ad9819d704674d01179e55_6935983810344510286.png)
-
-New Cavern Relic Effects Preview:
-
-- **Iron Cavalry Against the Scourge**
-
-2-Pc Set: Increases Break Effect by 16%.
-
-4-Pc Set: If the wearer's Break Effect is 150% or higher, ignores 10% of the enemy target's DEF when dealing Break DMG to them. When the wearer's Break Effect is 250% or higher, the Super Break DMG they deal to enemy targets additionally ignores 15% of the targets' DEF.
-
-- **The Wind-Soaring Valorous**
-
-2-Pc Set: Increases ATK by 12%.
-
-4-Pc Set: Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases the DMG dealt by their Ultimate by 36%, lasting for 1 turn.
-
-### Planar Ornament Extraction
-
-■ Divergent Universe: Eternal Comedy
-
-Successfully challenge Divergent Universe: Eternal Comedy and use Trailblaze Power or Planar Ornament Extraction to obtain new Planar Ornaments **Forge of the Kalpagni Lantern and Duran, Dynasty of Running Wolves** from Immersion Rewards.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/28c504931876efb5a39e9bf496de7e6d_6489854813350970017.png)
-
-New Planar Ornament Effects Preview:
-
-- **Forge of the Kalpagni Lantern**
-
-Link Rope: Forge's Heavenly Flamewheel Silk
-
-Planar Sphere: Forge's Lotus Lantern Wick
-
-2-Pc Set: Increase the wearer's SPD by 6%. When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn.
-
-- **Duran, Dynasty of Running Wolves**
-
-Link Rope: Duran's Mechabeast Bridle
-
-Planar Sphere: Duran's Tent of Golden Sky
-
-2-Pc Set: When allies use follow-up attacks, the wearer receives 1 stack of Merit, stacking up to 5 times. Every stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%.
-
-### Calyx (Crimson)
-
-■ Bud of Erudition (Penacony Grand Theater)
-
-Clear the stage to obtain the new **Erudition** character **Trace Materials** "Exquisite Colored Draft," "Dynamic Outlining," and "Rough Sketch."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/c36fdd8ee8f0bbf5daadc7c56833a8bd_2030542906890519559.png)
-
------
-
-# [Version 2.3 Nameless Honor Details](archive/586.md)
-## Version 2.3 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/43ccff60796a50ca3342537488655f88_8091202521190966645.jpg)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as **Star Rail Passes, Self-Modeling Resins, and Tracks of Destiny**.
-
-After unlocking Nameless Glory, you will immediately obtain **Stellar Jades ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Self-Modeling Resin ×1, Relic Remains, the universal Path material Tears of Dreams**, and more!
-
-Upon purchasing the Nameless Medal, in addition to the rewards mentioned above, Trailblazers will also immediately **increase Nameless Honor level by 10** and receive the avatar **"Firefly: Vision"**, the avatar **"SAM: Vision," Stellar Jade ×200, and Fuels**!
-
-### Start Date
-
-After the Version 2.3 update – 2024/07/29 03:59:00 (server)
-
-### Participation Requirements
-
-Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes, Self-Modeling Resin, Tracks of Destiny**, and more.
-
-- This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Things to Note
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/07/29 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/07/28 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
-
------
-
-# [New Version 2.3 Herta Contracts Details](archive/585.md)
-## New Version 2.3 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/14/624e98431d6345b3c8bc4f3745f70bde_8662460823500608085.png)
-
-Dear Trailblazers,
-
-From after the Version 2.3 update to 2024/07/30 15:00:00 (server), we will see new Herta: Contracts at the Contract Shop!
-
-### Herta Contract: Roaming Refill
-
-Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
-
-Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
-# [Farewell, Penacony Trailblaze Mission Details](archive/595.md)
-## Farewell, Penacony Trailblaze Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/38b7b71838b84489ef08adb3c685315a_7299140596214606074.jpg)
-
-The trailblazing expedition of Penacony has come to a wonderful conclusion. It's time to stride forward to the next destination — but before moving on, let's bid a formal farewell to the white night behind you.
-
-### Availability
-
-Permanently available after the Version 2.3 update
-
-### Requirement
-
-Participation Requirement: Complete the Trailblaze Mission "Penacony — And on the Eighth Day"
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/06/04/29a71fa100913699eeecac79c2a7acf3_6261552155272594331.png)
-
------
-
-# [Starlit Homecoming Event Update Details](archive/593.md)
-## Starlit Homecoming Event Update Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/b661fd2a652e466bcaffd6c3d1cae920_8783150420153897852.jpg)
-
-Dear Trailblazers,
-
-When Version 2.3 begins, the Returner Event "Starlit Homecoming" will be **updated**. Eligible Trailblazers can complete the event **quicker** to get a 4-star Light Cone of their choice, Stellar Jades, and other rewards.
-
-### Update Content
-
-- Optimizes the display of the Starlit Homecoming event menu.
-
-- **Removes** the limit of **unlocking 4 stages per day**. Adjusts the Returning Trail required for return missions, rewards, and claiming rewards. Missions in Path of Return can now be all **completed in one go**. Trailblazers can complete the event faster and obtain Memo-Keeping Light Casket.
-
-- **Removed** the **daily limit** on Double Rewards chances. At the same time, **added 4 double reward chances for Cavern Relics and Planar Ornaments**. Trailblazers will get **42 double reward chances** for Calyxes during the Return period, and **4 double reward chances for Cavern Relics and Planar Ornaments**. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
-
-※ If Trailblazers have **activated** the Starlit Homecoming event **before the Version 2.3 update**, your event progression **will not** be **affected** by the update. However, you **will also not have the 4 double-reward chances** from Cavern Relics and Planar Ornaments obtained via the Path of Return. But the 4 stage daily unlock limit will also be waived, so you can complete all Returning Missions at once after the update.
-
-### Event Period
-
-From the day of activating the Starlit Homecoming event to 04:00 of the 15th day after the activation (server time)
-
-※ If you logged in to the game and activated the Starlit Homecoming event on January 1, then the event will last until 04:00, January 15 (server time).
-
-### Return Requirements
-
-- Trailblaze Level ≥ 10 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge."
-
-- Have not logged in for at least 14 days.
-
-- The previous activation of the Starlit Homecoming event is at least 40 days ago
-
-### Event Details
-
-- During the event, returning Trailblazers can receive "A Gift for Returners" for one time only.
-
-- Participate in and complete the 7-Day Check-In and the Path of Return events to receive their corresponding rewards. Challenging and passing Calyxes, Cavern of Corrosion, Simulated Universe, and Divergent Universe during the event will also provide double material drops from Double Rewards.
-
-■ 7-Day Check-In Rewards
-
-- During the event, log into the game every day to receive Stellar Jade, Fuel and other rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 7 days of rewards are provided.
-
-■ Path of Return Mission Rewards
-
-- During the event, complete specific missions to receive mission rewards and "The Returning Trails." Accumulate sufficient "The Returning Trails" to receive rewards at specific milestones. Extra rewards at each milestone can only be claimed once. Accumulate 400 "The Returning Trails" to claim a Memo-Keeping Light Casket.
-
-- Open the Memo-Keeping Light Casket to choose one of the following 4-Star Light Cones: Quid Pro Quo (Abundance), Fermata (Nihility), We Are Wildfire (Preservation), River Flows in Spring (The Hunt), Past and Future (Harmony), Woof! Walk Time! (Destruction), and The Seriousness of Breakfast (Erudition).
-
-■ Double Rewards Extra Drops
-
-- Trailblazers will get 42 double reward chances for Calyxes during the Return period, and 4 double reward chances for Cavern Relics and Planar Ornaments. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
-
-※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily double drop for Garden of Plenty will be **consumed first** when Trailblazers complete Calyx challenges.
-
-■ Return Survey
-
-- Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.
-
------
-
 # [Version 2.3 "Farewell, Penacony" Update](archive/609.md)
 ## Version 2.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/30/69d683f804bb79f37c135d9bd9365c94_6371126376492351001.jpg)
@@ -663,6 +453,216 @@ Clear the stage to obtain the new Erudition character Trace Materials "Exquisite
 - Optimizes the Light Cone story text for the Light Cones "Data Bank (Erudition)" and "For Tomorrow's Journey (Harmony)."
 
 - Optimizes the set effect descriptions for the relics "Musketeer of Wild Wheat" and "Prisoner in Deep Confinement."
+
+-----
+
+# [Farewell, Penacony Trailblaze Mission Details](archive/595.md)
+## Farewell, Penacony Trailblaze Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/38b7b71838b84489ef08adb3c685315a_7299140596214606074.jpg)
+
+The trailblazing expedition of Penacony has come to a wonderful conclusion. It's time to stride forward to the next destination — but before moving on, let's bid a formal farewell to the white night behind you.
+
+### Availability
+
+Permanently available after the Version 2.3 update
+
+### Requirement
+
+Participation Requirement: Complete the Trailblaze Mission "Penacony — And on the Eighth Day"
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/04/29a71fa100913699eeecac79c2a7acf3_6261552155272594331.png)
+
+-----
+
+# [Version 2.3 New Stages](archive/588.md)
+## Version 2.3 New Stages
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/04/26cbb7a951c155a53a5ab126568dc8d0_2157450005936133411.jpg)
+
+Dear Trailblazers,
+
+After the Version 2.3 update, the new stages include Cavern of Corrosion: Path of Cavalier, Divergent Universe: Eternal Comedy, and Bud of Erudition (Penacony Grand Theater).
+
+### Cavern of Corrosion
+
+■ Cavern of Corrosion: Path of Cavalier
+
+Successfully challenging the Cavern of Corrosion: Path of Cavalier stage located at Penacony — Penacony Grand Theater will reward you with the brand new Cavern Relic sets **"Iron Cavalry Against the Scourge" and "The Wind-Soaring Valorous."**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/b50a030e48ad9819d704674d01179e55_6935983810344510286.png)
+
+New Cavern Relic Effects Preview:
+
+- **Iron Cavalry Against the Scourge**
+
+2-Pc Set: Increases Break Effect by 16%.
+
+4-Pc Set: If the wearer's Break Effect is 150% or higher, ignores 10% of the enemy target's DEF when dealing Break DMG to them. When the wearer's Break Effect is 250% or higher, the Super Break DMG they deal to enemy targets additionally ignores 15% of the targets' DEF.
+
+- **The Wind-Soaring Valorous**
+
+2-Pc Set: Increases ATK by 12%.
+
+4-Pc Set: Increases the wearer's CRIT Rate by 6%. After the wearer uses a follow-up attack, increases the DMG dealt by their Ultimate by 36%, lasting for 1 turn.
+
+### Planar Ornament Extraction
+
+■ Divergent Universe: Eternal Comedy
+
+Successfully challenge Divergent Universe: Eternal Comedy and use Trailblaze Power or Planar Ornament Extraction to obtain new Planar Ornaments **Forge of the Kalpagni Lantern and Duran, Dynasty of Running Wolves** from Immersion Rewards.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/28c504931876efb5a39e9bf496de7e6d_6489854813350970017.png)
+
+New Planar Ornament Effects Preview:
+
+- **Forge of the Kalpagni Lantern**
+
+Link Rope: Forge's Heavenly Flamewheel Silk
+
+Planar Sphere: Forge's Lotus Lantern Wick
+
+2-Pc Set: Increase the wearer's SPD by 6%. When the wearer hits enemy targets with Fire Weakness, the wearer's Break Effect increases by 40%, lasting for 1 turn.
+
+- **Duran, Dynasty of Running Wolves**
+
+Link Rope: Duran's Mechabeast Bridle
+
+Planar Sphere: Duran's Tent of Golden Sky
+
+2-Pc Set: When allies use follow-up attacks, the wearer receives 1 stack of Merit, stacking up to 5 times. Every stack of Merit increases the DMG dealt by the wearer's follow-up attacks by 5%. When there are 5 stacks, additionally increases the wearer's CRIT DMG by 25%.
+
+### Calyx (Crimson)
+
+■ Bud of Erudition (Penacony Grand Theater)
+
+Clear the stage to obtain the new **Erudition** character **Trace Materials** "Exquisite Colored Draft," "Dynamic Outlining," and "Rough Sketch."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/06/03/c36fdd8ee8f0bbf5daadc7c56833a8bd_2030542906890519559.png)
+
+-----
+
+# [Version 2.3 Nameless Honor Details](archive/586.md)
+## Version 2.3 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/43ccff60796a50ca3342537488655f88_8091202521190966645.jpg)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as **Star Rail Passes, Self-Modeling Resins, and Tracks of Destiny**.
+
+After unlocking Nameless Glory, you will immediately obtain **Stellar Jades ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Self-Modeling Resin ×1, Relic Remains, the universal Path material Tears of Dreams**, and more!
+
+Upon purchasing the Nameless Medal, in addition to the rewards mentioned above, Trailblazers will also immediately **increase Nameless Honor level by 10** and receive the avatar **"Firefly: Vision"**, the avatar **"SAM: Vision," Stellar Jade ×200, and Fuels**!
+
+### Start Date
+
+After the Version 2.3 update – 2024/07/29 03:59:00 (server)
+
+### Participation Requirements
+
+Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes, Self-Modeling Resin, Tracks of Destiny**, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Things to Note
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/07/29 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/07/28 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
+
+-----
+
+# [New Version 2.3 Herta Contracts Details](archive/585.md)
+## New Version 2.3 Herta Contracts Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/14/624e98431d6345b3c8bc4f3745f70bde_8662460823500608085.png)
+
+Dear Trailblazers,
+
+From after the Version 2.3 update to 2024/07/30 15:00:00 (server), we will see new Herta: Contracts at the Contract Shop!
+
+### Herta Contract: Roaming Refill
+
+Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
+
+Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply V2
+
+Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
+
+-----
+
+# [Starlit Homecoming Event Update Details](archive/593.md)
+## Starlit Homecoming Event Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/b661fd2a652e466bcaffd6c3d1cae920_8783150420153897852.jpg)
+
+Dear Trailblazers,
+
+When Version 2.3 begins, the Returner Event "Starlit Homecoming" will be **updated**. Eligible Trailblazers can complete the event **quicker** to get a 4-star Light Cone of their choice, Stellar Jades, and other rewards.
+
+### Update Content
+
+- Optimizes the display of the Starlit Homecoming event menu.
+
+- **Removes** the limit of **unlocking 4 stages per day**. Adjusts the Returning Trail required for return missions, rewards, and claiming rewards. Missions in Path of Return can now be all **completed in one go**. Trailblazers can complete the event faster and obtain Memo-Keeping Light Casket.
+
+- **Removed** the **daily limit** on Double Rewards chances. At the same time, **added 4 double reward chances for Cavern Relics and Planar Ornaments**. Trailblazers will get **42 double reward chances** for Calyxes during the Return period, and **4 double reward chances for Cavern Relics and Planar Ornaments**. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
+
+※ If Trailblazers have **activated** the Starlit Homecoming event **before the Version 2.3 update**, your event progression **will not** be **affected** by the update. However, you **will also not have the 4 double-reward chances** from Cavern Relics and Planar Ornaments obtained via the Path of Return. But the 4 stage daily unlock limit will also be waived, so you can complete all Returning Missions at once after the update.
+
+### Event Period
+
+From the day of activating the Starlit Homecoming event to 04:00 of the 15th day after the activation (server time)
+
+※ If you logged in to the game and activated the Starlit Homecoming event on January 1, then the event will last until 04:00, January 15 (server time).
+
+### Return Requirements
+
+- Trailblaze Level ≥ 10 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge."
+
+- Have not logged in for at least 14 days.
+
+- The previous activation of the Starlit Homecoming event is at least 40 days ago
+
+### Event Details
+
+- During the event, returning Trailblazers can receive "A Gift for Returners" for one time only.
+
+- Participate in and complete the 7-Day Check-In and the Path of Return events to receive their corresponding rewards. Challenging and passing Calyxes, Cavern of Corrosion, Simulated Universe, and Divergent Universe during the event will also provide double material drops from Double Rewards.
+
+■ 7-Day Check-In Rewards
+
+- During the event, log into the game every day to receive Stellar Jade, Fuel and other rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 7 days of rewards are provided.
+
+■ Path of Return Mission Rewards
+
+- During the event, complete specific missions to receive mission rewards and "The Returning Trails." Accumulate sufficient "The Returning Trails" to receive rewards at specific milestones. Extra rewards at each milestone can only be claimed once. Accumulate 400 "The Returning Trails" to claim a Memo-Keeping Light Casket.
+
+- Open the Memo-Keeping Light Casket to choose one of the following 4-Star Light Cones: Quid Pro Quo (Abundance), Fermata (Nihility), We Are Wildfire (Preservation), River Flows in Spring (The Hunt), Past and Future (Harmony), Woof! Walk Time! (Destruction), and The Seriousness of Breakfast (Erudition).
+
+■ Double Rewards Extra Drops
+
+- Trailblazers will get 42 double reward chances for Calyxes during the Return period, and 4 double reward chances for Cavern Relics and Planar Ornaments. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
+
+※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily double drop for Garden of Plenty will be **consumed first** when Trailblazers complete Calyx challenges.
+
+■ Return Survey
+
+- Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.
 
 -----
 
