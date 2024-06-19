@@ -14,8 +14,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - It is know that in certain maps, after the character Firefly (Destruction: Fire) uses her Technique, there is a chance she cannot land. This issue will be resolved soon in the future.
 
-- It is known that in the Divergent Universe, when using the Planar Ornament Extraction function to download support characters, there is a chance of displaying the "Support Character does not exist" error for certain support characters. Trailblazers who encounter this issue can try downloading other support characters instead.
-
 ### Game Updates and Improvements Overview
 
 ■2024/06/19
@@ -25,6 +23,20 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 - Fixes an issue in the Trailblaze Continuance "Jarilo-VI — Future Market (II)" mission, where Trailblazers may not be able to operate the Automaton Stealth Bomb, preventing further progress for the mission.
 
 - Fixes an issue where, under certain conditions, failed explorations in "Divergent Universe" may be abnormally displayed in the "Trailblazer Profile — Battle Records Showcase".
+
+- Fixes an issue in the Trailblaze Mission "Penacony — Farewell, Penacony," where interacting with specific items in the Radiant Feldspar map may cause the game to freeze.
+
+- Fixes an issue where, in certain circumstances, after completing a challenge in the Survival Index (such as Caverns of Corrosion), there is a chance that the challenge success screen may not appear, causing abnormal game progression.
+
+- Fixes an issue where there is a chance for Challenge Points to exceed the max amount in Apocalyptic Shadow Difficulty 1.
+
+- Fixes an issue in Divergent Universe where certain actions during the use of the Planar Ornament Extraction function may cause the following issues: Support Characters disappear and cannot enter battle, or the Support Characters' levels appear abnormal upon entering battle, and the game would experience an abnormal black screen after retreating from battle.
+
+- Fixes an issue in Apocalyptic Shadow where certain characters' ability effects may experience abnormalities when the enemy "Silver Knight of Virtuous Gallantry" has all its summons defeated in the second phrase.
+
+- Fixes an issue where using certain characters in combat has a chance of causing the lightning in the map to experience abnormalities.
+
+- Fixes an issue in the Trailblaze Continuance "Xianzhou Luofu — Sojourners' Ghastly Reverie," where entering the "Illusory Maze" may prevent further mission progression.
 
 -----
 
