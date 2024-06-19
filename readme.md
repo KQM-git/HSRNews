@@ -6,6 +6,12 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
 
+### Known Issues
+
+■2024/06/19
+
+- It is known that in certain story dialogues for the Trailblaze Missions "Penacony — Seabiscuit" and "A Thousand Bells at Dawn," the English voiceover for the character Argenti (Erudition: Physical) is not available. This should be addressed in future updates. We appreciate your understanding.
+
 ### Game Updates and Improvements Overview
 
 ■2024/06/19
