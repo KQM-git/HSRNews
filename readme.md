@@ -148,7 +148,7 @@ Participation Requirement: Equilibrium Level 3 or above
 
 After you clear Apocalyptic Shadow's Difficulty 2 for the first time, you can claim the character Xueyi (Destruction: Quantum), Stellar Jades ×300, and Self-Modeling Resin ×1 as rewards.
 
-- Regular game modes Apocalyptic Shadow, Pure Fiction, and Forgotten Hall: Memory of Chaos will be refreshed alternatively. For more details, see below:
+- Treasures Lightward: Regular game modes Apocalyptic Shadow, Pure Fiction, and Forgotten Hall: Memory of Chaos will be refreshed alternatively. For more details, see below:
 
 Apocalyptic Shadow: Stormwind Knight
 
