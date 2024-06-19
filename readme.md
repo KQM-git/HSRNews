@@ -456,6 +456,30 @@ Clear the stage to obtain the new Erudition character Trace Materials "Exquisite
 
 -----
 
+# [Version 2.3 Twitch Stream Incentive Program Has Begun](archive/608.md)
+## Version 2.3 Twitch Stream Incentive Program Has Begun
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/13/c33a088b9b0c0fcc4f6324e52f95a346_6028929022521146488.png)
+
+Hello, Trailblazers!
+
+After the Version 2.3 update, Trailblazers can earn up to 30 Stellar Jades by watching Honkai: Star Rail livestreams on Twitch in any channel marked with the "drop" label.
+
+[ Go to the event](https://hoyo.link/2qXjFBAL)
+
+### Event Period
+
+2024/06/19 10:00:00 (global) – 2024/07/17 10:00:00 (global)
+
+### Attention
+
+- Before claiming the rewards, please ensure that your Trailblaze Level ≥ 4 and that the HoYoverse Account you use is linked to your Twitch account.
+
+- After claiming your rewards in your Twitch Inventory, your corresponding rewards will be dispatched via in-game mail.
+
+※ For more information, go to the event link above.
+
+-----
+
 # [Farewell, Penacony Trailblaze Mission Details](archive/595.md)
 ## Farewell, Penacony Trailblaze Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/38b7b71838b84489ef08adb3c685315a_7299140596214606074.jpg)
