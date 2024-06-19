@@ -1,3 +1,19 @@
+# [Game Version 2.3 Optimization and Known Issues](archive/625.md)
+## Game Version 2.3 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Game Updates and Improvements Overview
+
+■2024/06/19
+
+- Fixes an issue where Trailblazers may stay in a locked map after leaving the Victory Zone when using the Finality's Vision function to enter locked maps early and play the Aetherium Wars. After the fix, Trailblazers will return to the "Old Weapon Testing Ground" map instead.
+
+-----
+
 # [Version 2.3 "Farewell, Penacony" Update](archive/609.md)
 ## Version 2.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/30/69d683f804bb79f37c135d9bd9365c94_6371126376492351001.jpg)
