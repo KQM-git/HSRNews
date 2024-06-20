@@ -16,6 +16,22 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/06/20
+
+- Fixes an issue in Divergent Universe where there is a chance of displaying the "Support Character does not exist" error for certain support characters when using the Planar Ornament Extraction function to download support characters.
+
+- Fixes an issue where the game has a chance to get stuck in certain circumstance after getting specific Curios and Blessings in Divergent Universe.
+
+- Fixes an issue where the mission battle might be impossible to progress under certain circumstances when using specific characters to experience the Trailblaze Mission "Jarilo-VI — Roads to the Past Have Long Been Closed."
+
+- Fixes an issue for a certain Synchronicity Level in the Divergent Universe, where there is a chance for the game's screen to go black after clearing Divergent Universe and returning to the main menu.
+
+- Fixes an issue in certain maps of the Xianzhou Luofu where tapping interactable buttons may be ineffective and lead to a "Cannot redirect" message after using the Control Panel to move obstacles.
+
+- Fixes an issue where there is a chance of being unable to progress the interactive event after receiving a message from the Delivery Person. Trailblazers who encountered this issue should expect the Express Crew to resolve it before 2024/06/28 23:59:00 (global).
+
+- Fixes an issue where the "Stickers, So Many Stickers" Achievement could not be fulfilled under certain conditions.
+
 ■2024/06/19
 
 - Fixes an issue where Trailblazers may stay in a locked map after leaving the Victory Zone when using the Finality's Vision function to enter locked maps early and play the Aetherium Wars. After the fix, Trailblazers will return to the "Old Weapon Testing Ground" map instead.
