@@ -8,7 +8,7 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
-■2024/06/20
+■2024/06/21
 
 - There is a known issue where the game might run into a black screen for some Trailblazers when hitting the "Limited-Time Rewards" button in the "Origami Bird Clash" event interface. If you encounter this issue, it can be resolved by restarting the game.
 
