@@ -20,6 +20,14 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/06/21
+
+- Fixes an issue where there is a chance of encountering a black screen when after restarting a challenge in Ordinary or Cyclical Extrapolation for Divergent Universe or re-challenging after clearing a Planar Ornament Extraction stage.
+
+- Fixes an issue where the Curio "Joyous Incense" abnormally takes effects on enemy targets in non-Boss Domains in the Divergent Universe.
+
+- Fixes an issue where obtained Boundary Equation will be abnormally listed in the expanded or unexpanded Equations after unlocking "Inspiration Circuit - Boundary Equation" in Divergent Universe under certain circumstances.
+
 ■2024/06/20
 
 - Fixes an issue in Divergent Universe where there is a chance of displaying the "Support Character does not exist" error for certain support characters when using the Planar Ornament Extraction function to download support characters.
