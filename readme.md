@@ -68,6 +68,22 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [New Robin Album & All-New Penacony Music Released](archive/620.md)
+## New Singles & Music Officially Released
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/18/93214491730b9ff69ee6492793fa9367_2927844400619757.jpg)
+
+Hello, Trailblazers,
+
+Robin's New "Had I Not Seen the Sun" Single and the Penacony All-New Album "The Flapper Sinthome (Part 2)" Officially Released!
+
+We welcome all Trailblazers to have a listen.
+
+[ Go and listen - Had I Not Seen the Sun](https://hoyo.link/diYjFEAL)
+
+[ Go and listen - The Flapper Sinthome (Part 2)](https://hoyo.link/flYjFEAL)
+
+-----
+
 # [Version 2.3 "Farewell, Penacony" Update](archive/609.md)
 ## Version 2.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/30/69d683f804bb79f37c135d9bd9365c94_6371126376492351001.jpg)
