@@ -20,6 +20,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/06/24
+
+- Fixes an issue in the Origami Bird Clash's Multiplayer Bonanza mode where there is a chance of being unable to enter a match and receiving a "Failed to obtain information" notification upon re-entering combat even after the matchmaking is successful.
+
 ■2024/06/21
 
 - Fixes an issue where there is a chance of encountering a black screen when after restarting a challenge in Ordinary or Cyclical Extrapolation for Divergent Universe or re-challenging after clearing a Planar Ornament Extraction stage.
