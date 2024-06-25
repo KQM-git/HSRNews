@@ -610,30 +610,6 @@ Following the arrival of Version 2.3, new version content has also been added to
 
 -----
 
-# ["Firefly Dreaming" TikTok Video Submission Event is Now Online](archive/607.md)
-## "Firefly Dreaming" TikTok Video Submission Event is Now Online
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/19/c94b954095fdab58f82b46bcfc6917d0_5869563857098465900.jpg)
-
-Participate in the "Firefly Dreaming" event, record the moments you experienced with Firefly. Share videos tagged #Firefly on TikTok to earn 40 Stellar Jades.
-
-[ Go to the event](https://hoyo.link/3eXjFBAL)
-
-### Event Period
-
-2024/06/19 00:00:00 (global) – 2024/07/09 23:59:00 (global)
-
-### Attention
-
-- This event's rewards will be released in the form of redemption codes. There are a limited number of redemption codes and they will be dispatched on a first-come, first-served basis.
-
-- Each redemption code can only be claimed once. Each in-game character can only exchange one corresponding redemption code.
-
-- This event's redemption codes will expire on 2024/07/30 23:59:00 (global). Please remember to redeem them on time.
-
-※ For more information, go to the event link above.
-
------
-
 # [The "Farewell, Penacony" Strategy Guides Contest Event is Now Available](archive/605.md)
 ## The "Farewell, Penacony" Strategy Guides Contest Event is Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/06/13/69a216be53b00075ac89815c1c203f98_6250179313968161319.png)
