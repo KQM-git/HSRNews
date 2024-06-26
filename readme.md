@@ -20,6 +20,34 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/06/26
+
+- Fixes an issue where it's not possible to obtain credit rewards for Trailblazers who have provided support characters for friends to use when they successfully challenge a Planar Ornament Extraction stage. The Express Crew will offer 120,000 credits as compensation via the in-game mail for Trailblazers who heave reached Trailblaze Level 4 or above before 2024/06/26 23:59:00 (global). We ask that Trailblazers log in and collect the contents of their mail before 2024/07/27 23:59:00 (global). The mail will expire in 30 days. Please collect your rewards promptly.
+
+- Adjusts certain boss enemies for the Third Plane of the Divergent Universe. Details are as follows: Removed Ten Stonehearts: Aventurine of Stratagems (Complete). If you have already encountered this enemy prior to the update, you can choose to continue or give up the fight. After you finish the battle, you will not encounter this enemy again. Reduced the HP and SPD for Cirrus (Complete)'s summons, and they also won't be able to summon Everwinter Shadewalker anymore.
+
+- Added more details in the rule description of the Threshold Protocol for Divergent Universe. After the addition, stat increases for enemies related to each protocol will also be included in the rules. This change is strictly textual and does not affect the actual in-game mechanics.
+
+- Adjusts the description of certain mission tutorials for the Trailblaze Mission "Penacony — Soldier's Pay."
+
+- Fixes an issue where Save Files become ineffective after performing specific operations in the Divergent Universe and making a Save File in the Planar Ornament Extraction challenge.
+
+- Fixes an issue where some active Equations abnormally lose effect when losing the Curio "Memory Cycle" in Divergent Universe.
+
+- Fixes a chance where the game has a chance of being frozen in certain conditions after activating the Equation "Scholar of Candles" in the Divergent Universe.
+
+- Fixes an issue where abnormal Grit stacks can be stacked in specific situations via the Equation "Pyromaniac" in Divergent Universe.
+
+- Fixes an issue where you can obtain the Curios "Sealing Wax of Propagation" and "Sealing Wax of Erudition" without unlocking the Propagation and Erudition Paths in the Simulated Universe.
+
+- Fixes an issue where the descriptions of the Secondary Combustion Status Effect is erroneous for the enemy Stellaron Hunter SAM. This fix is for text only and doesn't affect the actual effects.
+
+- Fixes a naming error for the Blessing "Empower" in the Simulated Universe.
+
+- Optimizes the buff names of Peril Parry and Force Victoire.
+
+- Optimizes the name of the ability "Back to Life" for the enemy Ebon Deer in the Trailblaze Mission "Xianzhou Luofu - Humming Antlers, Entwined Horns."
+
 ■2024/06/24
 
 - Fixes an issue in the Origami Bird Clash's Multiplayer Bonanza mode where there is a chance of being unable to enter a match and receiving a "Failed to obtain information" notification upon re-entering combat even after the matchmaking is successful.
@@ -44,15 +72,19 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Fixes an issue in certain maps of the Xianzhou Luofu where tapping interactable buttons may be ineffective and lead to a "Cannot redirect" message after using the Control Panel to move obstacles.
 
-- Fixes an issue where there is a chance of being unable to progress the interactive event after receiving a message from the Delivery Person. Trailblazers who encountered this issue should expect the Express Crew to resolve it before 2024/06/28 23:59:00 (global).
+- Fixes an issue where there is a chance of being unable to progress the interactive event after receiving a message from the Delivery Person. Trailblazers who encountered this issue should expect the Express Crew to resolve it before 2024/06/28 23:59:00 (global).
 
 - Fixes an issue where the "Stickers, So Many Stickers" Achievement could not be fulfilled under certain conditions.
+
+- Fixes an issue where additional rewards for the "Periodic Demon Lord" Occurence in the Simulated Universe and Divergent Universe couldn't be claimed when using certain characters.
 
 ■2024/06/19
 
 - Fixes an issue where Trailblazers may stay in a locked map after leaving the Victory Zone when using the Finality's Vision function to enter locked maps early and play the Aetherium Wars. After the fix, Trailblazers will return to the "Old Weapon Testing Ground" map instead.
 
 - Fixes an issue in the Trailblaze Continuance "Jarilo-VI — Future Market (II)" mission, where Trailblazers may not be able to operate the Automaton Stealth Bomb, preventing further progress for the mission.
+
+- Fixes an issue where you may encounter the "No data" and "Failed to obtain data. Please check your network and try again (-102)" messages when you tap the "Warp — Records" menu.
 
 - Fixes an issue where, under certain conditions, failed explorations in "Divergent Universe" may be abnormally displayed in the "Trailblazer Profile — Battle Records Showcase".
 
