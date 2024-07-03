@@ -20,6 +20,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/07/03
+
+- Fixes an issue where certain characters' ability effects, map models, and gameplay are displayed abnormally when using certain Android devices.
+
 ■2024/06/26
 
 - Fixes an issue where it's not possible to obtain credit rewards for Trailblazers who have provided support characters for friends to use when they successfully challenge a Planar Ornament Extraction stage. The Express Crew will offer 120,000 credits as compensation via the in-game mail for Trailblazers who heave reached Trailblaze Level 4 or above before 2024/06/26 23:59:00 (global). We ask that Trailblazers log in and collect the contents of their mail before 2024/07/27 23:59:00 (global). The mail will expire in 30 days. Please collect your rewards promptly.
