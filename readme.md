@@ -20,6 +20,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/07/09
+
+- Updates certain related resources for subsequent content.
+
 ■2024/07/03
 
 - Fixes an issue where certain characters' ability effects, map models, and gameplay are displayed abnormally when using certain Android devices.
