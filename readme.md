@@ -118,6 +118,30 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/599.md)
+## Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/22/fba39da2942fe360176de0c99a78509d_7337147988906339685.png)
+
+### Event Period
+
+2024/07/19 04:00:00 (server) – 2024/07/26 03:59:00 (server)
+
+### Participation Requirement
+
+Unlock Cavern of Corrosion: Path of Drifting
+
+### Event Details
+
+- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
+
+- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
+
+- Double reward opportunities refresh daily at 04:00. Make sure to use them before they're gone!
+
+-----
+
 # [Version 2.3 "Farewell, Penacony" Update](archive/609.md)
 ## Version 2.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/30/69d683f804bb79f37c135d9bd9365c94_6371126376492351001.jpg)
