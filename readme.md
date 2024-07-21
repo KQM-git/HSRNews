@@ -142,28 +142,6 @@ Unlock Cavern of Corrosion: Path of Drifting
 
 -----
 
-# [Version 2.3 "Farewell, Penacony" Satisfaction Survey](archive/655.md)
-## Version 2.3 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/64f750577627982c2225314c2376a57b_6406428270481800121.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 2.3, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-jkR6tx-sebxwTTv9cvPliNriB0Aqnm5L6l2uO2IYPHhz&game_biz=hkrpg_global&surveyId=24116&format=1&sign_type=2&authkey_ver=1)
-
-### Attention
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # [Version 2.3 "Farewell, Penacony" Update](archive/609.md)
 ## Version 2.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/30/69d683f804bb79f37c135d9bd9365c94_6371126376492351001.jpg)
