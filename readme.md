@@ -778,28 +778,6 @@ Clear the stage to obtain the new **Erudition** character **Trace Materials** "E
 
 -----
 
-# [New Version 2.3 Herta Contracts Details](archive/585.md)
-## New Version 2.3 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/14/624e98431d6345b3c8bc4f3745f70bde_8662460823500608085.png)
-
-Dear Trailblazers,
-
-From after the Version 2.3 update to 2024/07/30 15:00:00 (server), we will see new Herta: Contracts at the Contract Shop!
-
-### Herta Contract: Roaming Refill
-
-Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
-
-Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
 # [Starlit Homecoming Event Update Details](archive/593.md)
 ## Starlit Homecoming Event Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/05/29/b661fd2a652e466bcaffd6c3d1cae920_8783150420153897852.jpg)
