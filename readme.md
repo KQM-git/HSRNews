@@ -1,3 +1,55 @@
+# ["Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details](archive/632.md)
+## "Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/7990fbb68a5ffd592ee162003b69057b_2971294829708666372.png)
+
+The Xianzhou Luofu's Wardance is about to commence, with guests arriving from different worlds. But those who arrive are not solely interested in beholding the martial traditions...
+
+### Availability
+
+Permanently available after the Version 2.4 update
+
+### Event Requirement
+
+Trailblaze Level ≥ 21
+
+※ During Versions 2.4 and 2.5, this content can be experienced in advance through the Finality's Vision function.
+
+※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
+
+※ After completing the Trailblaze Continuance "the Xianzhou Luofu — March to Mastery: A Star Is Born," you can unlock Path of The Hunt for March 7th. It is recommended that Trailblazers prioritize participating in the event "Saga of Primaveral Blade" after unlocking March 7th's Path of The Hunt.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/29a71fa100913699eeecac79c2a7acf3_4463747721670902487.png)
+
+-----
+
+# [Version 2.4 Companion Mission Details](archive/633.md)
+## Version 2.4 Companion Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/bac0919f0ba01d5d1458d2371ce14825_2451903051683770834.png)
+
+Dear Trailblazers,
+
+After attaining the corresponding Trailblaze Level or completing the prerequisite missions, the following Companion Mission will be unlocked.
+
+### Swords to Plowshares
+
+- An outworlder delegation returns a long-lost Xianzhou sword. Yunli invites you to take part in the sword-gifting ceremony...
+
+- Availability: Permanently available after the Version 2.4 update
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead" and the Trailblaze Continuance "Xianzhou Luofu — Rogues on the Run"
+
+※ If the Trailblazer completed the Trailblaze Continuance "Xianzhou Luofu — Rogues on the Run" through the Finality's Vision function without completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead," you will not be able to unlock the Companion Mission "Swords to Plowshares."
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/dbccd9a45dd3470cfdc96288f6cbc91e_6227253163919021130.png)
+
+※ Trailblazer can use the "Mission - Fate's Atlas" system to check the unlock criteria for the previous versions' Companion Missions.
+
+-----
+
 # [Version 2.4 Nameless Honor Details](archive/639.md)
 ## Version 2.4 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/93b94958118f055a745d2c61ae267c4b_63349639139728793.png)
@@ -59,58 +111,6 @@ Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account whil
 Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
 
 Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
-# [Version 2.4 Companion Mission Details](archive/633.md)
-## Version 2.4 Companion Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/bac0919f0ba01d5d1458d2371ce14825_2451903051683770834.png)
-
-Dear Trailblazers,
-
-After attaining the corresponding Trailblaze Level or completing the prerequisite missions, the following Companion Mission will be unlocked.
-
-### Swords to Plowshares
-
-- An outworlder delegation returns a long-lost Xianzhou sword. Yunli invites you to take part in the sword-gifting ceremony...
-
-- Availability: Permanently available after the Version 2.4 update
-
-- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead" and the Trailblaze Continuance "Xianzhou Luofu — Rogues on the Run"
-
-※ If the Trailblazer completed the Trailblaze Continuance "Xianzhou Luofu — Rogues on the Run" through the Finality's Vision function without completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead," you will not be able to unlock the Companion Mission "Swords to Plowshares."
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/dbccd9a45dd3470cfdc96288f6cbc91e_6227253163919021130.png)
-
-※ Trailblazer can use the "Mission - Fate's Atlas" system to check the unlock criteria for the previous versions' Companion Missions.
-
------
-
-# ["Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details](archive/632.md)
-## "Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/7990fbb68a5ffd592ee162003b69057b_2971294829708666372.png)
-
-The Xianzhou Luofu's Wardance is about to commence, with guests arriving from different worlds. But those who arrive are not solely interested in beholding the martial traditions...
-
-### Availability
-
-Permanently available after the Version 2.4 update
-
-### Event Requirement
-
-Trailblaze Level ≥ 21
-
-※ During Versions 2.4 and 2.5, this content can be experienced in advance through the Finality's Vision function.
-
-※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
-
-※ After completing the Trailblaze Continuance "the Xianzhou Luofu — March to Mastery: A Star Is Born," you can unlock Path of The Hunt for March 7th. It is recommended that Trailblazers prioritize participating in the event "Saga of Primaveral Blade" after unlocking March 7th's Path of The Hunt.
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/29a71fa100913699eeecac79c2a7acf3_4463747721670902487.png)
 
 -----
 
