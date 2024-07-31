@@ -1,3 +1,25 @@
+# [Game Version 2.4 Optimization and Known Issues](archive/668.md)
+## Game Version 2.4 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Game Updates and Improvements Overview
+
+■2024/07/31
+
+- Fixes an issue where the “New” notification for newly obtained characters in the character menu erroneously disappears.
+
+- Fixes an issue where Trailblazers may errenously get a "March 7th (Preservation: Ice)" character in Store — Starlight Exchange when "March 7th (Preservation: Ice)'s" Eidolon 6 is already unlocked and she is switched to Path of The Hunt. The Express Crew will resolve this issue within 7 business days. "Undying Starlight" will be issued as recompense for Trailblazers that have obtained "March 7th (Preservation: Ice)" erroneously.
+
+- Fixes an issue of an abnormal countdown timer in the "Simulated Universe: Gold and Gears" page in the Travel Log.
+
+- Fixes an issue where the game has a chance of being unable to progress or ends up stuck when fighting the enemy "The Past, Present, and Eternal Show" in the Divergent Universe.
+
+-----
+
 # ["Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details](archive/632.md)
 ## "Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/7990fbb68a5ffd592ee162003b69057b_2971294829708666372.png)
