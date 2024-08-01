@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/08/01
+
+- Fixes an issue where certain character Ultimate animations are abnormal when the combat scene is set to "The Shackling Prison."
+
 ■2024/07/31
 
 - Fixes an issue where the “New” notification for newly obtained characters in the character menu erroneously disappears.
