@@ -6,6 +6,12 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
 
+### Known Issues
+
+■2024/08/02
+
+- It is known that there is a chance the game might abnormally crash when using certain iPad devices. This issue will be fixed in future version updates.
+
 ### Game Updates and Improvements Overview
 
 ■2024/08/02
