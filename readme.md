@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/08/02
+
+- Fixes an issue where when placing markers on a map will trigger display errors when the max Energy of certain Path Resonances and Boundary Equations is at 200 in the Simulated and Divergent Universes. This issue will not affect the actual effects.
+
 ■2024/08/01
 
 - Fixes an issue where certain character Ultimate animations are abnormal when the combat scene is set to "The Shackling Prison."
