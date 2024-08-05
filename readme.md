@@ -8,6 +8,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2024/08/05
+
+- It is known that follow-up attacks have an anomalous chance of triggering repeatedly under certain circumstances for Lightning-Lord or Numby in Pure Fiction and other specific stages. This issue will be fixed in a future update.
+
+- It is known that performing certain options for the character Acheron (Nihility: Lightning) has a chance of abnormally rendering you unable to progress through Simulated Universe in the Simulated Universe game mode. Trailblazers who encounter this issue can use the "Leave for Now" option to exit and re-enter the stage to resolve the issue. This issue will be fixed in a future update.
+
 ■2024/08/02
 
 - It is known that there is a chance the game might abnormally crash when using certain iPad devices. This issue will be fixed in future version updates.
