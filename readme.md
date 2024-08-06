@@ -146,30 +146,6 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 
 -----
 
-# [Version 2.4 Twitch Stream Incentive Program Has Begun](archive/650.md)
-## Version 2.4 Twitch Stream Incentive Program Has Begun
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/25/c33a088b9b0c0fcc4f6324e52f95a346_2667158924378163107.png)
-
-Hello, Trailblazers
-
-After the Version 2.4 update, Trailblazers can earn up to 30 Stellar Jades by watching Honkai: Star Rail livestreams on Twitch in any channel marked with the "drop" label.
-
-[ Go to the event](https://hoyo.link/1xDkFBAL)
-
-### Event Period
-
-- 2024/07/31 10:00:00 (global) – 2024/08/28 10:00:00 (global)
-
-### Note
-
-- Before claiming the rewards, please ensure that your Trailblaze Level ≥ 4 and that the HoYoverse Account you use is linked to your Twitch account.
-
-- After claiming your rewards in your Twitch Inventory, your corresponding rewards will be dispatched via in-game mail.
-
-※ For more information, go to the event link above.
-
------
-
 # [Version 2.4 Nameless Honor Details](archive/639.md)
 ## Version 2.4 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/93b94958118f055a745d2c61ae267c4b_63349639139728793.png)
