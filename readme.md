@@ -1,41 +1,3 @@
-# [Operation Memoria Snapshot: Take photos to fulfill stage objectives and obtain rewards such as Tracks of Destiny](archive/638.md)
-## Operation Memoria Snapshot Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/9798c1aaa45ba3f6e73724401b45aa83_6297162390321960212.png)
-
-A trainee doctor from Penacony is looking for a helper at Starskiff Haven to help him complete a special photoshoot plan.
-
-### Event Period
-
-2024/08/07 12:00:00 (server) – 2024/08/19 03:59:00 (server)
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/b9c609e891c5abab5f451efe157c2146_7157062062649643767.png)
-
-### Event Requirement
-
-Trailblaze Level ≥ 21
-
-※ This content can be experienced in advance through the **Finality's Vision** function.
-
-※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Penacony — Tales from the Golden Age."
-
-### Event Details
-
-- After the event starts, a new challenge stage will be unlocked each day, for a total of 6 stages.
-
-- Later stages can only be unlocked after completing the photography of previous stages.
-
-- When the camera's focus overlaps with the photo subject, select the camera button to successfully take a photo.
-
-- Take pictures of trashcan of **bronze, silver, and gold** quality. You score different points from pictures of different trashcan qualities.
-
-- Take a photo when the **gold** trashcan makes a **special action** to receive additional **Capture Scores**.
-
--  During the event period, obtain trophies from every stage to obtain rewards via Limited-Time Rewards.
-
------
-
 # [Game Version 2.4 Optimization and Known Issues](archive/668.md)
 ## Game Version 2.4 Optimization and Known Issues
 
@@ -85,6 +47,44 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 - Fixes an issue of an abnormal countdown timer in the "Simulated Universe: Gold and Gears" page in the Travel Log.
 
 - Fixes an issue where the game has a chance of being unable to progress or ends up stuck when fighting the enemy "The Past, Present, and Eternal Show" in the Divergent Universe.
+
+-----
+
+# [Operation Memoria Snapshot: Take photos to fulfill stage objectives and obtain rewards such as Tracks of Destiny](archive/638.md)
+## Operation Memoria Snapshot Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/9798c1aaa45ba3f6e73724401b45aa83_6297162390321960212.png)
+
+A trainee doctor from Penacony is looking for a helper at Starskiff Haven to help him complete a special photoshoot plan.
+
+### Event Period
+
+2024/08/07 12:00:00 (server) – 2024/08/19 03:59:00 (server)
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/b9c609e891c5abab5f451efe157c2146_7157062062649643767.png)
+
+### Event Requirement
+
+Trailblaze Level ≥ 21
+
+※ This content can be experienced in advance through the **Finality's Vision** function.
+
+※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Penacony — Tales from the Golden Age."
+
+### Event Details
+
+- After the event starts, a new challenge stage will be unlocked each day, for a total of 6 stages.
+
+- Later stages can only be unlocked after completing the photography of previous stages.
+
+- When the camera's focus overlaps with the photo subject, select the camera button to successfully take a photo.
+
+- Take pictures of trashcan of **bronze, silver, and gold** quality. You score different points from pictures of different trashcan qualities.
+
+- Take a photo when the **gold** trashcan makes a **special action** to receive additional **Capture Scores**.
+
+-  During the event period, obtain trophies from every stage to obtain rewards via Limited-Time Rewards.
 
 -----
 
