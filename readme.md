@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2024/08/08
+
+- It is known that ability icons might be abnormally displayed when characters abilities are not available for use. This issue will be fixed in Version 2.5.
+
 ■2024/08/07
 
 - It is known that when engaging the enemy "The Past, Present, and Eternal Show" in non-story related battles, their combat BGM will not be overridded by the character Robin (Harmony: Physical)'s "Concerto" state music. This issue will be fixed in a future update.
