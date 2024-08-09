@@ -28,6 +28,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/08/09
+
+- Fixes an issue where the game progress might become abnormal after taking a photo during the "Operation Memoria Snapshot" event for certain devices.
+
+- Fixes an issue where certain Trashcans are abnormally unable to appear when rechallenging "Operation Incognito: Day 3" stage in the "Operation Memoria Snapshot" event.
+
 ■2024/08/07
 
 - Fixes an issue where after completing the Final Sword Trial and performing a specific set of operations in the Saga of Primaveral Blade before facing Skott, there will be a chance for the battle lineup to not use the trial character March 7th (The Hunt: Imaginary).
