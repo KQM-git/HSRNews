@@ -230,6 +230,30 @@ Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account whil
 
 -----
 
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/635.md)
+## Planar Fissure Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/9d378e12a5b9f4685446d59593ae318b_3801254581753382464.png)
+
+### Event Period
+
+2024/08/14 04:00:00 (server) – 2024/08/21 03:59:00 (server)
+
+### Event Requirement
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the Planar Fissure event period, get double rewards from the Simulated Universe or Divergent Universe.
+
+- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Version 2.4 "Finest Duel Under the Pristine Blue" Update](archive/644.md)
 ## Version 2.4 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/30/d7c203aecf66d5920b8b16fb2bd5e052_2247913527821550813.png)
