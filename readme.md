@@ -60,6 +60,30 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/635.md)
+## Planar Fissure Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/9d378e12a5b9f4685446d59593ae318b_3801254581753382464.png)
+
+### Event Period
+
+2024/08/14 04:00:00 (server) – 2024/08/21 03:59:00 (server)
+
+### Event Requirement
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the Planar Fissure event period, get double rewards from the Simulated Universe or Divergent Universe.
+
+- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Operation Memoria Snapshot: Take photos to fulfill stage objectives and obtain rewards such as Tracks of Destiny](archive/638.md)
 ## Operation Memoria Snapshot Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/9798c1aaa45ba3f6e73724401b45aa83_6297162390321960212.png)
@@ -140,32 +164,6 @@ Trailblaze Level ≥ 21
 
 -----
 
-# [Version 2.4 Companion Mission Details](archive/633.md)
-## Version 2.4 Companion Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/bac0919f0ba01d5d1458d2371ce14825_2451903051683770834.png)
-
-Dear Trailblazers,
-
-After attaining the corresponding Trailblaze Level or completing the prerequisite missions, the following Companion Mission will be unlocked.
-
-### Swords to Plowshares
-
-- An outworlder delegation returns a long-lost Xianzhou sword. Yunli invites you to take part in the sword-gifting ceremony...
-
-- Availability: Permanently available after the Version 2.4 update
-
-- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead" and the Trailblaze Continuance "Xianzhou Luofu — Rogues on the Run"
-
-※ If the Trailblazer completed the Trailblaze Continuance "Xianzhou Luofu — Rogues on the Run" through the Finality's Vision function without completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead," you will not be able to unlock the Companion Mission "Swords to Plowshares."
-
-- Mission Rewards:
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/dbccd9a45dd3470cfdc96288f6cbc91e_6227253163919021130.png)
-
-※ Trailblazer can use the "Mission - Fate's Atlas" system to check the unlock criteria for the previous versions' Companion Missions.
-
------
-
 # [Version 2.4 Nameless Honor Details](archive/639.md)
 ## Version 2.4 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/93b94958118f055a745d2c61ae267c4b_63349639139728793.png)
@@ -208,6 +206,32 @@ Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI —
 
 -----
 
+# [Version 2.4 Companion Mission Details](archive/633.md)
+## Version 2.4 Companion Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/bac0919f0ba01d5d1458d2371ce14825_2451903051683770834.png)
+
+Dear Trailblazers,
+
+After attaining the corresponding Trailblaze Level or completing the prerequisite missions, the following Companion Mission will be unlocked.
+
+### Swords to Plowshares
+
+- An outworlder delegation returns a long-lost Xianzhou sword. Yunli invites you to take part in the sword-gifting ceremony...
+
+- Availability: Permanently available after the Version 2.4 update
+
+- Unlock Conditions: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead" and the Trailblaze Continuance "Xianzhou Luofu — Rogues on the Run"
+
+※ If the Trailblazer completed the Trailblaze Continuance "Xianzhou Luofu — Rogues on the Run" through the Finality's Vision function without completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead," you will not be able to unlock the Companion Mission "Swords to Plowshares."
+
+- Mission Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/dbccd9a45dd3470cfdc96288f6cbc91e_6227253163919021130.png)
+
+※ Trailblazer can use the "Mission - Fate's Atlas" system to check the unlock criteria for the previous versions' Companion Missions.
+
+-----
+
 # [New Version 2.4 Herta Contracts Details](archive/640.md)
 ## New Version 2.4 Herta Contracts Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/624e98431d6345b3c8bc4f3745f70bde_5951777718400834663.png)
@@ -227,30 +251,6 @@ Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account whil
 Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
 
 Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/635.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/9d378e12a5b9f4685446d59593ae318b_3801254581753382464.png)
-
-### Event Period
-
-2024/08/14 04:00:00 (server) – 2024/08/21 03:59:00 (server)
-
-### Event Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event period, get double rewards from the Simulated Universe or Divergent Universe.
-
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
 
 -----
 
