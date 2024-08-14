@@ -28,6 +28,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/08/14
+
+- Fixes an issue where the countdown is abnormally missing in the Planar Fissure page for the Travel Log. The Planar Fissure event time has been set to: 2024/08/14 04:00:00 (server) - 2024/08/21 03:59:00 (server).
+
 ■2024/08/09
 
 - Fixes an issue where the game progress might become abnormal after taking a photo during the "Operation Memoria Snapshot" event for certain devices.
