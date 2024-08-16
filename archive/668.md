@@ -28,6 +28,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/08/16
+
+- Fixes an issue where there is a chance that certain characters' abilities might target abnormally when certain enemy abilities or Blessings in combat inflict debuffs on enemies under specific conditions.
+
+- Fixes an issue where Trailblazers are unable to navigate to the hyperlink within their mail while playing with controllers.
+
 ■2024/08/14
 
 - Fixes an issue where the countdown is abnormally missing in the Planar Fissure page for the Travel Log. The Planar Fissure event time has been set to: 2024/08/14 04:00:00 (server) - 2024/08/21 03:59:00 (server).
