@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2024/08/19
+
+- It is known that the Action Order and the ability description are inconsistent under certain circumstances when the character Yunli (Destruction: Physical) uses her "Intuit: Slash" ability. This issue will be fixed in the Version 2.6 update. The ability will match the description after the fix.
+
 ■2024/08/08
 
 - It is known that ability icons might be abnormally displayed when characters abilities are not available for use. This issue will be fixed in Version 2.5.
