@@ -74,6 +74,18 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Log-in Issue Resolved](archive/687.md)
+## Log-in Issue Resolved
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/73da9683e7ae4f4fdc48df854793a8d8_7071926624824491418.png)
+
+Hello, Trailblazers,
+
+Due to an issue with Facebook services, some Trailblazers are experiencing difficulties with logging into the game.
+
+Please note that this problem has been fixed, and Trailblazers can now log in to the game.
+
+-----
+
 # [Notice on Log-in Issues](archive/686.md)
 ## Notice on Log-in Issues
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/2084d89bb54e1afc4d612457f8e35603_568234991153895672.png)
