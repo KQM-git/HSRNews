@@ -32,6 +32,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/08/20
+
+- Updates certain related resources for subsequent content.
+
 ■2024/08/16
 
 - Fixes an issue where there is a chance that certain characters' abilities might target abnormally when certain enemy abilities or Blessings in combat inflict debuffs on enemies under specific conditions.
