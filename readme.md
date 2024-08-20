@@ -78,18 +78,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [Log-in Issue Resolved](archive/687.md)
-## Log-in Issue Resolved
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/73da9683e7ae4f4fdc48df854793a8d8_7071926624824491418.png)
-
-Hello, Trailblazers,
-
-Due to an issue with Facebook services, some Trailblazers are experiencing difficulties with logging into the game.
-
-Please note that this problem has been fixed, and Trailblazers can now log in to the game.
-
------
-
 # [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/635.md)
 ## Planar Fissure Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/9d378e12a5b9f4685446d59593ae318b_3801254581753382464.png)
