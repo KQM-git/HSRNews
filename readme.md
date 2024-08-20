@@ -90,22 +90,6 @@ Please note that this problem has been fixed, and Trailblazers can now log in to
 
 -----
 
-# [Notice on Log-in Issues](archive/686.md)
-## Notice on Log-in Issues
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/2084d89bb54e1afc4d612457f8e35603_568234991153895672.png)
-
-Hello, Trailblazers,
-
-Due to an issue with Facebook services, some Trailblazers are experiencing difficulties with logging into the game.
-
-Other login methods will not be affected. Trailblazers with their HoYoverse Account already linked to other accounts can try to log in via other methods.
-
-The development team is now investigating the cause of the problem and working to fix it. Please stay tuned to future official notifications regarding an estimated completion time.
-
-We sincerely apologize for any inconvenience caused. Thank you for your understanding and support.
-
------
-
 # [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/635.md)
 ## Planar Fissure Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/9d378e12a5b9f4685446d59593ae318b_3801254581753382464.png)
