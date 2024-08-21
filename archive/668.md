@@ -32,6 +32,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/08/21
+
+- Fixes an issue where the stat values for the Magician: Trailblazer has a chance of being abnormal in combat for the "A Sea of Trashcan" stage in the "Trailblaze: Friendship Is Magic!" event.
+
 ■2024/08/20
 
 - Updates certain related resources for subsequent content.
