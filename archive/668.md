@@ -32,6 +32,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/08/23
+
+- Fixes an issue in the "Trailblaze: Friendship Is Magic!" event, where the Hazardous Waste Trashcan Official Trial has a chance of stage verification failure after the battle ends.
+
+- Fixes an issue where performing some specific operations during the "Tri-Action Trashcan" Official Trial in "Trailblaze: Friendship Is Magic!" has a chance of affecting event progress abnormally.
+
 ■2024/08/21
 
 - Fixes an issue where the stat values for the Magician: Trailblazer has a chance of being abnormal in combat for the "A Sea of Trashcan" stage in the "Trailblaze: Friendship Is Magic!" event.
