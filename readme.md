@@ -176,22 +176,6 @@ Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI —
 
 -----
 
-# [HoYoLAB Daily Check-in Reminder](archive/656.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/25/0090444b53b9804649f69b6d533a9bb8_303827596809365449.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
-
------
-
 # ["Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details](archive/632.md)
 ## "Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/7990fbb68a5ffd592ee162003b69057b_2971294829708666372.png)
