@@ -198,6 +198,28 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 
 -----
 
+# [Version 2.4 "Finest Duel Under the Pristine Blue" Satisfaction Survey](archive/694.md)
+## Version 2.4 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/64f750577627982c2225314c2376a57b_8643513891457505599.png)
+
+Dear Trailblazers,
+
+To better understand the Trailblazers' experience in Version 2.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-N3sh-sebxwTTv9cvPliNsvHW9TG7a6JcOwsHuQ_moV&game_biz=hkrpg_global&surveyId=25243&format=1&sign_type=2&authkey_ver=1)
+
+### Things to Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/636.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/658a5b95b1fcbbce4821d4185131fc76_3107925494997054168.png)
