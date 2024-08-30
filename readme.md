@@ -1,3 +1,49 @@
+# [Version 2.4 "Finest Duel Under the Pristine Blue" Satisfaction Survey](archive/694.md)
+## Version 2.4 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/64f750577627982c2225314c2376a57b_8643513891457505599.png)
+
+Dear Trailblazers,
+
+To better understand the Trailblazers' experience in Version 2.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-N3sh-sebxwTTv9cvPliNsvHW9TG7a6JcOwsHuQ_moV&game_biz=hkrpg_global&surveyId=25243&format=1&sign_type=2&authkey_ver=1)
+
+### Things to Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
+# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/636.md)
+## Garden of Plenty Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/658a5b95b1fcbbce4821d4185131fc76_3107925494997054168.png)
+
+### Event Period
+
+2024/08/30 04:00:00 (server) – 2024/09/06 03:59:00 (server)
+
+### Event Requirement
+
+Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
+
+### Event Details
+
+- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive double rewards.
+
+- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- The number of daily double reward opportunities is **limited** and can be viewed in the Garden of Plenty event page.
+
+- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
+
+-----
+
 # [Game Version 2.4 Optimization and Known Issues](archive/668.md)
 ## Game Version 2.4 Optimization and Known Issues
 
@@ -88,48 +134,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [HoYoLAB Daily Check-in Reminder](archive/656.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/25/0090444b53b9804649f69b6d533a9bb8_303827596809365449.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://hoyo.link/8aiwCBAd)
-
-Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
-
------
-
-# ["Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details](archive/632.md)
-## "Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/7990fbb68a5ffd592ee162003b69057b_2971294829708666372.png)
-
-The Xianzhou Luofu's Wardance is about to commence, with guests arriving from different worlds. But those who arrive are not solely interested in beholding the martial traditions...
-
-### Availability
-
-Permanently available after the Version 2.4 update
-
-### Event Requirement
-
-Trailblaze Level ≥ 21
-
-※ During Versions 2.4 and 2.5, this content can be experienced in advance through the Finality's Vision function.
-
-※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
-
-※ After completing the Trailblaze Continuance "the Xianzhou Luofu — March to Mastery: A Star Is Born," you can unlock Path of The Hunt for March 7th. It is recommended that Trailblazers prioritize participating in the event "Saga of Primaveral Blade" after unlocking March 7th's Path of The Hunt.
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/29a71fa100913699eeecac79c2a7acf3_4463747721670902487.png)
-
------
-
 # [Version 2.4 Nameless Honor Details](archive/639.md)
 ## Version 2.4 Nameless Honor Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/93b94958118f055a745d2c61ae267c4b_63349639139728793.png)
@@ -172,6 +176,48 @@ Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI —
 
 -----
 
+# [HoYoLAB Daily Check-in Reminder](archive/656.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/25/0090444b53b9804649f69b6d533a9bb8_303827596809365449.jpg)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://hoyo.link/8aiwCBAd)
+
+Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
+
+-----
+
+# ["Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details](archive/632.md)
+## "Finest Duel Under the Pristine Blue: Part I" Trailblaze Continuance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/7990fbb68a5ffd592ee162003b69057b_2971294829708666372.png)
+
+The Xianzhou Luofu's Wardance is about to commence, with guests arriving from different worlds. But those who arrive are not solely interested in beholding the martial traditions...
+
+### Availability
+
+Permanently available after the Version 2.4 update
+
+### Event Requirement
+
+Trailblaze Level ≥ 21
+
+※ During Versions 2.4 and 2.5, this content can be experienced in advance through the Finality's Vision function.
+
+※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
+
+※ After completing the Trailblaze Continuance "the Xianzhou Luofu — March to Mastery: A Star Is Born," you can unlock Path of The Hunt for March 7th. It is recommended that Trailblazers prioritize participating in the event "Saga of Primaveral Blade" after unlocking March 7th's Path of The Hunt.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/29a71fa100913699eeecac79c2a7acf3_4463747721670902487.png)
+
+-----
+
 # [Version 2.4 Companion Mission Details](archive/633.md)
 ## Version 2.4 Companion Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/15/bac0919f0ba01d5d1458d2371ce14825_2451903051683770834.png)
@@ -195,52 +241,6 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 ![img](https://sdk.hoyoverse.com/upload/ann/2024/07/15/dbccd9a45dd3470cfdc96288f6cbc91e_6227253163919021130.png)
 
 ※ Trailblazer can use the "Mission - Fate's Atlas" system to check the unlock criteria for the previous versions' Companion Missions.
-
------
-
-# [Version 2.4 "Finest Duel Under the Pristine Blue" Satisfaction Survey](archive/694.md)
-## Version 2.4 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/64f750577627982c2225314c2376a57b_8643513891457505599.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 2.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-N3sh-sebxwTTv9cvPliNsvHW9TG7a6JcOwsHuQ_moV&game_biz=hkrpg_global&surveyId=25243&format=1&sign_type=2&authkey_ver=1)
-
-### Things to Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
-# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/636.md)
-## Garden of Plenty Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/658a5b95b1fcbbce4821d4185131fc76_3107925494997054168.png)
-
-### Event Period
-
-2024/08/30 04:00:00 (server) – 2024/09/06 03:59:00 (server)
-
-### Event Requirement
-
-Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
-
-### Event Details
-
-- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive double rewards.
-
-- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- The number of daily double reward opportunities is **limited** and can be viewed in the Garden of Plenty event page.
-
-- Double reward opportunities refresh daily at 04:00 (server time). Make sure to use them before they're gone!
 
 -----
 
