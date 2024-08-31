@@ -1,25 +1,3 @@
-# [Version 2.4 "Finest Duel Under the Pristine Blue" Satisfaction Survey](archive/694.md)
-## Version 2.4 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/64f750577627982c2225314c2376a57b_8643513891457505599.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 2.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-j-N3sh-sebxwTTv9cvPliNsvHW9TG7a6JcOwsHuQ_moV&game_biz=hkrpg_global&surveyId=25243&format=1&sign_type=2&authkey_ver=1)
-
-### Things to Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/636.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/658a5b95b1fcbbce4821d4185131fc76_3107925494997054168.png)
@@ -131,6 +109,22 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 - Fixes an issue of an abnormal countdown timer in the "Simulated Universe: Gold and Gears" page in the Travel Log.
 
 - Fixes an issue where the game has a chance of being unable to progress or ends up stuck when fighting the enemy "The Past, Present, and Eternal Show" in the Divergent Universe.
+
+-----
+
+# [HoYoLAB Daily Check-in Reminder](archive/695.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/30/07da2ae48c7db9bb383ccba36c4188bf_4127383657754989892.jpg)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://hoyo.link/8aiwCBAd)
+
+Earn an extra 100 Stellar Jades as rewards the first time you check in for 3 days in total!
 
 -----
 
