@@ -1,3 +1,29 @@
+# ["Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details](archive/682.md)
+## "Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/96ac589afb1aa7fffc147240df3cb7fd_8169475248872684338.png)
+
+Wolves lurk encircling, and the hunter draws their bow. High above, within the Skysplitter, the Xianzhou Luofu's Wardance ceremony is about to commence a sanguine competition...
+
+### Availability
+
+Permanently available after the Version 2.5 update
+
+### Requirements
+
+Trailblaze Level ≥ 21 and complete Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue: Part I"
+
+※ During Version 2.5, this content can be experienced in advance through the Finality's Vision function.
+
+※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
+
+※ After V2.5 has concluded, the unlock conditions for Trailblaze Continuance "Finest Duel Under the Pristine Blue" will become: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/29a71fa100913699eeecac79c2a7acf3_2805093828346821266.png)
+
+-----
+
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/636.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/658a5b95b1fcbbce4821d4185131fc76_3107925494997054168.png)
