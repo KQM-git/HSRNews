@@ -24,6 +24,62 @@ Trailblaze Level ≥ 21 and complete Trailblaze Continuance "The Xianzhou Luofu 
 
 -----
 
+# [Version 2.5 New Stages](archive/678.md)
+## Version 2.5 New Stages
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/1ffb411e2f410286214091cb4ed5bb61_7574779945564527849.png)
+
+Dear Trailblazers,
+
+After the Version 2.5 Update arrives, the new stages Echo of War: Inner Beast's Battlefield, Divergent Universe: Famished Worker, and Stagnant Shadows: Shape of Mechwolf and Shape of Gloam will be added.
+
+### Echo of War: Inner Beast's Battlefield
+
+Clear the stage to obtain the new **Trace Material "Auspice Sliver"**, **Relics** "The Ashblazing Grand Duke" and "Watchmaker, Master of Dream Machinations," item "Lucent Afterglow," Light Cones "What Is Real?" and "Dreamville Adventure," etc.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/699029f1639d0cb58f1fc465703dc29b_687183286498782554.png)
+
+### Planar Ornament Extraction
+
+■ Divergent Universe: Famished Worker
+
+Successfully challenge Divergent Universe: Famished Worker and use Trailblaze Power or Planar Ornament Extraction to obtain new Planar Ornaments **"Lushaka, the Sunken Seas" and "The Wondrous BananAmusement Park"** from Immersion Rewards.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/7aa335f284eb891009730d21651b0750_1068791315239109299.png)
+
+New Planar Ornament Effects Preview:
+
+- **Lushaka, the Sunken Seas**
+
+Planar Sphere: Lushaka's Waterscape
+
+Link Rope: Lushaka's Twinlanes
+
+2-Pc set effect: Increases the wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increase the ATK of the first character in the team lineup by 12%.
+
+- **The Wondrous BananAmusement Park**
+
+Planar Sphere: BananAmusement Park's BananAxis Plaza
+
+Link Rope: BananAmusement Park's Memetic Cables
+
+2-Pc set effect: Increases the wearer's CRIT DMG by 16%. When a target summoned by the wearer is on the field, CRIT DMG additionally increases by 32%.
+
+### Stagnant Shadow
+
+■ Stagnant Shadow: Shape of Mechwolf
+
+Clear the stage to obtain the new **Lightning** character **Ascension material** "Nail of the Beast Coffin."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/ecc6adf1638887df7062d134b1cbf1e4_2154963532419464627.png)
+
+■ Stagnant Shadow: Shape of Gloam
+
+Clear the stage to obtain the new **Wind** character **Ascension material** "A Glass of the Besotted Era."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/0667cff4ee262beb176fde6a9b3ba01a_8284575234826098315.png)
+
+-----
+
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/636.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/658a5b95b1fcbbce4821d4185131fc76_3107925494997054168.png)
