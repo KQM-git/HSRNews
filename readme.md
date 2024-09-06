@@ -80,6 +80,70 @@ Clear the stage to obtain the new **Wind** character **Ascension material** "A G
 
 -----
 
+# [Version 2.5 Nameless Honor Details](archive/674.md)
+## Version 2.5 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/b2c110e05bcf534f42b8ee37bc64a3a1_8836281575290200715.png)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
+
+After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone** of your choice, **Self-Modeling Resin ×1**, **Relic Remains**, universal path material **Tears of Dreams**, and other rewards!
+
+If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatar **"Feixiao: Fitness,"** the avatar **"Moze: Fitness,"** as well as **200 Stellar Jades** and **Fuels**!
+
+### Start Date
+
+After the Version 2.5 update – 2024/10/21 03:59:00 (server)
+
+### Participation Requirements
+
+Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Attention
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/10/21 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/10/20 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
+
+-----
+
+# [New Version 2.5 Herta Contracts Details](archive/675.md)
+## New Version 2.5 Herta Contracts Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/624e98431d6345b3c8bc4f3745f70bde_6620820547597730769.png)
+
+Dear Trailblazers,
+
+After the Version 2.5 update – 2024/10/22 15:00:00 (server), new Herta Contracts will become available in the Contract Shop!
+
+### Herta Contract: Roaming Refill
+
+Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
+
+Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply V2
+
+Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
+
+-----
+
 # [Game Version 2.4 Optimization and Known Issues](archive/668.md)
 ## Game Version 2.4 Optimization and Known Issues
 
