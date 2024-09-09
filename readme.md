@@ -388,28 +388,6 @@ After attaining the corresponding Trailblaze Level or completing the prerequisit
 
 -----
 
-# [New Version 2.4 Herta Contracts Details](archive/640.md)
-## New Version 2.4 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/09/624e98431d6345b3c8bc4f3745f70bde_5951777718400834663.png)
-
-Dear Trailblazers,
-
-After the Version 2.4 update – 2024/09/09 15:00:00 (server), brand-new Herta Contracts will be available from the Contract Shop!
-
-### Herta Contract: Roaming Refill
-
-Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
-
-Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
 # [Version 2.4 "Finest Duel Under the Pristine Blue" Update](archive/644.md)
 ## Version 2.4 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/07/30/d7c203aecf66d5920b8b16fb2bd5e052_2247913527821550813.png)
