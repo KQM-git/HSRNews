@@ -454,6 +454,30 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Version 2.5 Twitch Stream Incentive Program Has Begun](archive/690.md)
+## Version 2.5 Twitch Stream Incentive Program Has Begun
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/03/b7f98e92eb9803d81e73d64696d1cc5e_3299972385920238554.png)
+
+Hello, Trailblazers
+
+After the Version 2.5 update, Trailblazers can earn up to 30 Stellar Jades by watching Honkai: Star Rail livestreams on Twitch in any channel marked with the "drop" label.
+
+[ Go to the event](https://hoyo.link/3aVkFEAL)
+
+### Event Period
+
+- 2024/09/10 10:00:00 (global) – 2024/10/08 10:00:00 (global)
+
+### Things to Note
+
+- Before claiming the rewards, please ensure that your Trailblaze Level ≥ 4 and that the HoYoverse Account you use is linked to your Twitch account.
+
+- After claiming your rewards in your Twitch Inventory, your corresponding rewards will be dispatched via in-game mail.
+
+※ For more information, go to the event link above.
+
+-----
+
 # ["Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details](archive/682.md)
 ## "Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/96ac589afb1aa7fffc147240df3cb7fd_8169475248872684338.png)
