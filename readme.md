@@ -452,6 +452,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Fixes an issue when challenging the stage "Stagnant Shadow: Shape of Mechwolf" through the Temporary Early Access function, the game will be unable to progress.
 
+- Fixes the issue in Trailblaze Continuance "Xianzhou Luofu — A Web of Pasts Rewoven," where certain operations could occasionally prevent the mission from progressing. Trailblazers who encountered this issue can restart the game and teleport near the mission location using the Space Anchor to resolve the problem. If restarting the game does not fix the issue, please contact us via "Phone — Bug Report."
+
+- Fixes an issue where game progress might run into abnormalities when using specific team lineups to enter certain stage battles.
+
 -----
 
 # ["Learn Martial Arts From Feixiao" TikTok Video Submission Event is Now Online](archive/689.md)
