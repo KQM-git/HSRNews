@@ -456,6 +456,16 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Fixes an issue where game progress might run into abnormalities when using specific team lineups to enter certain stage battles.
 
+- Fixes an issue where certain voice lines are erroneous upon being triggered in the "Edit Team" function when adding the Trailblazer to the team.
+
+- Fixes an issue where Mission Guides might abnormally go missing when certain storyline battles are lost during the Trailblaze Continuance "Xianzhou Luofu — Ebb of Past Sins."
+
+- Fixes an issue where enemies might abnormally take consecutive actions when facing Flowerbeing in the "Luminary Wardance" event.
+
+- Fixes an issue in Divergent Universe where, after unlocking Inspiration Circuit > Trait Unlock, the already activated combat Traits' texts were displayed abnormally under certain conditions during the Planar Ornament Extraction.
+
+- Fixes an issue where players might be unable to enter certain spaces after awakening the Messenger to visit Shackling Prison's crypts in the Shackling Prison map.
+
 -----
 
 # ["Learn Martial Arts From Feixiao" TikTok Video Submission Event is Now Online](archive/689.md)
