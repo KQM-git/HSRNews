@@ -438,6 +438,22 @@ At the start of every Cycle, every Memory Turbulence hit will deal a set amount 
 
 -----
 
+# [Game Version 2.5 Optimization and Known Issues](archive/706.md)
+## Game Version 2.5 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+
+### Known Issues
+
+■2024/09/10
+
+- It is known that, when challenging the stage "Stagnant Shadow: Shape of Mechwolf" through the Temporary Early Access function, the game will be unable to progress. Trailblazers who encounter this problem can logout then log into the game again to resolve this issue with game progress. This problem will be resolved in future updates.
+
+-----
+
 # ["Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details](archive/682.md)
 ## "Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/96ac589afb1aa7fffc147240df3cb7fd_8169475248872684338.png)
