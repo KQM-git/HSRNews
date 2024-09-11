@@ -448,6 +448,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/09/11
+
+- Fixes an issue where there is a chance that characters cannot move after abnormally entering particularly cramped areas on the Skysplitter.
+
 ■2024/09/10
 
 - Fixes an issue when challenging the stage "Stagnant Shadow: Shape of Mechwolf" through the Temporary Early Access function, the game will be unable to progress.
