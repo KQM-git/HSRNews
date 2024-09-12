@@ -448,6 +448,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/09/12
+
+- Fixes an issue where the "Failed to obtain information" notice appears and players can't enhance their Blessings under certain situations when they use the "Faith Bond" to enhance their Blessings in the Simulated Universe.
+
 ■2024/09/11
 
 - Fixes an issue where there is a chance that characters cannot move after abnormally entering particularly cramped areas on the Skysplitter.
