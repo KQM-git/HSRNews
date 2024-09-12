@@ -450,7 +450,15 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ■2024/09/12
 
+- Fixes an issue where certain cutscenes might go abnormally missing under specific circumstances while fighting the enemy Shadow of "Feixiao" during the Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue: Part II."
+
+- Fixes an issue where character model positions might have a chance of being abnormally placed during the Adventure Mission "Ordination."
+
+- Fixes an issue where certain characters have a chance of abnormally slipping out the bounds of the map after winning a battle at the maps edge. If you have encountered this issue before the fix, you can resolve the problem by leaving the current map or contact us via Phone > Bug Report.
+
 - Fixes an issue where the "Failed to obtain information" notice appears and players can't enhance their Blessings under certain situations when they use the "Faith Bond" to enhance their Blessings in the Simulated Universe.
+
+- Fixes an issue where under certain conditions, some objects in the Skysplitter map has a chance of abnormally disappearing.
 
 ■2024/09/11
 
