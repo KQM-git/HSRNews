@@ -516,32 +516,6 @@ Trailblaze Level ≥ 21 and complete Trailblaze Continuance "The Xianzhou Luofu 
 
 -----
 
-# ["Flying Aureus Shot to Lupine Rue" Strategy Guides Contest Event Now Available](archive/691.md)
-## "Flying Aureus Shot to Lupine Rue" Strategy Guides Contest Event Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/03/9b19eb80606f7cb733455fc2444e8dfc_2744752184219633304.png)
-
-Hello, Trailblazers
-
-The Version 2.5 strategy guide collection event has started. Participate in the strategy collection event, and you can receive up to 6,000 Stellar Jades as rewards!
-
-[ Go to the event](https://hoyo.link/9Q6kFEAL)
-
-### How to Participate
-
-During the event period, submitting illustrated and textual strategy guides on the HoYoLAB platform that fits the requirements will see you considered a successful participant.
-
-### Event Period
-
-Submission Period: 2024/09/10 14:00:00 (global) – 2024/10/22 23:59:00 (global)
-
-Judges Review: 2024/10/23 00:00:00 (global) – 2024/11/04 14:00:00 (global)
-
-Announcement Period: 2024/11/04 14:00:00 (global) – 2024/11/08 23:59:00 (global)
-
-※ For more information, go to the event link above.
-
------
-
 # [Version 2.5 New Stages](archive/678.md)
 ## Version 2.5 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/1ffb411e2f410286214091cb4ed5bb61_7574779945564527849.png)
