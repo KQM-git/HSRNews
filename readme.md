@@ -450,6 +450,8 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ■2024/09/19
 
+- Fixes an issue where Blessings or Equations could be obtained abnormally through specific actions using the Workbench of Creation in Divergent Universe.
+
 - Fixes an issue where there is a chance that the Achievement "The Imbibitor Lunae Arrives" cannot be gained after completing the Trailblaze Mission "Xianzhou Luofu — Desolate Depths of Despair."
 
 ■2024/09/13
