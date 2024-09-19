@@ -448,6 +448,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/09/19
+
+- Fixes an issue where there is a chance that the Achievement "The Imbibitor Lunae Arrives" cannot be gained after completing the Trailblaze Mission "Xianzhou Luofu — Desolate Depths of Despair."
+
 ■2024/09/13
 
 - Fixes an issue where players are unable to progress through the Luminary Wardance due to an abnormal interruption in the Adventure Mission "Even When Cheers Fade: Chapter 1." After fixing this issue, Trailblazers who encountered this issue can head to the Tactics Board on the Skysplitter to continue their event progress.
