@@ -1,3 +1,27 @@
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/679.md)
+## Planar Fissure Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/09/9d378e12a5b9f4685446d59593ae318b_6405559806126057556.png)
+
+### Event Period
+
+2024/09/23 04:00:00 (server) – 2024/09/30 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the Planar Fissure event period, get double rewards from the Simulated Universe or Divergent Universe.
+
+- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Version 2.5 "Flying Aureus Shot to Lupine Rue" Version Update](archive/699.md)
 ## Version 2.5 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/03/79b20b2d4ed9728f4c5243184e8b3634_7975434126863536134.png)
