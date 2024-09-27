@@ -528,6 +528,22 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
+# [Experience the Paths Vol. 3 Trailer OST Now Available](archive/701.md)
+## Experience the Paths Vol. 3 Trailer OST Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/19/e9a3ef5c66d55f5f6722e6c275c25d1f_6917838916763893810.png)
+
+Hello, Trailblazers!
+
+Honkai: Star Rail's new trailer OST, Experience the Paths Vol. 3, is now officially live!
+
+The album includes 21 original tracks created by the HOYO-MiX music team for Honkai: Star Rail.
+
+We welcome all Trailblazers to have a listen.
+
+[ Go and listen](https://www.hoyolab.com/article_pre/16627?utm_campaign=link&utm_id=6&utm_medium=notice&utm_source=ingame)
+
+-----
+
 # ["Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details](archive/682.md)
 ## "Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/96ac589afb1aa7fffc147240df3cb7fd_8169475248872684338.png)
