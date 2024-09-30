@@ -448,6 +448,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2024/09/30
+
+- Updates certain related resources for subsequent content.
+
 ■2024/09/25
 
 - Fixes an issue where, under specific circumstances, there is a chance that a character might experience abnormal displays when ally characters face the enemy Opportunistic Provocateur in Apocalyptic Shadow and suffer a killing blow before recovering and returning to battle.
