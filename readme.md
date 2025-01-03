@@ -1,18 +1,200 @@
-# [Version 2.5 "Flying Aureus Shot to Lupine Rue" Version Update](archive/699.md)
-## Version 2.5 Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/09/03/79b20b2d4ed9728f4c5243184e8b3634_7975434126863536134.png)
-
-The sky bends. The wolves lurk. The hunter comes bearing a lone bow, striding forth into the fray. But the true place of the hunt dwells within...
+# [Version 2.7 "A New Venture on the Eighth Dawn" Satisfaction Survey](archive/809.md)
+## Version 2.7 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/64f750577627982c2225314c2376a57b_206713303262757955.png)
 
 Dear Trailblazers,
 
-Welcome to Version 2.5 "Flying Aureus Shot to Lupine Rue"!
+To better understand the Trailblazers' experience in Version 2.7, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-kkx5th-sebxwTTv9cvPliNragHPUBnqDjP4tqaDw137c&game_biz=hkrpg_global&surveyId=28927&format=1&sign_type=2&authkey_ver=1)
+
+### Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
+# [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/755.md)
+## Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/fba39da2942fe360176de0c99a78509d_4868069546602422002.png)
+
+### Event Period
+
+2025/01/01 04:00:00 (server) – 2025/01/08 03:59:00 (server)
+
+### Participation Requirement
+
+Unlock Cavern of Corrosion: Path of Drifting
+
+### Event Details
+
+- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
+
+- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
+
+- Double reward opportunities refresh daily at 04:00. Make sure to use them before they're gone!
+
+-----
+
+# [Game Optimization and Known Issues](archive/781.md)
+## Game Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2024/12/23
+
+- It is known that when engaging in Normal Mode for the Display settings on certain Android devices, there is a chance that the game progress will become abnormal upon entering battle in the Pure Fiction game mode. Trailblazers who encounter this issue can solve this issue by setting the Display Settings to Compatibility Mode in Settings > Graphics.
+
+■2024/12/09
+
+- It is known that after the Version 2.7 update, the character Herta (Erudition: Ice)'s Talent "Fine, I'll Do It Myself," the character Aventurine (Preservation: Imaginary)'s Trace "Bingo!" and other character ability effects have a chance of not triggering normally under specific circumstances. These issues are still undergoing review and will be fixed in the future.
+
+■2024/12/04
+
+- Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of version 2.7. The corresponding voiceovers will be added in future updates.
+
+- It is known when playing the game on a PS5® device that certain audio effects are abnormally missing under specific circumstances. Trailblazers who encountered this issue can remedy it by resetting the game. This issue will be fixed in a future update.
+
+### Game Updates and Improvements Overview
+
+■2024/12/31
+
+- Updates certain related resources for subsequent content.
+
+■2024/12/27
+
+- Fixes an issue where the game progress might become abnormal when entering battle for the Pure Fiction game mode when the Display Settings are in Normal Mode on certain Android devices.
+
+■2024/12/24
+
+- Fixes the issue where in the game mode Pure Fiction: Technicality Entrapment, after selecting the buff "Empty Air," some characters are unable to use their Skills under certain circumstances.
+
+■2024/12/20
+
+- Fixes an issue where the Light Cone effect for the Light Cone "Long Road Leads Home (Nihility)" will not trigger the "receive increased Break DMG" effect after the enemy target's Weakness is Broken.
+
+■2024/12/18
+
+- Fixes an issue in Node 1 of the gameplay "Apocalyptic Shadow: Gusty Primate" where certain effects of "Finality's Axiom: Rime Piercer" did not match the text description. After the fix, its actual effects are consistent with the text description.
+
+- Fixes an issue where, after using "Delete Past Mission Resources," switching to another account under certain circumstances would cause the game resources to be repeatedly downloaded abnormally.
+
+■2024/12/11
+
+- Fixes an issue after completing the Version 2.7 Trailblaze Mission "Penacony - A New Venture on the Eighth Dawn," the character Sunday (Harmony: Imaginary)'s faction and his displayed faction in the "Message" system are inconsistent. After the fix, his faction will match the details in his messages.
+
+- Fixes an issue where there is a chance the game might stutter when using certain Android devices.
+
+- Fixes an issue when the character Feixiao (The Hunt: Wind) uses Technique to enter the battle, there is a chance of encountering Stage Verification Failed issues after the battle ends under certain circumstances.
+
+- Fixed an issue with the effect description of the character Sunday (Harmony: Imaginary)'s Trace "Rest Day's Longing." This fix does not change the actual effects.
+
+- Fixes an issue where certain rule-related text have issues with the Express Gift. This fix will not affect the actual event's content.
+
+- Fixes the issue where the effect description for the Weighted Curio "Road of Prayers" is erroneous in the Divergent Universe. This fix does not influence the actual effects.
+
+■2024/12/10
+
+- Fixes an issue where the game process could occasionally become abnormal when a returning Traiblazer logs in under certain conditions.
+
+- Fixes an issue where playing the game on a PC could occasionally cause high memory usage, leading to lag or unexpected crashes.
+
+■2024/12/05
+
+- Fixes the issue in "Simulated Universe: Unknowable Domain" where combat progression could not continue or stage validation fails upon combat completion under certain conditions.
+
+- Fixes the issue where the achievement "Aeon Bless Paperfold University!" could not be completed under specific circumstances.
+
+- Fixes an issue where there is a chance that Dream Jigsaw cannot be completed when experiencing the game on a PS5® device.
+
+■2024/12/04
+
+- Fixes an issue where black screen might appear after launching on certain Android devices.
+
+- Fixes an issue in the "Cosmic Home Décor Guide" event where in certain circumstances, abandoning Meeting Ability will render the event unable to progress.
+
+- Fixes an issue in the Dewlight Pavilion map where, under specific circumstances, a door leading to a specific area cannot be opened and the City Sandpit cannot be entered.
+
+- Fixes an issue where the mission instructions for the Companion Mission "Night of Universal Hallucinations" is abnormal and renders the mission unable to progress under certain circumstances.
+
+- Fixes an issue where under certain circumstances, photos taken in the game cannot be saved.
+
+- Fixes an issue where certain Relic recommendation for characters are displayed abnormally under specific situations.
+
+- Fixes the issue where the event "Ternary War" could not be completed under specific circumstances when possessing the 3-star Equation "Relative Tracer" in the Divergent Universe
+
+-----
+
+# [Amphoreus Theme Song, Nameless Faces, Is Now Available](archive/782.md)
+## Amphoreus Theme Song, Nameless Faces, Is Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/25/2dd6d82b9ee4af0d93f083b9afba78d6_8080023678546355911.png)
+
+Hello, Trailblazers
+
+"Hero. Divine. Puppet. Prisoner. Which of these things are you? Who are you?"
+
+"I am but one among a thousand faces defiant against my fate. That which you see... is me."
+
+Amphoreus's theme song, Nameless Faces, is now available. Feel free to listen to it on streaming platforms.
+
+[ Check it out](https://orcd.co/ampnlfcen)
+
+-----
+
+# [All-Stars Celebration | A Special Thanks to Trailblazers](archive/766.md)
+## All-Stars Celebration | A Special Thanks to Trailblazers
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/27/d64db14d1ab5a46969107cd50b98916b_7649751682967122091.jpg)
+
+Honkai: Star Rail has been awarded the "**Golden Joystick Awards 2024 Still Playing Award (Mobile)**" and the "**PlayStation® Partner**
+
+**Awards 2024 PARTNER AWARD**" among other honors.
+
+To thank the Trailblazers for their support and appreciation, the Express Crew will deliver a gift of **Stellar Jade ×1000** on 2024/12/04 00:00:00 (server).
+
+### Claim Information
+
+- Delivered Content: Stellar Jade ×1000
+
+- Delivery Time: 2024/12/04 00:00:00 (server)
+
+- Delivery Method: In-Game Mailbox
+
+- Eligible Recipients: Trailblazers at or above Trailblaze Level 4
+
+The delivered mail will be effective until Version 2.7 ends (2025/01/15 06:00:00 (global)), please log in and claim the gift in time.
+
+We are glad to spend this time with you, and may this journey lead us starward.
+
+-----
+
+# [Version 2.7 "A New Venture on the Eighth Dawn" Version Update Details](archive/760.md)
+## Version 2.7 Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/15/a2f01e0439de3bbd4e7e6bc862701a9b_2967697281337219366.jpg)
+
+Some will return, some will soon leave. The Dreamscape is embroiled with murk and uncertainty. To behold the path ahead, one must learn to retrospect.
+
+Dear Trailblazers,
+
+Welcome to Version 2.7 "A New Venture on the Eighth Dawn"!
 
 ### Update and Compensation Details
 
 ■ Update Time
 
-Begins at 2024/09/10 06:00:00 (global). The update will take approximately 5 hours.
+Begins at 2024/12/04 06:00:00 (global). The update will take approximately 5 hours.
 
 ■ Compensation Details
 
@@ -20,17 +202,17 @@ Begins at 2024/09/10 06:00:00 (global). The update will take approximately 5 hou
 
 Compensation: Stellar Jade ×300
 
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/09/10 06:00:00 (global)
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/12/04 06:00:00 (global)
 
-※ Please claim before the end of Version 2.5.
+※ Please claim before the end of Version 2.7.
 
 - Bug Compensation
 
 Compensation: Stellar Jade ×300
 
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/09/10 06:00:00 (global)
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2024/12/04 06:00:00 (global)
 
-※ Please log in to claim the mail before 2024/10/10 23:59:00 (global).
+※ Please log in to claim the mail before 2025/01/03 23:59:00 (global).
 
 The Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Be sure to claim it in time.
 
@@ -42,93 +224,83 @@ The Crew will issue the compensation via in-game mail to Trailblazers within 5 h
 
 - iOS: Enter the App Store and tap "Update"
 
-- PS5™: Open the system menu > Select Honkai: Star Rail > Press the OPTIONS button on the controller > Select and confirm the update
+- PS5®: After entering the game, the game will automatically download and install the update.
 
 ### Version Update Details
 
-1. New Areas
+1. New Story
 
-**■ Skysplitter**
+**■ Trailblaze Mission "Penacony — A New Venture on the Eighth Dawn"**
 
-To prepare for the Luminary Wardance, the Xianzhou Luofu has transformed a military battleship into the venue for the competition.
+- Some will return, some will soon leave. The Dreamscape is embroiled with murk and uncertainty. To behold the path ahead, one must learn to retrospect.
+
+- Availability: Permanently available after the Version 2.7 update
+
+- Requirement: Trailblaze Level ≥ 21
+
+※ This content can be experienced in advance through the Finality's Vision function.
+
+※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Penacony — Stranger in a Strange Land."
 
 2. New Characters
 
-**■ 5-star character Feixiao (The Hunt: Wind)**
+**■ 5-Star character Sunday (Harmony: Imaginary)**
 
-Feixiao is a damage character who unleashes Ultimates via the Flying Aureus. The team can accumulate Flying Aureus stacks when attacking. Additionally, after an ally launches an attack, Feixiao can launch a follow-up attack on the target.
+Sunday is a support character that allows ally characters and their summons to immediately take action. Additionally, Sunday can also regenerate a percentage of a designated ally character's Energy, as well as increase the character and their summons' DMG, CRIT Rate, and CRIT DMG.
 
-**■ 5-Star character Lingsha (Abundance: Fire)**
+**■ 5-Star character Fugue (Nihility: Fire)**
 
-Lingsha is a healing character who summons an incense beast to support her teammates. When the incense beast takes action, it launches follow-up attacks, restores the entire Party's HP, and dispels debuffs. Additionally, Lingsha can increase Break DMG taken by enemies.
-
-**■ 4-Star character Moze (The Hunt: Lightning)**
-
-Moze is a damage character who marks an enemy as "Prey" and causes his teammates to deal Additional DMG on the "Prey" when attacking it. Additionally, Moze also launches follow-up attacks after allies have attacked the "Prey" multiple times.
+Fugue is a support character that allows one ally to reduce enemies' Toughness regardless of Weakness Type. She also causes all allies to trigger Break or Super Break DMG more frequently.
 
 3. New Light Cones
 
-**■ 5-Star "I Venture Forth to Hunt (The Hunt)"**
+**■ 5-Star "A Grounded Ascent (Harmony)"**
 
-Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
+Obtainable through the "Brilliant Fixation: A Grounded Ascent" Light Cone Event Warp.
 
-**■ 5-Star "Scent Alone Stays True (Abundance)"**
+**■ 5-Star "Long Road Leads Home (Nihility)"**
 
-Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
+Obtainable through the "Brilliant Fixation: Long Road Leads Home" Light Cone Event Warp.
 
-**■ 4-Star "Shadowed by Night (The Hunt)"**
+4. New Areas
 
-Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
+**■ Party Car**
 
-4. New Story
-
-**■ Trailblaze Continuance "Xianzhou Luofu — Finest Duel Under the Pristine Blue (II)"**
-
-- Wolves lurk encircling, and the hunter draws their bow. High above, within the Skysplitter, the Xianzhou Luofu's Wardance ceremony is about to commence a sanguine competition...
-
-- Availability: Permanently available after the Version 2.5 update
-
-- Participation Requirement: Trailblaze Level ≥ 21 and completed Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue: Part I"
-
-※ This content can be experienced in advance through the Finality's Vision function.
-
-※ After V2.5 has concluded, the unlock conditions for Trailblaze Continuance "Finest Duel Under the Pristine Blue" will become: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
+Once called the Meeting Car and newly renamed the Party Car. Its primary use is as a cafeteria and bar, but sometimes it's also used for meetings and board games. The only thing it hasn't quite been used for is parties...
 
 5. New Events
 
-**■ Luminary Wardance**
+**■ Express Gift**
 
-- The highly anticipated Luminary Wardance has begun as scheduled, as the courageous from all walks of life make their appearances. However, the star of the show this time isn't any Xianzhou swordmaster, but a young, red-haired, iron-armed man from the lone city of the winterlands...
+- During the event, log in to the game to claim a permanent 5-star character!
 
-- Event Period: After the Version 2.5 update – 2024/10/21 03:59:00 (server)
+- Event Period: After the V2.7 update – end of V3.2
+
+- Participation Requirements: Unlock Travel Log
+
+**■ Cosmic Home Décor Guide**
+
+- Becoming a Nameless means embarking on a journey without asking for a date of return, connecting worlds, trailblazing the future... and to have a cozy little room to yourself!
+
+- Event Period: After the Version 2.7 update – 2025/01/13 03:59:00 (server)
+
+- Requirement: Trailblaze Level ≥ 21
+
+**■ Between the Frames...**
+
+- Charmony Academy extends a sincere invitation, and with a strong recommendation from Mr. Reca, the Photography Exhibition at Paperfold University is about to open! Eager to make a name for herself, March 7th has invited you to collaborate...
+
+- Event Period: 2024/12/25 12:00:00 (server) – 2025/01/06 03:59:00 (server)
 
 - Requirement: Trailblaze Level ≥ 21
 
 ※ This content can be experienced in advance through the Finality's Vision function.
 
-※ Trailblazers are recommended to experience this content after completing Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue"
-
-**■ Festive Revelry**
-
-- In between the intense and thrilling Luminary Wardance, why not take a break and relax with some traditional Luofu mini-games? Consider it a massage for your brain!
-
-- Event Period: 2024/09/30 12:00:00 (server) – 2024/10/21 03:59:00 (server)
-
-- Requirement: Trailblaze Level ≥ 21
-
-※ This content can be experienced in advance through the Finality's Vision function.
-
-※ Trailblazers are recommended to experience this content after completing Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue"
-
-**■ Gift of Comet**
-
-- On behalf of the Alliance, we offer this small gift on the occasion of the Wardance ceremony, wishing the Astral Express unhindered and safe travels throughout your journey.
-
-- During Version 2.5, log in to the game to claim Stellar Jade ×1000, Fuel ×10, and Tears of Dreams ×150!
+※ Trailblazers are recommended to experience this content after completing the related missions in "Xianzhou Luofu" and "Penacony."
 
 **■ Gift of Odyssey**
 
-- Log in every day during the event to obtain check-in rewards. Trailblazers can claim Star Rail Special Pass ×10 after checking in for 7 days!
+Log in every day during the event to obtain check-in rewards. Trailblazers can claim Star Rail Special Pass ×10 after checking in for 7 days!
 
 ※ Please refer to future announcements for information on other events.
 
@@ -136,489 +308,249 @@ Obtainable through the "Brilliant Fixation" Light Cone Event Warp.
 
 **■ Enemies**
 
-- Shadow of "Feixiao," Borisin Warhead: Hoolay, Opportunistic Provocateur, Daring Diceroller
-
-**■ Stage**
-
-- Echo of War: Inner Beast's Battlefield
-
-Clear the stage to obtain the new advanced Trace material "Auspice Sliver."
-
-- Divergent Universe: Famished Worker
-
-Successfully challenge the stage to obtain the new Planar Ornaments "Lushaka, the Sunken Seas" and "The Wondrous BananAmusement Park."
-
-- Stagnant Shadow: Shape of Mechwolf
-
-Clear the stage to obtain the new Lightning character Ascension material "Nail of the Beast Coffin."
-
-- Stagnant Shadow: Shape of Gloam
-
-Clear the stage to obtain the new Wind character Ascension material "A Glass of the Besotted Era."
-
-**■ Relic**
-
-- Planar Ornament "Lushaka, the Sunken Seas"
-
-- Planar Ornament "The Wondrous BananAmusement Park"
+Blaznana Monkey Trick
 
 **■ Gameplay**
 
 - Treasures Lightward: Regular game modes Apocalyptic Shadow, Pure Fiction, and Forgotten Hall: Memory of Chaos will be refreshed alternatively. For more details, see below:
 
-Apocalyptic Shadow: Gamer's Instigation
+Apocalyptic Shadow: Gusty Primate
 
-2024/09/16 04:00:00 (server) – 2024/10/28 03:59:00 (server)
+2024/12/09 04:00:00 (server) – 2025/01/20 03:59:00 (server)
 
-When an enemy with Steadfast Safeguard is Weakness Broken, Advance all allies' actions Forward and recover Skill Points.
+When enemies with "Steadfast Safeguard" become Weakness Broken, advance all allies' actions and recover Skill Points.
 
-Increases the follow-up attack DMG taken by all enemies by 25% and increases Ultimate DMG taken by 15%.
+Increases the Weakness Break DMG taken by all enemies by 20% and Follow-up ATK DMG taken by 20%.
 
-Pure Fiction: Volubility
+Pure Fiction: Technicality Entrapment
 
-2024/09/30 04:00:00 (server) – 2024/11/11 03:59:00 (server)
+2024/12/23 04:00:00 (server) – 2025/02/03 03:59:00 (server)
 
-When allies Break enemy targets' Weakness, charge Whimsicality. When charged to 6 points, deals a set amount of DMG to random enemies 10 times.
+After allies use Skill to attack enemy targets, every enemy target hit additionally accumulates 5 Grit Value for allies.
 
-Memory of Chaos: Scalegorge Tidalflow
+Memory of Chaos: Troopship Mayhem
 
-2024/10/14 04:00:00 (server) – 2024/11/25 03:59:00 (server)
+2025/01/06 04:00:00 (server) – 2025/02/17 03:59:00 (server)
 
-Enemies have Exo-Toughness and their actions are delayed by 30% when they are Weakness Broken. At the same time, add 1 hit to Memory Turbulence's Hits Per Action. If the target is an Elite enemy or higher, then additionally add 2 hits, stacking up to 10 hits.
-
-At the start of every Cycle, every Memory Turbulence hit will deal a set amount of DMG to a random enemy target 1 time.
-
-**■ Others**
-
-- Adds the Pets function. Pets can explore the Cosmos with the Trailblazer. In the current version, you can claim the pet Tuskpir by completing the Luminary Wardance event.
-
-- Adds Messages for certain characters.
-
-- Adds the function to directly enter some Exploratory Excursion stages via the mission guide during mission progress.
-
-- Adds new content such as some readable items, data bank entries, Achievements, loading screen texts, and Disks.
-
-- Adds system hints when a story trial character joins the team during mission progress.
-
-- Adds a switch button to switch to and from the simplified ability description in the Character Details and Character Traces screens.
-
-- Adds "Casual Mode" to some story combat stages during mission progress for missions such as Trailblaze Missions, Trailblaze Continuances, and Companion Missions. Trailblazers can select "Casual Mode" to reduce combat difficulty after being defeated or from the story stage challenge entry portal.
-
-- "Echo of War" now supports Temporary Early Access. Apart from any "Echo of War" stage newly added in the current version, the stage corresponding to the advanced Trace material required by the current banner's limited 5-star will be made accessible during the event.
-
-- When reviewing Clearance Lineup in Forgotten Hall: Memory of Chaos, Pure Fiction, or Apocalyptic Shadow, Recommended Lineup has been added and made available for review. Recommended Lineups are taken from data from recently active players. Also, you may see whether you own specific characters when viewing these Lineups, or click the "Quick-Deploy" button to deploy the corresponding Lineup.
-
-- Some photos have been added to the photo wall in March 7th's room. Trailblazers can check it out after completing the corresponding Trailblaze Missions.
-
-- The friends interface now supports sorting by Friend Added Time. Newly added friends will be marked with a "New" label.
-
-### Adjustments and Optimizations
-
-■ Characters
-
-- Optimizes the attack range of the character Yunli (Destruction: Physical)'s Basic ATK in the overworld.
-
-■ Combat
-
-- Optimizes the graphic effect of the character's official art background when using their Ultimate while playing on certain devices.
-
-■ Gameplay
-
-- Divergent Universe: The Human Comedy will add content such as new Equations, Weighted Curios, and Curios, while adjusting the effects of some Equations, Curios, and Blessings. For details, please view the official announcement "Divergent Universe: The Human Comedy Update Details."
-
-- Adjusts the out-of-combat Lineup page in the Divergent Universe and Simulated Universe. The Lineup page will no longer display UI for character HP after the adjustments.
-
-■ Environment Visuals
-
-- Adjusts the performance of plants and certain objects in maps.
-
-■ Audio
-
-- Adjusts some voice lines of the NPC Moze while progressing the missions.
-
-- Adjusts some battle BGM performance.
-
-- Adjusts and optimizes some English dialogue voice lines in the Trailblaze Continuance "Xianzhou Luofu — The Quieting of Quillons" and "Xianzhou Luofu — Inquisition to Rectitude."
-
-- Adjusts and optimizes some English dialogue voice lines in the Companion Mission "Swords to Plowshares."
-
-- Adjusts the English voice over for the characters Huohuo (Abundance: Wind) and Firefly (Destruction: Fire)'s combat voice overs and the character Moze (The Hunt: Lightning)'s combat and cutscene voice overs.
-
-- Adjusts some English character voice lines for the character Jing Yuan (Erudition: Lightning).
-
-- Optimizes some English story voice lines in the Trailblaze Mission "Penacony — And on the Eighth Day."
-
-- Adjusts and optimizes some Japanese voice lines for Saga of Primaveral Blade gameplay mode.
-
-- Optimizes some Japanese environmental voice lines in the Shackling Prison map.
-
-- Adjusts and optimizes some Korean dialogue voice lines in the Trailblaze Missions "Penacony — And on the Eighth Day," "Penacony — Life is But a Drifting Dream," "Penacony — Soldier's Pay," and "Penacony — A Thousand Bells at Dawn."
-
-- Optimizes some Korean sound effects in the Companion Mission "Rarely Affectionate (II)."
+Summons 2 Trotters at the beginning of each wave or each Cycle. When defeated, the Trotters deal one instance of a set amount of DMG to all Elite and rarer enemies.
 
 ■ System
 
-- Adjusts certain entries' Unlock Criteria in Tutorials.
+- Adds Pom-Pom's Coatroom. After obtaining Pom-Pom's outfits, Trailblazers can help Pom-Pom change their outfit.
 
-- Adjusts the display portraits of the enemies "Phantylia the Undying," "Ten Stonehearts: Aventurine of Stratagems," and "Stellaron Hunter: Kafka" in certain interfaces.
+- Adds the "Delete Past Mission Resources" function on mobile devices. Trailblazers can manage past mission resources and switch on or off the "Auto-delete past mission resources" function in Phone - Settings - Account Settings.
 
-- In "Settings - Social Settings," the option "Select what Battle Records to showcase" has been removed. Now, Battle Records will automatically display detailed information for Treasures Lightward, Divergent Universe, and Simulated Universe. You can choose whether to "Make public your Trailblazer Profile's Battle Records" in Social Settings.
-
-- Optimizes the Friends' Battle Records display effect in the "My Friends" screen, and adds the function to interact and view the detailed Stage information.
-
-- Optimizes the display of the Survival Index screen. The Calyx (Crimson) and Stagnant Shadow screens now feature new relevant character buttons, which display the characters that require those materials when clicked or tapped on. Additionally, you can adjust the order in which stages are displayed on this page using the sort button in the bottom-right corner. In the Ornament Extraction and Cavern of Corrosion screens, a new "Build Character" button has been added. Selecting a character you wish to build will pin the recommended stages for that character to the top.
-
-- Optimizes certain storyline texts' display time during combat. After optimization, the text display time will not be affected by speeding up the battle.
+- Adds the hold and drag characters function in the Team Lineup interface to quickly change character positioning in a team.
 
 ■ Others
 
-- Adjusts the display of stars for some items in the Inventory. This adjustment does not affect the item's actual effect.
+- Adds the Story Recap function. After completing certain conditions, when logging in the game to accept missions, Trailblazers can select View Story Recap through the pop-up prompt to check the summary of the story related to the prerequisite mission.
+
+- Adds Pom-Pom's outfit, Clamoring Fry-Master! Chef Outfit Set and Phone Wallpaper To a Dreamless Sleep. Trailblazers can obtain these items after completing the event Cosmic Home Décor Guide.
+
+- Adds new content such as some readable items, messages, chat stickers, music disks, data bank entries, Achievements, and loading screen texts.
+
+- Adds new photos to the photo wall in March 7th's Room. Trailblazers can check it out after completing the corresponding Trailblaze Mission.
+
+- Adds term explanations to some character Eidolons and Traces interface.
+
+### Adjustments and Optimizations
+
+■ Combat
+
+- Increases the upper limit of Weakness Break Efficiency.
+
+- Adjusts the Ultimate-use auto-battle logic for the character "Huohuo (Abundance: Wind)."
+
+■ Gameplay
+
+- Adjusts the Quick Unlock feature for Forgotten Hall: Memory of Chaos to allow quick unlocking for up to the first 9 stages. Detailed rules can be viewed within Forgotten Hall: Memory of Chaos. After the version update, after clearing Forgotten Hall: Memory of Chaos stages 8 and 9 with 3-stars, you'll undergo Quick-Clear and claim the corresponding rewards as well.
+
+- Adds new Equations, Weighted Curios, and Curios to Divergent Universe: The Human Comedy, along with adjustments to certain Equations and Curio effects. For more details, please refer to the official announcement "Divergent Universe: The Human Comedy Update Notes V2.7."
+
+- Adjusts the Save File in Divergent Universe - Planar Ornament Extraction to reset with each expansion and update of the Divergent Universe.
+
+- Adjusts Pure Fiction's stage effect mechanics to Grit Mechanics. Also adjusts enemy mechanics and point acquisition mechanics.
+
+■ System
+
+- Adjusts game performance on some foldable devices.
+
+■ Audio
+
+- Adjusts the English voice actor for Tingyun (Harmony: Lightning).
+
+- Adjusts and optimizes some English dialog voice lines in the Trailblaze Continuance "Penacony" — "A Clockwork Banana" and "Asdanian Rhapsody."
+
+- Adjusts and optimizes certain English dialogue voice lines during the Trailblaze Continuance "The Xianzhou Luofu" — "By Words of Many" and "March to Mastery: A Star Is Born."
+
+- Adjusts and optimizes some English dialogue voice lines in the Companion Mission "Swords to Plowshares" and "Total Recall."
+
+- Adjusts some English character voice lines for the character Rappa (Erudition: Imaginary).
+
+- Optimizes some English character voice lines for the character Jing Yuan (Erudition: Lightning).
+
+- Optimizes some English voice lines for Saga of Primaveral Blade gameplay mode.
+
+- Adjusts some Korean dialogue voice lines for the character Robin (Harmony: Physical) in the Trailblaze Continuance "Penacony" — "Banana Outrage: Battles Without Ninja and Humanity."
+
+- Adjusts some Korean dialogue voice lines during the mission flow of Trailblaze Continuance "The Xianzhou Luofu — Alone In Peril."
+
+- Optimizes some Korean dialogue voice lines in the Trailblaze Continuance "Penacony" — "A Clockwork Banana."
+
+- Optimizes certain Korean dialogue voice lines in the Companion Mission "For I Have Touched the Sky."
+
+- Optimizes some Korean environmental voice lines in the Radiant Feldspar map.
+
+■ Others
+
+- Adjusts the display rules of Trailblaze Activity in Trailblazer Profile, with certain gameplay completion records now hidden in specific situations within the Trailblaze Activity section.
 
 ### Bug Fixes
 
 ■ Characters and Enemies
 
-- Fixes the issue that ability icons are abnormally displayed when characters' abilities are not available for use.
+- Fixes an issue where, in specific situations, when the character Topaz & Numby (The Hunt: Fire) selected a target for their Skill, the Proof of Debt marker would not display above some enemy HP UI. This issue does not affect the actual skill effect.
 
-- Fixes an issue where the character Boothill (The Hunt: Physical) only gains 1 stack of "Pocket Trickshot" when an enemy target is defeated after their Weakness is Broken in certain circumstances.
+- Fixes an issue where certain characters experienced abnormal movement speed after using Technique in specific scene areas.
 
-- Fixes the issue where, after the character Yunli (Destruction: Physical) uses her Ultimate while in a certain debuffed state without having activated the Trace "Demon Quell" and becomes afflicted with Outrage, the Parry effect will not be removed in the next ally's or enemy's turn.
+- Fixes an issue where, under certain angles, the character Moze (The Hunt: Lightning)'s jaw area is incorrectly outlined.
 
-- Fixes the issue where some of the character Firefly (Destruction: Fire)'s in-combat dialogues are not triggered correctly in certain circumstances.
+- Fixes an issue where, under certain circumstances, the character Clara (Destruction: Physical) has a chance not to trigger Counter immediately during her Ultimate when ally targets are attacked while under specific states like "Restrained."
 
-- Fixes the issue where the Ultimate button's UI is abnormal in certain circumstances when the character Firefly (Destruction: Fire) is downed.
+- Fixes the game's progress becoming abnormal after Seele (The Hunt: Quantum) triggers her Talent when in the "Outrage" state under certain situations.
 
-- Fixes an issue where certain enemy sound effects will be played erroneously during the character Acheron (Nihility: Lightning)'s Ultimate.
+- Fixes the issue where certain Ultimate effects of March 7th (The Hunt: Imaginary) sometimes glitches in the display.
 
-- Fixes an issue where, under certain Graphics Settings, the water reflection effect displays erroneously during the character Acheron (Nihility: Lightning)'s Ultimate.
-
-- Fixes the issue where the character Acheron (Nihility: Lightning)'s Ultimate button UI is abnormal in certain circumstances.
-
-- Fixes the issue where the character March 7th (The Hunt: Imaginary) does not trigger her idle animation in the open world.
-
-- Fixes the issue where the Follow-up ATK of the character March 7th (The Hunt: Imaginary)'s Eidolon 2 effect does not trigger correctly in certain circumstances.
-
-- Fixes the issue where the effect to immediately take action from the character March 7th (The Hunt: Imaginary)'s Talent does not trigger correctly in certain circumstances.
-
-- Fixes an issue where certain effects from the Ultimate illustration do not display normally when using "Black Swan (Nihility: Wind)"'s Ultimate.
-
-- Fixes an issue where, under specific resolutions, the weapon model behaves abnormally when the character Blade (Destruction: Wind) uses his Skill.
-
-- Fixes an issue where the enemy character model behaves abnormally during the character Luka (Nihility: Physical)'s Ultimate.
+- Fixes an issue where, under certain circumstances, the Zone effect will display abnormally when the character Jiaoqiu (Nihility: Fire) uses their Ultimate.
 
 - Fixes issues with certain character models, visual effects, and movement animations.
 
-- Fixes an issue where certain effects were not displayed properly when enemies are afflicted with the Frozen state.
+- Fixes an issue where players are unable to lock on to ally targets when in the "Nightfall" state for the enemy Memory Zone Meme "Something Unto Death" and Memory Zone Meme "Something Unto Death" (Complete).
 
-- Fixes the issue where some ability sound effects from the enemy "Ten Stonehearts: Aventurine of Stratagems" cannot be played correctly due to having a chance to be abnormally covered by the sound effects of ally characters' Ultimates.
+- Fixes an issue where when the game's progress has a chance to become abnormal when the enemies Borisin Warhead: Hoolay and Borisin Warhead: Hoolay (Complete) use "Lupine Chase Calls Bloody Gleam."
 
-- Fixes the issue where some ability special effects from the enemy "Ten Stonehearts: Aventurine of Stratagems" appear at incorrect locations in certain circumstances.
-
-- Fixes the issue where some abilities from the enemies Sableclaw Wolftrooper and Eclipse Wolftrooper are missing their Moon Rage state effect descriptions.
+- Fixes an issue where when fighting the enemy Svarog and Svarog (Complete), the character Lingsha (Abundance: Fire) has a chance of being unable to call upon Fuyuan under certain circumstances.
 
 ■ Combat
 
-- Fixes an issue where, under certain circumstances, the character Gallagher (Abundance: Fire) could not correctly trigger some ability effects from the Light Cone "Perfect Timing (Abundance)."
+- Fixes an issue where the Light Cone "Quid Pro Quo (Abundance)"'s ability effect has a chance of being abnormal under certain circumstances. After this fix, the Light Cone's actual ability effect will remain identical to its effect before Version 2.6.
 
-- Fixes an issue where there is a chance that follow-up attacks launched by "Lightning-Lord" and "Numby" have a chance of being abnormally triggered consecutively under certain circumstances in Pure Fiction stages and Special Stages.
+- Fixes an issue where, under specific circumstances, when enemy target under "Standoff" has their Weakness Broken, Boothill (The Hunt: Physical) will not dispel "Standoff."
 
-- Fixes an issue where the battle music does not get replaced by the character Robin (Harmony: Physical)'s "Concerto" state battle music in non-story fights with the enemy The Past, Present, and Eternal Show.
+- Fixes an issue where, under specific circumstances, the character Boothill (The Hunt: Physical) has a chance to dispel "Standoff" prematurely.
 
-- Fixes an issue where under certain circumstances, the character Herta (Erudition: Ice) will abnormally trigger more follow-up attacks when the enemy's side only has Cirrus.
+- Fixes an issue where when certain enemies are Weakness Broken via triggers from the enemy target's specific ability effects, then this Break effect might have a chance of being abnormal.
 
-- Fixes an issue where the "Lightning-Lord's" action value was not displayed on the Action Order.
+- Fixes an issue where, under specific circumstances, selecting Restart Challenge while in battle will cause the scene to behave abnormally.
 
-- Fixes an issue where at the end of battle, the sound effects for reaching the stage targets are missing.
+- Fixes an issue where certain effects of the Light Cone "After the Charmony Fall (Erudition)" were not preloaded correctly on the Action Order.
 
-- Fixes an issue where debuff icons might abnormally appear under the enemy The Past, Present, and Eternal Show's HP UI.
+- Fixes an issue where, during auto-battle, pressing and holding to display a character's Ultimate ability description would prevent the description text from closing at the correct time.
 
-- Fixes an issue when the enemy The Past, Present, and Eternal Show uses their Dance for Synchrony ability, there is a chance that the effects meant to be triggered after your party characters get attacked will not trigger normally under certain circumstances.
-
-■ Missions
-
-- Fixes an issue where relaunching the game after exiting during the negotiation with NPC Feixiao in the Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue (Part 1)" would cause the negotiation to immediately be determined as a failed negotiation.
-
-- Fixes an issue where you end up following a Trailblaze Mission POV of another character abnormally while your POV is set to the "Trailblazer."
-
-- Fixes an issue where under certain circumstances when editing your Team Lineup during a Trailblaze Mission might cause the game's progress to become abnormal.
-
-- Fixes an issue where NPCs have a chance of not moving as expected in the Trailblaze Mission "Xianzhou Luofu — A Startlement of Fur and Feathers."
-
-- Fixes abnormal performances in certain cinematics.
+- Fixes an issue where enemy Weakness UI effects have a chance of being displayed abnormally in battle under certain circumstances.
 
 ■ Gameplay
 
-- Fixes an issue where some Domain effects were erroneously missed by the Save File when saving a cleared run in Divergent Universe.
+- Fixes an issue in Simulated Universe and Divergent Universe where, under certain circumstances, some Blessings' or Scepters' "Action Advance" effects function abnormally.
 
-- Fixes an issue where when you have the Curio "Absolute Failure Prescription" in the Simulated Universe, the character Jingliu (Destruction: Ice) will be unable to enter the "Spectral Transmigration" state under specific circumstances.
+- Fixes an issue where, under certain conditions in Simulated Universe and Divergent Universe, the effects of "Metamorphosis" and "Levitation" would incorrectly apply to multiple ally targets simultaneously.
 
-- Fixes an issue where certain buttons on a controller cannot be used normally in the Blessing selection menu in the Simulated Universe.
+- Fixes an issue in Divergent Universe where, under certain circumstances, the "Critical Boost" effect obtained from the Critical Boost Trait has a chance of granting an incorrect number of stacks.
 
-- Fixes an issue where the special effect of Enhance Blessings has a chance of being abnormally displayed in the Simulated Universe.
+- Fixes an issue where there is a chance that the enemy will gain "Critical Boost" stacks abnormally with the "Borderstar Gunslinger" Equation under certain circumstances in the Divergent Universe.
 
-- Fixes an issue where, in the Planar Ornament Extraction menu, certain sound effects are missing in the Simulated Universe.
+- Fixes an issue where the Ultimate button UI performance is abnormal when the character Feixiao (The Hunt: Wind) triggers the "Useless Scholar" Equation under certain circumstances. This fix will not affect the Equation's actual effects.
 
-- Fixes an issue where, when using the Planar Ornament Extraction function and retreat and re-enter the battle under certain circumstances, some Techniques might not trigger in battle.
+- Fixes an issue where the "Wandering Meme" Equation can abnormally cause enemies to enter or dispel the "Freeze" state under certain circumstances.
 
-- Fixes an issue where, when entering or exiting the Simulated Universe or Divergent Universe, map and character idle sound effects may be abnormally heard while in the loading menu.
+- Fixes an issue where the enemy Stellaron Hunter: Sam (Complete) abnormally triggers the SEG: Thermobaric Field in Simulated Universe and Divergent Universe under certain circumstances.
 
-- Fixes an issue when Acheron (Nihility: Lightning) uses her Ultimate in Simulated Universe or Divergent Universe, her "Critical Boost" stacks will be abnormal.
+- Fixes an issue where certain Scepter icons are displayed incorrectly in Simulated Universe: Unknowable Domain. This fix will not affect the Scepters' actual effects.
 
-- Fixes an issue in "Saga of Primaveral Blade" where the debuff Hearty Valley Brew applied to enemies would incorrectly display a negative value.
+- Fixes an issue in Simulated Universe: Unknowable Domain where players are unable to select the rightmost enemy target.
 
-- Fixes an issue where repeatedly triggering a certain dialogue option during the "Clockie: Dreamjoy Memoir" game mode might cause the game's progress to become abnormal.
+- Fixes an issue where the after Smart Insertion is actived, certain audio effects are abnormal under certain circumstances in the Simulated Universe.
 
-- Fixes an issue during photography where, under certain circumstances, the mission can be completed before the photo subject enters the frame.
+- Fixes an issue where the effects of the Component "Cleansing Module" functions abnormally when the team has Moze (The Hunt: Lightning) on the team in the Simulated Universe.
 
-- Fixes an issue where using a controller causes operations to function abnormally in certain gameplay modes' Team Lineup screen.
+- Fixes an issue in Simulated Universe: Unknowable Domain where the effect descriptions of certain Scepters or Components were incorrect. The descriptions have been updated to accurately reflect the actual ability effects.
+
+- Fixes an issue where, on certain devices, some interfaces in Simulated Universe: Unknowable Domain were not displaying properly.
+
+- Fixes an issue where the Component icons were incorrectly displayed in certain interfaces of Simulated Universe: Unknowable Domain.
 
 ■ Audio
 
-- Fixes certain incorrect English dialogue voice lines during the Trailblaze Continuance "Xianzhou Luofu — From Growls to Grace."
+- Fixes an issue where certain music effects fail to properly terminate after the end of storyline battles in Trailblaze Continuance "Penacony — Banana Outrage: Battles Without Ninja and Humanity."
 
-- Fixes an issue where certain voice overs and visuals are inconsistent for the Korean voice over during the Trailblaze Missions "Penacony — The Only Path to Tomorrow."
+- Fixes some missing English dialogue voice lines for the NPC "Excited Student" in the Trailblaze Continuance "Penacony" — "A Clockwork Banana."
 
-■ Environment Visuals
+- Fixes some incorrect Japanese dialogue voice lines for the NPC "Mr. Reca" in the Trailblaze Continuance "Penacony" — "Asdanian Rhapsody."
 
-- Fixes an issue where, under certain circumstances, interacting with certain NPCs in Scalegorge Waterscape would cause the game to progress abnormally.
+- Fixes certain Japanese dialogue voice lines that play abnormally in the Trailblaze Continuance "Penacony" — "A Clockwork Banana."
 
-- Fixes an issue where the actual amount of Consumables expended is incorrect when the "Inventory" is opened while in the Parlor Car and Consumables are used. This issue does not affect the actual amount of Consumables used.
-
-- Fixes an issue where, under specific circumstances, visitors on the Express might have their character models superimposed.
-
-■ System
-
-- Fixes an issue where the completion requirement description and the actual requirement for the achievement "Eighteen Lordly Trashcans" are inconsistent.
-
-- Fixes an issue where the tutorial text is not displayed normally when some "Strategic Training" stages are failed.
-
-- Fixes an issue where after using "Filter Scheme" in the "Relic Switch" screen, the rarity of the filtered Relics is not displayed normally.
-
-- Fixes an issue where certain "Tutorial" entries are abnormally unlocked.
-
-- Fixes an issue where, under certain circumstances, there is a chance that character models behave abnormally after accessing the "Camera" function and selecting "Hide Character."
-
-- Fixes an issue where, when viewing the characters March 7th and the Trailblazer in other players' Trailblazer Profiles, certain stats of the characters displayed are different from their actual value.
-
-- Fixes an issue where certain interfaces are abnormal when using specific operations to enter the "Saga of Primaveral Blade" game mode menu.
-
-- Fixes an issue where, under certain circumstances, the readable item "Prescription: Draught of Draconic Surge" cannot be obtained.
-
-- Fixes an issue where, after using Support Characters to successfully clear a challenge stage, performing specific operations might cause the Support Characters' ability and level information to be displayed abnormally.
+- Fixes some scene inconsistent Korean environmental voice lines in the Radiant Feldspar map.
 
 ■ Others
 
-- Fixes an issue of certain erroneous combat voice line order for Kafka (Nihility: Lightning) in the data bank.
+- Fixes an issue where the Graphics Settings - Resolution - Very High settings on certain Android devices does not take effect.
 
-- In-game texts for the 13 languages have been adjusted, optimized, and fixed. These changes do not affect the actual effects. Trailblazers can switch the game language through "Phone — Settings — Language" and view the corresponding changes in the announcement.
+- Fixes an issue where the Stellar Warp - Bonus Rewards reward claim prompt was not appearing on the corresponding tab of the Warp interface.
 
-**Fixes and optimizations in English include the following (they have no impact on the actual in-game effects):**
+- Fixes an issue where certain tutorial prompts would appear repeatedly when playing with a controller.
 
-- Fixes the descriptions of certain Relic set effects, Light Cone abilities, character abilities, and Eidolon descriptions related to "Percentages."
+- Fixes an issue where the brief and full descriptions of certain character abilities were inconsistent. This fix does not affect the actual ability effects.
 
-- Optimizes Basic ATK description for March 7th (The Hunt: Imaginary); Ultimate description for Seele (The Hunt: Quantum); Talent descriptions for Seele (The Hunt: Quantum), Dan Heng (The Hunt: Wind), and Arlan (Destruction: Lightning); Technique descriptions for Seele (The Hunt: Quantum), Yukong (Harmony: Imaginary), and Welt (Nihility: Imaginary); and certain Trace effect descriptions for Seele (The Hunt: Quantum).
+- Fixes an issue where the special effects are incorrect when using certain Consumables. This fix will not affect the actual functionality of the Consumables.
 
-- Optimizes Skill descriptions for Jade (Erudition: Quantum) and Misha (Destruction: Ice); Ultimate descriptions for Trailblazer (Harmony: Imaginary), Trailblazer (Preservation: Fire), Yunli (Destruction: Physical), Jade (Erudition: Quantum), Seele (The Hunt: Quantum), and March 7th (Preservation: Ice); Talent descriptions for Firefly (Destruction: Fire), Fu Xuan (Preservation: Quantum), Silver Wolf (Nihility: Quantum), Seele (The Hunt: Quantum), Yukong (Harmony: Imaginary), Dan Heng (The Hunt: Wind), and Arlan (Destruction: Lightning); and Technique descriptions for Seele (The Hunt: Quantum), Huohuo (Abundance: Wind), Yukong (Harmony: Imaginary), Welt (Nihility: Imaginary), and Topaz & Numby (The Hunt: Fire).
+- Fixes an issue where certain combat audios are lost when playing on PS5® devices under specific conditions.
 
-- Optimizes the effect descriptions for Jiaoqiu (Nihility: Fire)'s Eidolons 1 and 2, and Arlan (Destruction: Lightning)'s Eidolon 6.
+**In-game texts for the 13 languages have been adjusted, optimized, and fixed. These changes do not affect the actual effects. Trailblazers can switch the game language through "Phone — Settings — Language" and view the corresponding changes in the announcement.**
 
-- Optimizes the character introduction descriptions for Jiaoqiu (Nihility: Fire) and Yunli (Destruction: Physical).
+Fixes and optimizations in English include the following (they have no impact on the actual in-game effects):
 
-- Optimizes the character story descriptions for Jiaoqiu (Nihility: Fire), Guinaifen (Nihility: Fire), and Yunli (Destruction: Physical).
+- Adjusts and optimizes texts related to various cutscene dialogues, readable items, Messages, item names and descriptions, tutorials, hint details, enemy abilities, gameplay texts, Simulated Universe Blessings, statuses, and effects, and topics in the data bank.
 
-- Optimizes certain character voice over subtitle text for Jiaoqiu (Nihility: Fire), Huohuo (Abundance: Wind), and Jing Yuan (Erudition: Lightning).
+- Optimizes the simplified description for Rappa (Erudition: Imaginary)'s Ultimate.
 
-- Optimizes Light Cone ability descriptions for "Collapsing Sky (Destruction)," "Sleep Like the Dead (The Hunt)," and "Those Many Springs (Nihility)."
+- Optimizes certain character storyline descriptions for Rappa (Erudition: Imaginary).
 
-- Optimizes the set effect descriptions for the Relics "The Ashblazing Grand Duke," "The Wind-Soaring Valorous," and "Duran, Dynasty of Running Wolves."
+- Optimizes certain character voice over subtitle text for Jing Yuan (Erudition: Lightning).
 
-- Optimizes the descriptions to achieve the "Literary Fragment" Achievement.
-
-- Adjusts and optimizes the descriptive text for certain readable items, Event Details, buff effects, item names, Item Descriptions, mission details, hint details, cutscene dialogue, enemy abilities, stage names, and Relic origins.
+- Optimizes the descriptions to achieve the "Shackles Shattered" and "Epic Hunt: Culmination" Achievements.
 
 -----
 
-# [Game Version 2.5 Optimization and Known Issues](archive/706.md)
-## Game Version 2.5 Optimization and Known Issues
-
+# [Version 2.7 Nameless Honor Details](archive/752.md)
+## Version 2.7 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/baf343ce59e894e15b21d1f13188a3e7_5329851048350293519.jpg)
 
 Dear Trailblazers,
 
-To provide a better gaming experience, the Crew will constantly adapt and improve the game and fix known issues.
+During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as Star Rail Passes, Self-Modeling Resins, and Tracks of Destiny.
 
-### Game Updates and Improvements Overview
+After unlocking Nameless Glory, you will immediately obtain **Stellar Jades ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Self-Modeling Resin ×1, Relic Remains, the universal Path material Tears of Dreams**, and more!
 
-■2024/09/30
-
-- Updates certain related resources for subsequent content.
-
-■2024/09/25
-
-- Fixes an issue where, under specific circumstances, there is a chance that a character might experience abnormal displays when ally characters face the enemy Opportunistic Provocateur in Apocalyptic Shadow and suffer a killing blow before recovering and returning to battle.
-
-- Fixes an issue where, under specific circumstances, the character expression is abnormal when the trial character Lingsha (Abundance: Fire) uses her Ultimate.
-
-- Fixes an issue where certain story dialogue lines are erroneous in the Luminary Wardance event.
-
-■2024/09/19
-
-- Fixes an issue where Blessings or Equations could be obtained abnormally through specific actions using the Workbench of Creation in Divergent Universe.
-
-- Fixes an issue where there is a chance that the Achievement "The Imbibitor Lunae Arrives" cannot be gained after completing the Trailblaze Mission "Xianzhou Luofu — Desolate Depths of Despair."
-
-■2024/09/13
-
-- Fixes an issue where players are unable to progress through the Luminary Wardance due to an abnormal interruption in the Adventure Mission "Even When Cheers Fade: Chapter 1." After fixing this issue, Trailblazers who encountered this issue can head to the Tactics Board on the Skysplitter to continue their event progress.
-
-- Fixes an issue where game may progress abnormally when using Ultimates in the stage Echo of War: Inner Beast's Battlefield while playing on specific Android devices. This issue will be fixed in the future.
-
-■2024/09/12
-
-- Fixes an issue where certain cutscenes might go abnormally missing under specific circumstances while fighting the enemy Shadow of "Feixiao" during the Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue: Part II."
-
-- Fixes an issue where character model positions might have a chance of being abnormally placed during the Adventure Mission "Ordination."
-
-- Fixes an issue where certain characters have a chance of abnormally slipping out the bounds of the map after winning a battle at the maps edge. If you have encountered this issue before the fix, you can resolve the problem by leaving the current map or contact us via Phone > Bug Report.
-
-- Fixes an issue where the "Failed to obtain information" notice appears and players can't enhance their Blessings under certain situations when they use the "Faith Bond" to enhance their Blessings in the Simulated Universe.
-
-- Fixes an issue where under certain conditions, some objects in the Skysplitter map has a chance of abnormally disappearing.
-
-■2024/09/11
-
-- Fixes an issue where there is a chance that characters cannot move after abnormally entering particularly cramped areas on the Skysplitter.
-
-■2024/09/10
-
-- Fixes an issue when challenging the stage "Stagnant Shadow: Shape of Mechwolf" through the Temporary Early Access function, the game will be unable to progress.
-
-- Fixes the issue in Trailblaze Continuance "Xianzhou Luofu — A Web of Pasts Rewoven," where certain operations could occasionally prevent the mission from progressing. Trailblazers who encountered this issue can restart the game and teleport near the mission location using the Space Anchor to resolve the problem. If restarting the game does not fix the issue, please contact us via "Phone — Bug Report."
-
-- Fixes an issue where game progress might run into abnormalities when using specific team lineups to enter certain stage battles.
-
-- Fixes an issue where certain voice lines are erroneous upon being triggered in the "Edit Team" function when adding the Trailblazer to the team.
-
-- Fixes an issue where Mission Guides might abnormally go missing when certain storyline battles are lost during the Trailblaze Continuance "Xianzhou Luofu — Ebb of Past Sins."
-
-- Fixes an issue where enemies might abnormally take consecutive actions when facing Flowerbeing in the "Luminary Wardance" event.
-
-- Fixes an issue in Divergent Universe where, after unlocking Inspiration Circuit > Trait Unlock, the already activated combat Traits' texts were displayed abnormally under certain conditions during the Planar Ornament Extraction.
-
-- Fixes an issue where players might be unable to enter certain spaces after awakening the Messenger to visit Shackling Prison's crypts in the Shackling Prison map.
-
------
-
-# ["Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details](archive/682.md)
-## "Finest Duel Under the Pristine Blue: Part II" Trailblaze Continuance Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/96ac589afb1aa7fffc147240df3cb7fd_8169475248872684338.png)
-
-Wolves lurk encircling, and the hunter draws their bow. High above, within the Skysplitter, the Xianzhou Luofu's Wardance ceremony is about to commence a sanguine competition...
-
-### Availability
-
-Permanently available after the Version 2.5 update
-
-### Requirements
-
-Trailblaze Level ≥ 21 and complete Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue: Part I"
-
-※ During Version 2.5, this content can be experienced in advance through the Finality's Vision function.
-
-※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
-
-※ After V2.5 has concluded, the unlock conditions for Trailblaze Continuance "Finest Duel Under the Pristine Blue" will become: Complete the Trailblaze Mission "Xianzhou Luofu — Obsequies Performed, A Long Road Ahead."
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/29a71fa100913699eeecac79c2a7acf3_2805093828346821266.png)
-
------
-
-# [Version 2.5 New Stages](archive/678.md)
-## Version 2.5 New Stages
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/16/1ffb411e2f410286214091cb4ed5bb61_7574779945564527849.png)
-
-Dear Trailblazers,
-
-After the Version 2.5 Update arrives, the new stages Echo of War: Inner Beast's Battlefield, Divergent Universe: Famished Worker, and Stagnant Shadows: Shape of Mechwolf and Shape of Gloam will be added.
-
-### Echo of War: Inner Beast's Battlefield
-
-Clear the stage to obtain the new **Trace Material "Auspice Sliver"**, **Relics** "The Ashblazing Grand Duke" and "Watchmaker, Master of Dream Machinations," item "Lucent Afterglow," Light Cones "What Is Real?" and "Dreamville Adventure," etc.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/699029f1639d0cb58f1fc465703dc29b_687183286498782554.png)
-
-### Planar Ornament Extraction
-
-■ Divergent Universe: Famished Worker
-
-Successfully challenge Divergent Universe: Famished Worker and use Trailblaze Power or Planar Ornament Extraction to obtain new Planar Ornaments **"Lushaka, the Sunken Seas" and "The Wondrous BananAmusement Park"** from Immersion Rewards.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/7aa335f284eb891009730d21651b0750_1068791315239109299.png)
-
-New Planar Ornament Effects Preview:
-
-- **Lushaka, the Sunken Seas**
-
-Planar Sphere: Lushaka's Waterscape
-
-Link Rope: Lushaka's Twinlanes
-
-2-Pc set effect: Increases the wearer's Energy Regeneration Rate by 5%. If the wearer is not the first character in the team lineup, then increase the ATK of the first character in the team lineup by 12%.
-
-- **The Wondrous BananAmusement Park**
-
-Planar Sphere: BananAmusement Park's BananAxis Plaza
-
-Link Rope: BananAmusement Park's Memetic Cables
-
-2-Pc set effect: Increases the wearer's CRIT DMG by 16%. When a target summoned by the wearer is on the field, CRIT DMG additionally increases by 32%.
-
-### Stagnant Shadow
-
-■ Stagnant Shadow: Shape of Mechwolf
-
-Clear the stage to obtain the new **Lightning** character **Ascension material** "Nail of the Beast Coffin."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/ecc6adf1638887df7062d134b1cbf1e4_2154963532419464627.png)
-
-■ Stagnant Shadow: Shape of Gloam
-
-Clear the stage to obtain the new **Wind** character **Ascension material** "A Glass of the Besotted Era."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2024/08/27/0667cff4ee262beb176fde6a9b3ba01a_8284575234826098315.png)
-
------
-
-# [Version 2.5 Nameless Honor Details](archive/674.md)
-## Version 2.5 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/b2c110e05bcf534f42b8ee37bc64a3a1_8836281575290200715.png)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase the level of Nameless Honor to obtain rewards such as **Star Rail Passes**, **Self-Modeling Resins**, and **Tracks of Destiny**.
-
-After unlocking Nameless Glory, Trailblazers can immediately obtain **Stellar Jade ×680**. Increasing Nameless Honor levels can allow Trailblazers to additionally obtain **Star Rail Special Pass ×4**, **4-star Light Cone** of your choice, **Self-Modeling Resin ×1**, **Relic Remains**, universal path material **Tears of Dreams**, and other rewards!
-
-If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately **increase their Nameless Honor level by 10** and receive the avatar **"Feixiao: Fitness,"** the avatar **"Moze: Fitness,"** as well as **200 Stellar Jades** and **Fuels**!
+If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately increase their Nameless Honor level by 10 and receive the avatar **"Sunday: Brilliant Youth,"** the avatar **"Robin: Brilliant Youth,"** as well as **200 Stellar Jades** and **Fuels**!
 
 ### Start Date
 
-After the Version 2.5 update – 2024/10/21 03:59:00 (server)
+After the Version 2.7 update – 2025/01/13 03:59:00 (server)
 
-### Participation Requirements
+### Participation Requirement
 
 Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
 
 ### About Nameless Honor
 
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain **Star Rail Passes**, **Self-Modeling Resin**, **Tracks of Destiny**, and more.
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain Star Rail Passes, Self-Modeling Resin, Tracks of Destiny, and more.
 
 - This Week's Missions will reset every Monday at 04:00 (server time).
 
 - Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
 
-### Attention
+### Note
 
 - After reaching level cap, EXP will no longer be awarded through missions during this period.
 
@@ -626,31 +558,59 @@ Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI —
 
 - In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
 
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2024/10/21 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2025/01/13 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
 
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2024/10/20 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2025/01/12 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
 
 -----
 
-# [New Version 2.5 Herta Contracts Details](archive/675.md)
-## New Version 2.5 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/08/19/624e98431d6345b3c8bc4f3745f70bde_6620820547597730769.png)
+# [New Version 2.7 Herta Contracts Details](archive/753.md)
+## New Version 2.7 Herta Contracts Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/624e98431d6345b3c8bc4f3745f70bde_6709271531157306160.png)
 
 Dear Trailblazers,
 
-After the Version 2.5 update – 2024/10/22 15:00:00 (server), new Herta Contracts will become available in the Contract Shop!
+After the Version 2.7 update until 2025/01/14 15:00:00 (server), new Herta Contracts will be on sale in the Contract Shop!
 
 ### Herta Contract: Roaming Refill
 
-Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
+Content: Traveler's Guide ×20, Refined Aether ×15, and
+
+credit ×60,000
 
 Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
 
 ### Herta Contract: Resource Supply V2
 
-Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
+Content: Universal Path material Tears of Dreams ×150 and
+
+credit ×60,000
 
 Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
+
+-----
+
+# [Trailblaze Mission "A New Venture on the Eighth Dawn" Details](archive/757.md)
+## Trailblaze Mission "A New Venture on the Eighth Dawn" Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/c24edb7da08bae1dc10985a2bab3a268_408474155727585567.png)
+
+Some will return, some will soon leave. The Dreamscape is embroiled with murk and uncertainty. To behold the path ahead, one must learn to retrospect.
+
+### Availability
+
+Permanently available after Version 2.7 update
+
+### Requirements
+
+Trailblaze Level ≥ 21
+
+※ During Version 2.7, this content can be experienced in advance through the Finality's Vision function.
+
+※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Penacony — Stranger in a Strange Land."
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2024/11/18/41673cc7dc33dbe4955a57befe0d5849_9050407517664321268.png)
 
 -----
 
