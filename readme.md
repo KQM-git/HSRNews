@@ -1,25 +1,3 @@
-# [Version 2.7 "A New Venture on the Eighth Dawn" Satisfaction Survey](archive/809.md)
-## Version 2.7 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/64f750577627982c2225314c2376a57b_206713303262757955.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 2.7, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-kkx5th-sebxwTTv9cvPliNragHPUBnqDjP4tqaDw137c&game_biz=hkrpg_global&surveyId=28927&format=1&sign_type=2&authkey_ver=1)
-
-### Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/755.md)
 ## Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/fba39da2942fe360176de0c99a78509d_4868069546602422002.png)
