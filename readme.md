@@ -1,3 +1,142 @@
+# ["Paean of Era Nova" Trailblaze Mission and Adventure Mission Details](archive/783.md)
+## "Paean of Era Nova" Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/26/69634fd19fd8ae4005cdc9355c93ee93_7672548009229253751.png)
+
+Dear Trailblazers,
+
+After the V3.0 update, the new Trailblaze Mission **"Heroic Saga of Flame-Chase"** and Adventure Missions **"Whereto Shall We Go," "I Once Was In Arcadia," and "Disquieting Dream"** will be added.
+
+### Trailblaze Mission "Heroic Saga of Flame-Chase"
+
+Amphoreus, The Eternal Land. A new horizon for Trailblaze where the Three Paths intersect, and the vortex of fate calmly awaits the sudden arrival of a small vessel...
+
+■ Requirements
+
+Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy"
+
+※ During Version 3.0, this content can be experienced in advance through the Finality's Vision function.
+
+※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Penacony — A New Venture on the Eighth Dawn."
+
+■ Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/01/07/70290cbd62bef35bb82cfd4846d3a71b_1854206997624434207.png)
+
+<details open="true">
+<summary>Adventure Mission "Whereto Shall We Go"</summary>
+
+- Amidst the growing crisis, Okhema must protect the survivors from all corners of Amphoreus. But this task proves to be far more challenging than expected...
+
+- How to unlock: After completing the Trailblaze Mission "Amphoreus — Heroic Saga of Flame-Chase," view messages from Aglaea
+
+</details>
+
+<details open="true">
+<summary>Adventure Mission "I Once Was In Arcadia"</summary>
+
+- Conflict breeds disaster and fear, while romance inspires love and beauty. When swords clash with golden threads, will the threads be severed, or will the swords be ensnared...
+
+- How to unlock: After completing the Trailblaze Mission "Amphoreus — Heroic Saga of Flame-Chase," head to Amphoreus — "Eternal Holy City" Okhema and speak to the NPC Iason near "Kephale Plaza."
+
+</details>
+
+<details open="true">
+<summary>Adventure Mission "Disquieting Dream"</summary>
+
+- Haunting whispers disturb the prophet's dreams, as shrouded revelations uncover painful pasts, and in the murmurs of time's dreams, how can one break free from destiny?
+
+- How to unlock: After completing the Trailblaze Mission "Amphoreus — Heroic Saga of Flame-Chase," view messages from Tribbie
+
+</details>
+
+-----
+
+# [Version 3.0 Nameless Honor Details](archive/788.md)
+## Version 3.0 Nameless Honor Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/30/e808640b22fe3960218306bf870e5360_3362539946962919149.jpg)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as Star Rail Passes, Wishful Resin, Self-Modeling Resins, and Tracks of Destiny.
+
+After unlocking Nameless Glory, you will immediately obtain **Stellar Jades ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Variable Dice ×1, Wishful Resin ×1, Self-Modeling Resin ×1, Relic Remains, the universal Path material Tears of Dreams**, and more!
+
+If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately increase their Nameless Honor level by 10 and receive the avatar **"The Herta: Tea Break,"** the avatar **"Herta: Tea Break,"** as well as **200 Stellar Jades** and **Fuels**!
+
+※ After Nameless Honor updates in this version, the Nameless Glory Level Rewards Treasure of the Starry Seas will include a new selectable Light Cone **"Sweat Now, Cry Less (Remembrance)"**. Some original level rewards have also been adjusted.
+
+### Start Date
+
+After the Version 3.0 update — 2025/02/24 03:59:00 (server)
+
+### Event Requirement
+
+Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain Star Rail Passes, Self-Modeling Resin, Tracks of Destiny, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Note
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2025/02/24 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2025/02/23 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
+
+-----
+
+# [New Version 3.0 Herta Contracts Details](archive/786.md)
+## New Version 3.0 Herta Contracts Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/8eaae88bda3698a55a9e7ccd76b5b561_7072857622726676903.jpg)
+
+Dear Trailblazers,
+
+From after the V3.0 update to 2025/02/25 15:00:00 (server), all new Herta Contracts will be available in the Contract Shop!
+
+### The Herta Contract: Strategic Support
+
+Contract Content: Self select item combo bundle. The Trailblazer can pick **any two** of the following items (One item may be chosen multiple times):
+
+Wishful Resin ×1, Self-Modeling Resin ×1, Relic Remains ×800, Tears of Dreams ×240, Traveler's Guide ×100, Refined Aether ×80, Lost Crystal ×120
+
+Price: Oneiric Shard ×720. A maximum of **5** can be purchased per account while the item is available.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/01/07/a18e59ab5d767d8f8b3299ba4aee5a9b_3143768808574129112.jpg)
+
+### The Herta Contract: Strategic Cooperation
+
+Contract Content: Selectable item combo bundle. The Trailblazer will obtain Star Rail Special Pass ×10 and can pick **any three** of the following items (One item may be chosen multiple times):
+
+Wishful Resin ×2, Self-Modeling Resin ×2, Relic Remains ×1600, Tears of Dreams ×480, Lost Crystal ×240
+
+Price: Oneiric Shard ×2680. A maximum of **2** can be purchased per account while the item is available.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/01/07/23a6b7bc3f9b394f2e1f05db976e8192_2475809038357200146.jpg)
+
+### Herta Contract: Roaming Refill
+
+Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
+
+Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
+
+### Herta Contract: Resource Supply V2
+
+Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
+
+-----
+
 # [Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time](archive/755.md)
 ## Realm of the Strange Event: Cavern Relic drop rate doubled for a limited time
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/fba39da2942fe360176de0c99a78509d_4868069546602422002.png)
@@ -129,145 +268,6 @@ Hello, Trailblazers
 Amphoreus's theme song, Nameless Faces, is now available. Feel free to listen to it on streaming platforms.
 
 [ Check it out](https://orcd.co/ampnlfcen)
-
------
-
-# [Version 3.0 Nameless Honor Details](archive/788.md)
-## Version 3.0 Nameless Honor Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/30/e808640b22fe3960218306bf870e5360_3362539946962919149.jpg)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as Star Rail Passes, Wishful Resin, Self-Modeling Resins, and Tracks of Destiny.
-
-After unlocking Nameless Glory, you will immediately obtain **Stellar Jades ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Variable Dice ×1, Wishful Resin ×1, Self-Modeling Resin ×1, Relic Remains, the universal Path material Tears of Dreams**, and more!
-
-If the Trailblazer unlocks the Nameless Medal, in addition to the rewards mentioned above, they will also immediately increase their Nameless Honor level by 10 and receive the avatar **"The Herta: Tea Break,"** the avatar **"Herta: Tea Break,"** as well as **200 Stellar Jades** and **Fuels**!
-
-※ After Nameless Honor updates in this version, the Nameless Glory Level Rewards Treasure of the Starry Seas will include a new selectable Light Cone **"Sweat Now, Cry Less (Remembrance)"**. Some original level rewards have also been adjusted.
-
-### Start Date
-
-After the Version 3.0 update — 2025/02/24 03:59:00 (server)
-
-### Event Requirement
-
-Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain Star Rail Passes, Self-Modeling Resin, Tracks of Destiny, and more.
-
-- This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Note
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2025/02/24 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be **2025/02/23 03:59:00 (global)**. Trailblazers who top up on the webpage should pay attention to the purchase availability time.
-
------
-
-# [New Version 3.0 Herta Contracts Details](archive/786.md)
-## New Version 3.0 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/8eaae88bda3698a55a9e7ccd76b5b561_7072857622726676903.jpg)
-
-Dear Trailblazers,
-
-From after the V3.0 update to 2025/02/25 15:00:00 (server), all new Herta Contracts will be available in the Contract Shop!
-
-### The Herta Contract: Strategic Support
-
-Contract Content: Self select item combo bundle. The Trailblazer can pick **any two** of the following items (One item may be chosen multiple times):
-
-Wishful Resin ×1, Self-Modeling Resin ×1, Relic Remains ×800, Tears of Dreams ×240, Traveler's Guide ×100, Refined Aether ×80, Lost Crystal ×120
-
-Price: Oneiric Shard ×720. A maximum of **5** can be purchased per account while the item is available.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/07/a18e59ab5d767d8f8b3299ba4aee5a9b_3143768808574129112.jpg)
-
-### The Herta Contract: Strategic Cooperation
-
-Contract Content: Selectable item combo bundle. The Trailblazer will obtain Star Rail Special Pass ×10 and can pick **any three** of the following items (One item may be chosen multiple times):
-
-Wishful Resin ×2, Self-Modeling Resin ×2, Relic Remains ×1600, Tears of Dreams ×480, Lost Crystal ×240
-
-Price: Oneiric Shard ×2680. A maximum of **2** can be purchased per account while the item is available.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/07/23a6b7bc3f9b394f2e1f05db976e8192_2475809038357200146.jpg)
-
-### Herta Contract: Roaming Refill
-
-Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
-
-Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
-# ["Paean of Era Nova" Trailblaze Mission and Adventure Mission Details](archive/783.md)
-## "Paean of Era Nova" Mission Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/26/69634fd19fd8ae4005cdc9355c93ee93_7672548009229253751.png)
-
-Dear Trailblazers,
-
-After the V3.0 update, the new Trailblaze Mission **"Heroic Saga of Flame-Chase"** and Adventure Missions **"Whereto Shall We Go," "I Once Was In Arcadia," and "Disquieting Dream"** will be added.
-
-### Trailblaze Mission "Heroic Saga of Flame-Chase"
-
-Amphoreus, The Eternal Land. A new horizon for Trailblaze where the Three Paths intersect, and the vortex of fate calmly awaits the sudden arrival of a small vessel...
-
-■ Requirements
-
-Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy"
-
-※ During Version 3.0, this content can be experienced in advance through the Finality's Vision function.
-
-※ Trailblazers are recommended to experience this content after completing the Trailblaze Mission "Penacony — A New Venture on the Eighth Dawn."
-
-■ Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/07/70290cbd62bef35bb82cfd4846d3a71b_1854206997624434207.png)
-
-<details open="true">
-<summary>Adventure Mission "Whereto Shall We Go"</summary>
-
-- Amidst the growing crisis, Okhema must protect the survivors from all corners of Amphoreus. But this task proves to be far more challenging than expected...
-
-- How to unlock: After completing the Trailblaze Mission "Amphoreus — Heroic Saga of Flame-Chase," view messages from Aglaea
-
-</details>
-
-<details open="true">
-<summary>Adventure Mission "I Once Was In Arcadia"</summary>
-
-- Conflict breeds disaster and fear, while romance inspires love and beauty. When swords clash with golden threads, will the threads be severed, or will the swords be ensnared...
-
-- How to unlock: After completing the Trailblaze Mission "Amphoreus — Heroic Saga of Flame-Chase," head to Amphoreus — "Eternal Holy City" Okhema and speak to the NPC Iason near "Kephale Plaza."
-
-</details>
-
-<details open="true">
-<summary>Adventure Mission "Disquieting Dream"</summary>
-
-- Haunting whispers disturb the prophet's dreams, as shrouded revelations uncover painful pasts, and in the murmurs of time's dreams, how can one break free from destiny?
-
-- How to unlock: After completing the Trailblaze Mission "Amphoreus — Heroic Saga of Flame-Chase," view messages from Tribbie
-
-</details>
 
 -----
 
