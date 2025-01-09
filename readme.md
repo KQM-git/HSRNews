@@ -231,22 +231,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [Amphoreus Theme Song, Nameless Faces, Is Now Available](archive/782.md)
-## Amphoreus Theme Song, Nameless Faces, Is Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/25/2dd6d82b9ee4af0d93f083b9afba78d6_8080023678546355911.png)
-
-Hello, Trailblazers
-
-"Hero. Divine. Puppet. Prisoner. Which of these things are you? Who are you?"
-
-"I am but one among a thousand faces defiant against my fate. That which you see... is me."
-
-Amphoreus's theme song, Nameless Faces, is now available. Feel free to listen to it on streaming platforms.
-
-[ Check it out](https://orcd.co/ampnlfcen)
-
------
-
 # [All-Stars Celebration | A Special Thanks to Trailblazers](archive/766.md)
 ## All-Stars Celebration | A Special Thanks to Trailblazers
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/27/d64db14d1ab5a46969107cd50b98916b_7649751682967122091.jpg)
