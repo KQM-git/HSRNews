@@ -1,3 +1,27 @@
+# [Store — Embers Exchange Update](archive/804.md)
+## Store — Embers Exchange Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/03/d39fc89b1b63bd9efd4d354b1206f252_4383410653971665817.png)
+
+Dear Trailblazers,
+
+Store — Embers Exchange will soon be updated!
+
+### Store — Embers Exchange Update
+
+- Update Time
+
+After the Version 3.0 update
+
+※ Please note the exchange limit. Item availability will be reset on the 1st day of every month at 04:00 (server time).
+
+- Update Content
+
+Seedling of Manas, Bīja of Consciousness, and Fear-Stomped Flesh
+
+※ Seedling of Manas and Bīja of Consciousness are Path of Remembrance Trace Materials, while Fear-Stomped Flesh is from enemy drops.
+
+-----
+
 # ["Paean of Era Nova" Trailblaze Mission and Adventure Mission Details](archive/783.md)
 ## "Paean of Era Nova" Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/26/69634fd19fd8ae4005cdc9355c93ee93_7672548009229253751.png)
