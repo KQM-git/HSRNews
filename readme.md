@@ -783,32 +783,6 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
-# [New Version 2.7 Herta Contracts Details](archive/753.md)
-## New Version 2.7 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/624e98431d6345b3c8bc4f3745f70bde_6709271531157306160.png)
-
-Dear Trailblazers,
-
-After the Version 2.7 update until 2025/01/14 15:00:00 (server), new Herta Contracts will be on sale in the Contract Shop!
-
-### Herta Contract: Roaming Refill
-
-Content: Traveler's Guide ×20, Refined Aether ×15, and
-
-credit ×60,000
-
-Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Content: Universal Path material Tears of Dreams ×150 and
-
-credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
 # [Trailblaze Mission "A New Venture on the Eighth Dawn" Details](archive/757.md)
 ## Trailblaze Mission "A New Venture on the Eighth Dawn" Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/c24edb7da08bae1dc10985a2bab3a268_408474155727585567.png)
