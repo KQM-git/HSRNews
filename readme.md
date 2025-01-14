@@ -415,32 +415,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [All-Stars Celebration | A Special Thanks to Trailblazers](archive/766.md)
-## All-Stars Celebration | A Special Thanks to Trailblazers
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/27/d64db14d1ab5a46969107cd50b98916b_7649751682967122091.jpg)
-
-Honkai: Star Rail has been awarded the "**Golden Joystick Awards 2024 Still Playing Award (Mobile)**" and the "**PlayStation® Partner**
-
-**Awards 2024 PARTNER AWARD**" among other honors.
-
-To thank the Trailblazers for their support and appreciation, the Express Crew will deliver a gift of **Stellar Jade ×1000** on 2024/12/04 00:00:00 (server).
-
-### Claim Information
-
-- Delivered Content: Stellar Jade ×1000
-
-- Delivery Time: 2024/12/04 00:00:00 (server)
-
-- Delivery Method: In-Game Mailbox
-
-- Eligible Recipients: Trailblazers at or above Trailblaze Level 4
-
-The delivered mail will be effective until Version 2.7 ends (2025/01/15 06:00:00 (global)), please log in and claim the gift in time.
-
-We are glad to spend this time with you, and may this journey lead us starward.
-
------
-
 # [Version 2.7 "A New Venture on the Eighth Dawn" Version Update Details](archive/760.md)
 ## Version 2.7 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/15/a2f01e0439de3bbd4e7e6bc862701a9b_2967697281337219366.jpg)
@@ -804,24 +778,6 @@ Trailblaze Level ≥ 21
 ### Mission Rewards
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2024/11/18/41673cc7dc33dbe4955a57befe0d5849_9050407517664321268.png)
-
------
-
-# [Survey With Rewards](archive/476.md)
-## Survey With Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/02/02/7b68fb797d52db232782a5f3ed0d8aa7_3160821553234035970.png)
-
-Dear Trailblazers,
-
-To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
-
-### Survey Link
-
-[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNnzk-72qB-sebxwTTv9cvPliNriHgTajQnMKOoJyI8GHHFO&game_biz=hkrpg_global&surveyId=19659&format=1&sign_type=2&authkey_ver=1)
-
-### Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
 
 -----
 
