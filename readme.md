@@ -12,6 +12,18 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of version 3.0. The corresponding voiceovers will be added in future updates.
 
+### Game Updates and Improvements Overview
+
+■2025/01/15
+
+- Fixes an issue where, under certain circumstances, game progress has a chance of becoming abnormal or unable to progress for the "Hand of Zagreus" game mode. After this issue is fixed, Trailblazers who still encounter this problem can go to "Phone" > "Bug Report" to contact us.
+
+- Fixes an issue where certain "New" notifications are abnormally not displayed for "Phone" under certain circumstances.
+
+- Fixes an issue where the Trailblaze Continuance "Herta Space Station — When the Stars of Ingenuity Shine" cannot progress under certain circumstances.
+
+- Fixes an issue where there is a chance of encountering "stage verification failure" after finishing specific storyline battles during the progress of the Trailblaze Mission "Amphoreus -- Silver Chariot, Away to that Blackened Land."
+
 -----
 
 # [Version 3.0 "Paean of Era Nova" Update](archive/796.md)
