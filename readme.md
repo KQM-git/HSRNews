@@ -1,5 +1,5 @@
-# [Game Version 1.6 Optimization and Known Issues](archive/823.md)
-## Game Version 1.6 Optimization and Known Issues
+# [Game Version 3.0 Optimization and Known Issues](archive/823.md)
+## Game Version 3.0 Optimization and Known Issues
 
 
 Dear Trailblazers,
