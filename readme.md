@@ -14,24 +14,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/814.md)
-## Survey with Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/09/7b68fb797d52db232782a5f3ed0d8aa7_5493788549254753938.png)
-
-Dear Trailblazers,
-
-To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
-
-### Survey Link
-
-[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-k-V5sx-sebxwTTv9cvPliNqrvTaesPwkzWb2qPbc9G3X&game_biz=hkrpg_global&surveyId=29022&format=1&sign_type=2&authkey_ver=1)
-
-### Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
------
-
 # [Version 3.0 "Paean of Era Nova" Update](archive/796.md)
 ## V3.0 Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/27/94e57a6b05c639a7b50ca92f051b8249_8324860302242554190.jpg)
@@ -473,6 +455,24 @@ Fixes and optimizations in English include the following (they have no impact on
 - Adjusts and optimizes texts related to various cutscene dialogues, readable items, Messages, item summaries, Relic sources, Status Effect descriptions, hint notifications, and in-gameplay texts.
 
 - Fixes the issue where certain texts are not fully displayed in the Store recommended interface in specific conditions.
+
+-----
+
+# [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/814.md)
+## Survey with Rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/09/7b68fb797d52db232782a5f3ed0d8aa7_5493788549254753938.png)
+
+Dear Trailblazers,
+
+To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
+
+### Survey Link
+
+[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-k-V5sx-sebxwTTv9cvPliNqrvTaesPwkzWb2qPbc9G3X&game_biz=hkrpg_global&surveyId=29022&format=1&sign_type=2&authkey_ver=1)
+
+### Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
 
 -----
 
