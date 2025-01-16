@@ -32,7 +32,7 @@ Stellar Jade ×100
 
 Trailblazers with a Trailblaze Level of 4 or higher as of 2025/01/16 23:59:00 (global)
 
-Compensation will be delivered via in-game mail. Please log in and claim your rewards before 2025/02/15 23:59:00 (global)
+Compensation will be delivered via in-game mail. Please log in and claim your rewards before 2025/02/16 23:59:00 (global)
 
 - Fixes an issue where, under certain circumstances, the NPC Dr. Ratio will abnormally appear in the "Strife Ruins" Castrum Kremnos map during the Trailblaze Mission "Amphoreus — Wasteland, Hark Back Glory of Old."
 
