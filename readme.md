@@ -514,6 +514,30 @@ Announcement Period: 2025/03/12 14:00:00 (global) - 2025/03/16 23:59:00 (global)
 
 -----
 
+# ["Stellar Wisdom: Trailblazer's Secret Trove" Strategy Guides Contest Event Now Available](archive/808.md)
+## "Stellar Wisdom: Trailblazer's Secret Trove" Strategy Guides Contest Event Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/07/c9efc9638267c0052e541ffe6f5336dc_6509463625734905656.png)
+
+Hello, Trailblazers!
+
+Explore the stars and unlock the unknown! The "Stellar Wisdom: Trailblazer's Secret Trove" event is now available!
+
+Are you a lore detective analyzing storylines, a pro player sharing tactics, or a mentor guiding newcomers? Share your wisdom to participate and earn up to 6,000 Stellar Jades!
+
+[ Go to the event](https://hoyo.link/wvxluy7Uk)
+
+### How to Participate
+
+During the event, use the hashtag required by the event and submit strategy guides with text and images that fit the requirements to platforms such as HoYoLAB, YouTube, TikTok, and Cafe to become a successful participant.
+
+### Submission Time
+
+2025/01/15 14:00:00 (global) - 2025/02/25 23:59:00 (global)
+
+※ For more information, go to the event link above.
+
+-----
+
 # [Illia Travelogue: Explore Amphoreus, complete missions, and receive rewards such as Stellar Jades](archive/791.md)
 ## "Illia Travelogue" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/26/53896fecebc824fac224c0c144b92803_6142053908243680983.png)
