@@ -14,6 +14,18 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/01/17
+
+- Fixes an issue where the guidance was incorrectly displayed for choosing to track treasures after using the Rare Jade Claw on the Skysplitter map or using the character "The Herta (Erudition: Ice)"'s Technique to mark the positions of certain Basic Treasures.
+
+- Fixes an issue where the visiting guest Fugue's character model might be displayed abnormally under certain circumstances in the "Astral Express" map.
+
+- Fixes an issue where the petals in the baths might float in the air under certain circumstances in the "Eternal Holy City" Okhema map.
+
+- Fixes an issue where certain map effects are abnormally displayed under certain circumstances in the "Eternal Holy City" Okhema map.
+
+- Fixes an issue where there is a chance of encountering a game progress abnormality when using specific Android devices to experience the Trailblaze Mission "Evanesce Like the Morning Dew"
+
 ■2025/01/16
 
 - To address the issue where the description of the "Variable Dice" item was not precise and inconsistent with its in-game functionality, the Express Crew has optimized the item's description to align with its actual effects.
