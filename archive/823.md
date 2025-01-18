@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2025/01/18
+
+- The Artwork "Nikador Battles the Rosy Celestial Maiden" which can be obtained during the mission progress of the Trailblaze Mission "Amphoreus — Distant Travelers, Listen to this World's Prayer” will be added into the Librarium store. If the Trailblazers have not unlocked this item during the mission, they can head to the Marmoreal Market area in the "Eternal Holy City" Okhema map to find the NPC Ctesiphona and use credits to purchase it.
+
 ■2025/01/15
 
 - Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of version 3.0. The corresponding voiceovers will be added in future updates.
