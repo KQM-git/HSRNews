@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2025/01/19
+
+- It is known that the Talent application target selection is abnormal when the character "The Herta (Erudition: Ice)" triggers her Talent under specific circumstances and applies 25 stacks of "Interpretation" to a random enemy target. This issue will be fixed in a future update.
+
 ■2025/01/18
 
 - The Artwork "Nikador Battles the Rosy Celestial Maiden" which can be obtained during the mission progress of the Trailblaze Mission "Amphoreus — Distant Travelers, Listen to this World's Prayer” will be added into the Librarium store. If the Trailblazers have not unlocked this item during the mission, they can head to the Marmoreal Market area in the "Eternal Holy City" Okhema map to find the NPC Ctesiphona and use credits to purchase it.
