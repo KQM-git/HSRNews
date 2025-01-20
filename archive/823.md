@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2025/01/20
+
+- It is known that there is a chance of seeing a friend's Support Characters abnormally added to a team when performing specific controls when Light Cones and items are at Max in the Inventory while using the Interastral Peace Guide to challenge Echo of War and Cavern of Corrosion stages and exploring these maps. This issue will be fixed later.
+
 ■2025/01/19
 
 - It is known that the Talent application target selection is abnormal when the character "The Herta (Erudition: Ice)" triggers her Talent under specific circumstances and applies 25 stacks of "Interpretation" to a random enemy target. This issue will be fixed in a future update.
