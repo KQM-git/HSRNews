@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Known Issues
 
+■2025/01/21
+
+- It is known that there is a chance for the mission progress to be stuck after encountering a puzzle abnormality under bad internet conditions in the Trailblaze Mission "Amphoreus — Kremnos, Cleanse Thy Rusted Blood (II)" set at "Bloodbathed Battlefront" Castrum Kremnos — Hall of Strife. Trailblazers who encounter this issue can teleport to another map in good network conditions before returning to fix this issue. If you have teleported twice but still haven't seen the issue resolves, you can contact us at "Phone" > "Bug Report."
+
 ■2025/01/20
 
 - It is known that there is a chance of seeing a friend's Support Characters abnormally added to a team when performing specific controls when Light Cones and items are at Max in the Inventory while using the Interastral Peace Guide to challenge Echo of War and Cavern of Corrosion stages and exploring these maps. This issue will be fixed later.
