@@ -30,6 +30,20 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/01/22
+
+- The Artwork "Nikador Battles the Rosy Celestial Maiden" item which can be obtained during the mission progress of the Trailblaze Mission "Amphoreus — Distant Travelers, Listen to this World's Prayer" will be added into the Librarium store. If the Trailblazers have not unlocked this item during the mission, they can head to the Marmoreal Market area in the "Eternal Holy City" Okhema map to find the NPC Ctesiphona and use credits to purchase it.
+
+- Fixes an issue where Hand of Zagreus: Trial of Whimsy cannot be completed because there is a display abnormality for Coins of Whimsy under certain condition. After the issue is fixed, Trailblazers who encounter this issue can re-interface with the stone platforms to resolve this issue.
+
+- Fixes an issue where certain guide text are incorrect in the "Illia Travelogue — Journey's Miscellany" event. After this is fixed, the guide text displays as "Complete Golden Scapegoat 1 time in Amphoreus."
+
+- Fixes an issue where certain textual descriptions are abnormally missing highlights when comparing the subsequent level of certain abilities in the "Traces" interface.
+
+- Fixes an issue where certain system hint text are abnormally not displayed after selecting a Light Cone using the Treasure of the Starry Seas item.
+
+- Fixes an issue where there is a chance to encounter certain map effect abnormalities in the "Eternal Holy City" Okhema and Penacony Grand Theater maps when using specific devices to experience the game.
+
 ■2025/01/17
 
 - Fixes an issue where the guidance was incorrectly displayed for choosing to track treasures after using the Rare Jade Claw on the Skysplitter map or using the character "The Herta (Erudition: Ice)"'s Technique to mark the positions of certain Basic Treasures.
