@@ -30,6 +30,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/01/23
+
+- Fixes an issue where under specific conditions there is a chance you cannot enter the game after restarting the game after quitting the game in the Prophecy Tablet: Room for the Hypogeum Enigma event.
+
 ■2025/01/22
 
 - The Artwork "Nikador Battles the Rosy Celestial Maiden" item which can be obtained during the mission progress of the Trailblaze Mission "Amphoreus — Distant Travelers, Listen to this World's Prayer" will be added into the Librarium store. If the Trailblazers have not unlocked this item during the mission, they can head to the Marmoreal Market area in the "Eternal Holy City" Okhema map to find the NPC Ctesiphona and use credits to purchase it.
