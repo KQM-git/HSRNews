@@ -106,16 +106,6 @@ Compensation will be delivered via in-game mail. Please log in and claim your re
 
 -----
 
-# [EP: Allegory of the Cave](archive/811.md)
-## EP: Allegory of the Cave
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/15/ead6a5b9842623509abba174602ea453_6743585119199721337.png)
-
-The one who left the cave refuses to return to the cage, for he has already witnessed the face of truth.
-
-[ Watch now](https://youtu.be/fao9fjeAGEI)
-
------
-
 # [Version 3.0 "Paean of Era Nova" Update](archive/796.md)
 ## V3.0 Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/27/94e57a6b05c639a7b50ca92f051b8249_8324860302242554190.jpg)
