@@ -30,6 +30,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/01/26
+
+- Fixes an issue where the "New" notification in the character selection section of the "Hypogeum Enigma" event would not disappear under certain conditions.
+
 ■2025/01/23
 
 - Fixes an issue where under specific conditions there is a chance you cannot enter the game after restarting the game after quitting the game in the Prophecy Tablet: Room for the Hypogeum Enigma event.
