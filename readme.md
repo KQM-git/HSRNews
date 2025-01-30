@@ -596,6 +596,30 @@ Survey responses cannot be changed after submission. Please be sure to fill out 
 
 -----
 
+# [Honkai: Star Rail Trailblazer Edition PS5® Physical Disc Bundle is on Sale Worldwide this Month!](archive/822.md)
+## Trailblazer Edition PS5® Physical Disc Bundle is on sale worldwide this month!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/14/84da3da992174c417ff49a79a8371fa7_3563234578697364665.png)
+
+Hello, Trailblazers!
+
+The Honkai: Star Rail Trailblazer Edition PS5® Physical Disc Bundle is set to be on sale worldwide this month!
+
+[ Click to view details](https://hoyo.link/dEbkFBAL)
+
+### Giftbox Contains
+
+- Honkai: Star Rail PS5® disc and disc case ×1
+
+- Gilded Holographic Character Card Set ×1 (Including the characters Firefly, Acheron, Aventurine, Kafka, Blade, Sparkle, Seele, Jingliu, and Robin)
+
+- Exclusive PS5® Holographic Chibi Trailblazer Keychain ×2
+
+- Exclusive PS5® Postcard ×1 (Includes in-game redemption code)
+
+※ Game Redemption Code Contains: Honkai: Star Rail Game Disc ×1, Recipe: Honkai: Star Rail Game Disc ×1 (The above are exclusive items available only through the giftbox), Stellar Jade ×50, Refined Aether ×3, and Credit ×30,000
+
+-----
+
 # [Illia Travelogue: Explore Amphoreus, complete missions, and receive rewards such as Stellar Jades](archive/791.md)
 ## "Illia Travelogue" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/26/53896fecebc824fac224c0c144b92803_6142053908243680983.png)
