@@ -110,30 +110,6 @@ Compensation will be delivered via in-game mail. Please log in and claim your re
 
 -----
 
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/789.md)
-## Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/23/9d378e12a5b9f4685446d59593ae318b_8533467762056274443.png)
-
-### Event Period
-
-2025/01/27 04:00:00 (server) – 2025/02/03 03:59:00 (server)
-
-### Participation Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event period, get double rewards from the Simulated Universe or Divergent Universe.
-
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Version 3.0 "Paean of Era Nova" Update](archive/796.md)
 ## V3.0 Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/27/94e57a6b05c639a7b50ca92f051b8249_8324860302242554190.jpg)
