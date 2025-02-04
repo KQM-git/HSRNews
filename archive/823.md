@@ -30,6 +30,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/02/04
+
+- Fixes an issue where certain content in the Travel Log is abnormally displayed.
+
 ■2025/01/26
 
 - Fixes an issue where the "New" notification in the character selection section of the "Hypogeum Enigma" event would not disappear under certain conditions.
