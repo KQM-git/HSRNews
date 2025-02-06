@@ -30,6 +30,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/02/06
+
+- Fixes an issue where the accumulated Grit Value has a chance of being abnormal when using a specific team to challenge Pure Fiction: Clichéd Sayings.
+
 ■2025/02/04
 
 - Fixes an issue where certain content in the Travel Log is abnormally displayed.
