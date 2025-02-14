@@ -1,3 +1,25 @@
+# [Version 3.0 "Paean of Era Nova" Satisfaction Survey](archive/853.md)
+## Version 3.0 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/06/64f750577627982c2225314c2376a57b_2932337718077078107.png)
+
+Dear Trailblazers,
+
+To better understand the Trailblazers' experience in Version 3.0, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-k-_5tB-sebxwTTv9cvPliNsIq7J_0bc5whrxAmHNPAer&game_biz=hkrpg_global&surveyId=29825&format=1&sign_type=2&authkey_ver=1)
+
+### Attention
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/790.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/23/658a5b95b1fcbbce4821d4185131fc76_6283231868973272202.png)
