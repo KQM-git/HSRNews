@@ -220,6 +220,22 @@ Compensation will be delivered via in-game mail. Please log in and claim your re
 
 -----
 
+# [New Amphoreus OST Album Allegory of the Cave (Part 1) Has Been Released!](archive/837.md)
+## Allegory of the Cave (Part 1) Release
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/07/cdeb34bee6528babfabb12bf18446335_2238065457068336024.png)
+
+Hello, Trailblazers!
+
+The one who left the cave refuses to return to the cage, for he has already witnessed the face of truth.
+
+The brand-new Amphoreus OST album Allegory of the Cave (Part 1) has been released.
+
+Please give it a listen!
+
+[ Check it out](https://orcd.co/aotc1eww)
+
+-----
+
 # [Version 3.0 "Paean of Era Nova" Update](archive/796.md)
 ## V3.0 Version Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/27/94e57a6b05c639a7b50ca92f051b8249_8324860302242554190.jpg)
