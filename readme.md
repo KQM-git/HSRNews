@@ -1,3 +1,134 @@
+# [Version 3.1 Store & Nameless Honor Update](archive/854.md)
+## Store & Nameless Honor Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/12/a43d0d4cab874b612442da424446b3c4_8296372855211271196.png)
+
+Dear Trailblazer,
+
+After the 3.1 version update, Nameless Honor and the store will be updated, with details as follows.
+
+<details open="true">
+<summary>Version 3.1 Nameless Honor Details</summary>
+
+During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as Star Rail Passes, Wishful Resin, Self-Modeling Resins, and Tracks of Destiny.
+
+After unlocking Nameless Glory, you will immediately obtain **Stellar Jade ×680**. By increasing Nameless Honor levels, you can additionally receive rewards such as **Star Rail Special Pass ×4**, **a selected 4-star Light Cone**, **Variable Dice ×1**, **Wishful Resin ×1**, **Self-Modeling Resin ×1**, **Relic Remains**, **universal Path material Tears of Dreams**, and more!
+
+If the Trailblazer unlocks Nameless Medal, in addition to the previous rewards, they will immediately increase their Honor level by 10 and will also obtain the avatars **"Tribbie: Delicacies"** and **"Mydei: Delicacies"**, **Stellar Jade ×200**, and **Fuel** Rewards!
+
+**■ Opening Time**
+
+After the Version 3.1 update – 2025/04/07 03:59:00 (server)
+
+**■ Requirements**
+
+Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+**■ Nameless Honor Description**
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain Star Rail Passes, Self-Modeling Resin, Tracks of Destiny, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked Nameless Glory can purchase the Honor Badge to upgrade to Nameless Medal.
+
+**■ Reminders**
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shard ×750 (or Oneiric Shard ×1,410) will be refunded based on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2025/04/07 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge is **2025/04/06 03:59:00 (global)**. Trailblazers who top up via webpage should note the available purchase time.
+
+</details>
+
+<details open="true">
+<summary>New Herta Contract Bundles</summary>
+
+**■ Availability Period**
+
+After the Version 3.1 update – 2025/04/08 15:00:00 (server)
+
+**■ Herta Contract: Roaming Refill**
+
+Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
+
+Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
+
+**■ Herta Contract: Resource Supply V2**
+
+Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
+
+Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
+
+</details>
+
+<details open="true">
+<summary>Outfit "Nascent Spring" Now Available</summary>
+
+**■ Availability Period**
+
+After the Version 3.1 update
+
+**■ Outfit Description**
+
+- The outfit "Nascent Spring" is now available in the Contract Shop. The outfit is priced at **Oneiric Shard ×1,680**.
+
+- "Nascent Spring" can only be used by **March 7th (Preservation)**.
+
+- Obtaining the outfit will unlock the outfit as well as the corresponding avatar.
+
+- This outfit is limited to 1 piece per account and cannot be acquired repeatedly.
+
+- After changing into "Nascent Spring," March 7th will wear the corresponding outfit during **exploration** and **in battle**.
+
+- Outfits worn will **not** change the outfit of March 7th during cinematics.
+
+</details>
+
+<details open="true">
+<summary>New at Herta's Store</summary>
+
+**■ New Arrival Time**
+
+After the Version 3.1 update
+
+**■ New Content**
+
+- 5-Star Light Cone "Memory's Curtain Never Falls (Remembrance)"
+
+- Phone Wallpaper "Task in Progress"
+
+- Avatar "Hi, Come for a Test"
+
+- Collection "Road of the Mundanite"
+
+- Collection "Herta: Collector's Edition"
+
+- Collection "Dr. Ratio — Bespoke Version"
+
+</details>
+
+<details open="true">
+<summary>New at Embers Exchange</summary>
+
+**■ New Arrival Time**
+
+After the Version 3.1 update
+
+※ Please note the exchange limit. Item availability will reset on the 1st day of every month at 04:00 (server time).
+
+**■ New Content**
+
+Enemy dropped material "Ethereal Omen"
+
+</details>
+
+-----
+
 # [Mission Description: "Light Slips the Gate, Shadow Greets the Throne"](archive/841.md)
 ## Mission Description: "Light Slips the Gate, Shadow Greets the Throne"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/11/808c3be68164e4f80159d0665289804a_6764755405649807314.png)
