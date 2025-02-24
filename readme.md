@@ -1,3 +1,87 @@
+# [Version 3.1 Update and Maintenance Notice](archive/848.md)
+## Version 3.1 Update and Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/11/0cfbeb4b47c356601596964417b0fe4e_5731146822900219828.png)
+
+Dear Trailblazers,
+
+The Express Crew is expected to perform a version update and maintenance on 2025/02/26 06:00:00 (global). After maintenance is complete, the game will be updated to Version 3.1 "Light Slips the Gate, Shadow Greets the Throne."
+
+During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
+
+### Update Time
+
+Begins at 2025/02/26 06:00:00 (global). The update will take approximately **5** hours.
+
+### How to Update
+
+After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+- PS5®: Enter the game and the game will automatically and install the update
+
+### Compensation Details
+
+■ Server Maintenance Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2025/2/26 06:00:00 (global)
+
+※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 3.1 ends.
+
+### Device Specifications
+
+■ Recommended Specifications:
+
+- PC:
+
+Device specifications: i7/8G memory, discrete graphics card (Nvidia GeForce GTX 1060 or better)
+
+System: Windows 10 64-bit or higher
+
+- Android:
+
+Device specifications: Snapdragon 855, Dimensity 1000, Kirin 990, or better processors.
+
+RAM: 6 GB or more
+
+System: Android 9 or higher
+
+- iOS:
+
+Device specifications: iPhone X, iPhone XR, or later models. iPad with A12 processor or better
+
+System: iOS 12.0 or higher
+
+■ Supported Specifications
+
+- PC:
+
+Device specifications: i3/6G memory, discrete graphics card (Nvidia GeForce GTX 650 or better)
+
+System: Windows 7 64-bit or better
+
+- Android:
+
+Device specifications: Snapdragon 835, Dimensity 720, Kirin 810, or better processors.
+
+RAM: 4 GB or more
+
+System: Android 8 or better
+
+- iOS:
+
+Device specifications: iPhone 8 Plus or later models. iPad with A10 processor or higher
+
+System: iOS 12.0 or higher
+
+-----
+
 # [Version 3.1 New Stages](archive/845.md)
 ## Version 3.1 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/11/f04b6d68ed439dd227973403c61b54a5_5126428200130786877.png)
