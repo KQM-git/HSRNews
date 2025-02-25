@@ -1052,48 +1052,6 @@ Complete the Trailblaze Mission "Jarilo-VI — Silent Galaxy"
 
 -----
 
-# [New Version 3.0 Herta Contracts Details](archive/786.md)
-## New Version 3.0 Herta Contracts Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/12/19/8eaae88bda3698a55a9e7ccd76b5b561_7072857622726676903.jpg)
-
-Dear Trailblazers,
-
-From after the V3.0 update to 2025/02/25 15:00:00 (server), all new Herta Contracts will be available in the Contract Shop!
-
-### The Herta Contract: Strategic Support
-
-Contract Content: Self select item combo bundle. The Trailblazer can pick **any two** of the following items (One item may be chosen multiple times):
-
-Wishful Resin ×1, Self-Modeling Resin ×1, Relic Remains ×800, Tears of Dreams ×240, Traveler's Guide ×100, Refined Aether ×80, Lost Crystal ×120
-
-Price: Oneiric Shard ×720. A maximum of **5** can be purchased per account while the item is available.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/07/a18e59ab5d767d8f8b3299ba4aee5a9b_3143768808574129112.jpg)
-
-### The Herta Contract: Strategic Cooperation
-
-Contract Content: Selectable item combo bundle. The Trailblazer will obtain Star Rail Special Pass ×10 and can pick **any three** of the following items (One item may be chosen multiple times):
-
-Wishful Resin ×2, Self-Modeling Resin ×2, Relic Remains ×1600, Tears of Dreams ×480, Lost Crystal ×240
-
-Price: Oneiric Shard ×2680. A maximum of **2** can be purchased per account while the item is available.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/01/07/23a6b7bc3f9b394f2e1f05db976e8192_2475809038357200146.jpg)
-
-### Herta Contract: Roaming Refill
-
-Content: Traveler's Guide ×20, Refined Aether ×15, and credit ×60,000
-
-Price: Oneiric Shard ×330. A maximum of **8** can be purchased per account while the item is available.
-
-### Herta Contract: Resource Supply V2
-
-Content: Universal Path material Tears of Dreams ×150 and credit ×60,000
-
-Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account while the item is available.
-
------
-
 # [Invitation to join Project Astro-Warp](archive/211.md)
 ## Invitation to join Project Astro-Warp
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/44dca0d9c0454eb98cde64d547de26bc_970913154859859929.png)
