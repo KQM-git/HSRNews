@@ -386,6 +386,32 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
+# ["Light Slips the Gate, Shadow Greets the Throne" Version Strategy Guide Collection Event Now Available](archive/850.md)
+## "Light Slips the Gate, Shadow Greets the Throne" Version Strategy Guide Collection Event Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/19/e74529cd634c70775cb82b267aebcf97_6111624384414192553.png)
+
+Hello, Trailblazers!
+
+The Version 3.1 strategy guide collection event has started. Participate in the event, and you can receive up to 6,000 Stellar Jade rewards!
+
+[ Go](https://hoyo.link/2MEvp4EVN)
+
+### How to Participate
+
+During the event, submit strategy guides with text and images that fit the requirements on the HoYoLAB platform to become a successful participant.
+
+### Event Period
+
+Submission Period: 2025/02/26 14:00:00 (global) - 2025/04/09 23:59:00 (global)
+
+Review Period: 2025/04/10 00:00:00 (global) - 2025/04/23 14:00:00 (global)
+
+Announcement Period: 2025/04/23 14:00:00 (global) - 2025/04/27 23:59:00 (global)
+
+※ For more information, please go to the event link above.
+
+-----
+
 # [Guide & Tools for Divergent Universe: Protean Hero Now Available](archive/851.md)
 ## Guide & Tools for Divergent Universe: Protean Hero Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/19/876e0632bb653f98300d7a08d4fe1dec_4172475669764918530.png)
