@@ -386,6 +386,28 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
+# [Discord Account Binding Feature Now Online](archive/852.md)
+## Discord Account Binding Feature Now Online
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/19/18c4b671a9bf9ae88fa9fc672d59c51c_2922252960771066740.png)
+
+Hello, Trailblazers!
+
+Discord account binding is now online. Complete Discord account binding for the first time to get **Stellar Jade ×30**!
+
+Trailblazers who bind their Discord account will enjoy more features in the future, such as Discord exclusive ID groups, channels, and events! Link now!
+
+[ Tap to go to the binding page](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
+
+### Binding Function Introduction
+
+- View and display real-time game information on Discord.
+
+- Invite friends to quickly start the game from Discord.
+
+※ For more information, head to the event link above.
+
+-----
+
 # ["Light Slips the Gate, Shadow Greets the Throne" Version Strategy Guide Collection Event Now Available](archive/850.md)
 ## "Light Slips the Gate, Shadow Greets the Throne" Version Strategy Guide Collection Event Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/19/e74529cd634c70775cb82b267aebcf97_6111624384414192553.png)
