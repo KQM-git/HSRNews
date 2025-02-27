@@ -20,6 +20,18 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Adjusts and optimizes the experience for Trailblazers who use the Claim All function for Point Rewards in Simulated Universe and Divergent Universe when they own close to the maximum number of Immersifers.
 
+- Adjusts the mission guide for the Adventure Mission "Stagnant Shadow." After the adjustment, Trailblazers with Equilibrium Level ≥2 who have not unlocked "Stagnant Shadow" stages can proceed to the mission system and complete the Adventure Mission "Stagnant Shadow" according to its mission guide to unlock the relevant stages.
+
+- Fixes an issue where in special circumstances, the Achievement "Mother, I Have Returned Home" remains erroneously uncompleted after obtaining the Readable Items "Worn Stone Letter Tablet" and "Letter from Gorgo, Mydei's Mother". After this fix, Trailblazers who encountered this issue can immediately complete this Achievement.
+
+- Fixes an issue where Trailblazers are unable to normally progress through the mission after solving the puzzle in "Sactum of Prophecy: Janusopolis - Hidden Passage of Contemplation" for the Trailblaze Mission "Amphoreus - Passage, Reveal the Past Once More" under special circumstances. After the fix, Trailblazers who encountered this issue can continue to make progress in the mission by following Tribios.
+
+- Fixes an issue where the ichor cannot shatter obstacles as normal for certain ichor vessels in the "Murmuring Woods" Grove of Epiphany map under certain circumstances.
+
+- Fixes an issue where certain storyline text are abnormally missing in the Adventure Mission "I Once Was In Arcadia."
+
+- Fixes an issue where there is a chance of encountering an game progress abnormality when using mobile devices to experience the Creation Nurturing game mode in the "Critter Pick" event.
+
 ■2025/02/26
 
 - Optimizes certain combat experiences in the Synapse Simulation tutorial stage for Divergent Universe: Protean Hero.
