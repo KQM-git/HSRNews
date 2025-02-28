@@ -16,6 +16,16 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/02/28
+
+- Fixes an issue where game progress might become abnormal after checking details about a chimera that has their Stamina depleted in "The Awooo Firm" event.
+
+- Fixes an issue where an enemy target will abnormally gain Blazar Charges due to the Flame-Chase Alliance Equation's effects under certain circumstances in Divergent Universe: Protean Hero.
+
+- Fixes an issue where certain Golden Blood's Boon effects abnormally fail to take effect after selecting the Golden Blood's Boon "Crowned in Blood" under certain circumstances in Divergent Universe: Protean Hero.
+
+- Fixes an issue where there are game interface abnormalities when using certain devices to experience the game.
+
 ■2025/02/27
 
 - Adjusts and optimizes the experience for Trailblazers who use the Claim All function for Point Rewards in Simulated Universe and Divergent Universe when they own close to the maximum number of Immersifers.
