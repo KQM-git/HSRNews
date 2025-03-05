@@ -20,8 +20,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 - Fixes an issue where when cutting to "Tribbie's" POV, the game progress has a chance of becoming abnormal during the Trailblaze Mission "Amphoreus — Passages, Knocking Echoes in Dreams." After the fix, Trailblazers who encountered this problem can directly leave the challenge and reenter Tribbie's point of view to continue the mission's progress.
 
-- Fixes an issue where the game progress has a chance of becoming abnormal when the Trailblazer obtains the collectibles "Mem (Cuter Version)" and "Hero's Trail" while being at the Radiant Feldspar.
-
 - Fixes an issue where there is a chance that Jiaoqiu (Nihility: Fire) would blink abnormally while idling.
 
 - Fixes an issue where there is a chance for battle verification failure after ending battle under certain circumstances.
