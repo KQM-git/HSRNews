@@ -542,24 +542,6 @@ Announcement Period: 2025/04/23 14:00:00 (global) - 2025/04/27 23:59:00 (global)
 
 -----
 
-# [Guide & Tools for Divergent Universe: Protean Hero Now Available](archive/851.md)
-## Guide & Tools for Divergent Universe: Protean Hero Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/19/876e0632bb653f98300d7a08d4fe1dec_4172475669764918530.png)
-
-Hello, Trailblazers!
-
-The Complete Guide & Tools for Divergent Universe: Protean Hero is now available.
-
-[ GO](https://act.hoyolab.com/sr/event/gt-aio/divergent-universe/index.html?sign_type=2&auth_appid=rpgsimulator&authkey_ver=1&win_mode=fullscreen&mode=fullscreen&open_bbs=0&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=announcement)
-
-Through the Strategy Guide tool, Trailblazers can filter and find the most suitable Divergent Universe walkthrough based on characters, Equations, and Cyclical Extrapolations.
-
-The strategies in the Strategy Guide will be continuously updated with new character releases and other milestones to support your journey through the Divergent Universe~
-
-Trailblazers can visit the Divergent Universe screen and hit the Strategy Compendium to view selected guides curated by the Express Crew. You can also hit the [Go to Strategy Plaza] button in the Strategy Collection to access the tool homepage for viewing more guides or publishing your own strategies.
-
------
-
 # [Version 3.1 New Stages](archive/845.md)
 ## Version 3.1 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/11/f04b6d68ed439dd227973403c61b54a5_5126428200130786877.png)
