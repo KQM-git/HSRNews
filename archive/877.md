@@ -16,6 +16,22 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/03/05
+
+- Fixes an issue where when cutting to "Tribbie's" POV, the game progress has a chance of becoming abnormal during the Trailblaze Mission "Amphoreus — Passages, Knocking Echoes in Dreams." After the fix, Trailblazers who encountered this problem can directly leave the challenge and reenter Tribbie's point of view to continue the mission's progress.
+
+- Fixes an issue where the game progress has a chance of becoming abnormal when the Trailblazer obtains the collectibles "Mem (Cuter Version)" and "Hero's Trail" while being at the Radiant Feldspar.
+
+- Fixes an issue where there is a chance that Jiaoqiu (Nihility: Fire) would blink abnormally while idling.
+
+- Fixes an issue where there is a chance for battle verification failure after ending battle under certain circumstances.
+
+- Fixes an issue where the models for the enemies Memory Zone Meme "Shell of Faded Rage" and Memory Zone Meme "Shell of Faded Rage" (Bug) have a chance of vanishing under certain circumstances.
+
+- Fixes an issue where certain Talent voice lines for the story trial character Mydei (Destruction: Imaginary) might be abnormally interrupted under certain circumstances when the voice language is set to Japanese.
+
+- Fixes the issue where the effect description for Golden Blood's Boon "Bloodstained Finery" is incorrect in Divergent Universe: Protean Hero. This fix does not influence the actual effects.
+
 ■2025/02/28
 
 - Fixes an issue where game progress might become abnormal after checking details about a chimera that has their Stamina depleted in "The Awooo Firm" event.
