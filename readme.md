@@ -16,6 +16,10 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/03/06
+
+- Fixes an issue where the [Mission] menu displayed abnormally in certain circumstances in the mission flow of "Amphoreus — Passages, Knocking Echoes in Dreams".
+
 ■2025/03/05
 
 - Fixes an issue where when cutting to "Tribbie's" POV, the game progress has a chance of becoming abnormal during the Trailblaze Mission "Amphoreus — Passages, Knocking Echoes in Dreams." After the fix, Trailblazers who encountered this problem can directly leave the challenge and reenter Tribbie's point of view to continue the mission's progress.
