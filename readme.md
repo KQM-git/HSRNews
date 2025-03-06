@@ -508,28 +508,6 @@ Announcement Period: 2025/04/23 14:00:00 (global) — 2025/04/27 23:59:00 (globa
 
 -----
 
-# [Discord Account Binding Feature Now Online](archive/852.md)
-## Discord Account Binding Feature Now Online
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/19/18c4b671a9bf9ae88fa9fc672d59c51c_2922252960771066740.png)
-
-Hello, Trailblazers!
-
-Discord account binding is now online. Complete Discord account binding for the first time to get **Stellar Jade ×30**!
-
-Trailblazers who bind their Discord account will enjoy more features in the future, such as Discord exclusive ID groups, channels, and events! Link now!
-
-[ Tap to go to the binding page](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
-
-### Binding Function Introduction
-
-- View and display real-time game information on Discord.
-
-- Invite friends to quickly start the game from Discord.
-
-※ For more information, head to the event link above.
-
------
-
 # [Version 3.1 New Stages](archive/845.md)
 ## Version 3.1 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/11/f04b6d68ed439dd227973403c61b54a5_5126428200130786877.png)
