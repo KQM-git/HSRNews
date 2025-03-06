@@ -486,32 +486,6 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
-# ["Divergent Universe's Core of Strategy" Guide Submission Event Now Open](archive/857.md)
-## "Divergent Universe's Core of Strategy" Guide Submission Event Now Open
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/19/02928a22ed6177f0621aa7bc1437000f_9100488274042032993.png)
-
-Hello, Trailblazers!
-
-The new Divergent Universe season is now live. Participate in the guide submission event to win up to 6,000 Stellar Jades!
-
-[ Go to the event](https://hoyo.link/9Z0iVz8Hq)
-
-### How to Participate
-
-During the event period, submit strategy guides with text and images that fit the requirements on HoYoLAB to participate.
-
-### Event Period
-
-Submission Period: 2025/02/26 14:00:00 (global) — 2025/04/09 23:59:00 (global)
-
-Review Period: 2025/04/10 00:00:00 (global) — 2025/04/23 14:00:00 (global)
-
-Announcement Period: 2025/04/23 14:00:00 (global) — 2025/04/27 23:59:00 (global)
-
-※ For more information, go to the event link above.
-
------
-
 # [Version 3.1 New Stages](archive/845.md)
 ## Version 3.1 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/11/f04b6d68ed439dd227973403c61b54a5_5126428200130786877.png)
