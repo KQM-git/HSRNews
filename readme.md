@@ -40,6 +40,12 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 ### Game Updates and Improvements Overview
 
+■2025/03/12
+
+- Fixes an issue where the game progress has a chance of becoming abnormal under special circumstances when the Trailblazer obtains the collectibles "Mem (Cuter Version)" and "Hero's Trail" while being at the Radiant Feldspar.
+
+- Fixes an issue where entering battle with the story trial character "Mydei (Destruction: Imaginary)" might cause his Enhanced Skill's special effects to display abnormally under certain circumstances.
+
 ■2025/03/06
 
 - Fixes an issue where the [Mission] menu displayed abnormally in certain circumstances in the mission flow of "Amphoreus — Passages, Knocking Echoes in Dreams".
