@@ -146,22 +146,6 @@ To provide a better gaming experience, the Crew will constantly adapt and improv
 
 -----
 
-# [HoYoLAB Daily Check-in Reminder](archive/878.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/04/de85eaf88c1ade9ca0b154acb7728389_6453684769992160694.png)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
-
-※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
-
------
-
 # [Version 3.1 "Light Slips the Gate, Shadow Greets the Throne" Updates](archive/840.md)
 ## Version 3.1 Updates
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/24/c93789c6961427292c9b0d16cb3a3cf7_4199287690377524108.png)
