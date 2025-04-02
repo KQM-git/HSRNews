@@ -1,3 +1,29 @@
+# [Birthday Cake Update Details](archive/887.md)
+## Birthday Cake Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/25/95a702d39a24943181dd8e858172a965_7384229836242384048.png)
+
+Dear Trailblazers,
+
+As Honkai: Star Rail approaches its two-year anniversary, the birthday cake in the birthday mail will also have an update.
+
+### Birthday Cake Update Details
+
+- From 2025/04/26 00:00:00 (server), the birthday cake in the birthday mail will switch from "Wayfare's Blessing" to "Golden Blessing".
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/03/27/32852ebd7bd65f24f5641a2ac85ce5d3_8907797894000872995.png)
+
+- If the Trailblazer's birthday is set for April 27, logging into the game on April 27 will get them the new birthday cake "Golden Blessing".
+
+- If the Trailblazer's birthday is set for April 24, logging into the game on April 24, 2026, will get them the new birthday cake "Golden Blessing".
+
+### Special Note
+
+- If the Trailblazer logged in for the first time on or before their set birthdate, they will receive the birthday mail and cake during that anniversary year (from April 26 to April 25 of the following year).
+
+- If the Trailblazer logged into the game for the first time after their birthdate, they will receive the birthday mail and cake after the next anniversary date (between next year's April 26 and the following year's April 25).
+
+-----
+
 # [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/843.md)
 ## Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/fba39da2942fe360176de0c99a78509d_4868069546602422002.png)
