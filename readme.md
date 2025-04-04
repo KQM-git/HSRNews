@@ -46,6 +46,22 @@ As Honkai: Star Rail approaches its two-year anniversary, the birthday cake in t
 
 -----
 
+# [HoYoLAB Daily Check-in Reminder](archive/898.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/31/4ca2aa4053893fbf8c36beff91758780_855499711710743902.jpg)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
+
+※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
+
+-----
+
 # ["Holy City Appraisals": Appraise Okhema antiques to obtain Stellar Jades and other rewards.](archive/844.md)
 ## "Holy City Appraisals" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/12/23fb700d30e3eb52872120c17d766c56_6023048766167064044.png)
