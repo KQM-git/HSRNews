@@ -24,30 +24,6 @@ As Honkai: Star Rail approaches its two-year anniversary, the birthday cake in t
 
 -----
 
-# [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/843.md)
-## Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time
-![Banner](https://sdk.hoyoverse.com/upload/ann/2024/11/11/fba39da2942fe360176de0c99a78509d_4868069546602422002.png)
-
-### Event Period
-
-2025/03/28 04:00:00 (server) - 2025/04/04 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Cavern of Corrosion: Path of Drifting
-
-### Event Details
-
-- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
-
-- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- During the event, the number of daily double reward opportunities is limited. The maximum and currently remaining numbers of opportunities will be displayed in the Realm of the Strange event page.
-
-- Double reward opportunities refresh daily at 04:00. Make sure to use them before they're gone!
-
------
-
 # ["Holy City Appraisals": Appraise Okhema antiques to obtain Stellar Jades and other rewards.](archive/844.md)
 ## "Holy City Appraisals" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/02/12/23fb700d30e3eb52872120c17d766c56_6023048766167064044.png)
