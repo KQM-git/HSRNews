@@ -20,6 +20,66 @@ Complete the Trailblaze Mission "Amphoreus — Passage, Reveal the Past Once Mor
 
 -----
 
+# [Starlit Homecoming Event Update Details](archive/888.md)
+## Starlit Homecoming Event Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/18/b661fd2a652e466bcaffd6c3d1cae920_326034768280830627.jpg)
+
+Dear Trailblazers,
+
+Starting from Version 3.2, the Returner Event "Starlit Homecoming" has been updated with "Homecoming Assistance." Trailblazers who meet the return conditions can obtain **a 4-star Relic Set of their choice** and can use **"Fuel Vouchers"** for Quick Farming of materials.
+
+### Update Content
+
+- When Trailblazers activate "Starlit Homecoming," they will trigger "Homecoming Assistance." In "Homecoming Assistance," Trailblazers can select an owned character to receive a 4-star Relic Set with matching Main Stats and Set bonuses.
+
+- "A Gift for Returners" now includes an additional reward of **Fuel Voucher ×100**. Trailblazers can use Fuel Vouchers along with Trailblaze Power to Quick Farm materials from Calyx/Stagnant Shadow. To Quick Farm, Fuel Voucher ×1 is needed for every Trailblaze Power ×10 consumed. The Fuel Vouchers obtained through the "Starlit Homecoming" event will be reclaimed after the event ends.
+
+### Event Period
+
+- From the day of activating the Starlit Homecoming event to 04:00 of the 15th day after the activation (server time)
+
+※ If you logged in to the game and activated the Starlit Homecoming event on January 1, then the event will last until 04:00, January 15 (server time).
+
+### Return Requirements
+
+- Trailblaze Level ≥ 10 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge."
+
+- Have not logged in for at least 14 days.
+
+- The previous activation of the Starlit Homecoming event is at least 40 days ago
+
+### Event Details
+
+- During the event, returning Trailblazers can receive "A Gift for Returners" for one time only and obtain "Homecoming Assistance."
+
+- Participate in and complete the 7-Day Check-In and the Path of Return events to receive their corresponding rewards. Challenging and passing Calyxes, Cavern of Corrosion, Simulated Universe, and Divergent Universe during the event will also provide double material drops from Double Rewards.
+
+■ 7-Day Check-In Rewards
+
+- During the event, log into the game every day to receive Stellar Jade, Fuel and other rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 7 days of rewards are provided.
+
+■ Path of Return Mission Rewards
+
+- During the event, complete specific missions to receive mission rewards and "The Returning Trails." Accumulate sufficient "The Returning Trails" to receive rewards at specific milestones. Extra rewards at each milestone can only be claimed once. Accumulate 400 "The Returning Trails" to claim a Memo-Keeping Light Casket.
+
+※ Open the Memo-Keeping Light Casket to choose one of the following 4-Star Light Cones: Quid Pro Quo (Abundance), Fermata (Nihility), We Are Wildfire (Preservation), River Flows in Spring (The Hunt), Past and Future (Harmony), Woof! Walk Time! (Destruction), The Seriousness of Breakfast (Erudition), and Victory In a Blink (Remembrance).
+
+■ Double Rewards Extra Drops
+
+-  Trailblazers will get 42 double reward chances for Calyxes during the Return period, and 4 double reward chances for Cavern Relics and Planar Ornaments. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
+
+※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily double drop for Garden of Plenty will be consumed first when Trailblazers complete Calyx challenges.
+
+■ Return Survey
+
+- Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.
+
+### Note
+
+- If you activate Starlit Homecoming during Version 3.1, after Version 3.2 update, you will still be in the "Starlit Homecoming" event phase. In the event, you can obtain "A Gift for Returners" and "Homecoming Assistance."
+
+-----
+
 # [Birthday Cake Update Details](archive/887.md)
 ## Birthday Cake Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/25/95a702d39a24943181dd8e858172a965_7384229836242384048.png)
