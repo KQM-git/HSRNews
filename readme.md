@@ -1,3 +1,33 @@
+# ["To The Ones That Blaze": Obtain Stellar Jade ×1,600 & Fuel ×10](archive/886.md)
+## "To The Ones That Blaze"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/03/2a31f44925f159c0fc75810be8e273b7_2008048743265217677.png)
+
+To the ones that blaze, may the star rail guide you, and may the universe sing with you.
+
+### Event Period
+
+After Version 3.2 Update — 2025/05/21 06:00:00 (global)
+
+### Event Requirement
+
+Unlock Travel Log
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/04/01/e07af6b9179c09f9feae6be40bb93c9c_8365429255268065886.png)
+
+### Event Details
+
+- During the period from after Version 3.2 update until 2025/04/26 12:00:00 (server), Trailblazers can **select a character as their invitation recipient to receive a letter and gifts from them** in the "To The Ones That Blaze" event page. During this period, you can modify your chosen character, but after this time, no selection or modification will be possible.
+
+- From 2025/04/26 12:00:00 (server) to 2025/05/21 06:00:00 (server), on the "To The Ones That Blaze" event page, Trailblazers will receive a **letter from their invited character** with **Stellar Jade ×1,600 and Fuel ×10** as rewards.
+
+- If you haven't invited a character before 2025/04/26 12:00:00 (server), you will receive a letter from a random invitable character.
+
+- After the event ends, you can no longer receive the letter from the character or collect rewards.
+
+-----
+
 # ["Through the Petals in the Land of Repose" Mission Details](archive/885.md)
 ## "Through the Petals in the Land of Repose" Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/18/3b04fc60b8aca736c1470d3b36b0ddbc_5163398969002401133.png)
