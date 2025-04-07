@@ -1,3 +1,87 @@
+# [Version 3.2 Update and Maintenance Notice](archive/883.md)
+## Version 3.2 Update and Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/18/3ff6b11e4488328fab693d3829277a62_1309907857190772619.png)
+
+Dear Trailblazers,
+
+The Express Crew will conduct version update maintenance on 2025/04/09 06:00:00 (global). After maintenance, the game will be updated to Version 3.2 "Through the Petals in the Land of Repose."
+
+During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommend Trailblazers to use a Wi-Fi connection to download the update.
+
+### Update Time
+
+Begins at 2025/04/09 06:00:00 (global). The update will take approximately **5** hours.
+
+### How to Update
+
+After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+- PS5®: Enter the game and the game will automatically and install the update
+
+### Compensation Details
+
+■ Server Maintenance Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2025/04/09 06:00:00 (global)
+
+※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 3.2 ends.
+
+### Device Specifications
+
+■ Recommended Specifications:
+
+- PC:
+
+Device specifications: i7/8G memory, discrete graphics card (Nvidia GeForce GTX 1060 or better)
+
+System: Windows 10 64-bit or higher
+
+- Android:
+
+Device specifications: Snapdragon 855, Dimensity 1000, Kirin 990, or better processors.
+
+RAM: 6 GB or more
+
+System: Android 9 or higher
+
+- iOS:
+
+Device specifications: iPhone X, iPhone XR, or later models. iPad with A12 processor or better
+
+System: iOS 12.0 or higher
+
+■ Supported Specifications
+
+- PC:
+
+Device specifications: i3/6G memory, discrete graphics card (Nvidia GeForce GTX 650 or better)
+
+System: Windows 7 64-bit or better
+
+- Android:
+
+Device specifications: Snapdragon 835, Dimensity 720, Kirin 810, or better processors.
+
+RAM: 4 GB or more
+
+System: Android 8 or better
+
+- iOS:
+
+Device specifications: iPhone 8 Plus or later models. iPad with A10 processor or higher
+
+System: iOS 12.0 or higher
+
+-----
+
 # ["To The Ones That Blaze": Obtain Stellar Jade ×1,600 & Fuel ×10](archive/886.md)
 ## "To The Ones That Blaze"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/03/2a31f44925f159c0fc75810be8e273b7_2008048743265217677.png)
@@ -242,90 +326,6 @@ Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and
 [ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
 
 ※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
-
------
-
-# [Version 3.2 Update and Maintenance Notice](archive/883.md)
-## Version 3.2 Update and Maintenance Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/18/3ff6b11e4488328fab693d3829277a62_1309907857190772619.png)
-
-Dear Trailblazers,
-
-The Express Crew will conduct version update maintenance on 2025/04/09 06:00:00 (global). After maintenance, the game will be updated to Version 3.2 "Through the Petals in the Land of Repose."
-
-During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommend Trailblazers to use a Wi-Fi connection to download the update.
-
-### Update Time
-
-Begins at 2025/04/09 06:00:00 (global). The update will take approximately **5** hours.
-
-### How to Update
-
-After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
-
-- PC: Exit the game, restart the launcher, then click "Update"
-
-- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
-
-- iOS: Enter the App Store and tap "Update"
-
-- PS5®: Enter the game and the game will automatically and install the update
-
-### Compensation Details
-
-■ Server Maintenance Compensation
-
-Compensation: **Stellar Jade ×300**
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2025/04/09 06:00:00 (global)
-
-※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 3.2 ends.
-
-### Device Specifications
-
-■ Recommended Specifications:
-
-- PC:
-
-Device specifications: i7/8G memory, discrete graphics card (Nvidia GeForce GTX 1060 or better)
-
-System: Windows 10 64-bit or higher
-
-- Android:
-
-Device specifications: Snapdragon 855, Dimensity 1000, Kirin 990, or better processors.
-
-RAM: 6 GB or more
-
-System: Android 9 or higher
-
-- iOS:
-
-Device specifications: iPhone X, iPhone XR, or later models. iPad with A12 processor or better
-
-System: iOS 12.0 or higher
-
-■ Supported Specifications
-
-- PC:
-
-Device specifications: i3/6G memory, discrete graphics card (Nvidia GeForce GTX 650 or better)
-
-System: Windows 7 64-bit or better
-
-- Android:
-
-Device specifications: Snapdragon 835, Dimensity 720, Kirin 810, or better processors.
-
-RAM: 4 GB or more
-
-System: Android 8 or better
-
-- iOS:
-
-Device specifications: iPhone 8 Plus or later models. iPad with A10 processor or higher
-
-System: iOS 12.0 or higher
 
 -----
 
