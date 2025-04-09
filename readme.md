@@ -1,3 +1,19 @@
+# [Game Version 3.2 Optimization and Known Issues](archive/914.md)
+## Game Version 3.2 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2025/04/09
+
+- Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of version 3.2. The corresponding voiceovers will be added in future updates.
+
+-----
+
 # ["To The Ones That Blaze": Obtain Stellar Jade ×1,600 & Fuel ×10](archive/886.md)
 ## "To The Ones That Blaze"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/03/2a31f44925f159c0fc75810be8e273b7_2008048743265217677.png)
