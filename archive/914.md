@@ -14,6 +14,30 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/04/10
+
+- Fixes an issue in the "Celestial Invitation" interface where some characters' information may display erroneously when selecting the customizable characters, after performing specific operations.
+
+- Fixes an issue where the game may proceed abnormally after experiencing a "Guest Occurrence" in the "Star Rail WORLD" event.
+
+- Fixes an issue where the game interface may black out in the "Star Rail WORLD" event after performing specific operations.
+
+- Fixes an issue where the game may proceed abnormally in Aptitude Showcase after performing specific operations.
+
+- Fixes an issue where the game may proceed abnormally under certain circumstances during the Adventure Mission "Heartbroken Dromas."
+
+- Fixes an issue in the Adventure Mission "Chirping Secret Treasure?" where there may be an error when solving a puzzle under certain circumstances.
+
+- Fixes an issue where the Achievement "The World Beyond the Cave" cannot be completed under certain conditions.
+
+- Fixes an issue where the game interface may black out when tapping "One More Time" after challenging certain stages with specific team lineups.
+
+- Fixes an issue where images from "Demised Scholar: Anaxagoras" may display abnormally in "As I've Written."
+
+- Fixes an issue where avatars of certain characters display abnormally in "Status Effect" - "Character Effect."
+
+- Fixes an issue where the Phonograph track "Elegy of Netherwing" plays abnormally.
+
 ■2025/04/09
 
 - Fixes an issue where the "New" label cannot be removed in the "Store" - "Recommended" page under certain circumstances.
