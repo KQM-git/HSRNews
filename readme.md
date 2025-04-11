@@ -54,6 +54,42 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Join the Version 3.2 Live Stream Incentive Event for a chance to win Stellar Jade rewards!](archive/895.md)
+## Join the Version 3.2 Live Stream Incentive Event for a chance to win Stellar Jade rewards!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/02/723ed155474f97709d2b121b46334089_4011785244116853196.png)
+
+Hello, Trailblazers
+
+With the arrival of the Two-Year Anniversary, the Version 3.2 Live Stream Incentive Program has begun!
+
+Be it character reviews, story discussions, or challenge gameplays... Stream on Twitch for a chance to win Stellar Jades, cash prizes and other rewards!
+
+[ Go to the event](https://act.hoyoverse.com/sr/event/e20250411twitch-f3r45s/index.html?game_biz=hkrpg_global&hyl_auth_required=true&utm_source=ingame&utm_medium=announcement)
+
+### Event Period
+
+2025/04/11 10:00:00 (global) - 2025/05/20 23:59:00 (global)
+
+### Event Rewards
+
+There are 4 modules in this event, each with different rewards:
+
+- Daily Streaming Missions: Complete missions daily to obtain Refined Aether ×5, Adventure Log ×6, and credit ×11,111.
+
+- Anniversary Celebration Bonuses: Stream during the first 4 weeks of the version to get an Event Draw Ticket and win up to Stellar Jade ×1,000.
+
+- Streaming Milestones Missions: Reach specific milestones of valid stream days to get up to Stellar Jade ×4,020.
+
+- Streaming Leaderboard: Win up to Stellar Jade ×6,000 + 800 USD in cash, according to your points ranking on the leaderboard.
+
+### Attention
+
+- Before joining the event, please ensure that your HoYoverse Account is linked to your Twitch account.
+
+※ Please refer to the Event Rules on the website for other details.
+
+-----
+
 # ["A Rendezvous in the Starry Sea" TikTok Incentive Program invites you](archive/894.md)
 ## "A Rendezvous in the Starry Sea" TikTok Incentive Program invites you
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/02/d8b6ea2b4e6326f92b913124e3ea85a3_2784300082861687416.png)
