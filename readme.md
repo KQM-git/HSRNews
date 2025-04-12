@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/04/12
+
+- Fixes an issue where the game's progress becomes abnormally when tapping Owlbert under certain circumstances in the event Star Rail WORLD.
+
 ■2025/04/11
 
 - Fixes an issue where in the Seal Slammers > Arena Mode > Friend Battle event mode, there is a chance that the game progress might be abnormal after tapping Quick Lineup once you are ready. After the fix, if Trailblazers are already prepared in the Friend Battle, the Quick Lineup button will no longer be displayed.
