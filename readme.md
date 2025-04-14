@@ -98,34 +98,6 @@ There are 4 modules in this event, each with different rewards:
 
 -----
 
-# ["A Rendezvous in the Starry Sea" TikTok Incentive Program invites you](archive/894.md)
-## "A Rendezvous in the Starry Sea" TikTok Incentive Program invites you
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/02/d8b6ea2b4e6326f92b913124e3ea85a3_2784300082861687416.png)
-
-Hello, Trailblazers
-
-Participate in the "A Rendezvous in the Starry Sea" event and post a video on TikTok with the hashtag #Castorice for a chance to win 40 Stellar Jades. You may also be selected to receive amazing prizes such as custom game controllers, PS5® disc gift sets, and more!
-
-[ Go to the event](https://hoyo.link/5Xa7Fje3L)
-
-### Event Period
-
-2025/04/12 00:00:00 (global) - 2025/05/20 23:59:00 (global)
-
-### Note
-
-- In-game rewards for this event will be distributed in the form of redemption codes. The number of codes is limited and will be available on a first-come, first-served basis.
-
-- Each account may only claim the same reward once during the event period.
-
-- The redemption codes for this event will expire on >2025/05/20 23:59:00 (global) Trailblazers who receive rewards are advised to redeem them in time.
-
-- For the physical rewards of this event, please provide the required information according to the rules before 2025/06/01 23:59:00 (global). Failure to do so within the specified time will be regarded as a voluntary forfeiture of the reward, and no replacements will be arranged.
-
-※ For more information, head to the event link above.
-
------
-
 # [The "Astral Express Strategy Guide" website is now live! Participate and make your submission for a chance to win special cash prizes and Stellar Jade rewards!](archive/892.md)
 ## "Astral Express Strategy Guide" Website Now Live
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/03/51817f5dab5ca1236bd60a25fe2ed027_8626475327668516195.jpg)
