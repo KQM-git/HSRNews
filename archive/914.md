@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/04/14
+
+- Fixes an issue in the gameplay mode "Apocalyptic Shadow: Warlord of the Locusts” where the additionally reduced Toughness inflicted by attacks from targeted ally Fire characters with "Blood Surge" and their summons when entering "Going Solo" does not allow them to receive the Weakness Break Efficiency bonus.
+
 ■2025/04/12
 
 - Fixes an issue where the game's progress becomes abnormally when tapping Owlbert under certain circumstances in the event Star Rail WORLD.
