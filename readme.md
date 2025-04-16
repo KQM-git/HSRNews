@@ -16,6 +16,8 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2025/04/16
 
+- Fixes an issue where certain graphics in the Warp interface may display abnormally when performing certain actions.
+
 - Fixes an issue in "Seal Slammers" — "Arena Mode" where Phagousa's Blessing "Booming Landmine" abnormally takes effect on the enemy "Ghost Seal" under certain circumstances.
 
 - Fixes an issue where the red notification reminder on "Phone" — "Game Tools" cannot be removed under certain circumstances.
