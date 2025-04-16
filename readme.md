@@ -14,6 +14,14 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/04/16
+
+- Fixes an issue in "Seal Slammers" — "Arena Mode" where Phagousa's Blessing "Booming Landmine" abnormally takes effect on the enemy "Ghost Seal" under certain circumstances.
+
+- Fixes an issue where the red notification reminder on "Phone" — "Game Tools" cannot be removed under certain circumstances.
+
+- Fixes an issue where there is a chance of encountering a game progress abnormality while loading certain maps when using specific Android devices.
+
 ■2025/04/14
 
 - Fixes an issue in the gameplay mode "Apocalyptic Shadow: Warlord of the Locusts” where the additionally reduced Toughness inflicted by attacks from targeted ally Fire characters with "Blood Surge" and their summons when entering "Going Solo" does not allow them to receive the Weakness Break Efficiency bonus.
