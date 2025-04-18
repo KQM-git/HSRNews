@@ -76,6 +76,22 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Experience the Paths Vol. 4 Trailer OST Now Available](archive/896.md)
+## Experience the Paths Vol. 4 Trailer OST Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/07/c1849daf3ec30fae967207dba5f19862_1870248693524729506.png)
+
+Hello, Trailblazers!
+
+Honkai: Star Rail's new trailer OST, Experience the Paths Vol. 4, is now officially live!
+
+The album includes 22 original tracks created by the HOYO-MiX music team for Honkai: Star Rail.
+
+We welcome all Trailblazers to have a listen.
+
+[ Check it out](https://orcd.co/exptp4eww)
+
+-----
+
 # ["To The Ones That Blaze": Obtain Stellar Jade ×1,600 & Fuel ×10](archive/886.md)
 ## "To The Ones That Blaze"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/03/2a31f44925f159c0fc75810be8e273b7_2008048743265217677.png)
