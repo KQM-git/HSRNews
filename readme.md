@@ -32,6 +32,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Known Issues
 
+■2025/04/24
+
+- It is known that when the character Aglaea (Remembrance: Lightning) equips the Light Cone Make Farewells More Beautiful (Remembrance) for battle, the wearer may abnormally gain "Death Flower" under certain circumstances where she loses HP in turns beyond her own. This issue will be fixed in a future update. After the fix, the effect and the description for the Light Cone ability will be kept consistent.
+
 ■2025/04/21
 
 - It is known that the "Mem's Support" status cannot be removed normally under certain circumstances after being applied by memosprite "Mem" on all Remembrance characters and memosprites when Eidolon 1 is active for the character Trailblazer (Remembrance: Ice). This issue will be fixed in Version 3.3.
