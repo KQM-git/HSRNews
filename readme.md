@@ -60,6 +60,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/04/29
+
+- Fixes an issue where there is a chance the game might abnormally stutter in the "Demigod Council" Dawncloud map when using certain Android devices
+
 ■2025/04/23
 
 - Fixes an issue where certain controls for the "Hand of Zagreus" may become abnormal in the "Bloodbathed Battlefront" Castrum Kremnos map under certain circumstances.
