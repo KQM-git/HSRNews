@@ -1,3 +1,25 @@
+# [Version 3.2 "Light Slips the Gate, Shadow Greets the Throne" Satisfaction Survey Questionnaire](archive/879.md)
+## Version 3.2 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/07/d20d2811e946c33b96cf1a30a2e87af7_7775117226112187042.png)
+
+Dear Trailblazers,
+
+To better understand the Trailblazers' experience in Version 3.2, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_i-N1tx-sebxwTTv9cvPliNsnUOL8WeNGN3OR1LT8daBz&game_biz=hkrpg_global&surveyId=31266&format=1&sign_type=2&authkey_ver=1)
+
+### Attention
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
 # ["Realm of the Strange 300%" Event: Cavern Relic Drop Rate Tripled for a Limited Time](archive/882.md)
 ## "Realm of the Strange 300%" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/03/25/ac748112be025556feecf230387572fd_3739780491687662067.png)
