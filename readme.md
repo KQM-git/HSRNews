@@ -44,34 +44,6 @@ Unlock "Cavern of Corrosion: Path of Drifting"
 
 -----
 
-# [The HoYoLAB cumulative check-in event is now available](archive/935.md)
-## The HoYoLAB cumulative check-in event is now available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/30/18da6d24527a9eb7d4a87de32c1d9ba0_5568739181346029832.jpg)
-
-The HoYoLAB cumulative check-in event is now available! Head to HoYoLAB and select the Check-In tool in the Honkai: Star Rail tool section to participate in the event.
-
-Check in for 7 days during the event to receive a total of **Stellar Jade ×60**, Adventure Log ×3, Condensed Aether ×3, Lost Gold Fragment ×3, and credit ×10,000.
-
-Come and kick off your check-ins in exchange for in-game rewards!
-
-[ Go check in](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
-
-### Event Period
-
-2025/04/26 00:00:00 (global) - 2025/05/10 23:59:00 (global)
-
-### Note
-
-- This accumulative check-in event does not support making up for missed days with the Check-in Card. Please make sure to check in on time.
-
-- Rewards will be distributed via in-game mail and is valid for 7 days. Please claim them on time.
-
-※ The daily check-in event is still active. The cumulative check-in event will not affect your daily check-in rewards.
-
-※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
-
------
-
 # [Game Version 3.2 Optimization and Known Issues](archive/914.md)
 ## Game Version 3.2 Optimization and Known Issues
 
