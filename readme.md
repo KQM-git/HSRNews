@@ -1,3 +1,47 @@
+# [Version 3.3 New Stages](archive/922.md)
+## Version 3.3 New Stages
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/27/9e62264d87eb4f5dae38956ce733dba2_1308210350214670999.png)
+
+Dear Trailblazers,
+
+After the Version 3.3 update arrives, the new stages Echo of War: Glance of Twilight, Cavern of Corrosion: Path of Thundersurge, and Stagnant Shadow: Shape of Deepsheaf will be added.
+
+### Echo of War: Glance of Twilight
+
+Clear the stage to obtain the new **"Daythunder Anamnesis" Trace Material**, "Scholar Lost in Erudition" and "Poet of Mourning Collapse" Relics, "Lucent Afterglow" item, "Victory In a Blink" and "What Is Real?" Light Cone, etc.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/09/77c6a53de43b9bada661f536ae00e8ef_6643173083122233289.png)
+
+### Cavern of Corrosion
+
+■ Cavern of Corrosion: Path of Thundersurge
+
+Clear the stage Cavern of Corrosion: Path of Thundersurge to obtain new Cavern Relics **"Warrior Goddess of Sun and Thunder" and "Wavestrider Captain"**.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/09/78459aa2cb0ddbd233bd0b7f31d1e833_2145236970281126594.png)
+
+New Cavern Relic Effects Preview:
+
+- **"Warrior Goddess of Sun and Thunder"**
+
+2-pc Set Effect: SPD increases by **6%**.
+
+4-pc Set Effect: When the wearer and their memosprite provide healing to ally targets aside from themselves, the wearer gains "Gentle Rain," which can be triggered up to **1** time per turn, lasting for **2** turns. When the wearer has "Gentle Rain," increases SPD by **6%**, and increases all allies' CRIT DMG by **15%**. This effect cannot be stacked.
+
+- **"Wavestrider Captain"**
+
+2-pc Set Effect: CRIT DMG increases by **16%**.
+
+4-pc Set Effect: When the wearer is the target of another ally target's ability, gains **1** stack of "Help," stacking up to **2** times. When using Ultimate, if the unit possesses **2** stacks of "Help," consumes all "Help" and increases the wearer's ATK by **48%**, lasting **1** turn.
+
+### Stagnant Shadow
+
+■ Stagnant Shadow: Shape of Deepsheaf
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/05/09/5afff9a41adfc7ecfd829e772ef3a5f6_9093857300900286012.png)
+
+-----
+
 # [Version 3.2 "Light Slips the Gate, Shadow Greets the Throne" Satisfaction Survey Questionnaire](archive/879.md)
 ## Version 3.2 Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/07/d20d2811e946c33b96cf1a30a2e87af7_7775117226112187042.png)
