@@ -188,7 +188,7 @@ Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and
 
 # [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/814.md)
 ## Survey with Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/01/09/7b68fb797d52db232782a5f3ed0d8aa7_5493788549254753938.png)
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/20/2631c1d1dc704efa233bb957e15897bb_323798630111388302.png)
 
 Dear Trailblazers,
 
