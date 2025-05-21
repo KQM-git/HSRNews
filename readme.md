@@ -382,6 +382,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of Version 3.3. The corresponding voiceovers will be added in future updates.
 
+### Game Updates and Improvements Overview
+
+■2025/05/21
+
+- Fixes an issue of encountering a stage verification failure after the end of battle when using the trial character Trailblazer (Remembrance: Ice) in the Trailblaze Mission "Amphoreus - Night Veil, Shroud the Silent Past."
+
 -----
 
 # [Divergent Universe Strategy Code Available Now](archive/938.md)
