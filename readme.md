@@ -384,6 +384,22 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Divergent Universe Strategy Code Available Now](archive/938.md)
+## Divergent Universe Strategy Code Available Now
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/07/816093df8c10ecabd4c4fcb17c3cc12c_3135963851393991700.png)
+
+Hello, Trailblazers!
+
+Divergent Universe: Protean Hero's Strategy Compendium now features the Strategy Code function. Come try it out!
+
+[ Click to visit the Strategy Compendium on the feature page](https://act.hoyolab.com/sr/event/gt-aio/divergent-universe/index.html?sign_type=2&auth_appid=rpgsimulator&authkey_ver=1&win_mode=fullscreen&mode=fullscreen&open_bbs=0&hyl_presentation_style=fullscreen&utm_source=ingame&utm_medium=announcement)
+
+Trailblazers can copy Strategy Codes with one click from the strategy details in the Divergent Universe: Protean Hero feature page's Strategy Compendium or the in-game Strategy Compendium. Enter these codes in the in-game Strategy Compendium to instantly save strategies and apply them in challenges.
+
+Trailblazers can publish strategies in Divergent Universe: Protean Hero's Strategy Compendium to generate Strategy Codes.
+
+-----
+
 # [Divergent Universe Feature Page Index Available Now](archive/927.md)
 ## Divergent Universe Feature Page Index Available Now
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/07/eeaf4a5a79e429583a48064b1fc20d88_8872934151377357151.png)
