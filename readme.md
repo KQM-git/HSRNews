@@ -1,19 +1,3 @@
-# [Game Version 3.3 Optimization and Known Issues](archive/980.md)
-## Game Version 3.3 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Known Issues
-
-■2025/05/21
-
-- Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of Version 3.3. The corresponding voiceovers will be added in future updates.
-
------
-
 # [Version 3.3 "The Fall at Dawn's Rise" Update](archive/953.md)
 ## Version 3.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/20/bb0be6a73ca86ccf394b21ae3d12a754_8122179261842607972.png)
@@ -381,6 +365,22 @@ Fixes and optimizations in English include the following (they have no impact on
 - Fixes certain subtitle texts for the character Anaxa (Erudition: Wind)'s voice lines.
 
 - Optimizes certain Light Cone story texts for Flame of Blood, Blaze My Path (Destruction).
+
+-----
+
+# [Game Version 3.3 Optimization and Known Issues](archive/980.md)
+## Game Version 3.3 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2025/05/21
+
+- Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of Version 3.3. The corresponding voiceovers will be added in future updates.
 
 -----
 
