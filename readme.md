@@ -388,6 +388,8 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Fixes an issue of encountering a stage verification failure after the end of battle when using the trial character Trailblazer (Remembrance: Ice) in the Trailblaze Mission "Amphoreus - Night Veil, Shroud the Silent Past."
 
+- Fixes an issue where completing stage Planet D007 for the "Legend of the Galactic Baseballer: Demon King" event offers only a paltry amount of Cosmic Reputation. If Trailblazers completed this stage before the fix, then the missing Cosmic Reputation will be compensated within 5 business days.
+
 -----
 
 # [V3.3 Creator Incentive Program Has Begun](archive/933.md)
