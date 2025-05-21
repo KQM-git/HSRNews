@@ -212,7 +212,7 @@ Cavern Relic: Wavestrider Captain
 
 - Adjusts an issue where some dialogue voice lines were incorrect in the mission flow of Trailblaze Mission "Amphoreus" — "Light Slips the Gate, Shadow Greets the Throne" when the voice language is set to Chinese.
 
-- Adjusts the character Trailblazer (Remembrance: Ice)'s combat lines, dialogue lines for the Version 3.3 Trailblaze Mission, and As I've Written resources for the male and female Trailblazers when the voice language is set to English. Other voice resources will be adjusted in the future. Please refer to the corresponding version announcements.
+- When the voice language is set to English, the voice actors for the characters "Trailblazer (Male)" and "Trailblazer (Female)" have been adjusted: Adjusts the in-battle voice lines for "Trailblazer (Remembrance: Ice)," their dialogues in the Trailblaze Missions of Version 3.3, and their audio assets in "As I Have Written." Other relevant audio assets will be updated in the future. Please refer to future announcements for details.
 
 - Adjusts the English voice actors for the NPCs "Lipos," "Young Phainon," "'Spirithief' Bartholos," and "King Eurypon."
 
