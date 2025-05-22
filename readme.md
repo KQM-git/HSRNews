@@ -412,6 +412,22 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [EP: Proi Proi](archive/937.md)
+## EP: Proi Proi
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/20/e17c69c8596b106118364a7e45e84be6_4572568595637502752.png)
+
+At the end of the Flame-Chase Journey,
+
+dawn reveals itself over the ashen-pink horizon.
+
+The Hundred-Eyed Bird sounds its final call,
+
+signaling the closing act of the epic penned by humanity.
+
+[ Watch now](https://youtu.be/loWA5o1RdTY)
+
+-----
+
 # [V3.3 Creator Incentive Program Has Begun](archive/933.md)
 ## V3.3 Creator Incentive Program Has Begun
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/15/ebb9f1eaab09fa22cf2afd8d24ca7d63_2664222547962913370.png)
