@@ -384,6 +384,16 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/05/22
+
+- Fixes an issue where the game progress might become abnormal after activating the Equation "Boat of Intoxication" in the "Simulated Universe: Protean Hero" game mode.
+
+- Fixes an issue in "Divergent Universe: Protean Hero" where some mission progress in "Stable Computing Array" - "Test" - "Fable Poetry" may become abnormal under certain circumstances.
+
+- Fixes an issue where some story animations may fail to display under certain circumstances in the Trailblaze Mission "Amphoreus - Scholar, Let Us Meet Again Before the Gates of Truth.”
+
+- Adjusts some mechanics for the enemy "Pollux, Netherwing Husk, Ferry of Souls (Complete)" in "Divergent Universe: Protean Hero" and reduces some values as well. Also fixes the issue where combat progress becomes abnormal when facing this enemy in battle under certain circumstances.
+
 ■2025/05/21
 
 - Fixes an issue of encountering a stage verification failure after the end of battle when using the trial character Trailblazer (Remembrance: Ice) in the Trailblaze Mission "Amphoreus - Night Veil, Shroud the Silent Past."
