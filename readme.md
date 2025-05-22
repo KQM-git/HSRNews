@@ -412,22 +412,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [The Discord exclusive role "Nameless" is now available!](archive/932.md)
-## The Discord exclusive role "Nameless" is now available!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/15/db4fe2fc797c12646296acfc4490ac5c_1002554664495893841.png)
-
-Hello, Trailblazers!
-
-From now on, complete your Discord account binding to claim the exclusive "Nameless" role in our official server, and access the special "Party Car" channel for limited-time lucky draw events.
-
-Trailblazers who complete Discord account binding for the first time will get Stellar Jade ×30!
-
-[ Tap to go to the binding page](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
-
-※ For more information, please go to the Honkai: Star Rail official Discord server.
-
------
-
 # [EP: Proi Proi](archive/937.md)
 ## EP: Proi Proi
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/20/e17c69c8596b106118364a7e45e84be6_4572568595637502752.png)
