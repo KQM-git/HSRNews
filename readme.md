@@ -520,26 +520,6 @@ Trailblazers can publish strategies in Divergent Universe: Protean Hero's Strate
 
 -----
 
-# [Divergent Universe Feature Page Index Available Now](archive/927.md)
-## Divergent Universe Feature Page Index Available Now
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/07/eeaf4a5a79e429583a48064b1fc20d88_8872934151377357151.png)
-
-Hello, Trailblazers
-
-The Divergent Universe: Protean Hero feature page has been updated.
-
-[ Check it out](https://act.hoyolab.com/sr/event/gt-aio/divergent-universe/index.html?sign_type=2&auth_appid=rpgsimulator&authkey_ver=1&win_mode=fullscreen&mode=fullscreen&open_bbs=0&gt__from_game=1&utm_source=ingame&utm_medium=announcement#/archive)
-
-You can visit the Update Details screen to check out all system and gameplay updates for Version 3.3.
-
-We've added a new Index screen to the feature page where you can explore all new and updated Equations, Golden Blood's Boons, Weighted Curios, and more. You can also toggle between versions to view content from Version 3.2.
-
-Version 3.3 introduces the new Strategy Code function to the Strategy Compendium tool in the Divergent Universe: Protean Hero feature page.
-
-You can now copy Strategy Codes on strategy details page or in-game Strategy Compendium screen. Simply enter these codes in the in-game Strategy Compendium to instantly save strategies and apply them during your challenges.
-
------
-
 # ["The Fall at Dawn's Rise" Mission Description](archive/918.md)
 ## "The Fall at Dawn's Rise" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/27/add1b6cf74f3fd2d0c6e67c410602791_3540535401762783599.png)
