@@ -384,6 +384,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/05/23
+
+- Fixes an issue where unlocking "Adventure Index" > "Formidable Foe" in "Legend of the Galactic Baseballer: Departure" is abnormal under certain situations. At the same time, optimizes the text descriptions of certain unlock requirements. The actual unlock requirements remain unchanged.
+
+- Adjusts the early access time for "Echoes of War" for Version 3.3 and later versions, from "21 days after the version update" to "04:00 of the next Monday after the version update (server time)".
+
 ■2025/05/22
 
 - Fixes an issue where the game progress might become abnormal after activating the Equation "Boat of Intoxication" in the "Simulated Universe: Protean Hero" game mode.
