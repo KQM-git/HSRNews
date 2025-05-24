@@ -428,6 +428,20 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [New Amphoreus OST Album Allegory of the Cave (Part 2) Has Been Released!](archive/939.md)
+## Allegory of the Cave (Part 2) Release
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/15/8bd8d088cf732fc9ab2aaa5dbe434b0a_7747993743229182314.png)
+
+Hello, Trailblazers
+
+The brand-new Amphoreus music album Allegory of the Cave (Part 2) has been released, featuring "Proi Proi", the epic battle theme that plays during your battle against "Sublime, Radiant, Avatar of the Sky."
+
+Please give it a listen!
+
+[ Check it out](https://orcd.co/aotc51eww)
+
+-----
+
 # [The Discord exclusive role "Nameless" is now available!](archive/932.md)
 ## The Discord exclusive role "Nameless" is now available!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/15/db4fe2fc797c12646296acfc4490ac5c_1002554664495893841.png)
