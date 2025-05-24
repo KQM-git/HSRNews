@@ -474,50 +474,6 @@ signaling the closing act of the epic penned by humanity.
 
 -----
 
-# [V3.3 Creator Incentive Program Has Begun](archive/933.md)
-## V3.3 Creator Incentive Program Has Begun
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/15/ebb9f1eaab09fa22cf2afd8d24ca7d63_2664222547962913370.png)
-
-Hello, Trailblazers!
-
-Welcome to the V3.3 Creator Incentive Program!
-
-This Creator Incentive Program includes three categories: Static Art, Dynamic Videos, and Fun Content.
-
-Participate and submit your work to win up to 6,000 Stellar Jades in rewards! Voting for your favorite submission will also grant you in-game items!
-
-[ Go to the event](https://act.hoyoverse.com/puzzle/hkrpg/pz_NdPG7QP_ak/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202505081243&utm_source=ingame&utm_medium=announcement)
-
-### Submission Time
-
-Trailblazers can make submissions during two separate time periods of this event:
-
-- Phase 1: 2025/05/21 12:00:00 (global) — 2025/06/10 23:59:00 (global)
-
-- Phase 2: 2025/06/11 12:00:00 (global) — 2025/07/01 23:59:00 (global)
-
-### How to Submit My Entry
-
-Any of the following submission methods is valid:
-
-- <p style="white-space: pre-wrap; min-height: 1.5em;">
-
-Hashtag Submission: During the event, post your work with the designated hashtags on platforms including YouTube, X, Instagram, and TikTok to successfully complete a submission.
-
-- Survey Submission: During the event, post your work with the designated hashtags on any social media platform such as Facebook and HoYoLAB to successfully complete a submission.
-
-### Event Rewards
-
-- Participate and submit your work: Earn up to Stellar Jade ×6,000.
-
-- Participate in the voting: Earn rewards up to Stellar Jade ×60, Traveler's Guide ×2, Condensed Aether ×3, and credit ×10,000.
-
-※ Separate rewards pools are applied to submissions in Phase 1 and Phase 2, while the voting rewards pool is shared.
-
-※ For more information, please go to the event link above.
-
------
-
 # [Divergent Universe Strategy Code Available Now](archive/938.md)
 ## Divergent Universe Strategy Code Available Now
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/07/816093df8c10ecabd4c4fcb17c3cc12c_3135963851393991700.png)
