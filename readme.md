@@ -384,6 +384,16 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/05/28
+
+- Fixes an issue where game progress may become abnormal when controlling Hand of Zagreus while talking to NPC "Spirithief" Bartholos in the Trailblaze Mission "Amphoreus — Chest, Bear the Bygone Dust."
+
+- Fixes an issue where battle progress may become abnormal in "Legend of the Galactic Baseballer: Departure" under certain circumstances.
+
+- Fixes an issue where the battle progress may become abnormal under certain circumstances when "Pollux, Netherwing Husk, Ferry of Souls" uses the ability "Death Wishes For More Death."
+
+- Fixes an issue where battle progress may become abnormal under certain circumstances after the enemy "Bronya" uses the ability "Combat Redeployment."
+
 ■2025/05/23
 
 - Fixes an issue where unlocking "Adventure Index" > "Formidable Foe" in "Legend of the Galactic Baseballer: Departure" is abnormal under certain situations. At the same time, optimizes the text descriptions of certain unlock requirements. The actual unlock requirements remain unchanged.
