@@ -452,22 +452,6 @@ Please give it a listen!
 
 -----
 
-# [EP: Proi Proi](archive/937.md)
-## EP: Proi Proi
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/20/e17c69c8596b106118364a7e45e84be6_4572568595637502752.png)
-
-At the end of the Flame-Chase Journey,
-
-dawn reveals itself over the ashen-pink horizon.
-
-The Hundred-Eyed Bird sounds its final call,
-
-signaling the closing act of the epic penned by humanity.
-
-[ Watch now](https://youtu.be/loWA5o1RdTY)
-
------
-
 # ["The Fall at Dawn's Rise" Mission Description](archive/918.md)
 ## "The Fall at Dawn's Rise" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/27/add1b6cf74f3fd2d0c6e67c410602791_3540535401762783599.png)
