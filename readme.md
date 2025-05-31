@@ -438,20 +438,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [New Amphoreus OST Album Allegory of the Cave (Part 2) Has Been Released!](archive/939.md)
-## Allegory of the Cave (Part 2) Release
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/15/8bd8d088cf732fc9ab2aaa5dbe434b0a_7747993743229182314.png)
-
-Hello, Trailblazers
-
-The brand-new Amphoreus music album Allegory of the Cave (Part 2) has been released, featuring "Proi Proi", the epic battle theme that plays during your battle against "Sublime, Radiant, Avatar of the Sky."
-
-Please give it a listen!
-
-[ Check it out](https://orcd.co/aotc51eww)
-
------
-
 # ["The Fall at Dawn's Rise" Mission Description](archive/918.md)
 ## "The Fall at Dawn's Rise" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/27/add1b6cf74f3fd2d0c6e67c410602791_3540535401762783599.png)
@@ -601,22 +587,6 @@ New Cavern Relic Effects Preview:
 ■ Stagnant Shadow: Shape of Deepsheaf
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2025/05/09/5afff9a41adfc7ecfd829e772ef3a5f6_9093857300900286012.png)
-
------
-
-# [HoYoLAB Daily Check-in Reminder](archive/936.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/30/172c6fcc639bd029af4b7d1ff59d3627_3057308939811813979.jpg)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
-
-※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
 
 -----
 
