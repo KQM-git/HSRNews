@@ -1,3 +1,33 @@
+# [About Certain In-Game Error Resolutions](archive/1003.md)
+## About Certain In-Game Error Resolutions
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/06/0449e268de250c8c403b64d54132860c_4623402155806974961.png)
+
+Dear Trailblazers,
+
+The following issues have been encountered due to cloud service provider errorat 2025/06/06 02:57:00 (global). The issues have been fixed.
+
+• Unable to login
+
+• Top-up items did not immediately arrive on time
+
+※If you still can't log in to the game, please try restarting the game or switching your network (for example, turn on the airplane mode and then turn it back off), and then try to log in again.
+
+The Crew sincerely apologizes for any inconvenience caused. Please accept the following as compensation:
+
+### Compensation Contents
+
+Stellar Jade × 120
+
+### Compensation Eligibility
+
+Trailblazers whose Trailblaze Level is at Level 4 or above before 2025/06/06 02:57:00 (global) on the Asia, America, Europe, and TW,HK,MO servers.
+
+The compensation will be issued via in-game mail to all eligible Trailblazers. Please make sure to log in to the game and claim it before 2025/07/07 23:59:00 (global). The mail is valid for 30 days. Please claim it on time.
+
+Thank you for your continuous support for Honkai: Star Rail!
+
+-----
+
 # [HoYoLAB Daily Check-in Reminder](archive/999.md)
 ## HoYoLAB Daily Check-in Reminder
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/30/85e93826fa258cfe3d80c61f0b118390_6056231792644536023.png)
