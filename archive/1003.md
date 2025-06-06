@@ -4,7 +4,7 @@
 
 Dear Trailblazers,
 
-The following issues have been encountered due to cloud service provider errorat 2025/06/06 02:57:00 (global). The issues have been fixed.
+The following issues have been encountered due to cloud service provider error at 2025/06/06 02:57:00 (global). The issues have been fixed.
 
 • Unable to login
 
