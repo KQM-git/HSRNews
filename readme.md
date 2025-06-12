@@ -652,6 +652,30 @@ Survey responses cannot be changed after submission. Please be sure to fill out 
 
 -----
 
+# [About Certain In-Game Errors](archive/745.md)
+## About Certain In-Game Errors
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/23/65c44e35f80176b2db970854e40eaacf_2532561119467430031.png)
+
+Dear Trailblazers,
+
+Certain Android devices and PC devices have encountered the following issues due to Google Play service error. The relevant team is now investigating the cause of the problems and working urgently to fix it.
+
+■ Certain Android devices & Certain PC devices
+
+• Unable to receive top-up items in-game
+
+■ Certain PC devices
+
+• Unable to receive top-up items in-game
+
+• Unable to login
+
+Please stay tuned to future official notifications regarding an estimated completion time for the aforementioned problems.
+
+The Express Crew will immediately notify Trailblazers via in-game notifications and player community announcements as soon as the issue is fixed. Please stay tuned for the official announcements.
+
+-----
+
 # [Invitation to join Project Astro-Warp](archive/211.md)
 ## Invitation to join Project Astro-Warp
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2023/04/26/44dca0d9c0454eb98cde64d547de26bc_970913154859859929.png)
