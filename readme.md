@@ -482,6 +482,30 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [About Certain In-Game Errors](archive/745.md)
+## About Certain In-Game Errors
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/23/65c44e35f80176b2db970854e40eaacf_2532561119467430031.png)
+
+Dear Trailblazers,
+
+Certain Android devices and Certain PC devices have encountered the following issues due to Google Play service error. The relevant team is now investigating the cause of the problems and working urgently to fix it.
+
+■ Certain Android devices & Certain PC devices
+
+• Unable to receive top-up items in-game
+
+■ Certain PC devices
+
+• Unable to receive top-up items in-game
+
+• Unable to login
+
+Please stay tuned to future official notifications regarding an estimated completion time for the aforementioned problems.
+
+The Express Crew will immediately notify Trailblazers via in-game notifications and player community announcements as soon as the issue is fixed. Please stay tuned for the official announcements.
+
+-----
+
 # ["The Fall at Dawn's Rise" Mission Description](archive/918.md)
 ## "The Fall at Dawn's Rise" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/27/add1b6cf74f3fd2d0c6e67c410602791_3540535401762783599.png)
@@ -649,30 +673,6 @@ To better understand Trailblazers' gaming habits and provide a better gaming exp
 ### Note
 
 Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
------
-
-# [About Certain In-Game Errors](archive/745.md)
-## About Certain In-Game Errors
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/23/65c44e35f80176b2db970854e40eaacf_2532561119467430031.png)
-
-Dear Trailblazers,
-
-Certain Android devices and Certain PC devices have encountered the following issues due to Google Play service error. The relevant team is now investigating the cause of the problems and working urgently to fix it.
-
-■ Certain Android devices & Certain PC devices
-
-• Unable to receive top-up items in-game
-
-■ Certain PC devices
-
-• Unable to receive top-up items in-game
-
-• Unable to login
-
-Please stay tuned to future official notifications regarding an estimated completion time for the aforementioned problems.
-
-The Express Crew will immediately notify Trailblazers via in-game notifications and player community announcements as soon as the issue is fixed. Please stay tuned for the official announcements.
 
 -----
 
