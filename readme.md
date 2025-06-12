@@ -658,7 +658,7 @@ Survey responses cannot be changed after submission. Please be sure to fill out 
 
 Dear Trailblazers,
 
-Certain Android devices and PC devices have encountered the following issues due to Google Play service error. The relevant team is now investigating the cause of the problems and working urgently to fix it.
+Certain Android devices and Certain PC devices have encountered the following issues due to Google Play service error. The relevant team is now investigating the cause of the problems and working urgently to fix it.
 
 ■ Certain Android devices & Certain PC devices
 
