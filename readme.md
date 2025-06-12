@@ -1,10 +1,10 @@
-# [About Certain In-Game Errors](archive/745.md)
-## About Certain In-Game Errors
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/23/65c44e35f80176b2db970854e40eaacf_2532561119467430031.png)
+# [About Certain In-Game Error Fixes](archive/1003.md)
+## About Certain In-Game Error Fixes
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/06/0449e268de250c8c403b64d54132860c_4623402155806974961.png)
 
 Dear Trailblazers,
 
-Certain Android devices and Certain PC devices have encountered the following issues due to Google Play service error. The relevant team is now investigating the cause of the problems and working urgently to fix it.
+Certain Android devices and Certain PC devices have encountered the following issues due to Google Play service error. The issues have been fixed.
 
 ■ Certain Android devices & Certain PC devices
 
@@ -16,9 +16,7 @@ Certain Android devices and Certain PC devices have encountered the following is
 
 • Unable to login
 
-Please stay tuned to future official notifications regarding an estimated completion time for the aforementioned problems.
-
-The Express Crew will immediately notify Trailblazers via in-game notifications and player community announcements as soon as the issue is fixed. Please stay tuned for the official announcements.
+The Crew sincerely apologizes for any inconvenience caused and thanks you for your patience and understanding.
 
 -----
 
