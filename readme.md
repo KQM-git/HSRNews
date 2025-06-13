@@ -1,25 +1,3 @@
-# [About Certain In-Game Error Fixes](archive/1003.md)
-## About Certain In-Game Error Fixes
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/06/0449e268de250c8c403b64d54132860c_4623402155806974961.png)
-
-Dear Trailblazers,
-
-Certain Android devices and Certain PC devices have encountered the following issues due to Google Play service error. The issues have been fixed.
-
-■ Certain Android devices & Certain PC devices
-
-• Unable to receive top-up items in-game
-
-■ Certain PC devices
-
-• Unable to receive top-up items in-game
-
-• Unable to login
-
-The Crew sincerely apologizes for any inconvenience caused and thanks you for your patience and understanding.
-
------
-
 # [HoYoLAB Daily Check-in Reminder](archive/999.md)
 ## HoYoLAB Daily Check-in Reminder
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/30/85e93826fa258cfe3d80c61f0b118390_6056231792644536023.png)
