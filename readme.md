@@ -1,3 +1,25 @@
+# [Version 3.3 "The Fall at Dawn's Rise" Satisfaction Survey](archive/925.md)
+## Version 3.3 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/17/d20d2811e946c33b96cf1a30a2e87af7_7365197828329847678.png)
+
+Dear Trailblazers,
+
+To better understand the Trailblazers' experience in Version 3.3, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_i-x4tx-sebxwTTv9cvPliNtSMOAF1pUSboYf3jz8pZyG&game_biz=hkrpg_global&surveyId=31936&format=1&sign_type=2&authkey_ver=1)
+
+### Attention
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/924.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/17/658a5b95b1fcbbce4821d4185131fc76_8626513388507958222.png)
