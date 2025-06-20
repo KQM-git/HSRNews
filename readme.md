@@ -1,3 +1,33 @@
+# [Novaflare: Silver Wolf, Blade, Kafka, and Jingliu Enhanced](archive/1005.md)
+## Novaflare Character Enhancement Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/18/ff0316370d7c978faeae49dedd1e8c51_6788833671582247941.png)
+
+### Availability
+
+After the Version 3.4 update
+
+### Participation Requirements
+
+Trailblaze Level ≥ 4
+
+### Featured Enhanced Characters
+
+Silver Wolf, Blade, Kafka, Jingliu
+
+### Rules
+
+- After characters are enhanced, their **abilities**, **Traces**, and **Eidolon** effects might be changed.
+
+- After characters are enhanced, characters that are **owned** and **newly obtained** will be regarded as **enhanced by default**.
+
+- You can **switch between the character's enhanced and previous state** in the "Character Details" — "Character Enhancement" interface.
+
+※ After Version 3.4 update till the end of Version 3.5, participate in the "Novaflare" **character trial event**. Enter Challenge Stages with a Team Lineup that includes designated trial characters, and receive **Stellar Jade rewards** upon successful completion.
+
+※ Enhanced characters in Novaflare will be expanded periodically. Please stay tuned for future official announcements.
+
+-----
+
 # [Version 3.3 "The Fall at Dawn's Rise" Satisfaction Survey](archive/925.md)
 ## Version 3.3 Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/04/17/d20d2811e946c33b96cf1a30a2e87af7_7365197828329847678.png)
