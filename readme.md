@@ -1,3 +1,47 @@
+# ["For the Sun is Set to Die" Mission Details](archive/993.md)
+## "For the Sun is Set to Die" Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/bfefa6b6e3d038177930d914255b47b7_2613410275125420032.png)
+
+Following the Version 3.4 update, a new Trailblaze Mission "For the Sun is Set to Die" will be available. Once you complete the Version 3.4 Trailblaze Mission, "As I've Written" and the World Shop "Tidal Bounty" will also be updated.
+
+### Trailblaze Mission "For the Sun is Set to Die"
+
+Let me tell a tale of a swarm of nymphs that chase the scorching dawn. The Paean of Era Nova... For they rose from the gate and reached the throne, for they walked through the petals in the land of repose, yet fell finally at dawn's rise...
+
+**■ Availability**
+
+Permanently available after the Version 3.4 update
+
+**■ Requirement**
+
+Complete Trailblaze Mission "Amphoreus — Dawn, Shine at the World's End"
+
+※ Amphoreus Trailblaze Missions can be experienced in advance through the "Finality's Vision: Leap of Trailblaze" function.
+
+**■ Mission Rewards**
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/23/3a38ecc064852ac47439d915368e0a5e_6395513182634667377.png)
+
+### "As I've Written" Update
+
+- Complete the Version 3.4 Trailblaze Mission, then unlock and read the new story to claim your rewards.
+
+- New Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/23/2655ec2c58ef70efa082d9a8a924abc6_2685994048547537790.png)
+
+### New "Disorder Ambrosia" Offering Added to World Shop "Tidal Bounty"
+
+- Explore Amphoreus in its alternate state to collect the new "Disorder Ambrosia" and increase your Offering Level to earn rewards.
+
+- Requirements: Complete the Trailblaze Mission "Amphoreus — For the Sun is Set to Die," then speak to "Tides of the Basin" to complete the Adventure Mission "Resplendent Ambrosia"
+
+- New Rewards:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/06/23/c4e5714f4ff195779aac44efa8e40099_6821640253066313869.png)
+
+-----
+
 # [Version 3.4 Nameless Honor & Store Update](archive/992.md)
 ## Nameless Honor & Store Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/75ce3c12b13b1b15b726fcb8a181931b_7027107427979355726.png)
