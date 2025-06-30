@@ -424,22 +424,6 @@ Silver Wolf, Blade, Kafka, Jingliu
 
 -----
 
-# [HoYoLAB Daily Check-in Reminder](archive/999.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/30/85e93826fa258cfe3d80c61f0b118390_6056231792644536023.png)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
-
-※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
-
------
-
 # [Version 3.3 "The Fall at Dawn's Rise" Update](archive/953.md)
 ## Version 3.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/20/bb0be6a73ca86ccf394b21ae3d12a754_8122179261842607972.png)
