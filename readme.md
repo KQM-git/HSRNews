@@ -56,6 +56,8 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Fixes an issue where the Readable Item "Phainon's Message" displays abnormally.
 
+- Fixes an issue where the game interface has a chance of becoming abnormal after using Castorice (Remembrance: Quantum)'s "Breath Scorches the Shadow" ability under specific circumstances.
+
 -----
 
 # [Version 3.4 "For the Sun is Set to Die" Update](archive/1000.md)
