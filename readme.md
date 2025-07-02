@@ -50,6 +50,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - We are aware of the issue where character lip-syncing appears abnormal in some Version 3.4 voice lines when using certain voice languages. This issue will be fixed in future versions.
 
+### Game Updates and Improvements Overview
+
+■2025/07/02
+
+- Fixes an issue where the Readable Item "Phainon's Message" displays abnormally.
+
 -----
 
 # [Version 3.4 "For the Sun is Set to Die" Update](archive/1000.md)
