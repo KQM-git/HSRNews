@@ -1,3 +1,31 @@
+# [V3.4 TikTok Creator Incentive Program Has Begun | Phainon Edition](archive/1007.md)
+## V3.4 TikTok Creator Incentive Program Has Begun | Phainon Edition
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/27/5f1a23ee4513762e1dcfa36ac0949c88_2324962408942929643.jpg)
+
+Hello, Trailblazers!
+
+Join the V3.4 TikTok Creator Incentive Program! Post videos with the #Phainon hashtag on TikTok for a chance to win 60 Stellar Jades and additional rewards including a PS5® Digital Edition Console and a PS5® controller!
+
+[ Go to the event](https://hoyo.link/CiDqQbPV0)
+
+### Event Period
+
+2025/07/02 10:00:00 (global) - 2025/07/23 00:00:00 (global)
+
+### Note
+
+- In-game rewards for this event will be distributed in the form of redemption codes. The number of codes is limited and will be available on a first-come, first-served basis.
+
+- The same account may only claim the same reward once during the event period.
+
+- This event's redemption codes expire on 2025/08/13 00:00:00 (global) Trailblazers who receive rewards are advised to redeem them in time.
+
+- For Trailblazers who won a physical prize, please provide the required information according to the rules before 2025/08/18 00:00:00 (global). Failure to do so within the specified time will be regarded as a voluntary forfeiture of the reward, and no replacements will be arranged;
+
+※ For more information, head to the event link above.
+
+-----
+
 # [Phainon Animated Short Single "Flares of the Blazing Sun" Now Available](archive/1032.md)
 ## Phainon Animated Short Single "Flares of the Blazing Sun" Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/5c2315180ed95acd7c899ac7c092b557_6307643969172686927_transformed.png)
