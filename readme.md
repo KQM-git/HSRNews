@@ -1,3 +1,19 @@
+# [Phainon Animated Short Single "Flares of the Blazing Sun" Now Available](archive/1032.md)
+## Phainon Animated Short Single "Flares of the Blazing Sun" Now Available
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/5c2315180ed95acd7c899ac7c092b557_6307643969172686927_transformed.png)
+
+The one who bears the world's burden, the one who delivers the world, the one who roars, the one whose flames burn eternal.
+
+He will sacrifice everything he loves, his sacrifice will never cease—
+
+Revel, dance, throw yourself into the tireless flame, and never stop!
+
+<em>Honkai: Star Rail</em> Phainon Animated Short single — "Flares of the Blazing Sun" is now officially released. Trailblazers, come and listen!
+
+[ Check it out](https://orcd.co/weeflares037w)
+
+-----
+
 # [V3.4 Creator Incentive Program Has Begun](archive/1006.md)
 ## V3.4 Creator Incentive Program Has Begun
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/24/8beb768ad9a1ccca4f143e7f5f510b07_8070641404171857599.png)
