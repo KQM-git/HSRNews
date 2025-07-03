@@ -322,7 +322,7 @@ Planar Ornament "Revelry by the Sea"
 
 - Adds new content such as readable items, Messages, discs, Achievements, data bank entries, and loading screen texts. They will be gradually unlocked during your Trailblaze Progress.
 
-###  Adjustments and Optimizations
+### Adjustments and Optimizations
 
 ■ Characters and Enemies
 
@@ -366,7 +366,7 @@ Planar Ornament "Revelry by the Sea"
 
 - Optimizes the notification when trial characters join the team during story events. When a story trial character enters the team, a red notification reminder will appear on the "Team Lineup" button.
 
-###  Bug Fixes
+### Bug Fixes
 
 ■ Characters and Enemies
 
@@ -398,9 +398,7 @@ Planar Ornament "Revelry by the Sea"
 
 - Fixes an issue where the character Anaxa (Erudition: Wind)'s Talent effects could trigger abnormally when he entered the "Outrage" state during combat.
 
-- Fixes an issue where, after using a specific team to enter battle, action advance effects from all ally characters may become abnormal after characters equipped with the Light Cone "Dance! Dance! Dance! (Harmony)" use their Ultimate in certain situations.
-
-- Fixes an issue where, after using a specific team to enter battle, action advance effects from ally characters become abnormal after characters equipped with the Light Cone "Dance! Dance! Dance! (Harmony)" use their Ultimate in certain situations.
+- Fixes an issue where, after using a specific team to enter battle, effects that advance all ally characters' actions may become abnormal after characters equipped with the Light Cone "Dance! Dance! Dance! (Harmony)" use their Ultimate in certain situations.
 
 - Fixes an issue where game progress could become abnormal under specific circumstances when challenging the stage "Echo of War: Glance of Twilight."
 
