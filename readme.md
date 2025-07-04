@@ -96,6 +96,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/07/04
+
+- Fixes an issue where the action order might display abnormally after Trailblazer (Remembrance: Ice) uses their Ultimate in certain circumstances.
+
 ■2025/07/03
 
 - Fixes an issue where the game's progress might be abnormal when using a character's Ultimate as prompted by story-based combat sections under certain conditions.
