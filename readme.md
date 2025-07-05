@@ -42,42 +42,6 @@ Revel, dance, throw yourself into the tireless flame, and never stop!
 
 -----
 
-# [V3.4 Creator Incentive Program Has Begun](archive/1006.md)
-## V3.4 Creator Incentive Program Has Begun
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/24/8beb768ad9a1ccca4f143e7f5f510b07_8070641404171857599.png)
-
-Hello, Trailblazers!
-
-Welcome to the V3.4 Creator Incentive Program!
-
-This Creator Incentive Program includes three categories: Static Art, Dynamic Videos, and Fun Content.
-
-Submit your works to each category to win up to 6,000 Stellar Jades in rewards! Voting for your favorite submission will also grant you in-game items
-
-[ Go to the event](https://act.hoyoverse.com/puzzle/hkrpg/pz_Bfa4jQ5FAo/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202505084593)
-
-### Submission Time
-
-"Phainon" Event Period: 2025/07/02 12:00:00 (global) - 2025/07/22 23:59:00 (global)
-
-### How to Submit My Entry
-
-Any of the following submission methods is valid:
-
-- Hashtag Submission: During the event, post your work with the designated hashtags on platforms including YouTube, X, Instagram, and TikTok to successfully complete a submission.
-
-- Survey Submission: During the event, post your work with the designated hashtags on any social media platform such as Facebook and HoYoLAB to successfully complete a submission.
-
-### Event Rewards
-
-- Participate and submit your work: Earn up to Stellar Jade ×6,000.
-
-- Participate in the voting: Earn rewards up to Stellar Jade ×60, Traveler's Guide ×2, Condensed Aether ×3, and credit ×10,000.
-
-※ For more information, head to the event link above.
-
------
-
 # [Game Version 3.4 Optimization and Known Issues](archive/1028.md)
 ## Game Version 3.4 Optimization and Known Issues
 
