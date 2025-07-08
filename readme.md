@@ -32,6 +32,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/07/08
+
+- Updated some resources for the upcoming collaboration event "Sweet Dreams and the Holy Grail." Trailblazers can obtain the update by logging in again after the update is released. The download size is approximately "198" MB for PC, "111" MB for Android, and "111" MB for iOS.
+
 ■2025/07/04
 
 - Fixes an issue where the action order might display abnormally after Trailblazer (Remembrance: Ice) uses their Ultimate in certain circumstances.
