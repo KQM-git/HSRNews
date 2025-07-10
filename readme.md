@@ -1,3 +1,25 @@
+# [Fate[UBW] Collaboration Update Announcement](archive/995.md)
+## Fate[UBW] Collaboration Update Announcement
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/462d0656a3505f9874923d459f42bd2b_3484754870014856661.png)
+
+Dear Trailblazers,
+
+On 2025/07/08 15:00:00 (global), the Crew updated resources for the collaboration-themed event "Sweet Dreams and the Holy Grail." If you don't download the update before 2025/07/10 14:00:00 (global), you'll be automatically logged out and required to restart to download the new resources.
+
+When you log back in, PC users will need to download approximately "198" MB, Android users approximately "111" MB, and iOS users approximately "111" MB. You can resume playing once the download is complete.
+
+Please note the update time. We sincerely apologize for any inconvenience that this update might cause.
+
+### Update Time
+
+2025/07/10 14:00:00 (global)
+
+### Update Content
+
+Updated some resources for the upcoming collaboration-themed event "Sweet Dreams and the Holy Grail".
+
+-----
+
 # [Phainon Animated Short Single "Flares of the Blazing Sun" Now Available](archive/1032.md)
 ## Phainon Animated Short Single "Flares of the Blazing Sun" Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/02/5c2315180ed95acd7c899ac7c092b557_6307643969172686927_transformed.png)
