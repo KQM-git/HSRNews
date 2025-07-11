@@ -1,3 +1,33 @@
+# [TikTok Creator Incentive Program | HSR x Fate[UBW] Collab Submissions Now Open](archive/1002.md)
+## TikTok Creator Incentive Program | HSR x Fate[UBW] Collab Submissions Now Open
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/07/7b5a5720ec89e20ae83b1613436ffb01_6790452972726603962_transformed.jpg)
+
+Hello, Trailblazers!
+
+Join the Version 3.4 Incentive Program! Post videos on TikTok with the hashtag #HSRxFate_UBW and event-exclusive hashtag for a chance to win 60 Stellar Jades, plus amazing prizes including the custom Honkai: Star Rail PS5® controller and gift cards!
+
+[ Go to the event](https://hoyo.link/VgN0dd5YA)
+
+### Event Period
+
+2025/07/11 10:00:00 (global) - 2025/08/13 00:00:00 (global)
+
+### Attention
+
+- Per event rules, please select only one of the following hashtags as your designated event hashtag: #Saber, #Archer, #Lancer, #Berserker, #Caster, #Assassin, or #Rider (Example submission: #HSRxFate_UBW #Saber).
+
+- In-game rewards for this event will be distributed in the form of redemption codes. The number of codes is limited and will be available on a first-come, first-served basis.
+
+- The same account may only claim the same reward once during the event period.
+
+- This event's redemption codes will expire on 2025/08/13 00:00:00 (global). Please remember to redeem them on time.
+
+- For Trailblazers who won a physical prize, please provide the required information according to the rules before 2025/08/18 00:00:00 (global). Failure to do so within the specified time will be regarded as a voluntary forfeiture of the reward, and no replacements will be arranged.
+
+※ For more information, head to the event link above.
+
+-----
+
 # [Fate[UBW] Collaboration Update Announcement](archive/995.md)
 ## Fate[UBW] Collaboration Update Announcement
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/462d0656a3505f9874923d459f42bd2b_3484754870014856661.png)
