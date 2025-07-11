@@ -58,6 +58,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Known Issues
 
+■2025/07/11
+
+- It is known that after completing the Trailblaze Continuance "Penacony — Fate/Night in Dreamland," the portal to the Fate/stay night collaboration event will disappear. This issue will be fixed in future updates.
+
 ■2025/07/02
 
 - Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of Version 3.4. The corresponding voiceovers will be added in future updates.
