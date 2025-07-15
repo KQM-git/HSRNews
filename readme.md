@@ -828,6 +828,30 @@ Price: Oneiric Shard ×660. A maximum of **5** can be purchased per account whil
 
 -----
 
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/989.md)
+## Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/14/9d378e12a5b9f4685446d59593ae318b_2247338888479584301_transformed.png)
+
+### Event Period
+
+2025/07/16 04:00:00 (server) - 2025/07/28 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the Planar Fissure event, get double rewards from the Simulated Universe or Divergent Universe.
+
+- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Novaflare: Silver Wolf, Blade, Kafka, and Jingliu Enhanced](archive/1005.md)
 ## Novaflare Character Enhancement Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/18/ff0316370d7c978faeae49dedd1e8c51_6788833671582247941.png)
