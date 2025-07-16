@@ -40,6 +40,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/07/16
+
+- Fixes an issue where the completion progress of the Exploratory Excursion "Sweet Dreams and the Golden Goblet" was abnormal under certain circumstances in the Trailblaze Continuance "Penacony — Fate/Return of Starry Sea."
+
+- Fixes an issue where the notification page for the collaboration event "Sweet Dreams and the Holy Grail" could not be closed properly under certain circumstances.
+
 ■2025/07/11
 
 - Fixes the portal disappearance issue of the Fate/stay night collaboration event. Trailblazers who encountered this problem can resolve it by resetting the game.
