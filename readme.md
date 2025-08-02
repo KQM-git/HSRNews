@@ -1,22 +1,38 @@
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/989.md)
-## Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/14/9d378e12a5b9f4685446d59593ae318b_2247338888479584301_transformed.png)
+# [HoYoLAB Daily Check-in Reminder](archive/1050.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/31/ed114a5c4d67290f6326b923f61c502b_8837540806502648848_transformed.png)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
+
+※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
+
+-----
+
+# [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/990.md)
+## Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/fba39da2942fe360176de0c99a78509d_691948611402059186.png)
 
 ### Event Period
 
-2025/07/16 04:00:00 (server) - 2025/07/28 03:59:00 (server)
+2025/07/31 04:00:00 (server) - 2025/08/11 03:59:00 (server)
 
 ### Participation Requirements
 
-Unlock Simulated Universe: World 3
+Unlock Cavern of Corrosion: Path of Drifting
 
 ### Event Details
 
-- During the Planar Fissure event, get double rewards from the Simulated Universe or Divergent Universe.
+- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
 
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
 
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+- During the event, the number of double reward opportunities is **limited.** The remaining usage count and maximum usage limit can be viewed in the "Realm of the Strange" event page.
 
 - The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
 
@@ -505,22 +521,6 @@ Fixes and optimizations in English include the following (they have no impact on
 - Fixes an issue with some incorrect subtitle texts for the voice lines of characters Boothill (The Hunt: Physical) and Fugue (Nihility: Fire).
 
 - Optimizes the description text for the completion conditions of the achievement "Galactic Meteor Strike."
-
------
-
-# [HoYoLAB Daily Check-in Reminder](archive/1021.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/30/9c37c81873c96d1b0680a3708291e17c_8722441409013378.png)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
-
-※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
 
 -----
 
