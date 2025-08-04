@@ -568,28 +568,6 @@ Clear the stage to obtain the new **Wind-Type** character **Ascension material**
 
 -----
 
-# [Version 3.4 "For the Sun is Set to Die" Satisfaction Survey](archive/994.md)
-## Version 3.4 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/28/d20d2811e946c33b96cf1a30a2e87af7_5718196609288345606.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 3.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_iE72sh-sebxwTTv9cvPliNtWXLjoYK6ujf92vfWh-xlW&game_biz=hkrpg_global&surveyId=32653&format=1&sign_type=2&authkey_ver=1)
-
-### Attention
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # ["For the Sun is Set to Die" Mission Details](archive/993.md)
 ## "For the Sun is Set to Die" Mission Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/bfefa6b6e3d038177930d914255b47b7_2613410275125420032.png)
