@@ -1,3 +1,21 @@
+# [Version 3.5 New Stage](archive/1039.md)
+## Version 3.5 New Stage
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/28/7ca576253e44ffd619dfb732e7c93ed5_8010889941387817044_transformed.png)
+
+Dear Trailblazers,
+
+After the Version 3.5 update, the new stage "Stagnant Shadow: Shape of Sirens" will be added.
+
+### Stagnant Shadow
+
+■ Stagnant Shadow: Shape of Sirens
+
+Clear the stage to obtain the new **Ice-Type** character **Ascension material** "Sea Siren's Torn Fin."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/29d1bff7b220bbd91b972dde25794e78_175803469514554876_transformed.png)
+
+-----
+
 # [Version 3.5 Nameless Honor & Store Update](archive/1041.md)
 ## Nameless Honor & Store Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/22/3aa82843eb9dcab0d23ecbddd40d0e85_5090649548179470289_transformed.png)
