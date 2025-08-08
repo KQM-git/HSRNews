@@ -1,18 +1,22 @@
-# [Version 3.5 New Stage](archive/1039.md)
-## Version 3.5 New Stage
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/28/7ca576253e44ffd619dfb732e7c93ed5_8010889941387817044_transformed.png)
+# ["Before Their Deaths" Mission Description](archive/1040.md)
+## "Before Their Deaths" Mission Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/22/11c92b028deb7c18637a5785a6fd617c_1822798094764930334_transformed.png)
 
-Dear Trailblazers,
+Countless embers illuminate this firmament of night, each burning with their own radiance... But there is only one star that has remained eternal in the vast and deep.
 
-After the Version 3.5 update, the new stage "Stagnant Shadow: Shape of Sirens" will be added.
+### Availability
 
-### Stagnant Shadow
+Permanently available after the Version 3.5 update
 
-■ Stagnant Shadow: Shape of Sirens
+### Unlock Requirement
 
-Clear the stage to obtain the new **Ice-Type** character **Ascension material** "Sea Siren's Torn Fin."
+Complete Trailblaze Mission "Amphoreus — Hero, Sing That Anthem of Creation"
 
-![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/29d1bff7b220bbd91b972dde25794e78_175803469514554876_transformed.png)
+※ Amphoreus Trailblaze Missions can be experienced in advance through the "Finality's Vision: Leap of Trailblaze" function.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/418ec7c1373c26f66e5c0ffcb99edb10_9168355458579433835_transformed.png)
 
 -----
 
@@ -119,25 +123,21 @@ After the Version 3.5 update
 
 -----
 
-# ["Before Their Deaths" Mission Description](archive/1040.md)
-## "Before Their Deaths" Mission Description
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/22/11c92b028deb7c18637a5785a6fd617c_1822798094764930334_transformed.png)
+# [Version 3.5 New Stage](archive/1039.md)
+## Version 3.5 New Stage
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/28/7ca576253e44ffd619dfb732e7c93ed5_8010889941387817044_transformed.png)
 
-Countless embers illuminate this firmament of night, each burning with their own radiance... But there is only one star that has remained eternal in the vast and deep.
+Dear Trailblazers,
 
-### Availability
+After the Version 3.5 update, the new stage "Stagnant Shadow: Shape of Sirens" will be added.
 
-Permanently available after the Version 3.5 update
+### Stagnant Shadow
 
-### Unlock Requirement
+■ Stagnant Shadow: Shape of Sirens
 
-Complete Trailblaze Mission "Amphoreus — Hero, Sing That Anthem of Creation"
+Clear the stage to obtain the new **Ice-Type** character **Ascension material** "Sea Siren's Torn Fin."
 
-※ Amphoreus Trailblaze Missions can be experienced in advance through the "Finality's Vision: Leap of Trailblaze" function.
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/418ec7c1373c26f66e5c0ffcb99edb10_9168355458579433835_transformed.png)
+![img](https://sdk.hoyoverse.com/upload/ann/2025/08/06/29d1bff7b220bbd91b972dde25794e78_175803469514554876_transformed.png)
 
 -----
 
