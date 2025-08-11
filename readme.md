@@ -157,30 +157,6 @@ Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and
 
 -----
 
-# [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/990.md)
-## Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/06/09/fba39da2942fe360176de0c99a78509d_691948611402059186.png)
-
-### Event Period
-
-2025/07/31 04:00:00 (server) - 2025/08/11 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Cavern of Corrosion: Path of Drifting
-
-### Event Details
-
-- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
-
-- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- During the event, the number of double reward opportunities is **limited.** The remaining usage count and maximum usage limit can be viewed in the "Realm of the Strange" event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Game Version 3.4 Optimization and Known Issues](archive/1028.md)
 ## Game Version 3.4 Optimization and Known Issues
 
