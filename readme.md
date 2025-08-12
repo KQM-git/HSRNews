@@ -1,3 +1,19 @@
+# [Game Version 3.5 Optimization and Known Issues](archive/1058.md)
+## Game Version 3.5 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2025/08/13
+
+- It is known that some voice lines for NPC Hysilens in the "The Grandest Feast" mission of the "Chrysos Maze Grand Restaurant" event are missing when the voice language is switched to English. This issue will be fixed in future updates.
+
+-----
+
 # ["Before Their Deaths" Mission Description](archive/1040.md)
 ## "Before Their Deaths" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/22/11c92b028deb7c18637a5785a6fd617c_1822798094764930334_transformed.png)
@@ -524,70 +540,6 @@ Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and
 [ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
 
 ※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
-
------
-
-# [Game Version 3.4 Optimization and Known Issues](archive/1028.md)
-## Game Version 3.4 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Known Issues
-
-■2025/07/02
-
-- Due to scheduling issues, some English voiceovers for certain characters are missing in specific dialogues of Version 3.4. The corresponding voiceovers will be added in future updates.
-
-- We are aware of the issue where character lip-syncing appears abnormal in some Version 3.4 voice lines when using certain voice languages. This issue will be fixed in future versions.
-
-### Game Updates and Improvements Overview
-
-■2025/07/16
-
-- Fixes an issue where the completion progress of the Exploratory Excursion "Sweet Dreams and the Golden Goblet" was abnormal under certain circumstances in the Trailblaze Continuance "Penacony — Fate/Return of Starry Sea."
-
-- Fixes an issue where the notification page for the collaboration event "Sweet Dreams and the Holy Grail" could not be closed properly under certain circumstances.
-
-■2025/07/11
-
-- Fixes the portal disappearance issue of the Fate/stay night collaboration event. Trailblazers who encountered this problem can resolve it by resetting the game.
-
-- Fixes an issue where previewing the character "Archer (The Hunt: Quantum)" and  then switching to max level causes ability display errors in the "Warp" interface.
-
-- Fixes an issue where continuous turns are not refreshed as normal with certain buffs offered by the Assassin piece in the Fate/stay night collaboration event.
-
-- Fixes an issue in Divergent Universe: Protean Hero where activating the Equations "Home of Odes," "Memory Seed Cultivator," or "Boulder Court" failed to apply the intended DMG Multiplier boost effect for "Butterfly Soul."
-
-- Fixes an issue where, under certain circumstances,  there is a chance that a Stage Verification Failure might occur after combat when activating the Equation "Memorial Chrysalis" in Divergent Universe.
-
-- Fixes an issue where certain notification interfaces in the game are unable to display normally under certain circumstances.
-
-- Fixes an issue where part of the description text for the mission item "Portentous Goldwoven: Aedes Elysiae'" was incorrect.
-
-- Fixes an issue where the prompt text displayed at the end of the character "Phainon (Destruction: Physical)'s" transformation during combat was incorrect.
-
-■2025/07/08
-
-- Updated some resources for the upcoming collaboration event "Sweet Dreams and the Holy Grail." Trailblazers can obtain the update by logging in again after the update is released. The download size is approximately "198" MB for PC, "111" MB for Android, and "111" MB for iOS.
-
-■2025/07/04
-
-- Fixes an issue where the action order might display abnormally after Trailblazer (Remembrance: Ice) uses their Ultimate in certain circumstances.
-
-■2025/07/03
-
-- Fixes an issue where the game's progress might be abnormal when using a character's Ultimate as prompted by story-based combat sections under certain conditions.
-
-- Fixes an issue where the eye model of the Jadebird is abnormal when placed in a specific spot in the Radiant Feldspar map.
-
-■2025/07/02
-
-- Fixes an issue where the Readable Item "Phainon's Message" displays abnormally.
-
-- Fixes an issue where the game interface has a chance of becoming abnormal after using Castorice (Remembrance: Quantum)'s "Breath Scorches the Shadow" ability under specific circumstances.
 
 -----
 
