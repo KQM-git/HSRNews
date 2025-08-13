@@ -18,6 +18,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Fixes an issue where some scenes may display abnormally when using certain Android devices.
 
+- Fixes an issue where Trailblazers are unable to progress in the mission flow of Trailblaze Mission "Amphoreus — Zephyr, Uplift Bygone Dust Cloudsward" under certain circumstances.
+
+- Fixes an issue where some special effects may display abnormally after an ability is used in certain circumstances.
+
 -----
 
 # ["Before Their Deaths" Mission Description](archive/1040.md)
