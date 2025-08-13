@@ -12,6 +12,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - It is known that some voice lines for NPC Hysilens in the "The Grandest Feast" mission of the "Chrysos Maze Grand Restaurant" event are missing when the voice language is switched to English. This issue will be fixed in future updates.
 
+### Game Updates and Improvements Overview
+
+■2025/08/13
+
+- Fixes an issue where some scenes may display abnormally when using certain Android devices.
+
 -----
 
 # ["Before Their Deaths" Mission Description](archive/1040.md)
