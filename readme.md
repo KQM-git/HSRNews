@@ -14,6 +14,18 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/08/14
+
+- Fixes an issue where characters are unable to move after entering a specific area in the map "Exomyth" during the mission flow of Trailblaze Mission "Amphoreus" — "Time, Ferry Me Through Ages" and "Wanderer, Decipher the Waxen Imprints." Trailblazers who encounter this issue can immediately exit the challenge and re-enter the map to resolve it.
+
+- Fixes an issue where the game progress may become abnormal after repeatedly entering battle under certain circumstances.
+
+- Fixes an issue where the Achievements "Antique Scheme" and "Toward the New Ocean" cannot be claimed normally. Trailblazers who encounter this issue can re-login to the game to obtain these Achievements.
+
+- Fixes an issue where certain NPC models are placed abnormally in the "Warbling Shores" Styxia map.
+
+- Fixes an issue for certain iOS devices where the game's progress has a chance of becoming abnormal when loading certain scenes in the Trailblaze Continuance "Penocony" - "Fate/Return of Starry Sea."
+
 ■2025/08/13
 
 - Fixes an issue where some scenes may display abnormally when using certain Android devices.
