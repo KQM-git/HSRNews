@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/08/15
+
+- Fixes an issue in the "Chrysos Maze Grand Restaurant" event where Trailblazers could become unable to progress to the review phase abnormally after meeting advancement requirements under certain circumstances. For workarounds, Trailblazers who encountered this issue may continue operating for one more in-game day, then exit the event interface before starting operations the following day to resume normal event progression.
+
 ■2025/08/14
 
 - Fixes an issue where characters are unable to move after entering a specific area in the map "Exomyth" during the mission flow of Trailblaze Mission "Amphoreus" — "Time, Ferry Me Through Ages" and "Wanderer, Decipher the Waxen Imprints." Trailblazers who encounter this issue can immediately exit the challenge and re-enter the map to resolve it.
@@ -24,7 +28,7 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Fixes an issue where certain NPC models are placed abnormally in the "Warbling Shores" Styxia map.
 
-- Fixes an issue for certain iOS devices where the game's progress has a chance of becoming abnormal when loading certain scenes in the Trailblaze Continuance "Penocony" - "Fate/Return of Starry Sea."
+- Fixes an issue for certain iOS devices where the game's progress has a chance of becoming abnormal when loading certain scenes in the Trailblaze Continuance "Penacony - Fate/Return of Starry Sea."
 
 ■2025/08/13
 
