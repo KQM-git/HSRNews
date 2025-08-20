@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/08/20
+
+- Fixes an issue where, when using certain Android devices to play the game, there was a chance of abnormal game progress in specific maps of some Amphoreus scenes.
+
 ■2025/08/15
 
 - Fixes an issue in the "Chrysos Maze Grand Restaurant" event where Trailblazers could become unable to progress to the review phase abnormally after meeting advancement requirements under certain circumstances. For workarounds, Trailblazers who encountered this issue may continue operating for one more in-game day, then exit the event interface before starting operations the following day to resume normal event progression.
