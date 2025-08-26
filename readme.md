@@ -44,6 +44,30 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1034.md)
+## Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/14/9d378e12a5b9f4685446d59593ae318b_6093537440186568455_transformed.png)
+
+### Event Period
+
+2025/08/27 04:00:00 (server) - 2025/09/08 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the Planar Fissure event, get double rewards from the Simulated Universe or Divergent Universe.
+
+- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # ["Before Their Deaths" Mission Description](archive/1040.md)
 ## "Before Their Deaths" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/22/11c92b028deb7c18637a5785a6fd617c_1822798094764930334_transformed.png)
@@ -570,30 +594,6 @@ Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and
 [ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
 
 ※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
-
------
-
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1034.md)
-## Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/14/9d378e12a5b9f4685446d59593ae318b_6093537440186568455_transformed.png)
-
-### Event Period
-
-2025/08/27 04:00:00 (server) - 2025/09/08 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event, get double rewards from the Simulated Universe or Divergent Universe.
-
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
 
 -----
 
