@@ -573,6 +573,30 @@ Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and
 
 -----
 
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1034.md)
+## Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/14/9d378e12a5b9f4685446d59593ae318b_6093537440186568455_transformed.png)
+
+### Event Period
+
+2025/08/27 04:00:00 (server) - 2025/09/08 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Simulated Universe: World 3
+
+### Event Details
+
+- During the Planar Fissure event, get double rewards from the Simulated Universe or Divergent Universe.
+
+- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/814.md)
 ## Survey with Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/05/20/2631c1d1dc704efa233bb957e15897bb_323798630111388302.png)
