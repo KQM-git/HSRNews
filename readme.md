@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/08/27
+
+- Fixes an issue where there is a chance the game might abnormally crash when loading certain in-game scenes on specific iOS devices.
+
 ■2025/08/20
 
 - Fixes an issue where, when using certain Android devices to play the game, there was a chance of abnormal game progress in specific maps of some Amphoreus scenes.
