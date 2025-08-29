@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2025/08/29
+
+- Fixes an issue where clicking "Try Again" after completing stages like "Planar Ornament Extraction" could occasionally cause game process abnormalities under specific circumstances.
+
 ■2025/08/27
 
 - Fixes an issue where there is a chance the game might abnormally crash when loading certain in-game scenes on specific iOS devices.
