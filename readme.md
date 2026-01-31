@@ -72,22 +72,6 @@ Unlock Cavern of Corrosion: Path of Drifting
 
 -----
 
-# [Astral Theater Vol. 3 Event Music OST Now Available](archive/1190.md)
-## Astral Theater Vol. 3 Event Music OST Officially Released
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/14/fae7a4d12fdf8582a2790a5e4dec2806_5361736014164902222_transformed.png)
-
-Hello, Trailblazers
-
-Honkai: Star Rail's new event music album, Astral Theater Vol. 3, has officially launched!
-
-The album includes 25 original tracks created by the HOYO-MiX music team for Honkai: Star Rail.
-
-We welcome all Trailblazers to have a listen.
-
-[ Check it out](https://orcd.co/47dxw6eat3w2e)
-
------
-
 # [Game Version 3.8 Optimization and Known Issues](archive/1188.md)
 ## Game Version 3.8 Optimization and Known Issues
 
