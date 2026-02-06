@@ -1,3 +1,21 @@
+# [Version 4.1 Duration and Content Information](archive/1194.md)
+## Version 4.1 Duration and Content Information
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/50e9691277ee3d2a3bc0e2e912391aed_8915559345596933306_transformed.png)
+
+Dear Trailblazers,
+
+In the upcoming Version 4.1, the version duration will be adjusted to **4 weeks**.
+
+The Express Crew will be making adjustments to the plans for some version content:
+
+- During Version 4.1, a brand-new limited 5-star character and their Light Cone will join the Event Warp, receiving a drop rate boost for 4 weeks. Additionally, two limited 5-star characters and their Light Cones will return in the first and second phases of Version 4.1 respectively.
+
+- During Version 4.1, the EXP required to level up "Nameless Honor" will be reduced. This will allow Trailblazers to obtain Level Rewards faster within the 4-week period.
+
+For more details, please stay tuned for future official announcements. Thank you for your continued support and understanding, Trailblazers.
+
+-----
+
 # [Version 3.8 "Memories are the Prelude to Dreams" Satisfaction Survey](archive/1171.md)
 ## Version 3.8 Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/22/d20d2811e946c33b96cf1a30a2e87af7_4470408554690091507_transformed.png)
