@@ -1,3 +1,47 @@
+# [Version 4.0 Nameless Honor Update Details](archive/1186.md)
+## Nameless Honor Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/da82860ffc4d9e2a6bbac4e69e9bd23a_6189944534222009655_transformed.png)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as **Star Rail Passes, Self-Modeling Resins, and Tracks of Destiny**.
+
+After unlocking Nameless Glory, you will immediately obtain **Stellar Jade ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Light Cone Memory Shard ×1, Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Variable Dice ×1, Self-Modeling Resin ×2, Relic Remains, the universal Path material Tears of Dreams**, and more!
+
+Upon purchasing the Nameless Medal, in addition to the rewards mentioned above, Trailblazers will also immediately **increase Nameless Honor level by 10** and receive the avatar **"Yao Guang: Ethereal Dance,"** the avatar **"Sparxie: Ethereal Dance," Light Cone Memory Shard ×1, Stellar Jade ×200, and Fuels**!
+
+※After this period's "Nameless Honor" update, the "Nameless Glory" Level Rewards "Jewels of the Starry Seas" will add the selectable Light Cone "Today's Good Luck (Elation)."
+
+### Start Date
+
+After the Version 4.0 update — 2026/03/23 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain Star Rail Passes, Self-Modeling Resin, Tracks of Destiny, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Attention
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2026/03/23 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be 2026/03/22 03:59:00 (global). Trailblazers who top up on the webpage should pay attention to the purchase availability time.
+
+-----
+
 # ["No Aha at Full Moon" Trailblaze Mission & Adventure Mission Description](archive/1193.md)
 ## "No Aha at Full Moon" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/6f320501a4f5a4ff95d8027ccaa880b1_2930944645933719670_transformed.png)
