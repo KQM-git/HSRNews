@@ -757,74 +757,6 @@ For more details, please stay tuned for future official announcements. Thank you
 
 -----
 
-# [Game Version 3.8 Optimization and Known Issues](archive/1188.md)
-## Game Version 3.8 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Known Issues
-
-■2025/12/26
-
-- It is known that parts of the model for the pet "Complainer" are displaying abnormally. This issue will be fixed in a future update.
-
-■2025/12/17
-
-- It is known that some English voice lines for NPC Trailblazer (Male), Trailblazer (Female), and Welt in the Finality Mission "Penacony — Memories are the Prelude to Dreams" are missing. This issue will be fixed in future updates.
-
-### Game Updates and Improvements Overview
-
-■2026/01/21
-
-- Updated certain in-game resources.
-
-■2026/01/14
-
-- Some in-game texts in certain languages have been adjusted, optimized, and fixed. These adjustments won't affect actual gameplay. Trailblazers can switch the game's language at Phone Screen - Settings - Language Settings. Details about the adjustments can also be viewed in the corresponding Notices.
-
-■2026/01/10
-
-- Fixes an issue in the Remnants of Twilight event where certain summons behaved abnormally under specific circumstances during the Synergy Duo challenge stage.
-
-■2026/01/08
-
-- Adjusts some displays of the "Remnants of Twilight" event interface on Android devices to fix an issue where the game progress may become abnormal after opening the event interface under certain circumstances.
-
-- Fixes the issue from Event Notes where clicking the "Go" button in the "Remnants of Twilight" event did not work as intended.
-
-■2026/01/05
-
-- Increases the Inventory limit of Fuel Vouchers to optimize Trailblazers' experience when claiming the Currency Wars Point Rewards in bulk under certain circumstances.
-
-■2025/12/30
-
-- Some in-game texts in certain languages have been adjusted, optimized, and fixed. These adjustments won't affect actual gameplay. Trailblazers can switch the game's language at Phone Screen - Settings - Language Settings. Details about the adjustments can also be viewed in the corresponding Notices.
-
-■2025/12/24
-
-- Adjusts and optimizes certain aspects of the "Dream of Gnawing Oak" scene.
-
-- Fixes an issue where the Oak Manor section of the Dream of Gnawing Oak scenario in the Finality Mission "Penacony — Omen in the Trees" is displayed abnormally.
-
-- Fixes an issue where game progress became abnormal after the character "Cyrene (Remembrance: Ice)" uses her Ultimate on specific Android devices.
-
-- Fixes an issue where the description text for the equipment "Lightning Boots" and "Lightning Boots: Privilege" in the "Currency Wars" gameplay mode is incorrect.
-
-■2025/12/18
-
-- Fixes an issue where certain elements for the character Trailblazer (Rememberance: Ice)'s portrait is abnormal under specific circumstances.
-
-■2025/12/17
-
-- Fixes an issue where some characters' ability special effects, environment models, gameplay and other aspects may display abnormally when using certain Android devices.
-
-- Fixes an issue where character models in the map "Dream of Gnawing Oak" could abnormally pass through certain environment models.
-
------
-
 # [HoYoLAB Daily Check-in Reminder](archive/1120.md)
 ## HoYoLAB Daily Check-in Reminder
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/28/802b7bb88be5ac5aa2e1346de0b9e49c_5035221201239056446_transformed.png)
@@ -956,24 +888,6 @@ Trailblazers can customize 7 "Celestial Invitation" characters in the Character 
 - The optimization for 5-star character Eidolon surplus applies to all sources and methods of obtaining 5-star characters.
 
 </details>
-
------
-
-# [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/814.md)
-## Survey with Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/10/0241961394be8f624c238f3d92848456_2195056455180062808_transformed.png)
-
-Dear Trailblazers,
-
-To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
-
-### Survey Link
-
-[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn-k-V5sx-sebxwTTv9cvPliNqrvTaesPwkzWb2qPbc9G3X&game_biz=hkrpg_global&surveyId=29022&format=1&sign_type=2&authkey_ver=1)
-
-### Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
 
 -----
 
