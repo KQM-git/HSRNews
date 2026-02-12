@@ -18,112 +18,6 @@ When logging into the game during the event period, Trailblazers can obtain rewa
 
 -----
 
-# [Version 4.0 Update and Maintenance Notice](archive/1182.md)
-## Version 4.0 Update and Maintenance Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/0e29b39980a3c67b60e62305d6f41d12_4011826428870258824_transformed.png)
-
-Dear Trailblazers,
-
-The Version 4.0 pre-installation will begin at 2026/02/12 14:00:00 (global). Trailblazers can download some resources in advance, allowing for faster game access after the version update maintenance is complete.
-
-Additionally, the Express Crew will conduct version update maintenance on 2026/02/13 06:00:00 (global). After maintenance, the game will be updated to Version 4.0 "No Aha At Full Moon."
-
-During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
-
-### Update Time
-
-Begins at 2026/02/13 06:00:00 (global). The update will take approximately **5** hours.
-
-### How to Update
-
-After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
-
-- PC: Exit the game, restart the launcher, then click "Update"
-
-- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
-
-- iOS: Enter the App Store and tap "Update"
-
-- PS5®: After entering the game, the game will automatically download and install the update
-
-### Compensation Details
-
-■ Server Maintenance Compensation
-
-Compensation: **Stellar Jade ×300**
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/02/13 06:00:00 (global)
-
-※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 4.0 ends.
-
-### Device Specifications
-
-■ Recommended Specifications:
-
-- PC:
-
-Device specifications: PC with Intel® Core™ i7 Processor, 16 GB of RAM, discrete graphics card (Nvidia GeForce GTX 1060 6GB or higher).
-
-System: Windows 10 64-bit or higher
-
-DirectX Version: 11
-
-- Android:
-
-Device specifications: Android devices with SoC performance equivalent to or better than Snapdragon 870 (Adreno 650), Dimensity 1300 (Mali-G77 MC9), or Kirin 9000 (Mali-G78 MP24)
-
-RAM: 6 GB or more
-
-System: Android 9 or higher
-
-- iOS:
-
-Device specifications:
-
-iPhone 11 or later,
-
-iPad (9th generation, 2021, A13 chip) or later,
-
-iPad mini (6th generation, 2021, A15 chip) or later,
-
-iPad Pro 11‑inch (3rd generation, 2021, M1 chip) or later
-
-System: iOS 13.0 or higher
-
-■ Supported Specifications
-
-- PC:
-
-Device specifications: PC with Intel® Core™ i5 Processor, 8 GB of RAM, discrete graphics card (Nvidia GeForce GTX 1050 or higher).
-
-System: Windows 10 with 64-bit processor or higher
-
-DirectX Version: 11
-
-- Android:
-
-Device specifications: Android devices with SoC performance equivalent to or better than Snapdragon 835 (Adreno 540), Dimensity 720 (Mali-G57 MC3), or Kirin 810 (Mali-G52 MP6)
-
-RAM: 4 GB or more
-
-System: Android 9 or higher
-
-Compatibility: Incompatible with all PowerVR architecture GPUs, excluding the Imagination D-Series.
-
-- iOS:
-
-Device specifications:
-
-iPhone 8 Plus or later,
-
-iPad (7th generation, 2019, A10 chip) or later,
-
-iPad Pro 10.5-inch (2017, A10X chip) or later
-
-System: iOS 13.0 or higher
-
------
-
 # ["Starlit Homecoming" Event Update Details V4.0](archive/1198.md)
 ## "Starlit Homecoming" Event Update Details V4.0
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/1705d325f7373ec84d0bb24bd712be37_4083294051012986999_transformed.png)
@@ -359,6 +253,446 @@ Successfully challenge the Calyx (Golden) stages in Planarcadia to obtain Univer
 
 -----
 
+# [Version 4.0 "No Aha at Full Moon" Update Details](archive/1192.md)
+## Version 4.0 Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/26/03cb2e7f7c434d511028093a55d3d0fc_8243250803490037755_transformed.png)
+
+Once upon a time in a paradise within the painted scroll, the vacant divine throne smiled, awaiting those who seek godhood to don their masks and entertain the masses. Amidst the scorching fires of the cosmos, the god is nowhere to be found, but THEY left a reward for those who desire the Elation... "One Minute of Godhood."
+
+Dear Trailblazers,
+
+Welcome to Version 4.0 "No Aha at Full Moon"!
+
+### Update and Compensation Details
+
+Version 4.0 will run from after the Version 4.0 update until 2026/03/25 06:00:00 (global).
+
+■ Update Time
+
+Begins at 2026/02/13 06:00:00 (global). The update will take approximately 5 hours.
+
+■ Compensation Details
+
+- Server Maintenance Compensation
+
+Compensation: Stellar Jade ×300
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/02/13 06:00:00 (global)
+
+※ Please claim before the end of Version 4.0.
+
+- Bug Compensation
+
+Compensation: Stellar Jade ×300
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/02/13 06:00:00 (global)
+
+※ Please log in to claim the mail before 2026/03/15 06:00:00 (global).
+
+The Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Be sure to claim it in time.
+
+■ How to Update
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+- PS5®: After entering the game, the game will automatically download and install the update
+
+### Version Update Details
+
+1. New Story
+
+**■ Trailblaze Mission "Planarcadia - No Aha at Full Moon"**
+
+- Once upon a time in a paradise within the painted scroll, the vacant divine throne smiled, awaiting those who seek godhood to don their masks and entertain the masses. Amidst the scorching fires of the cosmos, the god is nowhere to be found, but THEY left a reward for those who desire the Elation... "One Minute of Godhood."
+
+- Availability: Permanently available after the Version 4.0 update
+
+- Participation Requirement: Complete Trailblaze Mission "Amphoreus" - "Fallen Petals, Leave Fading Traces of Fragrance"
+
+※ This Trailblaze Mission can be experienced in advance through the Finality's Vision: Leap of Trailblaze function.
+
+**■ Adventure Missions**
+
+"Millennium Killer" "Thirty First Dates" "The Comic With No Answers" "Bouquet for the Blessed"
+
+2. New Characters
+
+**■ 5-Star Yao Guang (Elation: Physical)**
+
+Yao Guang is a Support character who can trigger additional "Aha Instants." Yao Guang enables all allies' attacks to deal Elation DMG. Additionally, Yao Guang has multiple ways to gain Punchline and can use their Skill to increase all allies' Elation.
+
+**■ 5-Star Sparxie (Elation: Fire)**
+
+Sparxie is a DPS character who deals Elation DMG by continuously consuming Skill Points. Sparxie can produce massive amounts of Punchlines through various means and increase the team's CRIT DMG based on the number of Punchlines.
+
+3. New Light Cones
+
+**■ 5-Star When She Decided to See (Elation)**
+
+Obtainable through the "Brilliant Fixation: When She Decided to See" Light Cone Event Warp.
+
+**■ 5-Star Dazzled by a Flowery World (Elation)**
+
+Obtainable through the "Brilliant Fixation: Dazzled by a Flowery World" Light Cone Event Warp.
+
+**■ 4-Star Mushy Shroomy's Adventures (Elation)**
+
+Can be exchanged with Lucent Afterglow at the "Light Cone Manifest" Store.
+
+※ Explore Planarcadia and reach a certain level of progress to claim the Light Cone "Mushy Shroomy's Adventures (Elation)" ×1 via Furbobocom - Furbobo Freebies.
+
+**■ 4-Star Today's Good Luck (Elation)**
+
+Can be obtained via Select in "Jewels of the Starry Seas" by unlocking "Nameless Glory."
+
+**■ 3-Star Sneering (Elation)**
+
+After the Version 4.0 update, can be obtained via all event warps (except Departure Warp).
+
+**■ 3-Star Lingering Tear (Elation)**
+
+After the Version 4.0 update, can be obtained via all event warps (except Departure Warp).
+
+4. New Outfit
+
+**■ Outfit "Plumblossom Letter"**
+
+During Version 4.0, the outfit "Plumblossom Letter" can be obtained via the event "Fashion Guide of the Cosmos: Winter's Ballad Special Edition" and will be sold at the Outfit Show Window after the event concludes.
+
+**■ Trailblaze Outfit "Vim and Vigor"**
+
+Can be exchanged for items in the "Gift of Stardust" section of the Store using Lone Stardust.
+
+**■ Trailblaze Outfit "Sparkly Rabbit and Fire Shroom"**
+
+Can be exchanged for items in the "Gift of Stardust" section of the Store using Lone Stardust.
+
+**■ Trailblaze Outfit "Raccoon Supplicant Mask"**
+
+Can be obtained by increasing the Furbobocom Bestseller Rank.
+
+**■ Trailblaze Outfit "Ah! Youth!"**
+
+Can be obtained from the "Cosmicon, Roll On!" event.
+
+**■ Trailblaze Outfit "Loading"**
+
+Available for purchase in the "Trendy Headpiece" Giftbox.
+
+5. New Areas
+
+**■ Duomension City**
+
+This is the most bustling city in Planarcadia, and quite possibly the most "Elation"-filled city in the entire universe.
+
+**■ Graphia Academy**
+
+Graphia Academy is an art school founded by a prestigious Planarcadian artist family, dedicated to training "artists."
+
+**■ Dovebrook District**
+
+Duomension City was built along the Dovebrook River, and Dovebrook District used to be the city's bustling hub. But now, for various reasons, Dovebrook District has declined into the most crime-ridden area in all of Planarcadia.
+
+**■ "World's End" Tavern**
+
+The base camp of the Masked Fools, where "World's End" connects to Planarcadia. Some say it's a tavern, others call it just a tiny branch, but most Fools couldn't care less. Please make sure your sense of humor meets the daily standard before entering.
+
+6. New Events
+
+**■ Commencement Reception**
+
+- Log in during the event to claim a limited 5-star character ×1 and the materials to build them to Lv. 60!
+
+- Available Characters: Jing Yuan, Kafka, Dan Heng • Imbibitor Lunae, Jingliu, Sparkle, Acheron, Aventurine
+
+- Event Period: After the Version 4.0 update – end of Version 4.2
+
+**■ Fashion Guide of the Cosmos: Winter's Ballad Special Edition**
+
+- During the event, log in to claim Ruan Mei (Harmony: Ice)'s Outfit "Plumblossom Letter"!
+
+- Event Period: After the Version 4.0 update – 2026/03/25 06:00:00 (global)
+
+- Requirement: Unlock Travel Log
+
+**■ Gift of Arcadia**
+
+- During the event, log in to claim Star Rail Special Pass ×10, Lone Stardust ×600, and Self-Modeling Resin ×3!
+
+- Event Period: After the Version 4.0 update – 2026/03/25 06:00:00 (global)
+
+- Requirement: Unlock Travel Log
+
+**■ A Flip of Fortune**
+
+- During the event, uncover 5 "Fortune Slips" to obtain Stellar Jade x1,600 and an Avatar Reward! Each time you uncover a "Fortune Slip," there is a 0.01% chance to obtain an additional Star Rail Special Pass x100.
+
+- Event Period: After the Version 4.0 update – 2026/03/25 06:00:00 (global)
+
+- Requirement: Unlock Travel Log
+
+※ For more details on the event rules, please read the "A Flip of Fortune" Event Details.
+
+**■ Cosmicon, Roll On!**
+
+- "Cosmicon Collective" is Planarcadia's hottest PvP game, with tons of player guilds all over the city. Recently though, a mysterious Out-Scope guild called the "Mogura Gang" showed up out of nowhere and started demolishing the local wispae players like they were total noobs. You've decided to team up with the famous Detective Ashveil and a certain Xianzhou bigwig who wishes to remain anonymous to take down the Mogura Gang and save Planarcadia's players!
+
+- Event Period: After the Version 4.0 update – 2026/03/23 03:59:00 (server)
+
+- Requirement: Trailblaze Level ≥ 21
+
+※ This content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Planarcadia - The Indifference of Those Who Yet Live" before experiencing this content.
+
+**■ Ding! Arcadia Fun-Time Clock-In Essentials**
+
+- Calling all explorers! Furbobocom has put together "Planarcadia Essentials" just for you. Let your urban adventure begin!
+
+- Event Period: After the Version 4.0 update – 2026/03/23 03:59:00 (server)
+
+- Participation Requirement: Complete Trailblaze Mission "Planarcadia - Here's Your Fifteen Minutes of Fame"
+
+※ Trailblazers can use the Finality's Vision: Leap of Trailblaze function to unlock Trailblaze Missions related to Planarcadia early and complete event targets.
+
+**■ "Novaflare" Character Trial Event**
+
+- During the event, participate in the "Novaflare" character trial event. Enter Challenge Stages with a Team Lineup that includes designated trial characters, and receive Stellar Jade rewards upon successful completion.
+
+- Boosted Characters This Period: Sparkle, Black Swan
+
+- Event Period: After the Version 4.0 update – 2026/03/25 06:00:00 (global)
+
+- Requirement: Unlock Travel Log
+
+**■ Gift of Odyssey**
+
+Log in every day during the event to obtain check-in rewards. Trailblazers can claim Star Rail Special Pass ×10 after checking in for 7 days!
+
+※ Please refer to future announcements for information on other events.
+
+7. Others
+
+■ Enemy
+
+"@SparxiConOfficial," "Canvas Peacock," "Rocking Rebel," "Security Doggo," "Aggressive Reading Material," "Autonomous Wand," "Assistant Graffiti: Slacker," "Assistant Graffiti: Rusher," "Assistant Graffiti: Demander," "Furbo Journalist," "The Ravaged Unconquerable"
+
+■ Currency Wars: Zero-Sum Game Update Details
+
+- New employees added, Ascension Level Cap and rewards expanded, new "Expert Advisor" mechanism and other content added, adjustments to many Bonds and characters, etc. For details, please refer to the official notice: "Currency Wars: Zero-Sum Game Season Expansion Notes V4.0."
+
+- New Employees This Period: The Dahlia, Yao Guang, and Sparxie
+
+- Update Time: After the Version 4.0 update
+
+※ New employees will join Currency Wars immediately after the version update.
+
+■ Gameplay
+
+Anomaly Arbitration's high-difficulty game mode will be updated with the coming version, and players can play it to earn rewards including Lone Stardust, Interference Keys, Self-Modeling Resin, and limited-time avatar frames.
+
+- This Period's Theme: "Anomaly Arbitration: Cyber Crisis"
+
+Treasures Lightward: Regular game modes Pure Fiction, Forgotten Hall: Memory of Chaos, and Apocalyptic Shadow will be refreshed alternately. For more details, see below:
+
+- Pure Fiction: Wordless Novel
+
+2026/02/16 04:00:00 (server) – 2026/03/30 03:59:00 (server)
+
+Each time Punchline is gained, allies will additionally accumulate 2 Grit Value.
+
+- Memory of Chaos: Cyber Mystery
+
+2026/03/02 04:00:00 (server) – 2026/04/13 03:59:00 (server)
+
+At the start of each Wave or Cycle, gain 5 Punchline. Each time Punchline is gained, increases "Memory Turbulence" Charge by a corresponding number of points, up to a max of 50 stacks.
+
+At the start of each Cycle, "Memory Turbulence" deals 1 instance of True DMG to an enemy target based on Charge points.
+
+- Apocalyptic Shadow: Militant Lupine
+
+2026/03/16 04:00:00 (server) – 2026/04/27 03:59:00 (server)
+
+When an enemy unit with "Steadfast Safeguard" is Weakness Broken, all allies are dispelled of control debuffs, restore Skill Points, immediately take action, and Aha immediately gains an extra turn (10 Punchlines are fixed for this turn).
+
+Increases Elation DMG taken by all enemies by 25% and increases Weakness Break DMG by 15%.
+
+■ Stages
+
+Cavern of Corrosion: Path of Possession
+
+Stagnant Shadow: Shape of Soundburst
+
+Bud of Elation: "World's End" Tavern, Bud of The Hunt: "Memortis Shore" Ruins of Time
+
+Planarcadia Region "Calyx (Golden)" Stage Series
+
+■ Relics
+
+Cavern Relic "Ever-Glorious Magical Girl"
+
+Cavern Relic "Diviner of Distant Reach"
+
+■ System
+
+- New Furbobocom Feature: Trailblazers can explore Planarcadia to level up Furbobo Freebies and unlock corresponding rewards. Complete event investigations in Trending Topics and post content on the Furbobo Web Portal to level up the Bestseller Plan and claim its rewards.
+
+■ Others
+
+- New Giftbox "Trendy Headpiece" added. The Contract Shop now features the limited-time bundle "The Herta Contract: Special Pass Refill." For more details, check out the official notice "Version 4.0 Store Updates."
+
+- New items have been added to the "Gift of Stardust" Store for exchange: Trailblaze Outfit "Vim and Vigor," Trailblaze Outfit "Sparkly Rabbit and Fire Shroom," Avatar "Duomension City Mobilization," Avatar "Lend an Ear," and Name Card "Phantasmoon: Blowing." Trailblazers can use Lone Stardust to exchange for rewards in the store.
+
+- New Treasure Gadget "Ballon Furbo" added. When used, it can reveal the location of 1 Basic Treasure on Planarcadia-related maps. Trailblazers can obtain this item by increasing their Furbobocom Bestseller Rank.
+
+- Adds new content such as readable items, Messages, discs, Achievements, data bank entries, and loading screen texts. They will be gradually unlocked during your Trailblaze Progress.
+
+### Adjustments and Optimizations
+
+■ Missions
+
+- Optimizes the text for certain story synopses.
+
+- Adjusts the acceptance method for the Trailblaze Mission "Penacony — The Fool Always Rings Twice" and the Adventure Mission "Cosmic Home Décor Guide." These missions are now triggered by interacting with a specific NPC instead of approaching a trigger point.
+
+■ Gameplay
+
+- "Insight Mode" will be launched for Divergent Universe: Protean Hero, doubling Synchronicity Points earned. For details, please refer to the official notice "Divergent Universe: Protean Hero Update Details V4.0."
+
+■ Events
+
+- "Starlit Homecoming" Returner Event has been updated. For more details, please refer to the official announcement "Starlit Homecoming Event Update Details V4.0."
+
+■ System
+
+- Subsidiary Stat affixes that have yet to be revealed on Relics can now be previewed.
+
+- Adjusts the UI display of some elements in the Navigation.
+
+- Adjusts the interface style of the Quick Lineup.
+
+- Optimizes the experience of adding Support characters to the Team Lineup. Trailblazers can now select Support characters via a dedicated Support button or directly during Quick Lineup.
+
+- Optimizes how Assignments are dispatched. Trailblazers can now select up to 4 Assignments, which will automatically accumulate rewards every hour based on the Assignments chosen. Assignment rewards can be stored for up to 30 hours. Once this limit is reached, rewards will stop accumulating, so please claim them in time.
+
+- Optimizes the teammate lineup recommendation logic in the "Character Guide." Recommended teammates for certain characters may change following updates to the data.
+
+■ Audio
+
+- "Phonograph" now features white noise playback function.
+
+- Optimizes certain dialogue voice lines in the Trailblaze Mission "Amphoreus — Light Slips the Gate, Shadow Greets the Throne", "Before Their Deaths", "The Fall at Dawn's Rise", "Back to Earth in Evernight", and "As Tomorrow Became Yesterday", as well as the Finality Mission "Penacony — Memories are the Prelude to Dreams" when the voice language is set to English.
+
+- Optimizes certain dialogue voice lines in the mission flow of the Adventure Mission "Chrysos Maze Grand Restaurant" when the voice language is set to English.
+
+- Adjusts and optimizes some of the character "March 7th's" interaction voice lines when the voice language is set to Japanese.
+
+- Optimizes certain dialogue voice lines in the mission flow of the Finality Mission "Penacony — Memories are the Prelude to Dreams" when the voice language is set to Japanese.
+
+- Optimizes certain dialogue voice lines in the mission flow of the Trailblaze Mission "Amphoreus — Back to Earth in Evernight" when the voice language is set to Japanese.
+
+- Adjusts some dialogue voice lines in the mission flow of the Trailblaze Mission "Penacony — Cat Among Pigeons" when the voice language is set to Korean.
+
+■ Others
+
+- For characters already equipped with Light Cones or Relics, you can quickly navigate to their Character Details by tapping their avatar in the Inventory.
+
+- Added a discard function for Fuel Vouchers. When the number of Fuel Vouchers in the Inventory reaches the limit, Trailblazers can choose to consume existing Fuel Vouchers or directly discard the excess ones.
+
+### Bug Fixes
+
+■ Characters and Enemies
+
+- Fixes an issue where, under certain circumstances, some effects of the character The Dahlia (Nihility: Fire) Skill would trigger abnormally.
+
+- Fixes an issue where, under specific circumstances, the target selection of the Talent's Follow-Up ATK for the character Feixiao (The Hunt: Wind) and the character Kafka (Nihility: Lightning) in her enhanced state was abnormal.
+
+- Fixes an issue where, under certain circumstances, the character Fu Xuan (Preservation: Quantum)'s Trace "Liuren, the Sexagenary" would abnormally take effect multiple times on certain memosprites.
+
+- Fixes an issue where, under specific circumstances, the action of the "Souldragon" on the Action Order would display abnormally when some memosprites use attacks.
+
+- Fixes an issue where the auto-battle target selection logic for certain characters was abnormal under specific circumstances.
+
+- Fixes issues for certain abnormal character, NPC, and enemy models, visual effects, and movement effects.
+
+■ Combat
+
+- Fixes an issue where some parts of the text description for the Exclusive Effect "Sanctuary of Mooncocoon" were incorrectly underlined during combat.
+
+- Fixes an issue where certain effects of the enemy ability "Respite By The Waters" were behaving abnormally during combat under specific circumstances.
+
+■ Missions
+
+- Fixes an issue where cutscene dialogue subtitles might not display properly after performing certain actions during missions.
+
+■ Gameplay
+
+- Fixes an issue in "Divergent Universe: Protean Hero" where the "Commandment" action added to the Action Order by the enemy "The Past, Present, and Eternal Show (Complete)" would behave abnormally under specific circumstances.
+
+- Fixes an issue in Anomaly Arbitration where the enemy Traits "Quenching," "Unending Refinement," and their ascended Traits did not take effect on Additional DMG.
+
+- Fixes an issue in Anomaly Arbitration where the enemy Trait "Depowered" and its advanced Trait triggered abnormally under certain circumstances. After the fix, effects related to "Restore Energy at the start of the turn" will now function correctly.
+
+- Fixes an issue in the "Chrysos Awoo Championship" where, under specific circumstances, numerical parameters would be missing during chimera showdowns, preventing the showdown from auto-completing.
+
+- Fixes an issue within "Remnants of Twilight" where, during the "Synergy Duo" Challenge, the Follow-Up ATK from the character "Kafka (Nihility: Lightning)" could fail to trigger correctly under certain boosted states.
+
+- Fixes an issue in certain gameplay modes where the "Matrix of Prescience" field created by the Skill of the character Fu Xuan (Preservation: Quantum) would not take effect on the allies "Bloodstained Lupine" or "Hallucinogenic Mermaid" under specific circumstances.
+
+- Fixes an issue where the enemy "Black Tide's Corroded Axe"'s ability "Bitter Fracture" would behave abnormally under certain circumstances in some gameplay modes.
+
+■ Environment Visuals
+
+- Fixes an issue where the screen would display abnormally after interacting with specific Investigate spots in the map "Radiant Feldspar."
+
+■ System
+
+- Fixes an issue where the enemy "Decimator, Karma of Daythunder, Eye of Twilight" was displaying incorrectly in the Data Bank.
+
+- Fixes an issue where some UI elements could display abnormally after performing specific operations in the "Interastral Peace Guide" — "Trailblaze Experience."
+
+- Fixes an issue where the "Tutorials" entries "Conventional Memoir" and "Magflow Link" would not unlock properly under certain circumstances. After the fix, Trailblazers who have met the unlock criteria will automatically unlock the corresponding entries.
+
+■ Audio
+
+- Fixes an issue where some music and sound effects perform abnormally under specific conditions.
+
+- Fixes an issue where some Chinese dialogue voice lines were incorrect when interacting with the Memory Bubble after completing the Trailblaze Mission "Amphoreus — As Tomorrow Became Yesterday."
+
+- Fixes an issue where some dialogue voice lines were incorrect in the mission flow of the Trailblaze Mission "Amphoreus — Back to Earth in Evernight" when the voice language is set to Japanese.
+
+■ Others
+
+- Fixes an issue where certain in-game UI elements displayed abnormally.
+
+- Fixes an issue where the Achievement "Long Day's Journey Into Night" could not be completed.
+
+- Fixes an issue where certain model displays for the Warp Trotter "Complainer" were aberrant.
+
+- In-game texts for 13 languages have been optimized and fixed. These changes do not affect the actual effects. Trailblazers can switch the game language through "Phone — Settings — Language" and view the corresponding changes in the announcement.
+
+- <p style="white-space: pre-wrap; min-height: 1.5em;">
+
+Fixes and optimizations in English include the following (they have no impact on the actual in-game effects):
+
+- Adjusts and optimizes various text content including story dialogues, Item Descriptions, mission descriptions, tutorial guidance, system hints, Relic backstories and effect descriptions, Status Effects, text in "Currency Wars," text in "As I've Written," gameplay-related text, and more.
+
+- Optimizes the descriptions for the Ultimate of the character Black Swan (Nihility: Wind), the Technique of the character Sparkle (Harmony: Quantum), and the Skill of the character Sunday (Harmony: Imaginary).
+
+- Optimizes subtitle text for certain voice lines of characters Jingliu (Destruction: Ice) and Dan Heng • Permansor Terrae (Preservation: Physical).
+
+- Optimizes the ability description of the Light Cone Journey, Forever Peaceful (Preservation).
+
+- Optimizes the description text for the unlocking conditions of the Achievement "The First and Last Freedom".
+
+- Optimized text relating to "Combat".
+
+-----
+
 # [Divergent Universe: Protean Hero Version 4.0 Updates](archive/1184.md)
 ## Divergent Universe: Protean Hero Version 4.0 Updates
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/fd33a9817a31870f2f2335a0bd7fa687_206228622078536494_transformed.png)
@@ -488,812 +822,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 - Fixes an issue where some characters' ability special effects, environment models, gameplay and other aspects may display abnormally when using certain Android devices.
 
 - Fixes an issue where character models in the map "Dream of Gnawing Oak" could abnormally pass through certain environment models.
-
------
-
-# ["Memories are the Prelude to Dreams" Version 3.8 Update](archive/1152.md)
-## Version 3.8 Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/11/26/14ab7a25d025e6865ca1b737a15fa186_8029590341411072392_transformed.png)
-
-Time lies dormant in the ashes, waiting to awaken. Turn the hand of destiny, and write anew the prologue for the lost memories.
-
-Dear Trailblazers,
-
-Welcome to the Version 3.8 "Memories are the Prelude to Dreams"!
-
-### Update and Compensation Details
-
-Version 3.8 will have a special duration that differs from regular versions, and is expected to last around 8 weeks. The version content will be adjusted accordingly. For details, please refer to the official notice "Version 3.8 Duration and Content Information" and "Version 3.8 Delay Compensation Details."
-
-■ Update Time
-
-Begins at 2025/12/17 06:00:00 (global). The update will take approximately 5 hours.
-
-■ Compensation Details
-
-- Server Maintenance Compensation
-
-Compensation: Stellar Jade ×300
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2025/12/17 06:00:00 (global)
-
-※ Please claim before the end of Version 3.8.
-
-- Bug Compensation
-
-Compensation: Stellar Jade ×300
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2025/12/17 06:00:00 (global)
-
-※ Please log in to claim the mail before 2026/01/16 23:59:00 (global).
-
-The Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Be sure to claim it in time.
-
-■ How to Update
-
-- PC: Exit the game, restart the launcher, then click "Update"
-
-- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
-
-- iOS: Enter the App Store and tap "Update"
-
-- PS5®: After entering the game, the game will automatically download and install the update
-
-※ With the start Version 3.8, the iOS system requirements will be adjusted to: iOS 13.0 or above.
-
-### Version Update Details
-
-1. New Story
-
-**■ Finality Mission "Penacony — Memories are the Prelude to Dreams"**
-
-- Time lies dormant in the ashes, waiting to awaken. Turn the hand of destiny, and write anew the prologue for the lost memories.
-
-- Availability: Permanently available after the Version 3.8 update
-
-- Participation Requirement: Complete the Trailblaze Mission "Penacony — Stranger in a Strange Land"
-
-※ This Finality Mission can be experienced in advance through the Finality's Vision: Leap of Trailblaze function.
-
-2. New Character
-
-**■ 5-Star character The Dahlia (Nihility: Fire)**
-
-The Dahlia is a Support character who can deal Super Break DMG to enemies even before they are Broken. She can add extra Weaknesses to enemies and boost Weakness Break Efficiency for all allies in various ways.
-
-3. New Light Cone
-
-**■ 5-Star Never Forget Her Flame (Nihility)**
-
-Obtainable through the "Brilliant Fixation: Never Forget Her Flame" Light Cone Event Warp.
-
-4. New Area
-
-**■ Dream of Gnawing Oak**
-
-Sweet dreams sunken in the Primordial Memory Zone now swarm with the drone of the Propagation. Here, one lie begets another.
-
-5. New Events
-
-**■ Chrysos Awoo Championship**
-
-- Okhema is abuzz with the "Chimera World Tournament"! Assemble your lineup and get ready for spectacular matches against thirteen familiar chimera trainers!
-
-- Event Period: After the Version 3.8 update – 2026/02/09 03:59:00 (server)
-
-- Requirement: Trailblaze Level ≥ 21
-
-※ This content can be experienced in advance through the Finality's Vision function.
-
-※ It's recommended that Trailblazers experience this content after finishing the Trailblaze Mission "Amphoreus — Fallen Petals, Leave Fading Traces of Fragrance."
-
-**■ Remnants of Twilight**
-
-- After the Dawn Device was extinguished, a strangely styled scroll appeared in the Garden of Life. As twilight fades, read the final Aquila enlightenment and challenge the formidable foes inscribed in the Epic.
-
-- Event Period: 2026/01/07 12:00:00 (server) – 2026/02/09 03:59:00 (server)
-
-- Requirement: Trailblaze Level ≥ 21
-
-※ This content can be experienced in advance through the Finality's Vision function.
-
-※ It's recommended that Trailblazers experience this content after finishing the Trailblaze Mission "Amphoreus — Dawn, Shine at the World's End."
-
-**■ Treasure Hunt**
-
-- Consume Trailblaze Power to obtain Treasure Hunt Tickets. Use them to get random rewards and unlock Stellar Jade, plus other rewards based on cumulative draws.
-
-- Event Period: 2026/01/28 04:00:00 (server) — 2026/02/12 03:59:00 (server)
-
-- Requirement: Unlock Travel Log
-
-**■ Gift of Odyssey**
-
-Log in every day during the event to obtain check-in rewards. Trailblazers can claim Star Rail Special Pass ×10 after checking in for 7 days!
-
-※ Please refer to future announcements for information on other events.
-
-6. Others
-
-■ Enemy
-
-Harbinger of Death: Swarm Nightmare
-
-■ Currency Wars: Zero-Sum Game Adjustments Info
-
-- "Currency Wars: Zero-Sum Game" has received a special update, in which numerous characters, bonds, equipment, and investment strategies are strengthened to enhance their performance in high-difficulty matches, while also fixing various anomalies. For details, please check the official notice "Currency Wars: Zero-Sum Game V3.8 Adjustment Info."
-
-- Update Time: After Version 3.8 Update
-
-■ Gameplay
-
-- Anomaly Arbitration: Take on high-difficulty challenges to earn rewards including Lone Stardust, Interference Keys, Self-Modeling Resin, and limited-time avatar frames. Gameplay will be updated with future versions.
-
-This Period's Theme: "Anomaly Arbitration: Dissonance"
-
-- Treasures Lightward: Regular game modes Apocalyptic Shadow, Pure Fiction, and Forgotten Hall: Memory of Chaos will be refreshed alternately. For more details, see below:
-
-Apocalyptic Shadow: Primate Knight
-
-2025/12/22 04:00:00 (server) - 2026/02/02 03:59:00 (server)
-
-When an enemy unit with "Steadfast Safeguard" is Weakness Broken, dispel control debuff for all ally targets, immediately take action, and recover Skill Points.
-
-Increases Break DMG taken by all enemies by 25% and increases Memosprite Skill DMG by 15%.
-
-Pure Fiction: Epic Collection
-
-2026/01/05 04:00:00 (server) - 2026/02/16 03:59:00 (server)
-
-After allies use Skill to attack enemy targets, every enemy target hit additionally accumulates 5 Grit Value for allies.
-
-Memory of Chaos: Breached Nest
-
-2026/01/19 04:00:00 (server) - 2026/03/02 03:59:00 (server)
-
-At the start of each wave, recovers 4 Skill Points for allies. When ally targets use Skills or consume Skill Points, add 1 hit to "Memory Turbulence," stacking up to 15 hits.
-
-At the start of each Cycle, "Memory Turbulence" deals 1 instance of True DMG to a random enemy target with each Hit Per Action.
-
-Apocalyptic Shadow: Dominance of Netherveil
-
-2026/02/02 04:00:00 (server) — 2026/03/16 03:59:00 (server)
-
-When an enemy unit with "Steadfast Safeguard" is Weakness Broken, dispel control debuff for all ally targets, immediately take action, and recover Skill Points.
-
-Increases Break DMG taken by all enemies by 25% and increases Memosprite Skill DMG by 15%.
-
-■ System
-
-- A special story recap view "Oneiric Memoir" will be added to the Version 3.8 Finality Mission sequence, which can be accessed from the top-right corner of the mission interface.
-
-- "Team Lineup" screen adds Path switching function: Trailblazers can now quickly switch character Paths directly in the lineup screen without having to navigate to character details.
-
-- "Team Lineup" now supports saving "Team Presets": After saving as a preset, the current Path of multi-Path characters in this team will be locked and won't be affected by Path switches of the same character in other scenes.
-
-■ Others
-
-- Adds an expiration reminder for Express Supply Passes. Trailblazers who have purchased Express Supply Passes will receive a mail when their Passes are about to expire or after expiration.
-
-- When playing on PC in windowed mode, clicking the close button in the top-right corner will now trigger a confirmation popup to prevent accidentally exiting the game. Rapidly clicking multiple times will bypass the popup and close the game directly.
-
-- When playing on mobile devices, a new "Pre-compile Shaders on Login" switch has been added to "Settings — Graphics." Trailblazers can enable this feature (Android users need to switch to Normal Mode via "Settings — Graphics — Display Settings"). Once enabled, the first login after future version updates will include a pre-compilation process, reducing performance impact from shader compilation during gameplay and optimizing the Trailblazers' gaming experience.
-
-- Adds new content such as readable items, Messages, discs, Achievements, data bank entries, and loading screen texts. They will be gradually unlocked during your Trailblaze Progress.
-
-### Adjustments and Optimizations
-
-■ Combat
-
-- Adjusts the Ultimate usage logic for certain characters during auto-battle under specific conditions.
-
-■ Gameplay
-
-- "Divergent Universe: Protean Hero" update adds a new adventure domain, Balloon Bonanza, along with new Equations, Curios, Weighted Curios, and Occurrences, while expanding the Synchronicity Level Cap and rewards. For more details, please refer to the official announcement "Divergent Universe: Protean Hero Version 3.8 Updates."
-
-- In Apocalyptic Shadow, the Boss information button text "Do not show in this difficulty" has been changed to "Do not show again within this period." Once checked, the boss information will no longer be displayed for subsequent nodes in this period.
-
-■ Environment Visuals
-
-- Optimizes puzzle-solving experience in the "Nightmare's Echo: Great Tomb of the Nameless Titan" scene.
-
-■ System
-
-- Due to the special duration of Version 3.8, the end time displayed in "Travel Log" and "Journey Highlights" will be updated later. Please refer to the in-game display for final details.
-
-- Adjusts the order of some achievements.
-
-■ Audio
-
-- When the voice language is set to English, the voice artist for character The Dahlia (Nihility: Fire) has been replaced in the dialogues during Version 2.1 Trailblaze Missions.
-
-- Adds English voice-over resources for the character Firefly (Destruction: Fire) and her mech in Trailblaze Missions of Version 3.0 and 3.2.
-
-- Adds some interaction voice lines for Asta (Harmony: Fire) and English voice-over resources for Trailblaze Missions of Version 2.7.
-
-- Adds English voice-over resources for character Hook (Destruction: Fire) in the Trailblaze Continuance "Sweet Dreams and the Holy Grail" of Version 3.4.
-
-- Adds English voice-over resources for Trailblazer (Male) and Trailblazer (Female) in Version 2.7 Trailblaze Missions and Adventure Mission "Cosmic Home Décor Guide."
-
-- Adds English voice-over interactions for character Arlan (Destruction: Lightning).
-
-- Optimizes some English interaction voice lines for character Anaxa (Erudition: Wind).
-
-- Adjusts and optimizes certain English dialogue voice lines in the mission flow of the Trailblaze Missions "Amphoreus — Back to Earth in Evernight," "Before Their Deaths," and "As Tomorrow Became Yesterday."
-
-- Adjusts and optimizes certain Japanese dialogue voice lines in the mission flow of the Trailblaze Missions "Amphoreus — Heroic Saga of Flame-Chase" and "As Tomorrow Became Yesterday."
-
-- Optimizes certain Japanese dialogue voice lines in the mission flow of the Adventure Mission "Saga of Primaveral Blade."
-
-- Adjusts and optimizes some dialogue voice lines in the mission flow of the Trailblaze Mission "Amphoreus — As Tomorrow Became Yesterday" when the voice language is set to Korean.
-
-- Adjusts some Korean dialogue voice lines in the mission flow of the Trailblaze Mission "Penacony — The Sound and the Fury."
-
-■ Others
-
-- Optimizes the display information for Limited-Time Events in Travel Log. Adds gameplay type tags and the amount of obtainable Stellar Jade rewards.
-
-### Bug Fixes
-
-■ Characters and Enemies
-
-- Fixes an issue where certain special effects would display abnormally after character Cyrene (Remembrance: Ice) triggered her idle animation.
-
-- Fixes an issue where Memosprite Demiurge would be abnormally inflicted with crowd control debuffs under specific circumstances.
-
-- Fixes an issue where the Technique Buff would occasionally fail to take effect when Dan Heng • Permansor Terrae (Preservation: Physical) uses his Technique again after initial use under certain circumstances.
-
-- Fixes the issue where "Military Merit" charging was abnormal under specific circumstances when the character Cerydra (Harmony: Wind) possesses the "Ode to Law" buff.
-
-- Fixes an issue where the damage cap recorded by character Cipher (Nihility: Quantum)'s Talent was abnormal under specific circumstances.
-
-- Fixes an issue where the character Blade (Destruction: Wind) would experience abnormal Talent charge stacking under specific combat conditions.
-
-- Fixes issues for certain abnormal character, NPC, and enemy models, visual effects, and movement effects.
-
-- Fixes an issue where the enemy "Flame Reaver of the Deepest Dark" had abnormal effects when using the "Lost Sacrifice" ability under certain circumstances.
-
-■ Combat
-
-- Fixes an issue where certain effects that provide additional Toughness reduction were abnormally affecting Super Break DMG.
-
-- Fixes an issue where, under certain circumstances, when ally characters attack enemies to enter combat, some Toughness-Reducing effects on enemy targets were not triggering properly.
-
-- Fixes an issue where the game process could occasionally become abnormal when retreating from combat or temporarily leaving under specific circumstances.
-
-- Fixes an issue where the camera angle could occasionally glitch when the enemy "Ichor Memosprite: Pheasant" uses the ability "Hemotort Graze" during combat.
-
-■ Missions
-
-- Fixes an issue where some texts in Enemy Details and Stage Information were incorrect during combat with the enemy "Anti-Creator, Hatred Inundate" in the Trailblaze Mission "Amphoreus — As Tomorrow Became Yesterday."
-
-- Fixes an issue where the story cutscene in the Trailblaze Mission "Amphoreus — Silver Chariot, Away to that Blackened Land" could become abnormal under certain circumstances.
-
-- Fixes an issue where the story cutscene in the Trailblaze Mission "Amphoreus — Fallen Petals, Leave Fading Traces of Fragrance" could become abnormal under certain circumstances.
-
-- Fixes an issue where certain story cutscene visuals in the Trailblaze Mission "Penacony — Beauty and Destruction" could become abnormal under certain circumstances.
-
-- Fixes an issue where players were unable to interact with NPC Asta under specific circumstances during the Adventure Mission "As I've Written."
-
-■ Currency Wars Major Bug Fixes
-
-- Fixes an issue where the character Jade couldn't properly designate "Debt Collector" after "Astral Express" collided with enemies under certain circumstances at the start of combat.
-
-- Fixes an issue where the character Hyacine (4-star) wasn't correctly receiving Cyrene's "Epic of Chrysos" buff.
-
-- Fixes an issue where the character Tingyun would charge memosprites while off-field.
-
-- Fixes an issue where the character Feixiao (1-star) had incorrect stack limit for permanent Follow-Up ATK DMG increase per battle.
-
-- Fixes an issue where after the character Yunli parried DMG for ally characters, the affected character's subsequent DMG taken would abnormally decrease under certain conditions.
-
-- Fixes an issue where when the character Evernight was off-field, the Vulnerability effect provided by "Darkest Riddle" would be abnormally cleared when boss enemies entered their next phase.
-
-- Fixes an issue where the character Sparkle's CRIT DMG boost duration wasn't properly refreshed after using Ultimate while off-field.
-
-- Fixes an issue where the character Silver Wolf's "Fatal Bug" would be abnormally dispelled under certain conditions.
-
-- Fixes an issue where the character Fu Xuan would abnormally heal ally memosprites while off-field.
-
-- Fixes an issue where the characters Fu Xuan (on-field) and Luocha (on/off-field) equipped with "Caloric Overload" couldn't take action correctly under certain conditions.
-
-- Fixes an issue where the character Mydei's "Godslayer Be God" wasn't correctly reducing enemy Toughness while on-field.
-
-- Fixes an issue where the character Jing Yuan had abnormal "Lightning-Lord" stack accumulation under certain conditions.
-
-- Fixes an issue where in the boss battle against Stellaron Hunter Kafka, certain characters and memosprites would deal abnormally high DMG when randomly attacking ally targets after being "Dominated."
-
-- Fixes an issue where the affix "Permanent Trauma" would abnormally reduce character Max HP to 1 under certain conditions.
-
-- Fixes an issue where the affix "Synchronized Action" would cause abnormal action advance effects under certain conditions.
-
-- Fixes an issue where the character Evernight's memosprite could incorrectly trigger the DMG Amplification effect from the Investment Strategy "Bloody Ascent" and the equipment "Bloodthirsty," and also incorrectly trigger the Investment Strategy "Tactical Eyepiece+/++" under certain circumstances.
-
-- Fixes an issue where an extra Follow-Up ATK of the character Feixiao could be triggered in certain situations.
-
-- Fixes an issue where ally targets' SPD changes cause abnormality in the action value when a character has "Photon Shield" equipped under certain circumstances.
-
-■ Currency Wars Other Bug Fixes
-
-- Adjusts the character selling area range for certain tablet devices in "Currency Wars: Zero-Sum Game."
-
-- Adjusts some UI elements for "Cyrene's Poems" in "Currency Wars: Zero-Sum Game."
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where the Speed Amplification display in character stats details was incorrect under specific circumstances. This fix does not affect the actual speed of characters.
-
-- Fixes an issue where some effect text for the School Bond "Energy" in "Currency Wars: Zero-Sum Game" was incorrect. This fix is for text only and doesn't affect the actual effects.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where some basic effects of the School Bond "Quantum Resonance" were being abnormally dispelled under specific circumstances.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where the experience gained by borisin during the preparation phase was displaying abnormally after activating the Faction Bond "Wolf Hunt" under specific circumstances.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where some text description in the tier effects of Faction Bond "Express Cohort" was incorrect. This fix is for text only and doesn't affect the actual effects.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where certain effects in Blade (Destruction: Wind)'s Character Empowerment were not working correctly. After the fix, the effect is now consistent with the Character Empowerment description.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where ally characters would take abnormal damage under specific conditions when Fu Xuan (Preservation: Quantum) was off-field.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where certain effects in Jade (Erudition: Quantum)'s Character Empowerment were not working correctly. After the fix, the effect is now consistent with the Character Empowerment description.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where certain effects in the Character Empowerment of Topaz & Numby (The Hunt: Fire) were not working properly.
-
-- Fixes an issue with incorrect Character Empowerment text descriptions when the character Mydei (Destruction: Imaginary) reaches 4 stars in "Currency Wars: Zero-Sum Game." This fix does not affect the actual effects.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where the Memosprite Talent effect of memosprite Mem was not properly activating under specific conditions.
-
-- Fixes an incorrect description in the investment strategy "Doctoral Studies" in "Currency Wars: Zero-Sum Game." This fix is for text only and doesn't affect the actual effects.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where "Advantage Layout" - "Power Reduction" wasn't taking effect under specific conditions when holding the investment strategy "Resolution: Planet of Entertainment."
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where the effects of Investment Environments "Economic Overheat" and "Economic Hyperheat" were not working correctly under specific circumstances.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where bond information was displayed incorrectly in the match record when holding the "Diversified Team" investment strategy.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where enemies with the "Purity of Flesh and Mind" affix would restore HP multiple times under specific circumstances.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where enemy Cocolia would abnormally cast "Reverberating Ice" multiple times under specific conditions when having the "Cryogenic Hibernation" affix.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where enemy target count and positions would display abnormally under specific circumstances.
-
-- Fixes an issue where the preparation phase interface in "Currency Wars: Zero-Sum Game" could display abnormally under specific circumstances.
-
-- Fixes an issue in "Currency Wars: Zero-Sum Game" where the Skill Point UI would display abnormally under certain conditions.
-
-- Fixes an issue with incorrect target descriptions in "Expected Profit" - "Ultimate Game" section of "Currency Wars: Zero-Sum Game."
-
-- Fixes incorrect node descriptions in "Advantage Layout" - "Seasonal Advantage" section of "Currency Wars: Zero-Sum Game."
-
-■ Gameplay
-
-- Fixes an issue with incorrect effect description text for Equation "Oathkeeper" in Divergent Universe: Protean Hero. This fix does not affect its actual effects.
-
-- Fixes an issue in "Divergent Universe: Protean Hero" where enemy Cocolia (Complete)'s summons were behaving abnormally under specific circumstances.
-
-- Fixes an issue where some effects of the "Berserker" Equation in "Divergent Universe: Protean Hero" would glitch under specific circumstances.
-
-- Fixes an issue where some special effects may display abnormally in some gameplay modes after the Trailblazer's Path is switched under specific circumstances.
-
-- Fixes an issue where some animation effects in the "Spirithief's Trickery" gameplay could occasionally appear abnormal.
-
-■ Environment Visuals
-
-- Fixes map errors in the "Radiant Scarwood" Grove of Epiphany under Navigation.
-
-- Fixes an issue where room construction would display abnormally after prematurely unlocking the Trailblazer's room under specific circumstances.
-
-- Fixes an issue with the Anaxa model display in the scene "Beyond Time: An Eternal Page."
-
-■ System
-
-- Fixes an issue where some cutscenes were playing in the wrong order when using the "Story Recap" feature.
-
-■ Audio
-
-- Fixes an issue where some Chinese dialogue voice lines were incorrect in the mission flow of the Trailblaze Mission "Amphoreus — Traverse Stars and Stride Cosmos."
-
-- Fixes an issue where some Chinese dialogue voice lines were incorrect in the mission flow of the Trailblaze Mission "Amphoreus — The Witch's Ardent Research."
-
-- Fixes an issue where some English dialogue voice lines were incorrect in the mission flow of the Trailblaze Mission "Amphoreus — As Tomorrow Became Yesterday."
-
-- Fixes an issue where some Japanese dialogue voice lines were incorrect in the mission flow of the Trailblaze Continuance "Penacony — Sweet Dreams and the Holy Grail."
-
-- Fixes an issue where some Korean dialogue voice lines were incorrect in the mission flow of the Trailblaze Mission "Amphoreus — As Tomorrow Became Yesterday."
-
-- Fixes an issue where some voice lines were incorrect in the story "Flawless Ego" in "As I've Written" — "Amphoreus' Saga of Heroes" when the voice language was set to Korean.
-
-- Fixes an issue where some music and sound effects perform abnormally under specific conditions when using PS5™ devices.
-
-■ Others
-
-- Fixes an issue where certain in-game UI elements displayed abnormally.
-
-- Fixes an issue where the Achievement "You Can Always Trust Dan Heng" could not be completed.
-
-- Fixes an issue where the "Conventional Memoir" icon abnormally vanished on some event pages in "Travel Log."
-
-- Fixes incorrect description text for the home decoration "Bloodcrystal Goblet."
-
-- Fixes an issue where some tracks in the Phonograph had display durations that did not match their actual playback durations. After the fix, the displayed time now correctly matches the actual playback.
-
-- In-game texts for 13 languages have been optimized and fixed. These changes do not affect the actual effects. Trailblazers can switch the game language through "Phone — Settings — Language" and view the corresponding changes in the announcement.
-
-Fixes and optimizations in English include the following (they have no impact on the actual in-game effects):
-
-- Adjusts and optimizes various text content, including story dialogues, readable items, plot summaries, mission descriptions, system hints, tutorial guidance, rule descriptions, item descriptions, status effects, enemy ability descriptions, text in Currency Wars and Simulated Universe, gameplay-related descriptions, and more.
-
-- Adjusts and optimizes the effect description text of Eidolon 6 characters Blade (Destruction: Wind) and Kafka (Nihility: Lightning).
-
-- Adjusts and optimizes the description text for character Firefly (Destruction: Fire)'s Ultimate and some of Aventurine (Preservation: Imaginary)'s Traces.
-
-- Adjusts and optimizes certain character story text for Feixiao (The Hunt: Wind).
-
-- Adjusts and optimizes the ability descriptions for Light Cones Past Self in Mirror (Harmony) and Journey, Forever Peaceful (Preservation).
-
-- Adjusts and optimizes some effect description text for the Planar Ornament "Duran, Dynasty of Running Wolves."
-
-- Fixes an issue where certain character story text for Dan Heng • Permansor Terrae (Preservation: Physical) and Anaxa (Erudition: Wind) was incorrect.
-
-- Fixes an issue with incorrect subtitle text for the character voice lines of Anaxa (Erudition: Wind) and Feixiao (The Hunt: Wind).
-
-- Adjusts and optimizes some descriptions related to "Follow-Up ATK", "Enter Combat", and "Target."
-
-- Adjusts and optimizes the Achievement name "A 4-Star Daydream."
-
------
-
-# [Currency Wars: Zero-Sum Game V3.8 Adjustments Info](archive/1157.md)
-## Currency Wars: Zero-Sum Game V3.8 Adjustments Info
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/10/34a321938f10bd165c781cea8bbfb50d_1725887919135774241_transformed.jpg)
-
-"Currency Wars: Zero-Sum Game" has received a special update! The Strategic Investment Department has **strengthened numerous characters, bonds, equipment, and investment strategies** to enhance their performance in high-difficulty matches, while also fixing various anomalies.
-
-We will continue to **optimize the Currency Wars experience** periodically to make the gameplay even more rich and engaging!
-
-### Update Period
-
-After the Version 3.8 update
-
-### General Mechanics
-
-● Fixes an issue where DoT damage type could incorrectly trigger Lucky Strike.
-
-Based on this, we have increased the power of the DoT Bond.
-
-● DoT Bond: Increases the DoT Amplification provided by the Bond effect.
-
-● Enhances damage directly caused by Bonds, which increases progressively with Node advancement in the plane.
-
-For example, the "Lightning-Lord" summoned by the Xianzhou Bond will now deal increased damage as Nodes progress.
-
-Bonds enhanced: Express Cohort, Belobog, Xianzhou, Wolf Hunt, Break, AoE ATK, Energy, DoT.
-
-● The maximum Shield Effect of certain effects will receive smoother increases as Nodes progress.
-
-### Characters & Bonds
-
-▌ General Character Adjustments
-
-■ Characters' base SPD increases with their Cost. Higher Cost characters receive larger SPD increases.
-
-Characters who rely on their SPD to deal more DMG, such as Dan Heng • Imbibitor Lunae, Dr. Ratio, and Anaxa, can take more actions, while high-Cost characters like Boothill, Silver Wolf, Yanqing, Jing Yuan, Archer, and Firefly will benefit more from this change.
-
-■ Enhances the healing and Support capabilities of certain healing-focused characters, such as Natasha, Lingsha, Luocha, and Fu Xuan.
-
-● Natasha: Increases the DMG Boost effect provided by "Gift" as well as the Outgoing Healing from Empowerment.
-
-● Lingsha: Increases the maximum action count for each "Fuyuan" as well as Outgoing Healing from Empowerment.
-
-● Luocha: Increases the DMG Boost effect from the Zone and the Outgoing Healing provided by the Zone.
-
-● Fu Xuan: When Fu Xuan is 2/3 stars, decreases the number of enemies required to be defeated to regain "Flip" charges.
-
-▌ Enhanced Bonds and Related Characters
-
-■ Wolf Hunt, Follow-Up ATK
-
-● Wolf Hunt Bond: Increases the DMG and SPD of "Borisin" at all levels, and enhances the Lucky Strike bonus it provides to the squad.
-
-● Follow-Up ATK Bond: Increases the DMG multiplier of Unified Attack, and enhances the Follow-Up ATK DMG Amplification provided with each consecutive action.
-
-Related Characters: Simultaneously enhances Moze, Feixiao, Lingsha, Topaz & Numby.
-
-● Moze: Increases off-field Follow-Up ATK DMG multiplier.
-
-● Feixiao: Increases base DMG. Higher chance of additional Follow-Up ATK after performing a Follow-Up ATK. Increases permanent Follow-Up ATK DMG Boost multiplier after triggering Follow-Up ATK.
-
-● Lingsha: Increases the maximum action count for each "Fuyuan" as well as Outgoing Healing from Empowerment.
-
-● Topaz & Numby: Increases Numby's DMG multiplier against all enemies.
-
-■ Cosmic Scholar, AoE ATK
-
-● Cosmic Scholar Bond: "Cake Cat" will provide DMG Mitigation to the squad based on its level, while the bond effect will also provide additional On-Field/Off-Field Strength.
-
-● AoE ATK Bond: Adds the Lucky Strike DMG effect for "AoE ATK" members. Increases the 5/7/9 AoE ATK bond tier effects.
-
-● 5 AoE ATK: Adds "Borrowed Force" that can fire lasers to deal DMG.
-
-● 7/9 AoE ATK: Additionally increases DMG dealt to Boss Enemies.
-
-Related Characters: Enhances Herta, Jade, Argenti, Anaxa, and Jing Yuan. Among them, the enhanced Herta, Jade, and Argenti will help teams better overcome early-game challenges.
-
-● Herta: Increases base DMG. Increases DMG multiplier for off-field Follow-Up ATK.
-
-● Jade: Increases DMG multiplier for Follow-Up ATK.
-
-● Argenti: Increases base DMG.
-
-● Anaxa: Increases DMG multiplier for off-field Skill.
-
-● Jing Yuan: Increases initial SPD of "Lightning-Lord." Increases SPD gain per stack and DMG multiplier for each hit.
-
-■ Skill Point
-
-● Skill Point Bond: Adds a SPD Amplification effect for the squad, which increases with Bond level. Squad members with Skill Point bond receive double the SPD Amplification.
-
-Related Characters: Enhances Dan Heng • Imbibitor Lunae and Archer. Additionally, they will gain more action opportunities due to the SPD Amplification from the Bond.
-
-● Dan Heng • Imbibitor Lunae: Increases probability of gaining "Squama Sacrosancta" after teammates consume Skill Points. Increases DMG multiplier for each Skill Point consumed by Dan Heng • Imbibitor Lunae.
-
-● Archer: Increases Skill DMG multiplier for each Skill Point consumed. Additionally, the independent Mage Bond has been strengthened, allowing for more temporary equipment to be materialized. 3-star Archer has also been enhanced to be able to fire more arrows in a single turn!
-
-■ Debuff, Break, Galaxy Ranger, Stellaron Hunter
-
-● Debuff Bond: Increases the 4/6/8 Bond tier effects. Each stack of "Afterburn" has increased True DMG multiplier, "Afterburn" applies DMG reduction to enemies, enhancing ally survivability. The Bond effect will also provide additional On-Field and Off-Field Strength.
-
-● Break Bond: Increases the Super Break DMG multiplier provided by the Bond effect. Removes the action delay effect of "Shockwave," allowing enemies to be broken more times. The Bond effect will also provide additional On-Field and Off-Field Strength.
-
-● Galaxy Ranger Bond: Increases the DMG Amplification and SPD Amplification provided by the Bond effect.
-
-● Stellaron Hunter Bond: Increases the HP Amplification and DMG Amplification provided by the Bond effect.
-
-Related Characters: Enhances Rappa, Boothill, Lingsha, Yanqing and Firefly.
-
-● Rappa: Optimizes Rappa's Empowerment effect and adjusts it to "Enhanced Basic ATK's Toughness Reduction increases. After an enemy's Weakness is Broken, Rappa deals bounce DMG to them." Additionally, increases Break DMG multiplier from her Empowerment.
-
-● Boothill: Increases base DMG. Increases bounce DMG ratio for Enhanced Basic ATK and additional Toughness-Reducing effect for Ultimate.
-
-● Lingsha: Increases the maximum action count for each "Fuyuan" as well as Outgoing Healing from Empowerment.
-
-● Yanqing: Increases the Energy Yanqing regenerates if debuffs are inflicted upon enemies when squad members take action.
-
-● Firefly: Increases base DMG.
-
-■  Bloodflame Bond: "Bloodflame Arena" gains SPD Boost and increased DMG multiplier.
-
-### Equipment
-
-■ General Equipment Adjustments
-
-● Fixes an issue where the "Initial Energy" equipment stat was not taking effect in combat when the character was on-field.
-
-As a result, advanced equipment synthesized from "Photon Cell" (except for "Perpetual Engine") can now correctly provide additional energy to equipped characters at the start of battle.
-
-● Adjusts recommended equipment catalogs for certain characters.
-
-■ Equipment Adjustments
-
-● "Firestorm Surge": Increases the stackable On/Off-Field Strength per stack, allowing for better performance when stacked to sufficient levels.
-
-● "Lightning Boots": Increases the percentage of Energy restored at the start of turn.
-
-● "Bloodthirsty": Reduces the number of enemy defeats required, allowing faster access to DMG Amplification effects in combat.
-
-● "Decapitation Operation": Increases the DMG Amplification against Elite and Boss enemies for the wearer.
-
-● "Pun Generator": Increases the maximum Lucky Strike stacks when using Ultimate.
-
-● "Wormhole Drill": Increases the Break Effect provided by the equipment.
-
-● "Photon Shield": Additionally provides bonus "Initial Energy" equipment stats.
-
-※ The corresponding privileged equipment will also be adjusted accordingly.
-
-### Nodes
-
-● Reduces enemy SPD and ATK in Encounter nodes.
-
-● Increases rewards for difficulty level 3 and 4 Encounter nodes in Plane 1.
-
-● Increases Gold Coin rewards in Reward nodes.
-
-### Investment Environments and Strategies
-
-● "Economic Overheat"/"Economic Hyperheat": Reduces the HP of Warp Trotters, making them easier to catch!
-
-● "Cost Reduction": Increases the number of free character purchases.
-
-● "Massive Layoffs": Increases the number of free refreshes.
-
-● "Struggle Protocol": Reduces HP consumption when purchasing Experience.
-
-● "Resolution: Planet of Entertainment": Reduces Gold Coin requirements for converting to Reward Nodes, and Encounter Nodes can now be converted to Reward Nodes.
-
-● "Personnel Restructuring": "Removes all characters from the field and preparation area" changed to "Sells all characters on the field and preparation area." Now, you'll get the Gold Coins you deserve for selling them.
-
-● "Volley of Arrows": Increases base arrow count and Wind Arrow multiplier. Wind Arrow DMG will gradually increase as nodes progress.
-
-● "Doctoral Studies": Optimizes description to match actual effects.
-
-### Other Major Bug Fixes
-
-● Fixes an issue where the character Jade couldn't properly designate "Debt Collector" after "Astral Express" collided with enemies under certain circumstances at the start of combat.
-
-● Fixes an issue where the character Hyacine (4-star) wasn't correctly receiving Cyrene's "Epic of Chrysos" buff.
-
-● Fixes an issue where the character Tingyun would charge memosprites while off-field.
-
-● Fixes an issue where the character Feixiao (1-star) had incorrect stack limit for permanent Follow-Up ATK DMG increase per battle.
-
-● Fixes an issue where after the character Yunli parried DMG for ally characters, the affected character's subsequent DMG taken would abnormally decrease under certain conditions.
-
-● Fixes an issue where when the character Evernight was off-field, the Vulnerability effect provided by "Darkest Riddle" would be abnormally cleared when boss enemies entered their next phase.
-
-● Fixes an issue where the character Sparkle's CRIT DMG boost duration wasn't properly refreshed after using Ultimate while off-field.
-
-● Fixes an issue where the character Silver Wolf's "Fatal Bug" would be abnormally dispelled under certain conditions.
-
-● Fixes an issue where the character Fu Xuan would abnormally heal ally memosprites while off-field.
-
-● Fixes an issue where the characters Fu Xuan (on-field) and Luocha (on/off-field) equipped with "Caloric Overload" couldn't take action correctly under certain conditions.
-
-● Fixes an issue where the character Mydei's "Godslayer Be God" wasn't correctly reducing enemy Toughness while on-field.
-
-● Fixes an issue where the character Jing Yuan had abnormal "Lightning-Lord" stack accumulation under certain conditions.
-
-● Fixes an issue where in the boss battle against Stellaron Hunter Kafka, certain characters and memosprites would deal abnormally high DMG when randomly attacking ally targets after being "Dominated."
-
-● Fixes an issue where the affix "Permanent Trauma" would abnormally reduce character Max HP to 1 under certain conditions.
-
-● Fixes an issue where the affix "Synchronized Action" would cause abnormal action advance effects under certain conditions.
-
-● Fixes an issue where the character Evernight's memosprite could incorrectly trigger the DMG Amplification effect from the Investment Strategy "Bloody Ascent" and the equipment "Bloodthirsty," and also incorrectly trigger the Investment Strategy "Tactical Eyepiece+/++" under certain circumstances.
-
-● Fixes an issue where an extra Follow-Up ATK of the character Feixiao could be triggered in certain situations.
-
-● Fixes an issue where ally targets' SPD changes cause abnormality in the action value when a character has "Photon Shield" equipped under certain circumstances.
-
-※ For details regarding other issues, please refer to the Version Update Notes.
-
-### "Currency Wars: Zero-Sum Game" Version 4.0 Expansion Preview
-
-● "Currency Wars" is expanding in Version 4.0. New staff members, new Investment Environments, and more content await your experience! The Strategic Investment Department will introduce you to:
-
-● The Dahlia and new characters from 4.0 will join the "Currency Wars" system as new staff members.
-
-● After the season expansion, some characters will become "Expert Advisors"! As Expert Advisors, they will no longer participate in normal Store recruitment. You can unlock them through various methods in the match. Once unlocked, they can be purchased from the Store, upgraded, and equipped with gear just like other employees in the current run. They will also possess the Bonds they previously had.
-
-● Expert Advisors will have exclusive Investment Environments and Investment Strategies. Exclusive Investment Environments and Strategies can provide unique buff effects for these Expert Advisors, offering a different experience.
-
-● Additionally, we will be adding new Investment Environments, Investment Strategies, and more to enrich your gameplay experience.
-
-● Of course, Ascension Levels will be expanded too! Get ready to experience the enhanced Currency Wars in Version 4.0!
-
------
-
-# ["Memories are the Prelude to Dreams" Finality Mission Guide](archive/1147.md)
-## "Memories are the Prelude to Dreams" Finality Mission Guide
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/11/20/3ddf7ec22216b9774bc91ef2846d22ca_6811174186318119679_transformed.png)
-
-Time lies dormant in the ashes, waiting to awaken. Turn the hand of destiny, and write anew the prologue for the lost memories.
-
-### Availability
-
-Permanently available after the Version 3.8 update
-
-### Unlock Requirement
-
-Complete the Trailblaze Mission "Penacony — Stranger in a Strange Land"
-
-※ This mission can be experienced in advance through the "Finality's Vision: Leap of Trailblaze" function.
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/12/08/833677507b751bbfc1ac1fa59ad78b8e_5601184454372627272_transformed.png)
-
------
-
-# [Version 3.8 Delay Compensation Details](archive/1163.md)
-## Version 3.8 Delay Compensation Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/07/426b560db61739afe671dfd28943a5e8_8291989043771227107.jpg)
-
-Dear Trailblazers,
-
-We sincerely apologize for the poor experience and inconvenience caused by the extension of Version 3.8.
-
-The Express Crew will issue **Stellar Jade ×1,000 and Fuel ×10** to every Trailblazer who has unlocked the mail feature after 2025/12/08 12:00:00 (global).
-
-Currently, the Express Crew is constantly working on Version 4.0's game content. As such, we have extended the duration of Version 3.8, in hopes to give Trailblazers a better experience in the next world, "Planarcadia."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/12/07/6fd1857eff837625a7675794f32a98ea_3152062693235028079_transformed.jpg)
-
-The threat of Destruction compelled the cosmos to unite once again, and everyone now looks toward other Aeons involved. The Express once crashed into and departed from "Planarcadia." There, Aha graced the pursuers of Elation with a reward: join THEIR game and become an "Aeon" for a minute.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/12/07/079505e99a3f10a57b0931b8ed962776_3025129629912521129_transformed.png)
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/12/07/0191189004cdc60ecc4628aa36a1d020_4052938678566831977_transformed.png)
-
-※ Version in development. Please regard the launch version as final.
-
-Thank you for your continuous support and understanding, Trailblazers. See you in "Planarcadia."
-
------
-
-# [Version 3.8 Duration and Content Information](archive/1156.md)
-## Version 3.8 Duration and Content Information
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/03/0b6f0744a3dad73ae24134aabdfae78e_4797146101810615127_transformed.jpg)
-
-Dear Trailblazers,
-
-Version 3.8 will have a special duration that differs from regular versions, and is expected to last around **8 weeks**.
-
-The following adjustments will be made to certain version contents:
-
-### Version 3.8 Duration
-
-**After the Version 3.8 update — 2026/02/13 06:00:00 (global)**
-
-### Version Events
-
-- Version events "Chrysos Awoo Championship," "Remnants of Twilight," and "Gift of Odyssey" will remain active until **the end of Version 3.8**. For more information, please stay tuned for our upcoming official announcements.
-
-- At the end of Version 3.8, the "Treasure Hunt" event will begin. During the event, consume a set amount of total Trailblaze Power and participate in event gameplay to obtain Self-Modeling Resin, Stellar Jades, and other rewards.
-
-### Double Rewards Event
-
-- During Version 3.8, **three double rewards events** will be available: Planar Fissure, Realm of the Strange, and Garden of Plenty. For more information, please stay tuned for our upcoming official announcements.
-
-### Currency Wars & Simulated Universe
-
-- After the Version 3.8 update, "Currency Wars: Zero-Sum Game" will receive an **adjustment**. For more information, please stay tuned for our upcoming official announcements.
-
-- Due to the special duration of this version, the time of next expansion displayed in-game for "Currency Wars: Zero-Sum Game" will be updated later. Please refer to the in-game display for final details.
-
-- During Version 3.8, the points of Currency Wars and Simulated Universe, and the Divergent Universe: Cyclical Extrapolation will continue their **regular rotation updates**.
-
-### Treasures Lightward
-
-- In Version 3.8, in addition to the regular phases of Apocalyptic Shadow, Pure Fiction, and Memory of Chaos, **a new phase of Apocalyptic Shadow will be updated** near the end of the version, totaling 4 phases of gameplay content.
-
-### Anomaly Arbitration
-
-- The duration of Anomaly Arbitration in Version 3.8 will **remain consistent** with the version duration.
-
-### Event Warp
-
-Version 3.8 will feature **three phases** of Event Warps. Please see below for more details:
-
-- Phase 1 Event Warp:
-
-Period: After the Version 3.8 update – 2026/01/07 11:59:59 (server)
-
-Featured Characters: 5-star **The Dahlia, Firefly**, 4-star Gallagher, Luka, and March 7th
-
-Featured Light Cones: 5-star **Never Forget Her Flame, Whereabouts Should Dreams Rest**, 4-star Concert for Two, Memories of the Past, and Good Night and Sleep Well
-
-- Phase 2 Event Warp:
-
-Period: 2026/01/07 12:00:00 (server) — 2026/01/28 11:59:59 (server)
-
-Featured Characters: 5-star **Fugue, Lingsha**, 4-star Natasha, Sampo, and Arlan
-
-Featured Light Cones: 5-star **Long Road Leads Home, Scent Alone Stays True**, 4-star Geniuses' Repose, Post-Op Conversation, and The Moles Welcome You
-
-- Phase 3 Event Warp:
-
-Period: 2026/01/28 12:00:00 (server) — 2026/02/12 15:00:00 (server)
-
-Featured Characters: 5-star **Aglaea, Sunday**, 4-star Tingyun, Yukong, and Dan Heng
-
-Featured Light Cones: 5-star **Time Woven Into Gold, A Grounded Ascent**, 4-star Geniuses' Greetings, Trend of the Universal Market, and Dance! Dance! Dance!
-
-### Nameless Honor
-
-- The "Nameless Honor" event will continue until the end of Version 3.8, with "This Week's Missions" updating weekly. The level cap for "Nameless Honor" will remain unchanged. Please refer to future official announcements for more details.
-
-### Other Official Content
-
-- Subsequent **official content** (such as character preview text & image, official videos, etc.) may also be subject to adjustments. Thank you for your understanding, Trailblazer.
 
 -----
 
