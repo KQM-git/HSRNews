@@ -1,3 +1,23 @@
+# [“Gift of Arcadia”: Log in to claim Star Rail Special Pass ×10!](archive/1183.md)
+## Gift of Arcadia Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/afcee78cc3a71d7f41fa95eb459b5ea0_4200906989669867202_transformed.png)
+
+A gift from Planarcadia awaits! As is the custom here, a good laugh is the best way to show your gratitude.
+
+### Event Period
+
+After the Version 4.0 update - 2026/03/25 06:00:00 (global)
+
+### Event Requirement
+
+Unlock Travel Log
+
+### Event Details
+
+When logging into the game during the event period, Trailblazers can obtain rewards from the Travel Log — Gift of Arcadia: **Star Rail Special Pass ×10**, **Lone Stardust ×600**, and **Self-Modeling Resin ×3**!
+
+-----
+
 # [Version 4.0 Update and Maintenance Notice](archive/1182.md)
 ## Version 4.0 Update and Maintenance Notice
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/0e29b39980a3c67b60e62305d6f41d12_4011826428870258824_transformed.png)
