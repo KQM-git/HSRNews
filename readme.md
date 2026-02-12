@@ -403,58 +403,6 @@ For more details, please stay tuned for future official announcements. Thank you
 
 -----
 
-# [Garden of Plenty & New Path Materials and Exchange Info](archive/1155.md)
-## Garden of Plenty & New Path Materials and Exchange Info
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/07/07/658a5b95b1fcbbce4821d4185131fc76_7194258204977523495_transformed.png)
-
-※ Special Tip from Pom-Pom: During Version 4.0, Trace Materials for any Path can be exchanged 1:1 for a specific amount of brand-new Trace Materials for The Elation. Trailblazers, get ready ahead of time!
-
-※ In addition to "Elation" Path Trace Materials, Version 4.0 and subsequent updates will introduce a series of new Trace Materials and stages. Some upcoming characters and Light Cones may require these new Path Materials for Trace activation and Light Cone Ascension. Trailblazers should keep an eye out for official info on future characters to avoid farming the wrong materials!
-
-### Event Period
-
-2026/01/28 04:00:00 (server) - 2026/02/12 03:59:00 (server)
-
-### Participation Requirement
-
-Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
-
-### Event Details
-
-- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive double rewards.
-
-- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- During the event, the number of double reward opportunities is **limited**. The limits and attempts used so far can be viewed on the Garden of Plenty event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
-# [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/1139.md)
-## Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/08/29/fba39da2942fe360176de0c99a78509d_8796542652432633254_transformed.png)
-
-### Event Period
-
-2026/01/16 04:00:00 (server) - 2026/02/12 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Cavern of Corrosion: Path of Drifting
-
-### Event Details
-
-- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
-
-- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- During the event, the number of double reward opportunities is **limited.** The remaining usage count and maximum usage limit can be viewed in the "Realm of the Strange" event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Game Version 3.8 Optimization and Known Issues](archive/1188.md)
 ## Game Version 3.8 Optimization and Known Issues
 
