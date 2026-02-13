@@ -1,258 +1,3 @@
-# [“Gift of Arcadia”: Log in to claim Star Rail Special Pass ×10!](archive/1183.md)
-## Gift of Arcadia Description
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/afcee78cc3a71d7f41fa95eb459b5ea0_4200906989669867202_transformed.png)
-
-A gift from Planarcadia awaits! As is the custom here, a good laugh is the best way to show your gratitude.
-
-### Event Period
-
-After the Version 4.0 update - 2026/03/25 06:00:00 (global)
-
-### Event Requirement
-
-Unlock Travel Log
-
-### Event Details
-
-When logging into the game during the event period, Trailblazers can obtain rewards from the Travel Log — Gift of Arcadia: **Star Rail Special Pass ×10**, **Lone Stardust ×600**, and **Self-Modeling Resin ×3**!
-
------
-
-# ["Starlit Homecoming" Event Update Details V4.0](archive/1198.md)
-## "Starlit Homecoming" Event Update Details V4.0
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/1705d325f7373ec84d0bb24bd712be37_4083294051012986999_transformed.png)
-
-Dear Trailblazers,
-
-Starting from Version 4.0, the Returner Event "Starlit Homecoming" will be updated. "Returners' Presents" will now include additional advanced Trace Materials from "Echo of War." Furthermore, eligible returning Trailblazers can obtain a set of max-level 5-star Relics tailored for a selected character via the "Gold Gear Selector"!
-
-### Update Content
-
-- "Returners' Presents" additionally rewards advanced Trace Materials from "Echo of War."
-
-- Added "Gold Gear Selector." When Trailblazers who have **not logged into the game for ≥ 90 consecutive days** activate the "Starlit Homecoming" event, they can select an owned character to **obtain a set of max-level 5-star Relics with tailored Main Stats** for them. From the release of Version 4.0 until the release of Version 5.0, returning Trailblazers **can only claim the "Gold Gear Selector" once**.
-
-### Participation Requirements
-
-■ "Starlit Homecoming" Activation Requirements
-
-- Trailblaze Level ≥ 10 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge."
-
-- Have not logged in for at least 14 days.
-
-- The previous activation of the Starlit Homecoming event is at least 40 days ago.
-
-■ "Double Stellar Jades" Activation Requirements
-
-- When activating "Starlit Homecoming," consecutive days without logging into the game ≥90 days.
-
-■ "Gold Gear Selector" Claim Conditions
-
-- When activating "Starlit Homecoming," consecutive days without logging into the game ≥90 days.
-
-- Have not claimed the "Gold Gear Selector" between the start of Version 4.0 and the start of Version 5.0.
-
-### Event Period
-
-- From the day of activating the Starlit Homecoming event to 04:00 of the 15th day after the activation (server time)
-
-※ If you logged in to the game and activated the Starlit Homecoming event on January 1, then the event will last until 04:00, January 15 (server time).
-
-### Event Details
-
-- During the event, returning Trailblazers can receive "Returners' Presents" for one time only and obtain "Returners' Privilege."
-
-- "Returners' Presents" includes character building materials and a certain amount of Fuel Vouchers based on your offline days. Using Fuel Vouchers, you can quickly obtain materials from Calyxes/Stagnant Shadows.
-
-- During the "Returners' Privilege" period, Nameless Honor level-up speed is increased. Additionally, you'll receive Double Rewards when completing challenges in Calyx, Caverns of Corrosion, Simulated Universe, and Divergent Universe.
-
-- Log in and complete the "3-Day Check-in" to receive corresponding rewards.
-
-- Returning Trailblazers who meet the requirements can claim a "Gold Gear Selector" once.
-
-- Returning Trailblazers who meet the conditions can unlock "Double Stellar Jades," increasing Stellar Jades obtained from adventures and events by 100%, up to an additional 1,600 Stellar Jades.
-
-※ Stellar Jades obtained via Oneiric Shard exchange, mail, redemption codes, the Store, or "Nameless Honor" will not be included in "Double Stellar Jades."
-
-■ 3-Day Check-In Rewards
-
-- During the event, log into the game every day to receive Stellar Jades, Relic Remains, Memo-Keeping Light Casket, and Fuel rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 3 days of rewards are provided.
-
-※ Open the Memo-Keeping Light Casket to choose one of the following 4-Star Light Cones: Quid Pro Quo (Abundance), Fermata (Nihility), We Are Wildfire (Preservation), River Flows in Spring (The Hunt), Past and Future (Harmony), Woof! Walk Time! (Destruction), The Seriousness of Breakfast (Erudition), and Victory In a Blink (Remembrance).
-
-■ "Returners' Privilege" Nameless Honor Boost and Extra Double Rewards
-
-- During the event, Trailblazers will receive 50% more Nameless EXP from completing Nameless Honor missions. This bonus will expire at 04:00 on Monday after the event ends.
-
-- Trailblazers will get 42 double reward chances for Calyxes during the Return period, and 4 double reward chances for Cavern Relics or Planar Ornaments. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
-
-※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily double drop for Garden of Plenty will be consumed first when Trailblazers complete Calyx challenges.
-
-■ "Returning Guide"
-
-- Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.
-
-### Attention
-
-- If you activate "Starlit Homecoming" during Version 3.8, and are still in the "Starlit Homecoming" event phase after the Version 4.0 update, your "Starlit Homecoming" event content will not be updated.
-
------
-
-# [Version 4.0 Nameless Honor Update Details](archive/1186.md)
-## Nameless Honor Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/da82860ffc4d9e2a6bbac4e69e9bd23a_6189944534222009655_transformed.png)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as **Star Rail Passes, Self-Modeling Resins, and Tracks of Destiny**.
-
-After unlocking Nameless Glory, you will immediately obtain **Stellar Jade ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Light Cone Memory Shard ×1, Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Variable Dice ×1, Self-Modeling Resin ×2, Relic Remains, the universal Path material Tears of Dreams**, and more!
-
-Upon purchasing the Nameless Medal, in addition to the rewards mentioned above, Trailblazers will also immediately **increase Nameless Honor level by 10** and receive the avatar **"Yao Guang: Ethereal Dance,"** the avatar **"Sparxie: Ethereal Dance," Light Cone Memory Shard ×1, Stellar Jade ×200, and Fuels**!
-
-※After this period's "Nameless Honor" update, the "Nameless Glory" Level Rewards "Jewels of the Starry Seas" will add the selectable Light Cone "Today's Good Luck (Elation)."
-
-### Start Date
-
-After the Version 4.0 update — 2026/03/23 03:59:00 (server)
-
-### Participation Requirement
-
-Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain Star Rail Passes, Self-Modeling Resin, Tracks of Destiny, and more.
-
-- This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Attention
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2026/03/23 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be 2026/03/22 03:59:00 (global). Trailblazers who top up on the webpage should pay attention to the purchase availability time.
-
------
-
-# ["No Aha at Full Moon" Trailblaze Mission & Adventure Mission Description](archive/1193.md)
-## "No Aha at Full Moon" Mission Description
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/6f320501a4f5a4ff95d8027ccaa880b1_2930944645933719670_transformed.png)
-
-Dear Trailblazers,
-
-After the Version 4.0 update, the new **Trailblaze Mission "No Aha at Full Moon"** and **Adventure Missions "Millennium Killer," "The Comic With No Answers," "Thirty First Dates," and "Bouquet for the Blessed"** will be added.
-
-### Trailblaze Mission "No Aha at Full Moon"
-
-Once upon a time in a paradise within the painted scroll, the vacant divine throne smiled, awaiting those who seek godhood to don their masks and entertain the masses. Amidst the scorching fires of the cosmos, the god is nowhere to be found, but THEY left a reward for those who desire Elation... "One Minute of Godhood."
-
-■ Requirement
-
-After progressing the Trailblaze Mission to "The Blue - The Voyage Continues," you can **unlock and experience** the Version 4.0 Trailblaze Missions early via the "Finality's Vision: Leap of Trailblaze" function.
-
-※ It is recommended that Trailblazers experience this content after completing the Version 3.8 Finality Mission "Memories are the Prelude to Dreams."
-
-■ Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/6197de63a697d47727f8708dea575140_7614714851357588675_transformed.png)
-
-<details open="true">
-<summary>Adventure Missions</summary>
-
-After progressing through the Trailblaze Mission "No Aha at Full Moon," you can accept Adventure Missions **via the "Furbobocom" gameplay**.
-
-■ Adventure Mission "Millennium Killer"
-
-- Behind the glittering streets of Planarcadia lurks a bone-chilling crime. In the span of a single year, the serial killer known as the "Millennium Killer" claimed the lives of seventeen imagenae artists...
-
-■ Adventure Mission "The Comic With No Answers"
-
-- Two <i>The Labyrinth Game</i> fans got into a massive shouting match at the fan expo, all because of a disagreement over the comic's ending...
-
-■ Adventure Mission "Thirty First Dates"
-
-- On the streets of Duomension City, you unexpectedly crossed paths with Sorren. He claimed he was being hunted by his girlfriend, Sapone.
-
-■ Adventure Mission "Bouquet for the Blessed"
-
-- Near the @Gate of Duomension City, you stumbled upon a ghostly puppy named Rocket. Bound by an unyielding attachment, it led you to Miss Bequea, a ghost trapped within a television set...
-
-</details>
-
------
-
-# [Version 4.0 New Stages](archive/1175.md)
-## Version 4.0 New Stages
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/06/58f529e2f09aee1b85d460d5750f6d0e_3439329964255750680_transformed.png)
-
-Dear Trailblazers,
-
-After the Version 4.0 update, new stages have been added: Cavern of Corrosion: Path of Possession, Stagnant Shadow: Shape of Soundburst, Bud of Elation: "World's End" Tavern, Bud of The Hunt: "Memortis Shore" Ruins of Time, and Calyx (Golden) series stages in the Planarcadia area.
-
-※ Future updates will gradually introduce several new "Calyx (Crimson)" stages that drop new Trace Materials. Some upcoming characters and Light Cones may require these new materials for Trace activation and Light Cone Ascension.
-
-### Cavern of Corrosion: Path of Possession
-
-Successfully challenging the **Cavern of Corrosion: Path of Possession** Stage can reward you with new **Cavern Relics** such as
-
-"Ever-Glorious Magical Girl" and "Diviner of Distant Reach."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/eefbe3d77df03d044b53656f20b29cdd_6717185842335448759_transformed.png)
-
-New Cavern Relic Effects Preview:
-
-- **"Ever-Glorious Magical Girl"**
-
-2-pc Set: Increases CRIT DMG by 16%.
-
-4-pc Set: The Elation DMG dealt by the wearer and their memosprites ignores 10% of targets' DEF. For each 5 accumulated Punchline allies gain, the Elation DMG dealt additionally ignores 1% of targets' DEF, which stacks up to 10 time(s).
-
-- **"Diviner of Distant Reach"**
-
-2-pc Set: SPD increases by 6%.
-
-4-pc Set: Before entering combat, if the wearer's SPD is greater than or equal to 120/160, increases the wearer's CRIT Rate by 10%/18%. When the wearer uses an Elation Skill for the first time in each combat, increases all allies' Elation by 10%. This effect cannot stack.
-
-### Stagnant Shadow
-
-■ Stagnant Shadow: Shape of Soundburst
-
-Clear the stage to obtain the new **Lightning** character **Ascension material** "Thunder Strum."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/8c873ce79bc2bdab9d8586e11012cfa6_7318909729208853245_transformed.png)
-
-### Calyx (Crimson)
-
-■ Bud of Elation • "World's End" Tavern
-
-Successfully challenge the stage to obtain the brand-new **Trace Materials** for the new **Elation** characters: "<em>The Fluffy</em> Collector's Edition," "<em>The Fluffy</em> Serialization Memorial Issue," and "<em>The Fluffy</em> Hand-drawn Storyboards."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/4c22dfff928aa320abc7003e7b33fc2f_8616230160480296797_transformed.png)
-
-■ Bud of The Hunt • "Memortis Shore" Ruins of Time
-
-Successfully challenge the stage to obtain the brand-new **The Hunt** Path character's **Trace Materials**: "Lance of Retribution," "Resin of Valor," and "Grit of Strife."
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/670c82e1dac1ca89631bff3409eda650_3455187769168837462_transformed.png)
-
-### Calyx (Golden)
-
-■ Planarcadia
-
-Successfully challenge the Calyx (Golden) stages in Planarcadia to obtain Universal Enhancement Materials and synthesis materials on top of the already existing rewards.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/23a64c5e0cabd6e4bc517136b8763e85_3459127310805940850_transformed.png)
-
------
-
 # [Version 4.0 "No Aha at Full Moon" Update Details](archive/1192.md)
 ## Version 4.0 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/26/03cb2e7f7c434d511028093a55d3d0fc_8243250803490037755_transformed.png)
@@ -690,6 +435,261 @@ Fixes and optimizations in English include the following (they have no impact on
 - Optimizes the description text for the unlocking conditions of the Achievement "The First and Last Freedom".
 
 - Optimized text relating to "Combat".
+
+-----
+
+# [“Gift of Arcadia”: Log in to claim Star Rail Special Pass ×10!](archive/1183.md)
+## Gift of Arcadia Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/afcee78cc3a71d7f41fa95eb459b5ea0_4200906989669867202_transformed.png)
+
+A gift from Planarcadia awaits! As is the custom here, a good laugh is the best way to show your gratitude.
+
+### Event Period
+
+After the Version 4.0 update - 2026/03/25 06:00:00 (global)
+
+### Event Requirement
+
+Unlock Travel Log
+
+### Event Details
+
+When logging into the game during the event period, Trailblazers can obtain rewards from the Travel Log — Gift of Arcadia: **Star Rail Special Pass ×10**, **Lone Stardust ×600**, and **Self-Modeling Resin ×3**!
+
+-----
+
+# ["Starlit Homecoming" Event Update Details V4.0](archive/1198.md)
+## "Starlit Homecoming" Event Update Details V4.0
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/1705d325f7373ec84d0bb24bd712be37_4083294051012986999_transformed.png)
+
+Dear Trailblazers,
+
+Starting from Version 4.0, the Returner Event "Starlit Homecoming" will be updated. "Returners' Presents" will now include additional advanced Trace Materials from "Echo of War." Furthermore, eligible returning Trailblazers can obtain a set of max-level 5-star Relics tailored for a selected character via the "Gold Gear Selector"!
+
+### Update Content
+
+- "Returners' Presents" additionally rewards advanced Trace Materials from "Echo of War."
+
+- Added "Gold Gear Selector." When Trailblazers who have **not logged into the game for ≥ 90 consecutive days** activate the "Starlit Homecoming" event, they can select an owned character to **obtain a set of max-level 5-star Relics with tailored Main Stats** for them. From the release of Version 4.0 until the release of Version 5.0, returning Trailblazers **can only claim the "Gold Gear Selector" once**.
+
+### Participation Requirements
+
+■ "Starlit Homecoming" Activation Requirements
+
+- Trailblaze Level ≥ 10 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge."
+
+- Have not logged in for at least 14 days.
+
+- The previous activation of the Starlit Homecoming event is at least 40 days ago.
+
+■ "Double Stellar Jades" Activation Requirements
+
+- When activating "Starlit Homecoming," consecutive days without logging into the game ≥90 days.
+
+■ "Gold Gear Selector" Claim Conditions
+
+- When activating "Starlit Homecoming," consecutive days without logging into the game ≥90 days.
+
+- Have not claimed the "Gold Gear Selector" between the start of Version 4.0 and the start of Version 5.0.
+
+### Event Period
+
+- From the day of activating the Starlit Homecoming event to 04:00 of the 15th day after the activation (server time)
+
+※ If you logged in to the game and activated the Starlit Homecoming event on January 1, then the event will last until 04:00, January 15 (server time).
+
+### Event Details
+
+- During the event, returning Trailblazers can receive "Returners' Presents" for one time only and obtain "Returners' Privilege."
+
+- "Returners' Presents" includes character building materials and a certain amount of Fuel Vouchers based on your offline days. Using Fuel Vouchers, you can quickly obtain materials from Calyxes/Stagnant Shadows.
+
+- During the "Returners' Privilege" period, Nameless Honor level-up speed is increased. Additionally, you'll receive Double Rewards when completing challenges in Calyx, Caverns of Corrosion, Simulated Universe, and Divergent Universe.
+
+- Log in and complete the "3-Day Check-in" to receive corresponding rewards.
+
+- Returning Trailblazers who meet the requirements can claim a "Gold Gear Selector" once.
+
+- Returning Trailblazers who meet the conditions can unlock "Double Stellar Jades," increasing Stellar Jades obtained from adventures and events by 100%, up to an additional 1,600 Stellar Jades.
+
+※ Stellar Jades obtained via Oneiric Shard exchange, mail, redemption codes, the Store, or "Nameless Honor" will not be included in "Double Stellar Jades."
+
+■ 3-Day Check-In Rewards
+
+- During the event, log into the game every day to receive Stellar Jades, Relic Remains, Memo-Keeping Light Casket, and Fuel rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 3 days of rewards are provided.
+
+※ Open the Memo-Keeping Light Casket to choose one of the following 4-Star Light Cones: Quid Pro Quo (Abundance), Fermata (Nihility), We Are Wildfire (Preservation), River Flows in Spring (The Hunt), Past and Future (Harmony), Woof! Walk Time! (Destruction), The Seriousness of Breakfast (Erudition), and Victory In a Blink (Remembrance).
+
+■ "Returners' Privilege" Nameless Honor Boost and Extra Double Rewards
+
+- During the event, Trailblazers will receive 50% more Nameless EXP from completing Nameless Honor missions. This bonus will expire at 04:00 on Monday after the event ends.
+
+- Trailblazers will get 42 double reward chances for Calyxes during the Return period, and 4 double reward chances for Cavern Relics or Planar Ornaments. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
+
+※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily double drop for Garden of Plenty will be consumed first when Trailblazers complete Calyx challenges.
+
+■ "Returning Guide"
+
+- Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.
+
+### Attention
+
+- If you activate "Starlit Homecoming" during Version 3.8, and are still in the "Starlit Homecoming" event phase after the Version 4.0 update, your "Starlit Homecoming" event content will not be updated.
+
+-----
+
+# [Version 4.0 Nameless Honor Update Details](archive/1186.md)
+## Nameless Honor Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/da82860ffc4d9e2a6bbac4e69e9bd23a_6189944534222009655_transformed.png)
+
+Dear Trailblazers,
+
+During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as **Star Rail Passes, Self-Modeling Resins, and Tracks of Destiny**.
+
+After unlocking Nameless Glory, you will immediately obtain **Stellar Jade ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Light Cone Memory Shard ×1, Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Variable Dice ×1, Self-Modeling Resin ×2, Relic Remains, the universal Path material Tears of Dreams**, and more!
+
+Upon purchasing the Nameless Medal, in addition to the rewards mentioned above, Trailblazers will also immediately **increase Nameless Honor level by 10** and receive the avatar **"Yao Guang: Ethereal Dance,"** the avatar **"Sparxie: Ethereal Dance," Light Cone Memory Shard ×1, Stellar Jade ×200, and Fuels**!
+
+※After this period's "Nameless Honor" update, the "Nameless Glory" Level Rewards "Jewels of the Starry Seas" will add the selectable Light Cone "Today's Good Luck (Elation)."
+
+### Start Date
+
+After the Version 4.0 update — 2026/03/23 03:59:00 (server)
+
+### Participation Requirement
+
+Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
+
+### About Nameless Honor
+
+- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain Star Rail Passes, Self-Modeling Resin, Tracks of Destiny, and more.
+
+- This Week's Missions will reset every Monday at 04:00 (server time).
+
+- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
+
+### Attention
+
+- After reaching level cap, EXP will no longer be awarded through missions during this period.
+
+- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
+
+- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
+
+- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2026/03/23 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
+
+- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be 2026/03/22 03:59:00 (global). Trailblazers who top up on the webpage should pay attention to the purchase availability time.
+
+-----
+
+# ["No Aha at Full Moon" Trailblaze Mission & Adventure Mission Description](archive/1193.md)
+## "No Aha at Full Moon" Mission Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/6f320501a4f5a4ff95d8027ccaa880b1_2930944645933719670_transformed.png)
+
+Dear Trailblazers,
+
+After the Version 4.0 update, the new **Trailblaze Mission "No Aha at Full Moon"** and **Adventure Missions "Millennium Killer," "The Comic With No Answers," "Thirty First Dates," and "Bouquet for the Blessed"** will be added.
+
+### Trailblaze Mission "No Aha at Full Moon"
+
+Once upon a time in a paradise within the painted scroll, the vacant divine throne smiled, awaiting those who seek godhood to don their masks and entertain the masses. Amidst the scorching fires of the cosmos, the god is nowhere to be found, but THEY left a reward for those who desire Elation... "One Minute of Godhood."
+
+■ Requirement
+
+After progressing the Trailblaze Mission to "The Blue - The Voyage Continues," you can **unlock and experience** the Version 4.0 Trailblaze Missions early via the "Finality's Vision: Leap of Trailblaze" function.
+
+※ It is recommended that Trailblazers experience this content after completing the Version 3.8 Finality Mission "Memories are the Prelude to Dreams."
+
+■ Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/6197de63a697d47727f8708dea575140_7614714851357588675_transformed.png)
+
+<details open="true">
+<summary>Adventure Missions</summary>
+
+After progressing through the Trailblaze Mission "No Aha at Full Moon," you can accept Adventure Missions **via the "Furbobocom" gameplay**.
+
+■ Adventure Mission "Millennium Killer"
+
+- Behind the glittering streets of Planarcadia lurks a bone-chilling crime. In the span of a single year, the serial killer known as the "Millennium Killer" claimed the lives of seventeen imagenae artists...
+
+■ Adventure Mission "The Comic With No Answers"
+
+- Two <i>The Labyrinth Game</i> fans got into a massive shouting match at the fan expo, all because of a disagreement over the comic's ending...
+
+■ Adventure Mission "Thirty First Dates"
+
+- On the streets of Duomension City, you unexpectedly crossed paths with Sorren. He claimed he was being hunted by his girlfriend, Sapone.
+
+■ Adventure Mission "Bouquet for the Blessed"
+
+- Near the @Gate of Duomension City, you stumbled upon a ghostly puppy named Rocket. Bound by an unyielding attachment, it led you to Miss Bequea, a ghost trapped within a television set...
+
+</details>
+
+-----
+
+# [Version 4.0 New Stages](archive/1175.md)
+## Version 4.0 New Stages
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/06/58f529e2f09aee1b85d460d5750f6d0e_3439329964255750680_transformed.png)
+
+Dear Trailblazers,
+
+After the Version 4.0 update, new stages have been added: Cavern of Corrosion: Path of Possession, Stagnant Shadow: Shape of Soundburst, Bud of Elation: "World's End" Tavern, Bud of The Hunt: "Memortis Shore" Ruins of Time, and Calyx (Golden) series stages in the Planarcadia area.
+
+※ Future updates will gradually introduce several new "Calyx (Crimson)" stages that drop new Trace Materials. Some upcoming characters and Light Cones may require these new materials for Trace activation and Light Cone Ascension.
+
+### Cavern of Corrosion: Path of Possession
+
+Successfully challenging the **Cavern of Corrosion: Path of Possession** Stage can reward you with new **Cavern Relics** such as
+
+"Ever-Glorious Magical Girl" and "Diviner of Distant Reach."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/eefbe3d77df03d044b53656f20b29cdd_6717185842335448759_transformed.png)
+
+New Cavern Relic Effects Preview:
+
+- **"Ever-Glorious Magical Girl"**
+
+2-pc Set: Increases CRIT DMG by 16%.
+
+4-pc Set: The Elation DMG dealt by the wearer and their memosprites ignores 10% of targets' DEF. For each 5 accumulated Punchline allies gain, the Elation DMG dealt additionally ignores 1% of targets' DEF, which stacks up to 10 time(s).
+
+- **"Diviner of Distant Reach"**
+
+2-pc Set: SPD increases by 6%.
+
+4-pc Set: Before entering combat, if the wearer's SPD is greater than or equal to 120/160, increases the wearer's CRIT Rate by 10%/18%. When the wearer uses an Elation Skill for the first time in each combat, increases all allies' Elation by 10%. This effect cannot stack.
+
+### Stagnant Shadow
+
+■ Stagnant Shadow: Shape of Soundburst
+
+Clear the stage to obtain the new **Lightning** character **Ascension material** "Thunder Strum."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/8c873ce79bc2bdab9d8586e11012cfa6_7318909729208853245_transformed.png)
+
+### Calyx (Crimson)
+
+■ Bud of Elation • "World's End" Tavern
+
+Successfully challenge the stage to obtain the brand-new **Trace Materials** for the new **Elation** characters: "<em>The Fluffy</em> Collector's Edition," "<em>The Fluffy</em> Serialization Memorial Issue," and "<em>The Fluffy</em> Hand-drawn Storyboards."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/4c22dfff928aa320abc7003e7b33fc2f_8616230160480296797_transformed.png)
+
+■ Bud of The Hunt • "Memortis Shore" Ruins of Time
+
+Successfully challenge the stage to obtain the brand-new **The Hunt** Path character's **Trace Materials**: "Lance of Retribution," "Resin of Valor," and "Grit of Strife."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/670c82e1dac1ca89631bff3409eda650_3455187769168837462_transformed.png)
+
+### Calyx (Golden)
+
+■ Planarcadia
+
+Successfully challenge the Calyx (Golden) stages in Planarcadia to obtain Universal Enhancement Materials and synthesis materials on top of the already existing rewards.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/02/06/23a64c5e0cabd6e4bc517136b8763e85_3459127310805940850_transformed.png)
 
 -----
 
