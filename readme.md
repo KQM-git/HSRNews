@@ -10,6 +10,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/02/13
 
+- 已知在特定情况下使用支援角色进行位面饰品提取时，支援角色数值异常且在进入战斗前异常消失或无法进入战斗的问题。
+
+**※Pom-Pom is currently translating with Synesthesia Beacon, please wait patiently.**
+
 - It is known that Welt's English voice lines are missing in the Trailblaze Mission "Planarcadia" — "No Aha at Full Moon." This issue will be fixed in a future version.
 
 - It is known that some English voice lines for NPC Trailblazer (Male), Trailblazer (Female), and Welt in the Finality Mission "Penacony — Memories are the Prelude to Dreams" are missing. This issue will be fixed in future updates.
