@@ -62,6 +62,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - It is known that some English voice lines for NPC Trailblazer (Male), Trailblazer (Female), and Welt in the Finality Mission "Penacony — Memories are the Prelude to Dreams" are missing. This issue will be fixed in future updates.
 
+### Game Updates and Improvements Overview
+
+■2026/02/13
+
+- Fixes an issue in the Trailblaze Mission "Planarcadia — Symbolic Exchange and Detection" where players were unable to switch to a specific character's POV under certain circumstances.
+
 -----
 
 # [Version 4.0 "No Aha at Full Moon" Update Details](archive/1192.md)
