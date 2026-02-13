@@ -1,3 +1,49 @@
+# [The V4.0 Creator Incentive Program is now live! The brand-new Livestreaming category makes its grand debut!](archive/1205.md)
+## V4.0 Creator Incentive Program Has Begun
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/09/f4455fe8593bb7814e6cfce118c7c884_1269027051377351329_transformed.jpg)
+
+Hello, Trailblazers,
+
+Welcome to the V4.0 Creator Incentive Program!
+
+This Creator Incentive Program features two separate tracks: Content Submission and Streamer Incentive. Participate for a chance to win in-game rewards like Stellar Jades!
+
+Submit your works to each category to win up to 6,000 Stellar Jades in rewards! Stream for a set duration to earn up to 3,180 Stellar Jades!
+
+[ Go to the event](https://act.hoyoverse.com/puzzle/hkrpg/pz_3iNllNM6vi/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202601195737)
+
+### Event Period
+
+- Content Submission Category: 2026/02/13 12:00:00 (global) - 2026/03/24 23:59:00 (global)
+
+- Livestream Incentive Category: 2026/02/13 12:00:00 (global) - 2026/03/02 23:59:00 (global)
+
+### How to Participate
+
+■ Content Submission Category: Any of the following submission methods is valid
+
+- Hashtag Submission: During the event, post your work with the designated hashtags on platforms including YouTube, X, Instagram, and TikTok to successfully complete a submission.
+
+- Survey Submission: During the event, post your work with the designated hashtags on any social media platform such as Facebook and HoYoLAB, and fill out the event website survey to successfully complete a submission.
+
+■ Streamer Incentive Category: Link your HoYoverse Account and Twitch account on the event page to participate. Complete various missions to claim generous rewards.
+
+### Event Rewards
+
+■ Content Submission Category:
+
+- Participate and submit your work: Earn up to Stellar Jade ×6,000.
+
+- Participate in the voting: Earn rewards up to Stellar Jade ×60, Traveler's Guide ×2, Condensed Aether ×3, and credit ×10,000.
+
+■ Streamer Incentive Category:
+
+- Complete cumulative livestream duration: Receive up to Stellar Jade ×3,180, Refined Aether ×5, Adventure Log ×6, and other rewards.
+
+※ For more information, go to the event link above.
+
+-----
+
 # [Game Version 4.0 Optimization and Known Issues](archive/1222.md)
 ## Game Version 4.0 Optimization and Known Issues
 
