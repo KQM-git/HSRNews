@@ -1,3 +1,29 @@
+# [Game Version 4.0 Optimization and Known Issues](archive/1222.md)
+## Game Version 4.0 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/02/13
+
+- It is known that in specific circumstances when using a Support character for Planar Ornament Extraction, the support character's stats appear abnormally, and the character either disappears abnormally before entering combat or is unable to enter combat.
+
+- It is known that Welt's English voice lines are missing in the Trailblaze Mission "Planarcadia" — "No Aha at Full Moon." This issue will be fixed in a future version.
+
+- It is known that some English voice lines for NPC Trailblazer (Male), Trailblazer (Female), and Welt in the Finality Mission "Penacony — Memories are the Prelude to Dreams" are missing. This issue will be fixed in future updates.
+
+### Game Updates and Improvements Overview
+
+■2026/02/13
+
+- Fixes an issue in the Trailblaze Mission "Planarcadia — Symbolic Exchange and Detection" where players were unable to switch to a specific character's POV under certain circumstances.
+
+-----
+
 # [The V4.0 Creator Incentive Program is now live! The brand-new Livestreaming category makes its grand debut!](archive/1205.md)
 ## V4.0 Creator Incentive Program Has Begun
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/09/f4455fe8593bb7814e6cfce118c7c884_1269027051377351329_transformed.jpg)
@@ -41,32 +67,6 @@ Submit your works to each category to win up to 6,000 Stellar Jades in rewards! 
 - Complete cumulative livestream duration: Receive up to Stellar Jade ×3,180, Refined Aether ×5, Adventure Log ×6, and other rewards.
 
 ※ For more information, go to the event link above.
-
------
-
-# [Game Version 4.0 Optimization and Known Issues](archive/1222.md)
-## Game Version 4.0 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Known Issues
-
-■2026/02/13
-
-- It is known that in specific circumstances when using a Support character for Planar Ornament Extraction, the support character's stats appear abnormally, and the character either disappears abnormally before entering combat or is unable to enter combat.
-
-- It is known that Welt's English voice lines are missing in the Trailblaze Mission "Planarcadia" — "No Aha at Full Moon." This issue will be fixed in a future version.
-
-- It is known that some English voice lines for NPC Trailblazer (Male), Trailblazer (Female), and Welt in the Finality Mission "Penacony — Memories are the Prelude to Dreams" are missing. This issue will be fixed in future updates.
-
-### Game Updates and Improvements Overview
-
-■2026/02/13
-
-- Fixes an issue in the Trailblaze Mission "Planarcadia — Symbolic Exchange and Detection" where players were unable to switch to a specific character's POV under certain circumstances.
 
 -----
 
