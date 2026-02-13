@@ -1,3 +1,21 @@
+# [Game Version 4.0 Optimization and Known Issues](archive/1222.md)
+## Game Version 4.0 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/02/13
+
+- It is known that Welt's English voice lines are missing in the Trailblaze Mission "Planarcadia" — "No Aha at Full Moon." This issue will be fixed in a future version.
+
+- It is known that some English voice lines for NPC Trailblazer (Male), Trailblazer (Female), and Welt in the Finality Mission "Penacony — Memories are the Prelude to Dreams" are missing. This issue will be fixed in future updates.
+
+-----
+
 # [Version 4.0 "No Aha at Full Moon" Update Details](archive/1192.md)
 ## Version 4.0 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/26/03cb2e7f7c434d511028093a55d3d0fc_8243250803490037755_transformed.png)
