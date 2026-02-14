@@ -16,6 +16,32 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/02/14
+
+- Adds certain system prompts for the Training Hall stages in "Interplanar Jump!" at NPC "Loftin."
+
+- Optimizes some tutorial text in the gameplay mode "Interplanar Jump!."
+
+- Fixes an issue where the screen would display incorrectly during the resolution of an "Aha Instant" in battle under certain circumstances.
+
+- Fixes an issue where under specific circumstances, certain shadows are displayed abnormally in the graphics.
+
+- Fixes an issue where under specific circumstances, the SPD increase effect of the "Thrilling Delight" Arbitral Quadrant in the ”Anomaly Arbitration: Cyber Crisis" event was incorrectly applied to certain targets.
+
+- Fixes an issue where the graphics can become abnormally blurry on certain PC devices.Trailblazers who encounter this issue can resolve it by restarting their PC launcher.
+
+- Fixes an issue where there is a chance of the combat progress becoming abnormal in combat against certain enemies.
+
+- Fixes an issue where the name and completion conditions for the Achievements "Dandelion's Judgment” and “The Crime is “Love” were displayed incorrectly.
+
+- Fixes an issue where under specific circumstances, Trailblazers were unable to receive rewards after their first conversation with the NPC "Convenience Store Lucky Cat." Trailblazers who encountered this issue can now talk to the NPC again to obtain the rewards.
+
+- Fixes an issue where some characters may address the Trailblazer incorrectly in their text messages.
+
+- Fixes a text issue for the avatar "Sparxie: Ethereal Dance"
+
+- Fixes a certain text issue in the Furbobocom system .
+
 ■2026/02/13
 
 - Optimizes the display of remaining exchange attempts when performing 1-to-1 exchanges for Path of Elation materials.
