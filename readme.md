@@ -684,6 +684,24 @@ Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI —
 
 -----
 
+# [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/1196.md)
+## Survey with Rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/2d2da98cf65b177d2f0a029340dc2ee1_6236902761699923395_transformed.png)
+
+Dear Trailblazers,
+
+To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
+
+### Survey Link
+
+[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_j-7FqB-sebxwTTv9cvPliNrQGS0lMuR4i9dV8R_T-d8e&game_biz=hkrpg_global&surveyId=35689&format=1&sign_type=2&authkey_ver=1)
+
+### Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+-----
+
 # ["No Aha at Full Moon" Trailblaze Mission & Adventure Mission Description](archive/1193.md)
 ## "No Aha at Full Moon" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/02/6f320501a4f5a4ff95d8027ccaa880b1_2930944645933719670_transformed.png)
