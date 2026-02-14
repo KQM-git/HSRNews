@@ -100,6 +100,24 @@ Submit your works to each category to win up to 6,000 Stellar Jades in rewards! 
 
 -----
 
+# [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/1196.md)
+## Survey with Rewards
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/2d2da98cf65b177d2f0a029340dc2ee1_6236902761699923395_transformed.png)
+
+Dear Trailblazers,
+
+To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
+
+### Survey Link
+
+[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_j-7FqB-sebxwTTv9cvPliNrQGS0lMuR4i9dV8R_T-d8e&game_biz=hkrpg_global&surveyId=35689&format=1&sign_type=2&authkey_ver=1)
+
+### Note
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+-----
+
 # [Version 4.0 "No Aha at Full Moon" Update Details](archive/1192.md)
 ## Version 4.0 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/26/03cb2e7f7c434d511028093a55d3d0fc_8243250803490037755_transformed.png)
@@ -681,24 +699,6 @@ Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI —
 - The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2026/03/23 02:59:00 (server)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
 
 - In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be 2026/03/22 03:59:00 (global). Trailblazers who top up on the webpage should pay attention to the purchase availability time.
-
------
-
-# [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/1196.md)
-## Survey with Rewards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/2d2da98cf65b177d2f0a029340dc2ee1_6236902761699923395_transformed.png)
-
-Dear Trailblazers,
-
-To better understand Trailblazers' gaming habits and provide a better gaming experience, Pom-Pom has prepared a Honkai: Star Rail Player Survey. There's a reward of **Stellar Jade ×50** if you complete the survey~
-
-### Survey Link
-
-[ Go to the Honkai: Star Rail Player Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_j-7FqB-sebxwTTv9cvPliNrQGS0lMuR4i9dV8R_T-d8e&game_biz=hkrpg_global&surveyId=35689&format=1&sign_type=2&authkey_ver=1)
-
-### Note
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
 
 -----
 
