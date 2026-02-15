@@ -16,6 +16,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/02/15
+
+- Fixes an issue where missions for Expected Profit cannot be completed normally in the Currency Wars game mode.
+
+- Fixes an issue where under specific circumstances, the probability of the Skill Points Bond drawing and obtaining "Special Prize" is abnormal in the Currency Wars game mode.
+
 ■2026/02/14
 
 - Adds certain system prompts for the Training Hall stages in "Interplanar Jump!" at NPC "Loftin."
