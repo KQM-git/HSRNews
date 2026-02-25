@@ -40,6 +40,14 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/02/25
+
+- Fixes an issue in the Graphia Academy map where certain mechanism triggers in the "Interplanar Jump!" gameplay were aberrant, preventing specific treasures from being unlocked.
+
+- Fixes an issue where the treasure in the "Interplanar Jump!" gameplay within the "World's End Tavern" map could not be unlocked under certain circumstances.
+
+- Fixes an issue within the "Currency Wars" gameplay wherein the values for the "Speed Alternation" affix did not match its description.
+
 ■2026/02/15
 
 - Fixes an issue where missions for Expected Profit cannot be completed normally in the Currency Wars game mode.
