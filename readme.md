@@ -136,6 +136,26 @@ Survey responses cannot be changed after submission. Please be sure to fill out 
 
 -----
 
+# [The Honkai: Star Rail × Fortnite collaboration is now live!](archive/1211.md)
+## The Honkai: Star Rail × Fortnite collaboration is now live!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/25/73240eed7fb64be02bf29b7bbe93172e_1709854809208598820_transformed.png)
+
+Hello, Trailblazers!
+
+Collaboration Outfits featuring the Stellaron Hunters Kafka and Blade are now available in Fortnite!
+
+Participate in the Honkai: Star Rail event on the Epic Games Store, and eligible Trailblazers will receive a bonus Blade cosmetic set in Fortnite!
+
+[ Enter combat as a Stellaron Hunter](https://hoyo.link/C2ZSQ0nL3)
+
+### Event Period
+
+2026/02/27 08:00:00 (global) - 2026/03/05 08:00:00 (global)
+
+※ Please refer to the event page for Event Rules and other details.
+
+-----
+
 # [Version 4.0 "No Aha at Full Moon" Update Details](archive/1192.md)
 ## Version 4.0 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/26/03cb2e7f7c434d511028093a55d3d0fc_8243250803490037755_transformed.png)
