@@ -118,6 +118,22 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [HoYoLAB Daily Check-in Reminder](archive/1120.md)
+## HoYoLAB Daily Check-in Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/28/802b7bb88be5ac5aa2e1346de0b9e49c_5035221201239056446_transformed.png)
+
+Hello, Trailblazers!
+
+HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
+
+Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
+
+[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
+
+※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
+
+-----
+
 # [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/1196.md)
 ## Survey with Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/2d2da98cf65b177d2f0a029340dc2ee1_6236902761699923395_transformed.png)
@@ -912,22 +928,6 @@ The Express Crew will be making adjustments to the plans for some version conten
 - During Version 4.1, the EXP required to level up "Nameless Honor" will be reduced. This will allow Trailblazers to obtain Level Rewards faster within the 4-week period.
 
 For more details, please stay tuned for future official announcements. Thank you for your continued support and understanding, Trailblazers.
-
------
-
-# [HoYoLAB Daily Check-in Reminder](archive/1120.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/28/802b7bb88be5ac5aa2e1346de0b9e49c_5035221201239056446_transformed.png)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
-
-※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
 
 -----
 
