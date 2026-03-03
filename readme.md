@@ -22,6 +22,24 @@ Unlock Simulated Universe: World 3
 
 -----
 
+# [Sparxie Trailer Single Officially Released](archive/1224.md)
+## Sparxie Trailer Single Officially Released
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/25/107ecf1142c015c706eca6c330d0a2c9_285847482829067995_transformed.png)
+
+Hello, Trailblazers,
+
+The Honkai: Star Rail Sparxie trailer single, Ravings, is now officially online.
+
+Like! Follow! Stream! Views! Party till the world ends!
+
+Sparxie and Sparkle, the Mask and the Fool are fundamentally the same.
+
+Whoever is seen, whoever is liked, is the correct answer!
+
+[ Check it out](https://orcd.co/rvsprx33wden)
+
+-----
+
 # [Game Version 4.0 Optimization and Known Issues](archive/1222.md)
 ## Game Version 4.0 Optimization and Known Issues
 
