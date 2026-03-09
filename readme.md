@@ -1,27 +1,3 @@
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1199.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/15/7d5eeebab1c60716249e3c8e3bcdcac6_4344242312675781568_transformed.png)
-
-### Event Period
-
-2026/02/23 04:00:00 (server) - 2026/03/09 03:59:00 (server)
-
-### Participation Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event, receive double rewards when obtaining Immersion Rewards or performing Ornament Extraction in the Simulated Universe.
-
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Sparxie Trailer Single Officially Released](archive/1224.md)
 ## Sparxie Trailer Single Officially Released
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/02/25/107ecf1142c015c706eca6c330d0a2c9_285847482829067995_transformed.png)
