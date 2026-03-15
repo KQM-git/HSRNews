@@ -1,25 +1,3 @@
-# [Version 4.0 "No Aha at Full Moon" Satisfaction Survey](archive/1238.md)
-## Version 4.0 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/06/955bdcf044e8cc84719ddea8c9d4ea7d_4958977881387962456_transformed.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 4.0, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_jE75sx-sebxwTTv9cvPliNs_aD7SxIV0Y2mgZ5WiXwsu&game_biz=hkrpg_global&surveyId=36622&format=1&sign_type=2&authkey_ver=1)
-
-### Attention
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/1200.md)
 ## Realm of the Strange Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/11/aa1f4ee17c0746bd46a8693d44d95188_4532877104791322218_transformed.png)
