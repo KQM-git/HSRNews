@@ -125,9 +125,9 @@ New Planar Ornament Effects Preview:
 
 - **Punklorde Stage Zero**
 
-Link Rope: Punklorde's Rainbow City
+Link Rope: Punklorde's Data Deluge
 
-Planar Sphere: Punklorde's Data Deluge
+Planar Sphere: Punklorde's Rainbow City
 
 2-Pc: Increases the wearer's Elation by 8%. When Elation reaches 40%/80% for the first time in battle, increases the wearer's CRIT DMG by 20%/32%.
 
