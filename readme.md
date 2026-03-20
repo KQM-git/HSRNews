@@ -205,6 +205,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/03/20
+
+- Fixes an issue where after opening the Assignments menu, the display is abnormal and cannot be operated when experiencing the game on certain devices.
+
 ■2026/03/16
 
 - Fixes an issue when an ally Elation character "Departs," Aha Instant triggers anomally.
