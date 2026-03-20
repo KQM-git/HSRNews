@@ -1,3 +1,39 @@
+# [Version 4.1 New Stage](archive/1219.md)
+## Version 4.1 New Stage
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/09/817caaa21a13742c2f50732919177729_5727020967063414539_transformed.png)
+
+Dear Trailblazers,
+
+After the Version 4.1 update, the new stage "Divergent Universe: Gilded Recollection" will be available.
+
+### Planar Ornament Extraction
+
+■ Divergent Universe: Gilded Recollection
+
+Successfully challenge the stage "Divergent Universe: Gilded Recollection," and Trailblazers can use Trailblaze Power, Immersifiers, or Deep Immersifiers to obtain the brand-new Planar Ornaments **"Punklorde Stage Zero" and "City of Converging Stars"** via "Planar Ornament Extraction."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/03/18/9652026c5b298b4fe89c69b8097cc346_2397291498262823642_transformed.png)
+
+New Planar Ornament Effects Preview:
+
+- **Punklorde Stage Zero**
+
+Link Rope: Punklorde's Rainbow City
+
+Planar Sphere: Punklorde's Data Deluge
+
+2-Pc: Increases the wearer's Elation by 8%. When Elation reaches 40%/80% for the first time in battle, increases the wearer's CRIT DMG by 20%/32%.
+
+- **City of Converging Stars**
+
+Link Rope: Astropolis Employee Credentials
+
+Planar Sphere: Astropolis Media Headquarters
+
+2-Pc: When the wearer uses a Follow-Up ATK, increases their ATK by 24% for 2 turns. When an enemy target is defeated, increases CRIT DMG for all allies by 12% for the rest of the current battle. This effect cannot stack.
+
+-----
+
 # ["Unraveled for Daybreak" Mission Description](archive/1220.md)
 ## "Unraveled for Daybreak" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/feb84baa5ce10bb52fa15695253f9101_2457261895371310228_transformed.png)
