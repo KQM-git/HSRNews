@@ -163,6 +163,112 @@ Complete the Version 4.0 Trailblaze Mission "No Aha at Full Moon"
 
 -----
 
+# [Version 4.1 Update and Maintenance Notice](archive/1226.md)
+## Version 4.1 Update and Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/6a69b120f0ee4c7f6cbfee7450e6fae0_8265859551783355239_transformed.png)
+
+Dear Trailblazers,
+
+The Version 4.1 pre-installation will begin at 2026/03/23 14:00:00 (global). Trailblazers can download some resources in advance, allowing for faster game access after the version update maintenance is complete.
+
+Additionally, the Express Crew will conduct version update maintenance on 2026/03/25 06:00:00 (global). After maintenance, the game will be updated to Version 4.1 "Unraveled for Daybreak."
+
+During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
+
+### Update Time
+
+Begins at 2026/03/25 06:00:00 (global). The update will take approximately **5** hours.
+
+### How to Update
+
+After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+- PS5®: After entering the game, the game will automatically download and install the update
+
+### Compensation Details
+
+■ Server Maintenance Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/03/25 06:00:00 (global)
+
+※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 4.1 ends.
+
+### Device Specifications
+
+■ Recommended Specifications:
+
+- PC:
+
+Device specifications: PC with Intel® Core™ i7 Processor, 16 GB of RAM, discrete graphics card (Nvidia GeForce GTX 1060 6GB or higher).
+
+System: Windows 10 64-bit or higher
+
+DirectX Version: 11
+
+- Android:
+
+Device specifications: Android devices with SoC performance equivalent to or better than Snapdragon 870 (Adreno 650), Dimensity 1300 (Mali-G77 MC9), or Kirin 9000 (Mali-G78 MP24)
+
+RAM: 6 GB or more
+
+System: Android 9 or higher
+
+- iOS:
+
+Device:
+
+iPhone 11 or later,
+
+iPad (9th generation, 2021, A13 chip) or later,
+
+iPad mini (6th generation, 2021, A15 chip) or later,
+
+iPad Pro 11-inch (3rd generation, 2021, M1 chip) or later
+
+System: iOS 13.0 or higher
+
+■ Supported Specifications
+
+- PC:
+
+Device specifications: PC with Intel® Core™ i5 Processor, 8 GB of RAM, discrete graphics card (Nvidia GeForce GTX 1050 or higher).
+
+System: Windows 10 64-bit or higher
+
+DirectX Version: 11
+
+- Android:
+
+Device specifications: Android devices with SoC performance equivalent to or better than Snapdragon 835 (Adreno 540), Dimensity 720 (Mali-G57 MC3), or Kirin 810 (Mali-G52 MP6)
+
+RAM: 4 GB or more
+
+System: Android 9 or higher
+
+Compatibility: Not supported by PowerVR architecture GPUs, except for the Imagination D-Series
+
+- iOS:
+
+Device:
+
+iPhone 8 Plus or later,
+
+iPad (7th generation, 2019 model, A10) or later,
+
+iPad Pro 10.5-inch (2017, A10X chip) or later
+
+System: iOS 13.0 or higher
+
+-----
+
 # [Game Version 4.0 Optimization and Known Issues](archive/1222.md)
 ## Game Version 4.0 Optimization and Known Issues
 
