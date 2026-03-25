@@ -1,3 +1,57 @@
+# [Game Version 4.1 Optimization and Known Issues](archive/1264.md)
+## Game Version 4.1 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/03/25
+
+- It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
+
+- It is known that the Skill button in the bottom right corner of the battle interface erroneously fails to display in certain circumstances.
+
+### Game Updates and Improvements Overview
+
+■2026/03/25
+
+- Fixes an issue where some UI such as Total DMG in the top right corner of the battle interface display abnormally under certain circumstances.
+
+- Fixes an issue where the game progress may become abnormal when selecting Waypoint Passes in the Divergent Universe: Arcadian Chronicles gameplay. After the fix, Trailblazers who still encounter this issue can contact us through "Phone" - "Bug Report".
+
+- Fixes an issue where the description of the completion requirement for the Achievement "All Units, Stand By!" was wrong.
+
+- Fixes an issue where some models would display abnormally when "Alloy Pommy" attacks in combat.
+
+- Fixes an issue where the game progress would become abnormal after selecting some options in the Occurrence "Path of the Sage (I)" of the Divergent Universe: Arcadian Chronicles gameplay.
+
+- Fixes an issue where the shortcut key cannot be used to check Mask Details during battles in the Divergent Universe: Arcadian Chronicles gameplay when using controllers to experience the game.
+
+- Fixes an issue where the character disappears under certain circumstances in "The Wispae That Constantly Falls" gameplay.
+
+- Fixes an issue where the game progress becomes abnormal during the mechatron assembly process under certain circumstances in the Trailblaze Mission "Planarcadia" — "Society of the Spectacle and Its Enemies."
+
+- Fixes an issue where the effects of the Grand Miracle "Fortune Cat Mask: Bloom" trigger abnormally under certain circumstances in the Divergent Universe: Arcadian Chronicles gameplay.
+
+- Fixes an issue where the content of Trailblaze Activity displays abnormally in the Trailblazer Profile interface under certain circumstances.
+
+- Fixes some text errors in Messages.
+
+- Fixes some text errors in part of the story dialogue in Trailblaze Mission "Planarcadia" — "Portrait of a Middle-Aged Artist."
+
+- Fixes an issue where some sources of Elation Path Materials were wrongly displayed when viewing their Details interface.
+
+- Fixes an issue where Trailblazers are unable to re-enter the Divergent Universe: Arcadian Chronicles gameplay under certain circumstances after pausing and exiting midway.
+
+- Fixes an issue where the Three-Day Check-In rewards in the "Starbound Return" event could not be claimed when experiencing the game with controllers.
+
+- Fixes an issue where some effect descriptions for Grand Miracles in the Divergent Universe: Arcadian Chronicles gameplay erroneously display codes.
+
+-----
+
 # [Version 4.1 "Unraveled for Daybreak" Update Details](archive/1230.md)
 ## Version 4.1 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/11/c6e2f3559f8ad6e365bea8be5d5f24c6_4050696717435442522_transformed.png)
@@ -297,32 +351,6 @@ Fixes and optimizations in English include the following (they have no impact on
 - Adjusts and optimizes the text descriptions of some story dialogues, story summaries, Trailblaze Mission names, mission descriptions, readable items, Messages, NPC names, Item Descriptions, Relic origins, text in Furbobocom, Simulated Universe, and Currency Wars, Event Details, Navigation content, etc.
 
 - Adjusts some character story text for Jing Yuan (Erudition: Lightning), Fu Xuan (Preservation: Quantum), and Moze (The Hunt: Lightning).
-
------
-
-# [Game Version 4.1 Optimization and Known Issues](archive/1264.md)
-## Game Version 4.1 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Known Issues
-
-■2026/03/25
-
-- It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
-
-- It is known that the Skill button in the bottom right corner of the battle interface erroneously fails to display in certain circumstances.
-
-### Game Updates and Improvements Overview
-
-■2026/03/25
-
-- Fixes an issue where some UI such as Total DMG in the top right corner of the battle interface display abnormally under certain circumstances.
-
-- Fixes an issue where the game progress may become abnormal when selecting Waypoint Passes in the Divergent Universe: Arcadian Chronicles gameplay. After the fix, Trailblazers who still encounter this issue can contact us through "Phone" - "Bug Report".
 
 -----
 
