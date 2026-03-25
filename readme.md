@@ -300,6 +300,22 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
+# [Game Version 4.1 Optimization and Known Issues](archive/1264.md)
+## Game Version 4.1 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/03/25
+
+- It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
+
+-----
+
 # [Version 4.1 Nameless Honor & Store Update](archive/1214.md)
 ## Nameless Honor & Store Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/65393d8d4b356587497d8f476c375ea0_417418572171553465_transformed.png)
