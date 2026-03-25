@@ -314,6 +314,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
 
+- 已知特定情况下，战斗中部分界面显示异常的问题。
+
+**Pom-Pom is currently translating with Synesthesia Beacon, please wait patiently.**
+
 -----
 
 # [Version 4.1 Nameless Honor & Store Update](archive/1214.md)
