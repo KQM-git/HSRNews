@@ -52,6 +52,26 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Pop-Up Shop in LA opens on March 27!](archive/1236.md)
+## Pop-Up Shop in LA opens on March 27!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/06/06298e38c95537dedb3b58e2756c98c8_6025617696152270153_transformed.jpg)
+
+Hello, Trailblazers
+
+Honkai: Star Rail Pop-Up Shop in Little Tokyo, LA will open on March 27!
+
+Date: March 27, 2026 - April 26, 2026
+
+Opening Hours: 12 PM - 7 PM
+
+Location: 319 E. 2nd Street (Little Akihabara), Little Tokyo, Los Angeles
+
+We'll see you there~!
+
+[ Learn More](https://www.hoyolab.com/article/44164704)
+
+-----
+
 # [Version 4.1 "Unraveled for Daybreak" Update Details](archive/1230.md)
 ## Version 4.1 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/11/c6e2f3559f8ad6e365bea8be5d5f24c6_4050696717435442522_transformed.png)
