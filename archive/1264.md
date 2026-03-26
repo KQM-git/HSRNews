@@ -12,9 +12,11 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
 
-- It is known that the Skill button in the bottom right corner of the battle interface erroneously fails to display in certain circumstances.
-
 ### Game Updates and Improvements Overview
+
+■2026/03/26
+
+- Fixes an issue where certain ability buttons are abnormally not displayed in the lower right corner of the combat UI.
 
 ■2026/03/25
 
