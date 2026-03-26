@@ -16,6 +16,22 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/03/26
 
+- Optimizes the effects of the "Chariot Mask" in the Divergent Universe: Arcadian Chronicles gameplay. After the optimization, Instant Kill will take effect at the start of every wave, instead of at the start of combat.
+
+- Fixes an issue where some effects of the Grand Miracle "Chariot Mask: Beyond" erroneously fail to take effect under certain circumstances in the Divergent Universe: Arcadian Chronicles gameplay.
+
+- Fixes an issue where certain character lineup edit voice lines trigger incorrectly when undergoing lineup edits under specific circumstances.
+
+- Fixes an issue where under certain circumstances, characters cannot access some maps when engaging in a specific Interplanar Jump! game mode at the Lookout Cloud Station map.
+
+- Fixes an issue where there is a chance the game's progress becomes abnormal after battling the enemy The Giver, Master of Legions, Lance of Fury (Complete) in the Divergent Universe: Arcadian Chronicles game mode.
+
+- Fixes an issue in the mission flow of the Trailblaze Mission "Planarcadia" — "Confessions of a Righteous Sinner" where the character's position becomes abnormal and is unable to continue progressing through the mission under certain circumstances.
+
+- Fixes an issue where the character disappears under certain circumstances in "The Wispae That Constantly Falls" gameplay.
+
+- Fixes an issue where the Lookout Cloud Station teleportation point is abnormally missing after advancing a Trailblaze Mission and arriving in the Duomension City map.
+
 - Fixes an issue where certain ability buttons are abnormally not displayed in the lower right corner of the combat UI.
 
 ■2026/03/25
