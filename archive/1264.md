@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Known Issues
 
+■2026/03/27
+
+- It is known that some Trailblazers are unable to teleport to the teleport anchor Perdido Station Railway Platform in the area Duomension City. Trailblazers that encounter this issue, can restart the game to resolve the problem.
+
 ■2026/03/25
 
 - It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
