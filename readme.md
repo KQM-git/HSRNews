@@ -8,15 +8,19 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Known Issues
 
-■2026/03/27
-
-- It is known that some Trailblazers are unable to teleport to the teleport anchor Perdido Station Railway Platform in the area Duomension City. Trailblazers that encounter this issue, can restart the game to resolve the problem.
-
 ■2026/03/25
 
 - It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
 
 ### Game Updates and Improvements Overview
+
+■2026/03/27
+
+- Fixes an issue where the interface may lag in certain "Floating Grease Origin Retrace: Shiftmation!" game modes in the Duomension City map.
+
+- Fixes an issue where the negative Curio "Absolute Failure Prescription" takes effect abnormally in the Divergent Universe: Arcadian Chronicles gameplay under certain circumstances.
+
+- Fixes an issue where some interfaces display abnormally and certain buttons cannot be interacted with in the Divergent Universe: Arcadian Chronicles gameplay under specific circumstances.
 
 ■2026/03/26
 
