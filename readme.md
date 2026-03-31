@@ -1,19 +1,3 @@
-# [HoYoLAB Daily Check-in Reminder](archive/1120.md)
-## HoYoLAB Daily Check-in Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2025/10/28/802b7bb88be5ac5aa2e1346de0b9e49c_5035221201239056446_transformed.png)
-
-Hello, Trailblazers!
-
-HoYoLAB's daily check-in function is now online! Come and kick off your check-ins for this month in exchange for in-game rewards!
-
-Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and obtain Stellar Jades, Lost Gold Fragments, Refined Aethers, and more in-game rewards.
-
-[ Check In Rewards](https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311&hyl_auth_required=true&hyl_presentation_style=fullscreen&utm_campaign=checkin&utm_id=6&utm_medium=notice&utm_source=ingame)
-
-※ Trailblazers who have checked in for 3 consecutive days for the first time can additionally receive Stellar Jade ×100!
-
------
-
 # [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1234.md)
 ## Planar Fissure Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/7d5eeebab1c60716249e3c8e3bcdcac6_323090249141834397_transformed.png)
