@@ -42,6 +42,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/04/01
+
+- Fixes an issue where the chat box could not be changed in the Message interface when using a controller.
+
+- Fixes an issue in the "Divergent Universe: Arcadian Chronicles" gameplay where the effect-triggering Domain for the Mask Effect of the "Chariot Mask" was aberrant.
+
 ■2026/03/27
 
 - Fixes an issue where the interface may lag in certain "Floating Grease Origin Retrace: Shiftmation!" game modes in the Duomension City map.
