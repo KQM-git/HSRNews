@@ -650,6 +650,30 @@ Complete the Version 4.0 Trailblaze Mission "No Aha at Full Moon"
 
 -----
 
+# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/1235.md)
+## Garden of Plenty Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/12f6a87265b797c084f11e38cbef0485_7228137409599957716_transformed.png)
+
+### Event Period
+
+2026/04/10 04:00:00 (server) - 2026/04/20 03:59:00 (server)
+
+### Participation Requirement
+
+Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
+
+### Event Details
+
+- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive double rewards.
+
+- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- During the event, the number of double reward opportunities is **limited**. The limits and attempts used so far can be viewed on the Garden of Plenty event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/1196.md)
 ## Survey with Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/2d2da98cf65b177d2f0a029340dc2ee1_6236902761699923395_transformed.png)
