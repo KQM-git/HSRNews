@@ -1,3 +1,21 @@
+# [The Honkai: Star Rail 3rd Anniversary Theme Song, Side Quest King, is now officially available!](archive/1281.md)
+## The 3rd Anniversary theme song Side Quest King is officially released.
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/09/2559feca89f9403e5e352e5cc7c1b6c5_1230200441061697386_transformed.jpg)
+
+On the cosmic stage, it all begins with your opening act.
+
+Playing by the rules? Zero style. Too many clichés? Then break them.
+
+While the starlight shines bright, let the dreams we've dreamed and the vows we've sworn burst into willful combustion!
+
+The Honkai: Star Rail 3rd Anniversary Theme Song, Side Quest King, is now officially available.
+
+We welcome Trailblazers to have a listen!
+
+[ Check it out](https://bfan.link/eww3d1quest1sk4)
+
+-----
+
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/1235.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/12f6a87265b797c084f11e38cbef0485_7228137409599957716_transformed.png)
