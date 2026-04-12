@@ -16,6 +16,119 @@ We welcome Trailblazers to have a listen!
 
 -----
 
+# ["Starlit Homecoming" Event Update Details V4.2](archive/1261.md)
+## Starlit Homecoming Event Update Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/03/4c02d557503f4aa990d2019b7a61a837_6394562259349939948_transformed.png)
+
+Dear Trailblazers,
+
+Starting from Version 4.2, the availability period of the Returner Event "Starlit Homecoming" will be extended. Specific support teams have been added. Returning Trailblazers who meet the conditions can select designated support characters to join their Team Lineup, providing help for story combat, material farming, gameplay participation, and more.
+
+### Update Content
+
+- The duration of the "Starlit Homecoming" event has been extended from 14 days to **21 days**.
+
+-  Adds **"Character Support"** to enhance the combat experience upon return. Eligible returning Trailblazers can trial specific support characters.
+
+- A new selectable 4-Star Light Cone, **Mushy Shroomy's Adventures (Elation)**, has been added to Memo-Keeping Light Casket.
+
+- Adds the special pack **"Returning Check-In"**, available for purchase by eligible returning Trailblazers.
+
+- Adjusts and optimizes the claim method, interface display logic, and system hints for "Double Stellar Jades."
+
+- Eligible Trailblazers will receive a new survey mail.
+
+<details open="true">
+<summary>Eligibility</summary>
+
+■ "Starlit Homecoming" Activation Requirements
+
+- Trailblaze Level ≥ 10 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge."
+
+- Have not logged in for at least 14 days.
+
+- The previous activation of the Starlit Homecoming event is at least 40 days ago.
+
+■ "Double Stellar Jades," "Character Support," and "Returning Check-In Bundle" Requirements
+
+- When activating "Starlit Homecoming," consecutive days without logging into the game ≥90 days.
+
+■ "Gold Gear Selector" Claim Conditions
+
+- When activating "Starlit Homecoming," consecutive days without logging into the game ≥90 days.
+
+- Have not claimed the "Golden Gear Selector" between the start of Version 4.0 and the start of Version 5.0
+
+</details>
+
+<details open="true">
+<summary>Event Duration</summary>
+
+- From the day of activating the Starlit Homecoming event to 04:00 of the 22nd day after the activation (server time)
+
+※ If you logged in to the game and activated the Starlit Homecoming event on January 1, then the event will last until 04:00, January 22 (server time).
+
+</details>
+### Event Details
+
+- Returning Trailblazers can log in and complete the "3-Day Check-In" to receive rewards such as **Stellar Jades and a specific 4-Star Light Cone**.
+
+- During the event, returning Trailblazers can receive "Returners' Presents" for one time only and obtain "Returners' Privilege."
+
+**"Returners' Presents"** includes character building materials and a certain amount of Fuel Vouchers based on your offline days. Using Fuel Vouchers, you can quickly obtain materials from Calyxes/Stagnant Shadows.
+
+During the **"Returners' Privilege"** period, Nameless Honor level-up speed is increased. Additionally, you'll receive Double Rewards when completing challenges in Calyx, Caverns of Corrosion, Simulated Universe, and Divergent Universe.
+
+- Eligible returning Trailblazers can activate the "Double Stellar Jades" and "Character Support" perks, claim max-level 5-star Relics of their choice, and purchase special bundles.
+
+**"Double Stellar Jades"**: Increases Stellar Jades obtained from adventures and events by 100%, up to an additional 1,600 Stellar Jades.
+
+**"Character Support"**: You can select 1 support team and add 2 support characters to your lineup to participate in story combat, material farming, Forgotten Hall, Pure Fiction, and Apocalyptic Shadow. There are 3 support teams in total, and you can switch between them at any time.
+
+**"Gold Gear Selector"**: You can select an owned character to obtain a set of max-level 5-star Relics with suitable Main Stats for them.
+
+**"Returning Check-In"**: After purchasing the bundle, you can obtain Star Rail Special Pass ×10 and credit ×60,000 on the same day. By logging in from Day 2 to Day 4, you can also obtain a daily reward of Stellar Jade ×160 and credit ×20,000. In total, you can obtain Star Rail Special Pass ×10, Stellar Jade ×480, and credit ×120,000.
+
+<details open="true">
+<summary>3-Day Check-In Rewards</summary>
+
+- During the event, log into the game every day to receive Stellar Jades, Relic Remains, Memo-Keeping Light Casket, and Fuel rewards. The rewards are renewed every day at 04:00 server time. Daily log-in rewards can only be received once per day. A maximum of 3 days of rewards are provided.
+
+※ Open the Memo-Keeping Light Casket to choose one of the following 4-Star Light Cones: **Mushy Shroomy's Adventures (Elation)**, Quid Pro Quo (Abundance), Fermata (Nihility), We Are Wildfire (Preservation), River Flows in Spring (The Hunt), Past and Future (Harmony), Woof! Walk Time! (Destruction), The Seriousness of Breakfast (Erudition), and Victory In a Blink (Remembrance).
+
+</details>
+
+<details open="true">
+<summary>"Returners' Privilege" Nameless Honor Boost and Extra Double Rewards</summary>
+
+- During the event, Trailblazers will receive 50% more Nameless EXP from completing Nameless Honor missions. This bonus will expire at 04:00 on Monday after the event ends.
+
+- Trailblazers will get 42 double reward chances for Calyxes during the Return period, and 4 double reward chances for Cavern Relics and Planar Ornaments. You will get an additional reward on top of default drops after consuming a double reward opportunity and Trailblaze Power.
+
+※ Should Garden of Plenty occur at the same time as Starlit Homecoming, the daily drop for Garden of Plenty will be consumed first when Trailblazers complete Calyx challenges.
+
+</details>
+
+<details open="true">
+<summary>"Returning Guide" Survey</summary>
+
+- Complete the survey to earn rewards. The rewards will be sent via mail. The survey can only be filled in once. If you have already submitted the survey, you cannot fill in or modify it again.
+
+- Returning Trailblazers who have not logged into the game for ≥90 consecutive days will receive an additional survey mail on the 4th day after activating the "Starlit Homecoming" event.
+
+</details>
+
+<details open="true">
+<summary>Attention</summary>
+
+- Stellar Jades obtained via Oneiric Shard exchange, mail, redemption codes, the Store, "Nameless Honor," or "To The Ones That Blaze" will not be included in "Double Stellar Jades."
+
+- If you activate "Starlit Homecoming" during Version 4.1, and are still in the "Starlit Homecoming" event phase after the Version 4.2 update, your "Starlit Homecoming" event content will not be updated.
+
+</details>
+
+-----
+
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/1235.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/12f6a87265b797c084f11e38cbef0485_7228137409599957716_transformed.png)
