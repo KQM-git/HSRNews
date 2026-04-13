@@ -1,3 +1,21 @@
+# [Version 4.2 New Stage](archive/1253.md)
+## Version 4.2 New Stage
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/02/d9b5875a1744c9e3a84e36f00a2b630e_2837553585553734079_transformed.png)
+
+Dear Trailblazers,
+
+After the Version 4.2 update, the new stage, Bud of Nihility: "Radiant Scarwood" Grove of Epiphany, will be added.
+
+### Calyx (Crimson)
+
+■ Bud of Nihility: "Radiant Scarwood" Grove of Epiphany
+
+Successfully challenge the stage to obtain the new **Nihility** Path character **Trace Materials**: "Heart of Phagousa," "Wine of Phagousa," and "Tear of Phagousa".
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/13/67f3b3150826e354f9069f60e4f90084_5776778422192462608_transformed.png)
+
+-----
+
 # [The Honkai: Star Rail 3rd Anniversary Theme Song, Side Quest King, is now officially available!](archive/1281.md)
 ## The 3rd Anniversary theme song Side Quest King is officially released.
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/09/2559feca89f9403e5e352e5cc7c1b6c5_1230200441061697386_transformed.jpg)
