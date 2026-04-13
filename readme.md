@@ -252,30 +252,6 @@ Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and
 
 -----
 
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1234.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/03/7d5eeebab1c60716249e3c8e3bcdcac6_323090249141834397_transformed.png)
-
-### Event Period
-
-2026/03/30 04:00:00 (server) - 2026/04/13 03:59:00 (server)
-
-### Participation Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event, receive double rewards when obtaining Immersion Rewards or performing Ornament Extraction in the Simulated Universe.
-
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Honkai: Star Rail 3rd Anniversary Los Angeles Offline Event](archive/1257.md)
 ## Honkai: Star Rail 3rd Anniversary Los Angeles Offline Event
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/ef6c7260d4fd67c54bfd966265a303dd_8334042270711835924_transformed.jpg)
