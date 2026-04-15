@@ -1,3 +1,35 @@
+# [Novaflare: Firefly, Huohuo, Seele, and Welt Buffed](archive/1254.md)
+## Firefly, Huohuo, Seele, and Welt Buffed
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/27/500043ee4e1e838e635f78dcf36517d6_453352821574857009_transformed.png)
+
+After the Version 4.2 update, Firefly, Huohuo, Seele, and Welt will be buffed!
+
+### Availability
+
+After the Version 4.2 update
+
+### Event Requirement
+
+Trailblaze Level ≥ 4
+
+### Featured Enhanced Characters
+
+"Firefly" "Huohuo" "Seele" "Welt"
+
+### Rules
+
+- After the characters are enhanced, the effects of abilities, Traces, and Eidolons may change.
+
+- After the characters are enhanced, both existing characters and newly obtained characters will default to their enhanced state.
+
+- Trailblazers can switch between a character's enhanced and previous state in the "Character Details" — "Character Enhancement" interface.
+
+※ During Version 4.2, participate in the "Novaflare" character trial event. Enter Challenge Stages with a team lineup that includes designated trial characters, and receive Stellar Jade rewards upon successful completion.
+
+※ Enhanced characters in Novaflare will be expanded periodically. Please stay tuned for future official announcements.
+
+-----
+
 # [Version 4.2 Nameless Honor Update Details](archive/1277.md)
 ## Nameless Honor Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/03/f35471d4b1d95b7059b834b39de96265_1753248285548930977_transformed.png)
