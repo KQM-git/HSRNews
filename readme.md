@@ -1,3 +1,101 @@
+# [Game Version 4.1 Optimization and Known Issues](archive/1264.md)
+## Game Version 4.1 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/04/10
+
+- It is known that the "Meteor Wholesaler" Equation in the Divergent Universe: Arcadian Chronicles game mode has a damage count recording anomaly under certain circumstances. This issue will be fixed with Version 4.2.
+
+■2026/03/30
+
+- It is known that the Dealer hit count increase effect in the Equation "Truly Fortunate Chess" in the Divergent Universe: Arcadian Chronicles game mode is abnormal. This issue will be fixed in Version 4.2.
+
+■2026/03/25
+
+- It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
+
+### Game Updates and Improvements Overview
+
+■2026/04/15
+
+- Updated certain in-game resources.
+
+■2026/04/01
+
+- Fixes an issue where the chat box could not be changed in the Message interface when using a controller.
+
+- Fixes an issue in the "Divergent Universe: Arcadian Chronicles" gameplay where the effect-triggering Domain for the Mask Effect of the "Chariot Mask" was aberrant.
+
+■2026/03/27
+
+- Fixes an issue where the interface may lag in certain "Floating Grease Origin Retrace: Shiftmation!" game modes in the Duomension City map.
+
+- Fixes an issue where the negative Curio "Absolute Failure Prescription" takes effect abnormally in the Divergent Universe: Arcadian Chronicles gameplay under certain circumstances.
+
+- Fixes an issue where some interfaces display abnormally and certain buttons cannot be interacted with in the Divergent Universe: Arcadian Chronicles gameplay under specific circumstances.
+
+■2026/03/26
+
+- Optimizes the effects of the "Chariot Mask" in the Divergent Universe: Arcadian Chronicles gameplay. After the optimization, Instant Kill will take effect at the start of every wave, instead of at the start of combat.
+
+- Fixes an issue where some effects of the Grand Miracle "Chariot Mask: Beyond" erroneously fail to take effect under certain circumstances in the Divergent Universe: Arcadian Chronicles gameplay.
+
+- Fixes an issue where certain character lineup edit voice lines trigger incorrectly when undergoing lineup edits under specific circumstances.
+
+- Fixes an issue where under certain circumstances, characters cannot access some maps when engaging in a specific Interplanar Jump! game mode at the Lookout Cloud Station map.
+
+- Fixes an issue where there is a chance the game's progress becomes abnormal after battling the enemy The Giver, Master of Legions, Lance of Fury (Complete) in the Divergent Universe: Arcadian Chronicles game mode.
+
+- Fixes an issue in the mission flow of the Trailblaze Mission "Planarcadia" — "Confessions of a Righteous Sinner" where the character's position becomes abnormal and is unable to continue progressing through the mission under certain circumstances.
+
+- Fixes an issue where the character disappears under certain circumstances in "The Wispae That Constantly Falls" gameplay.
+
+- Fixes an issue where the Lookout Cloud Station teleportation point is abnormally missing after advancing a Trailblaze Mission and arriving in the Duomension City map.
+
+- Fixes an issue where certain ability buttons are abnormally not displayed in the lower right corner of the combat UI.
+
+■2026/03/25
+
+- Fixes an issue where some UI such as Total DMG in the top right corner of the battle interface display abnormally under certain circumstances.
+
+- Fixes an issue where the game progress may become abnormal when selecting Waypoint Passes in the Divergent Universe: Arcadian Chronicles gameplay. After the fix, Trailblazers who still encounter this issue can contact us through "Phone" - "Bug Report".
+
+- Fixes an issue where the description of the completion requirement for the Achievement "All Units, Stand By!" was wrong.
+
+- Fixes an issue where some models would display abnormally when "Alloy Pommy" attacks in combat.
+
+- Fixes an issue where the game progress would become abnormal after selecting some options in the Occurrence "Path of the Sage (I)" of the Divergent Universe: Arcadian Chronicles gameplay.
+
+- Fixes an issue where the shortcut key cannot be used to check Mask Details during battles in the Divergent Universe: Arcadian Chronicles gameplay when using controllers to experience the game.
+
+- Fixes an issue where the character disappears under certain circumstances in "The Wispae That Constantly Falls" gameplay.
+
+- Fixes an issue where the game progress becomes abnormal during the mechatron assembly process under certain circumstances in the Trailblaze Mission "Planarcadia" — "Society of the Spectacle and Its Enemies."
+
+- Fixes an issue where the effects of the Grand Miracle "Fortune Cat Mask: Bloom" trigger abnormally under certain circumstances in the Divergent Universe: Arcadian Chronicles gameplay.
+
+- Fixes an issue where the content of Trailblaze Activity displays abnormally in the Trailblazer Profile interface under certain circumstances.
+
+- Fixes some text errors in Messages.
+
+- Fixes some text errors in part of the story dialogue in Trailblaze Mission "Planarcadia" — "Portrait of a Middle-Aged Artist."
+
+- Fixes an issue where some sources of Elation Path Materials were wrongly displayed when viewing their Details interface.
+
+- Fixes an issue where Trailblazers are unable to re-enter the Divergent Universe: Arcadian Chronicles gameplay under certain circumstances after pausing and exiting midway.
+
+- Fixes an issue where the Three-Day Check-In rewards in the "Starbound Return" event could not be claimed when experiencing the game with controllers.
+
+- Fixes an issue where some effect descriptions for Grand Miracles in the Divergent Universe: Arcadian Chronicles gameplay erroneously display codes.
+
+-----
+
 # [Novaflare: Firefly, Huohuo, Seele, and Welt Buffed](archive/1254.md)
 ## Firefly, Huohuo, Seele, and Welt Buffed
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/27/500043ee4e1e838e635f78dcf36517d6_453352821574857009_transformed.png)
@@ -369,104 +467,6 @@ Little Tokyo
 ### Participating Stores
 
 Honkai: Star Rail Pop-Up Shop, Cafe Dulce, Catch Little Tokyo, Mitsuru Cafe, RAKKAN Ramen, Somisomi, Takoyaki TaNoTa, T.O.T. Little Tokyo
-
------
-
-# [Game Version 4.1 Optimization and Known Issues](archive/1264.md)
-## Game Version 4.1 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Known Issues
-
-■2026/04/10
-
-- It is known that the "Meteor Wholesaler" Equation in the Divergent Universe: Arcadian Chronicles game mode has a damage count recording anomaly under certain circumstances. This issue will be fixed with Version 4.2.
-
-■2026/03/30
-
-- It is known that the Dealer hit count increase effect in the Equation "Truly Fortunate Chess" in the Divergent Universe: Arcadian Chronicles game mode is abnormal. This issue will be fixed in Version 4.2.
-
-■2026/03/25
-
-- It is known that when the voice language is set to English, certain lines from the  NPCs "Ashveil" and "Nihilux" are missing during the Trailblaze Mission "Planarcadia - Unraveled for Daybreak." This issue will be fixed in a future update.
-
-### Game Updates and Improvements Overview
-
-■2026/04/15
-
-- Updated certain in-game resources.
-
-■2026/04/01
-
-- Fixes an issue where the chat box could not be changed in the Message interface when using a controller.
-
-- Fixes an issue in the "Divergent Universe: Arcadian Chronicles" gameplay where the effect-triggering Domain for the Mask Effect of the "Chariot Mask" was aberrant.
-
-■2026/03/27
-
-- Fixes an issue where the interface may lag in certain "Floating Grease Origin Retrace: Shiftmation!" game modes in the Duomension City map.
-
-- Fixes an issue where the negative Curio "Absolute Failure Prescription" takes effect abnormally in the Divergent Universe: Arcadian Chronicles gameplay under certain circumstances.
-
-- Fixes an issue where some interfaces display abnormally and certain buttons cannot be interacted with in the Divergent Universe: Arcadian Chronicles gameplay under specific circumstances.
-
-■2026/03/26
-
-- Optimizes the effects of the "Chariot Mask" in the Divergent Universe: Arcadian Chronicles gameplay. After the optimization, Instant Kill will take effect at the start of every wave, instead of at the start of combat.
-
-- Fixes an issue where some effects of the Grand Miracle "Chariot Mask: Beyond" erroneously fail to take effect under certain circumstances in the Divergent Universe: Arcadian Chronicles gameplay.
-
-- Fixes an issue where certain character lineup edit voice lines trigger incorrectly when undergoing lineup edits under specific circumstances.
-
-- Fixes an issue where under certain circumstances, characters cannot access some maps when engaging in a specific Interplanar Jump! game mode at the Lookout Cloud Station map.
-
-- Fixes an issue where there is a chance the game's progress becomes abnormal after battling the enemy The Giver, Master of Legions, Lance of Fury (Complete) in the Divergent Universe: Arcadian Chronicles game mode.
-
-- Fixes an issue in the mission flow of the Trailblaze Mission "Planarcadia" — "Confessions of a Righteous Sinner" where the character's position becomes abnormal and is unable to continue progressing through the mission under certain circumstances.
-
-- Fixes an issue where the character disappears under certain circumstances in "The Wispae That Constantly Falls" gameplay.
-
-- Fixes an issue where the Lookout Cloud Station teleportation point is abnormally missing after advancing a Trailblaze Mission and arriving in the Duomension City map.
-
-- Fixes an issue where certain ability buttons are abnormally not displayed in the lower right corner of the combat UI.
-
-■2026/03/25
-
-- Fixes an issue where some UI such as Total DMG in the top right corner of the battle interface display abnormally under certain circumstances.
-
-- Fixes an issue where the game progress may become abnormal when selecting Waypoint Passes in the Divergent Universe: Arcadian Chronicles gameplay. After the fix, Trailblazers who still encounter this issue can contact us through "Phone" - "Bug Report".
-
-- Fixes an issue where the description of the completion requirement for the Achievement "All Units, Stand By!" was wrong.
-
-- Fixes an issue where some models would display abnormally when "Alloy Pommy" attacks in combat.
-
-- Fixes an issue where the game progress would become abnormal after selecting some options in the Occurrence "Path of the Sage (I)" of the Divergent Universe: Arcadian Chronicles gameplay.
-
-- Fixes an issue where the shortcut key cannot be used to check Mask Details during battles in the Divergent Universe: Arcadian Chronicles gameplay when using controllers to experience the game.
-
-- Fixes an issue where the character disappears under certain circumstances in "The Wispae That Constantly Falls" gameplay.
-
-- Fixes an issue where the game progress becomes abnormal during the mechatron assembly process under certain circumstances in the Trailblaze Mission "Planarcadia" — "Society of the Spectacle and Its Enemies."
-
-- Fixes an issue where the effects of the Grand Miracle "Fortune Cat Mask: Bloom" trigger abnormally under certain circumstances in the Divergent Universe: Arcadian Chronicles gameplay.
-
-- Fixes an issue where the content of Trailblaze Activity displays abnormally in the Trailblazer Profile interface under certain circumstances.
-
-- Fixes some text errors in Messages.
-
-- Fixes some text errors in part of the story dialogue in Trailblaze Mission "Planarcadia" — "Portrait of a Middle-Aged Artist."
-
-- Fixes an issue where some sources of Elation Path Materials were wrongly displayed when viewing their Details interface.
-
-- Fixes an issue where Trailblazers are unable to re-enter the Divergent Universe: Arcadian Chronicles gameplay under certain circumstances after pausing and exiting midway.
-
-- Fixes an issue where the Three-Day Check-In rewards in the "Starbound Return" event could not be claimed when experiencing the game with controllers.
-
-- Fixes an issue where some effect descriptions for Grand Miracles in the Divergent Universe: Arcadian Chronicles gameplay erroneously display codes.
 
 -----
 
