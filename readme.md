@@ -396,6 +396,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/04/15
+
+- Updated certain in-game resources.
+
 ■2026/04/01
 
 - Fixes an issue where the chat box could not be changed in the Message interface when using a controller.
