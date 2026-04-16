@@ -22,6 +22,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/04/16
+
+- Fixes an issue where there is a chance the game might abnormally crash during Combat when using certain devices.
+
 ■2026/04/15
 
 - Updated certain in-game resources.
