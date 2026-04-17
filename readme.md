@@ -192,24 +192,6 @@ Successfully challenge the stage to obtain the new **Nihility** Path character *
 
 -----
 
-# [The Honkai: Star Rail 3rd Anniversary Theme Song, Side Quest King, is now officially available!](archive/1281.md)
-## The 3rd Anniversary theme song Side Quest King is officially released.
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/09/2559feca89f9403e5e352e5cc7c1b6c5_1230200441061697386_transformed.jpg)
-
-On the cosmic stage, it all begins with your opening act.
-
-Playing by the rules? Zero style. Too many clichés? Then break them.
-
-While the starlight shines bright, let the dreams we've dreamed and the vows we've sworn burst into willful combustion!
-
-The Honkai: Star Rail 3rd Anniversary Theme Song, Side Quest King, is now officially available.
-
-We welcome Trailblazers to have a listen!
-
-[ Check it out](https://bfan.link/eww3d1quest1sk4)
-
------
-
 # [Birthday Cake Update Details](archive/1249.md)
 ## Birthday Cake Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/0554bbd76a886432913b08575c19e75d_7989548708540086360_transformed.png)
