@@ -482,34 +482,6 @@ Go to HoYoLAB — Tools — Honkai: Star Rail — Check-In to check in daily and
 
 -----
 
-# [Honkai: Star Rail 3rd Anniversary Los Angeles Offline Event](archive/1257.md)
-## Honkai: Star Rail 3rd Anniversary Los Angeles Offline Event
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/ef6c7260d4fd67c54bfd966265a303dd_8334042270711835924_transformed.jpg)
-
-Hello, Trailblazers
-
-Step into the World of Elation with us and celebrate our third anniversary!
-
-From April 18 to April 26, join our "Elation Street" themed block event, and stroll through themed corners, playful installations, and decorated shops.
-
-Then, on Sunday, April 19, come hang with us for a special gathering, featuring guest appearances, cosplayers, and more!
-
-### Event Period
-
-2026/04/18 – 2026/04/26
-
-### Event Location
-
-Little Tokyo
-
-335 E 2nd St, Los Angeles, CA 90012
-
-### Participating Stores
-
-Honkai: Star Rail Pop-Up Shop, Cafe Dulce, Catch Little Tokyo, Mitsuru Cafe, RAKKAN Ramen, Somisomi, Takoyaki TaNoTa, T.O.T. Little Tokyo
-
------
-
 # [Version 4.1 "Unraveled for Daybreak" Update Details](archive/1230.md)
 ## Version 4.1 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/11/c6e2f3559f8ad6e365bea8be5d5f24c6_4050696717435442522_transformed.png)
