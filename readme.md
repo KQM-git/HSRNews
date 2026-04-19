@@ -32,6 +32,28 @@ Trailblaze Level ≥ 21 and complete the Trailblaze Mission "Jarilo-VI" - "No Ti
 
 -----
 
+# ["So Laughed the Masses" Mission Description](archive/1252.md)
+## "So Laughed the Masses" Mission Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/27/64f3e230e7e4d97229198bcfa619cb40_7440555679166121045_transformed.png)
+
+Near the spire's peak, approaching the Phantasmoon, the Fool weaves the hearts of men into a marionette theater within her palms. In this moment, people are bestowed the freedom of Elation. In this moment, people are shackled by the chains of happiness...
+
+### Availability
+
+Permanently available after the Version 4.2 update
+
+### Unlock Requirement
+
+Complete the Version 4.1 Trailblaze Mission "Unraveled for Daybreak"
+
+※ "Planarcadia" Trailblaze Missions can be experienced in advance through the "Finality's Vision: Leap of Trailblaze" function.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/04/16/85af4ccd7b5d3c4996c0e75fe7ab758e_1150165070600254903_transformed.png)
+
+-----
+
 # ["Festive Gifts": Check in to obtain a total of Star Rail Special Pass ×20](archive/1251.md)
 ## "Festive Gifts"
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/27/c6eb7e43d55d19aa17688e995e7aabbd_2468459669382489911_transformed.png)
