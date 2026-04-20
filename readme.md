@@ -1,3 +1,49 @@
+# [Relic Recon: Participate to get 5-star +15 Relics!](archive/1246.md)
+## "Relic Recon" Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/ff5422914767fff173cae889722d1a4d_6472310264877958077_transformed.png)
+
+A mysterious collection vault in the Herta Space Station has opened its doors to you, filled with countless chests containing wondrous items. If you could get your hands on a special access card...
+
+### Event Period
+
+After the Version 4.2 update — 2026/06/01 03:59:00 (global)
+
+### Event Requirement
+
+Trailblaze Level ≥ 21
+
+### Event Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2025/10/30/62966aecacc0158d5b543bf206302b14_1425685278596364175_transformed.png)
+
+### Event Details
+
+- Obtain up to **six 5-star +15 Relics for different slots, each with 4 initial Subsidiary Stats**, through the Relic Recon event.
+
+- Obtain "Access Cards" during the event by **completing a series of missions**.
+
+- Before using an "Access Card" to obtain a Relic, Trailblazers can **designate a character**. The system will then recommend suitable Planar Ornament and Cavern Relic Sets. Alternatively, Trailblazers can customize which Relic Sets they want to obtain.
+
+- Each "Access Card" can be used to open one box, which guarantees one **5-star +15 Relic with 4 initial Subsidiary Stats**.
+
+- Obtained Relics can be temporarily stored. You can store up to 1 Relic for each slot at a time, for a total of 6 Relics.
+
+- If you obtain a new Relic for a slot that already has a stored Relic, you can choose **whether to replace** it.
+
+- Stored Relics **can be equipped on characters**. During the event, these Relics will have a special locked status in the Inventory and cannot be unlocked. This special lock will convert to a normal lock after the event ends.
+
+- Opening a certain number of boxes will trigger a **"Guarantee" Box**. The Main Stat of the Relic from this box is **guaranteed to be** the **system-recommended Main Stat** for the designated character, and it will have **at least 2** effective Subsidiary Stats.
+
+- The "Guarantee" Box prioritizes offering Relics positions that **have not been offered by** the "Guarantee" Box before.
+
+### Special Notes
+
+- The selected character affects prompts such as Relic stat compatibility and rating. It also influences the Main/Subsidiary Stats of Relics from the "Guarantee" Box.
+
+- Changing the designated character or Relic set partway through the event will only affect the results of subsequent boxes. Any Relics already stored will be unaffected.
+
+-----
+
 # ["Pom-Pom's Assist (Beta)": Talk to Pom-Pom to get Pom-Pom's new outfit!](archive/1245.md)
 ## "Pom-Pom's Assist (Beta)" Feature Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/17/40805bff4e6ab6364ff105f3e1f99742_7751349668303445703_transformed.png)
