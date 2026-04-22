@@ -18,6 +18,20 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/04/22
 
+- Optimizes and reduces the difficulty of some stages in the event "Cosmic Data Roaming."
+
+- Fixes an issue where the game progress becomes abnormal under certain circumstances, when clearing a battle in the event "Cosmic Data Roaming."
+
+- Fixes an issue where parts of the interface appear abnormally in the event "Comic Data Roaming" under certain circumstances.
+
+- Fixes an issue where the "Funky Munch Bean" summoned by the character "Silver Wolf LV.999 (Elation: Imaginary)'s" Technique has a chance of abnormally getting stuck on certain maps.
+
+- Fixes an issue with the description of the Achievement "Holiday for the Rest of My Life" where the displayed value and progress calculation were incorrect. This issue will not affect the actual conditions for completing the Achievement or the already-achieved progress.
+
+- Fixes an issue where some effects of the pet "Furbobo Press Corps" were not correctly hidden during mission performances.
+
+- Fixes an issue where certain texts were wrong when interacting with the "Rating Pistol."
+
 - Fixes an issue where players are unable to progress through the stage "Initial Test" normally in the "Currency Wars" game mode under certain circumstances.
 
 - Fixes an issue where the equipment "Codex of Combat" appears abnormally in the equipment slot within the "Currency Wars" game mode under certain circumstances.
