@@ -10,9 +10,19 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/04/22
 
-- It is known that in the Character Details Screen, some facial expressions for "Silver Wolf LV.999 (Elation: Imaginary)" may display incorrectly under specific circumstances.
-
 - It is known that some Korean voice lines for NPC "Pearl" in the Trailblaze Mission "Planarcadia" — "Unraveled for Daybreak" are missing. This issue will be fixed in a future version.
+
+### Game Updates and Improvements Overview
+
+■2026/04/22
+
+- Fixes an issue where certain interactions and displays on the Character/Light Cone acquisition screen functions abnormally under specific circumstances.
+
+- Fixes an issue where some facial expressions for the character "Silver Wolf LV.999 (Elation: Imaginary)" displays incorrectly under certain circumstances in the Character Details Screen.
+
+- 修复了单独购买开拓穿搭「酷酷酷墨镜」或名片「乐园冲冲冲」后，以折扣价格购买剩余商品时，提示弹窗中显示的所需古老梦华数量有误的问题。该问题不影响实际支付时消耗的古老梦华数量。
+
+**※Pom-Pom is currently translating with Synesthesia Beacon, please wait patiently.**
 
 -----
 
