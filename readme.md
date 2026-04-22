@@ -18,6 +18,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/04/22
 
+- Fixes an issue where players are unable to progress through the stage "Initial Test" normally in the "Currency Wars" game mode under certain circumstances.
+
+- Fixes an issue where the equipment "Codex of Combat" appears abnormally in the equipment slot within the "Currency Wars" game mode under certain circumstances.
+
 - <p style="white-space: pre-wrap; min-height: 1.5em;">
 
 Fixes an issue where there is a chance for stage verification to fail in the "Currency Wars" and "Divergent Universe" gameplay modes under certain circumstances.
