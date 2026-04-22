@@ -1,5 +1,5 @@
-# [版本游戏优化及已知问题说明](archive/1288.md)
-## 版本游戏优化及已知问题说明
+# [Game Version 4.2 Optimization and Known Issues](archive/1288.md)
+## Game Version 4.2 Optimization and Known Issues
 
 
 Dear Trailblazers,
