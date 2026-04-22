@@ -1,4 +1,4 @@
-# [Game Version 4.2 Optimization and Known Issues](archive/1288.md)
+# [Game Version 4.2 Optimization and Known Issues](archive/1294.md)
 ## Game Version 4.2 Optimization and Known Issues
 
 
