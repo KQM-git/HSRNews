@@ -1,3 +1,19 @@
+# [版本游戏优化及已知问题说明](archive/1288.md)
+## 版本游戏优化及已知问题说明
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/04/22
+
+- It is known that some Korean voice lines for NPC "Pearl" in the Trailblaze Mission "Planarcadia" — "Unraveled for Daybreak" are missing. This issue will be fixed in a future version.
+
+-----
+
 # [Relic Recon: Participate to get 5-star +15 Relics!](archive/1246.md)
 ## "Relic Recon" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/ff5422914767fff173cae889722d1a4d_6472310264877958077_transformed.png)
