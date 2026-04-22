@@ -10,6 +10,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/04/22
 
+- 已知特定情况下，角色详情界面内，角色「银狼LV.999（欢愉•虚数）」部分表情显示异常的问题。
+
+**※Pom-Pom is currently translating with Synesthesia Beacon, please wait patiently.**
+
 - It is known that some Korean voice lines for NPC "Pearl" in the Trailblaze Mission "Planarcadia" — "Unraveled for Daybreak" are missing. This issue will be fixed in a future version.
 
 -----
