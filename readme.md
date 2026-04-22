@@ -1043,7 +1043,7 @@ Archer voice artists (Japanese: Junichi Suwabe; Chinese: 吴磊; Korean: 임채�
 <details open="true">
 <summary>Celestial Invitation Custom Characters</summary>
 
-Trailblazers can customize 7 "Celestial Invitation" characters in the Character Event Warp. The selectable characters are as follows.
+- Trailblazers can customize 7 "Celestial Invitation" characters in the Character Event Warp. The selectable characters are as follows.
 
 ※ The first time you obtain a 5-star character in this Warp event, there is a 50% chance that it will be one of the featured 5-star characters. There is also a 50% chance that it will be any of the obtainable 5-star characters in this Warp phase, with equal chance among them.
 
