@@ -34,13 +34,15 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Fixes an issue where the equipment "Codex of Combat" appears abnormally in the equipment slot within the "Currency Wars" game mode under certain circumstances.
 
-- <p style="white-space: pre-wrap; min-height: 1.5em;">
-
-Fixes an issue where there is a chance for stage verification to fail in the "Currency Wars" and "Divergent Universe" gameplay modes under certain circumstances.
+- Fixes an issue where there is a chance for stage verification to fail in the "Currency Wars" and "Divergent Universe" gameplay modes under certain circumstances.
 
 - Fixes an issue where certain interactions and displays on the Character/Light Cone acquisition screen functions abnormally under specific circumstances.
 
 - Fixes an issue where some facial expressions for the character "Silver Wolf LV.999 (Elation: Imaginary)" displays incorrectly under certain circumstances in the Character Details Screen.
+
+- Fixes an issue where when purchasing either the Trailblazer Outfit "Cool Overload Shades" or the dynamic namecard "Arcadia Rush" individually, and then purchasing the remaining item at the discounted price, the prompt pop-up incorrectly displayed the amount of Oneiric Shards needed. This issue does not affect the actual amount of Oneiric Shards consumed during payment.
+
+- Fixes an issue where certain texts were wrong when interacting with the "Rating Pistol."
 
 -----
 
