@@ -16,6 +16,14 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/04/23
 
+- Fixes an issue where text could not be entered normally when switching from the “Pom-Pom's Assist” mode to the “Chat Box” function when using certain devices under specific circumstances.
+
+- Fixes an issue where the game progress may become abnormal when downloading runes during the mission flow of Trailblaze Mission "Amphoreus — Great Tomb, Hide the Secrets of Incarnations."
+
+- Fixes an issue where the Relics configured for the trial character "Ashveil (The Hunt: Lightning) are incorrect in the "Currency Wars" game mode.
+
+- Fixes an issue where some texts were displayed incompletely in the "Three-Year Anniversary Celebration" interface.
+
 - Fixes an issue in the event "Phantsmoon New Game" where the red dot prompt on certain interfaces did not appear properly.
 
 ■2026/04/22
