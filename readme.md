@@ -16,6 +16,8 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/04/23
 
+- Fixes an issue where after the character "Silver Wolf Lv. 999 (Elation: Imaginary)" uses her Skill, there is a chance for ally character models to display abnormally under specific circumstances.
+
 - Fixes an issue where text could not be entered normally when switching from the “Pom-Pom's Assist” mode to the “Chat Box” function when using certain devices under specific circumstances.
 
 - Fixes an issue where the game progress may become abnormal when downloading runes during the mission flow of Trailblaze Mission "Amphoreus — Great Tomb, Hide the Secrets of Incarnations."
