@@ -10,11 +10,13 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/04/22
 
-- It is known that when using certain devices, text could not be entered normally when switching from the “Pom-Pom's Assist” mode to the “Chat Box” function under specific circumstances.
-
 - It is known that some Korean voice lines for NPC "Pearl" in the Trailblaze Mission "Planarcadia" — "Unraveled for Daybreak" are missing. This issue will be fixed in a future version.
 
 ### Game Updates and Improvements Overview
+
+■2026/04/23
+
+- Fixes an issue in the event "Phantsmoon New Game" where the red dot prompt on certain interfaces did not appear properly.
 
 ■2026/04/22
 
