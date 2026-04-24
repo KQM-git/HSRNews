@@ -12,7 +12,17 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - It is known that some Korean voice lines for NPC "Pearl" in the Trailblaze Mission "Planarcadia" — "Unraveled for Daybreak" are missing. This issue will be fixed in a future version.
 
-### Game Updates and Improvements Overview
+### Version Update Fixes and Optimizations
+
+■2026/04/24
+
+- Fixes an issue when using the "Character Support" system, players were unable to enter specific "Exploratory Excursions.”
+
+- Fixes an issue where, under specific circumstances, players were unable to obtain treasure in the "Interplanar Jump!" minigame within the "Seafeld TV Tower" map.
+
+- Fixes an issue in the "Currency Wars" game mode where the character "Firefly (Destruction: Fire)" was unable to use her Ultimate under specific circumstances.
+
+- Fixes an issue in the  "Currency Wars" game mode where the game session would experience abnormal progress after triggering a specific Investment Strategy effect and entering combat.
 
 ■2026/04/23
 
