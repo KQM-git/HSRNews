@@ -12,7 +12,11 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - It is known that some Korean voice lines for NPC "Pearl" in the Trailblaze Mission "Planarcadia" — "Unraveled for Daybreak" are missing. This issue will be fixed in a future version.
 
-### Version Update Fixes and Optimizations
+### Game Updates and Improvements Overview
+
+■2026/04/25
+
+- Fixes an issue where using certain iOS devices with specific characters in the team could lead to abnormal game progress during battle.
 
 ■2026/04/24
 
