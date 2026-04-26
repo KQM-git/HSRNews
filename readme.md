@@ -72,6 +72,58 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# ["Astral Express Strategy Guide" Website Update: Version 4.2 Strategy Guides Contest Event Is In Full Swing!](archive/1297.md)
+## "Astral Express Strategy Guide" Website Update: Version 4.2 Strategy Guides Contest Event Is In Full Swing!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/23/54c6381f2cb415ec78a304cf2962f48c_7552128435920618778_transformed.png)
+
+Hello, Trailblazers
+
+Latest Strategy Guide Update  Complete Character Build Guide for Silver Wolf LV.999!
+
+We cordially invite you to embark on this new interstellar journey.
+
+With wisdom as your pen and courage as your ink, record your own unique chapter.
+
+Share inspiration, exchange insights, and journey hand in hand with fellow pathstriders among the stars, letting the radiance of thought and creativity illuminate the cosmic seas!
+
+Submit your strategy guide, share your exclusive tips, and win 6,000 Stellar Jades!
+
+[  Check it out](https://act.hoyoverse.com/puzzle/hkrpg/pz_a6pMewGZqb/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202603098609&utm_source=ingame&utm_medium=announcement&tab=featured)
+
+### Submission Time
+
+2026/04/22 14:00:00 (global) - 2026/05/31 23:59:00 (global)
+
+### How to Participate
+
+- Post using the designated submission tag on X, Instagram, YouTube, HoYoLAB and other platforms to successfully enter the contest.
+
+- Post on any social media platform using the designated submission hashtag and complete the submission survey to successfully enter the contest.
+
+[ Obtain the Submission Tag](https://act.hoyoverse.com/puzzle/hkrpg/pz_a6pMewGZqb/index.html?hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=e202603098609&utm_source=ingame&utm_medium=announcement&tab=submission)
+
+### Event Rewards
+
+- Stellar Guide Award (8 Winners)
+
+Stellar Jade ×6,000
+
+- Strategy Master Award (12 Winners)
+
+Stellar Jade ×3,000
+
+- Light of Exploration Award (20 Winners)
+
+Stellar Jade ×1,000
+
+- Lucky Award (10 Winners)
+
+Honkai: Star Rail Merch Lucky Bag
+
+※ Please refer to the Event Rules on the website for rules, submission guidelines, and other details.
+
+-----
+
 # [Version 4.2 "So Laughed the Masses" Discord Quest Now Available](archive/1275.md)
 ## Version 4.2 "So Laughed the Masses" Discord Quest Now Available
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/9a0f49c8db382d6540961c847c241633_969102181618715263_transformed.png)
