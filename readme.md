@@ -124,28 +124,6 @@ Honkai: Star Rail Merch Lucky Bag
 
 -----
 
-# [Version 4.2 "So Laughed the Masses" Discord Quest Now Available](archive/1275.md)
-## Version 4.2 "So Laughed the Masses" Discord Quest Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/14/9a0f49c8db382d6540961c847c241633_969102181618715263_transformed.png)
-
-Hello, Trailblazers!
-
-The Version 4.2 "So Laughed the Masses" Discord Quest Event is now available!
-
-From now until April 29, 2026, launch the Discord desktop app and play Honkai: Star Rail for 15 minutes or more to experience the Version 4.2 content and receive various in-game rewards including Stellar Jades. Go claim them now!
-
-[ Learn More](https://hoyo.link/iTBldlBQx)
-
-### Note
-
-- A total of 900,000 Stellar Jades are available. Each account can claim a share of the reward once only.
-
-- Rewards are distributed on a first-come, first-served basis, determined by the time you claim the redemption code after completing the quest.
-
-※ For more information, please go to the Honkai: Star Rail official Discord server.
-
------
-
 # [Relic Recon: Participate to get 5-star +15 Relics!](archive/1246.md)
 ## "Relic Recon" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/ff5422914767fff173cae889722d1a4d_6472310264877958077_transformed.png)
