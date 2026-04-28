@@ -14,6 +14,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/04/28
+
+- Fixes an issue where the pet "Furbobo Press Corps" displayed abnormally under certain circumstances.
+
+- Fixes an issue where the interface may display abnormally when using the teleport function under certain circumstances.
+
 ■2026/04/25
 
 - Fixes an issue where using certain iOS devices with specific characters in the team could lead to abnormal game progress during battle.
