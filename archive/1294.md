@@ -16,6 +16,8 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/04/29
 
+- Updated certain in-game resources.
+
 - Fixes an issue when redirecting to some exchange shops on PS5™ devices under certain circumstances, the content of the corresponding exchange shops will display erroneously.
 
 - Fixes an issue in the "Currency Wars" gameplay where Combat Progress would become aberrant under specific circumstances after equipping the Hacking Component "Trotter Virus Max".
