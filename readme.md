@@ -14,6 +14,18 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/04/29
+
+- Fixes an issue when redirecting to some exchange shops on PS5™ devices under certain circumstances, the content of the corresponding exchange shops will display erroneously.
+
+- Fixes an issue in the "Currency Wars" gameplay where Combat Progress would become aberrant under specific circumstances after equipping the Hacking Component "Trotter Virus Max".
+
+- Fixes an issue where, under certain circumstances, the teleporter in specific "Interplanar Jump!" gameplay within the "Seafeld TV Tower" map would abnormally fail to open.
+
+- Fixes an issue in the "Currency Wars" gameplay where, under certain circumstances, some equipment effects did not take effect normally when "Aha" is carrying equipment.
+
+- Fixes an issue where, under specific circumstances, some images in the "Trailblazer Profile" — "Collection Showcase" system displayed incorrectly.
+
 ■2026/04/28
 
 - Fixes an issue where the pet "Furbobo Press Corps" displayed abnormally under certain circumstances.
