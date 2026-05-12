@@ -38,6 +38,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/05/12
+
+- Some in-game texts in certain languages have been adjusted, optimized, and fixed. These adjustments won't affect actual gameplay. Trailblazers can switch the game's language at Phone Screen - Settings - Language Settings. Details about the adjustments can also be viewed in the corresponding Notices.
+
 ■2026/05/07
 
 - Fixes an issue where, under specific circumstances, message retrieval would fail in certain "Star Rabbit" stages, preventing players from completing the stage.
