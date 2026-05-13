@@ -1,3 +1,27 @@
+# ["Garden of Plenty 300%" Event: Calyx Drop Rate Tripled for a Limited Time](archive/1265.md)
+## "Garden of Plenty 300%" Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/03/ac5740478c5f01209b42cff88c2c5873_4341618988086630351_transformed.jpg)
+
+### Event Period
+
+2026/05/13 04:00:00 (server) - 2026/05/25 03:59:59 (server)
+
+### Participation Requirement
+
+Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
+
+### Event Details
+
+- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive triple rewards.
+
+- You will get **two additional rewards** on top of default drops after consuming an event triple reward opportunity and Trailblaze Power.
+
+- During the event, the number of triple reward opportunities is **limited**. The limits and attempts used so far can be viewed on the Garden of Plenty event page.
+
+- The triple reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # ["Planar Fissure 300%" Event: Planar Ornaments Drop Rate Tripled for a Limited Time](archive/1267.md)
 ## "Planar Fissure 300%" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/2e562bef7a2ac8944cfea73b55f95399_6240447283902549929_transformed.png)
