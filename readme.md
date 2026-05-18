@@ -22,30 +22,6 @@ Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
 
 -----
 
-# ["Planar Fissure 300%" Event: Planar Ornaments Drop Rate Tripled for a Limited Time](archive/1267.md)
-## "Planar Fissure 300%" Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/2e562bef7a2ac8944cfea73b55f95399_6240447283902549929_transformed.png)
-
-### Event Period
-
-2026/05/04 04:00:00 (server) - 2026/05/18 03:59:59 (server)
-
-### Participation Requirement
-
-Unlock "Simulated Universe: World 3"
-
-### Event Details
-
-- During the Planar Fissure event, receive triple rewards when obtaining Immersion Rewards or performing Ornament Extraction in the Simulated Universe.
-
-- You will get **two additional rewards** on top of default drops after consuming an event triple reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of triple reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The triple reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Game Version 4.2 Optimization and Known Issues](archive/1294.md)
 ## Game Version 4.2 Optimization and Known Issues
 
