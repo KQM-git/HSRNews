@@ -1,3 +1,27 @@
+# ["Realm of the Strange 300%" Event: Cavern Relic Drop Rate Tripled for a Limited Time](archive/1266.md)
+## "Realm of the Strange 300%" Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/704c9bacd4fef17287e64e03a11890ac_7897561021517980927_transformed.png)
+
+### Event Period
+
+2026/05/22 04:00:00 (server) - 2026/06/01 03:59:59 (global)
+
+### Participation Requirements
+
+Unlock "Cavern of Corrosion: Path of Drifting"
+
+### Event Details
+
+- During the "Realm of the Strange" event, get triple rewards when you challenge and beat "Cavern of Corrosion."
+
+- You will get **two additional rewards** on top of default drops after consuming an event triple reward opportunity and Trailblaze Power.
+
+- During the event, the number of triple reward opportunities is **limited.** The remaining usage count and maximum usage limit can be viewed in the "Realm of the Strange" event page.
+
+- The triple reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # ["Garden of Plenty 300%" Event: Calyx Drop Rate Tripled for a Limited Time](archive/1265.md)
 ## "Garden of Plenty 300%" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/03/ac5740478c5f01209b42cff88c2c5873_4341618988086630351_transformed.jpg)
