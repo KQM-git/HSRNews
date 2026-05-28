@@ -1,3 +1,25 @@
+# ["The Lethe Below the Living" Mission Details ](archive/1300.md)
+## "The Lethe Below the Living" Mission Details 
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/e70cce8abb60f2e88b7c46a98a34f58c_7690059804161919947_transformed.png)
+
+A passerby seeking a final resting place, a traveler bearing admonitions, people journey to the end of the painting where the ancient Lethe flows, stand witness to past joys and sorrows that emerge from within...
+
+### Availability
+
+Permanently available after the Version 4.3 update
+
+### Unlock Requirement
+
+Complete the Version 4.2 Trailblaze Mission "So Laughed the Masses"
+
+※ "Planarcadia" Trailblaze Missions can be experienced in advance through the "Finality's Vision: Leap of Trailblaze" function.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/05/22/ecab8cc68866b151100e83c506dafb04_9136190542938379188_transformed.png)
+
+-----
+
 # [Version 4.3 New Stages](archive/1303.md)
 ## Version 4.3 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/b50230cb15d307645b21a22346a71bf0_1431103054595234634_transformed.png)
