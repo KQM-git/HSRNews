@@ -398,52 +398,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [Relic Recon: Participate to get 5-star +15 Relics!](archive/1246.md)
-## "Relic Recon" Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/30/ff5422914767fff173cae889722d1a4d_6472310264877958077_transformed.png)
-
-A mysterious collection vault in the Herta Space Station has opened its doors to you, filled with countless chests containing wondrous items. If you could get your hands on a special access card...
-
-### Event Period
-
-After the Version 4.2 update — 2026/06/01 03:59:00 (global)
-
-### Event Requirement
-
-Trailblaze Level ≥ 21
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2025/10/30/62966aecacc0158d5b543bf206302b14_1425685278596364175_transformed.png)
-
-### Event Details
-
-- Obtain up to **six 5-star +15 Relics for different slots, each with 4 initial Subsidiary Stats**, through the Relic Recon event.
-
-- Obtain "Access Cards" during the event by **completing a series of missions**.
-
-- Before using an "Access Card" to obtain a Relic, Trailblazers can **designate a character**. The system will then recommend suitable Planar Ornament and Cavern Relic Sets. Alternatively, Trailblazers can customize which Relic Sets they want to obtain.
-
-- Each "Access Card" can be used to open one box, which guarantees one **5-star +15 Relic with 4 initial Subsidiary Stats**.
-
-- Obtained Relics can be temporarily stored. You can store up to 1 Relic for each slot at a time, for a total of 6 Relics.
-
-- If you obtain a new Relic for a slot that already has a stored Relic, you can choose **whether to replace** it.
-
-- Stored Relics **can be equipped on characters**. During the event, these Relics will have a special locked status in the Inventory and cannot be unlocked. This special lock will convert to a normal lock after the event ends.
-
-- Opening a certain number of boxes will trigger a **"Guarantee" Box**. The Main Stat of the Relic from this box is **guaranteed to be** the **system-recommended Main Stat** for the designated character, and it will have **at least 2** effective Subsidiary Stats.
-
-- The "Guarantee" Box prioritizes offering Relics positions that **have not been offered by** the "Guarantee" Box before.
-
-### Special Notes
-
-- The selected character affects prompts such as Relic stat compatibility and rating. It also influences the Main/Subsidiary Stats of Relics from the "Guarantee" Box.
-
-- Changing the designated character or Relic set partway through the event will only affect the results of subsequent boxes. Any Relics already stored will be unaffected.
-
------
-
 # ["So Laughed the Masses" Mission Description](archive/1252.md)
 ## "So Laughed the Masses" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/27/64f3e230e7e4d97229198bcfa619cb40_7440555679166121045_transformed.png)
@@ -463,30 +417,6 @@ Complete the Version 4.1 Trailblaze Mission "Unraveled for Daybreak"
 ### Mission Rewards
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2026/04/16/85af4ccd7b5d3c4996c0e75fe7ab758e_1150165070600254903_transformed.png)
-
------
-
-# ["Festive Gifts": Check in to obtain a total of Star Rail Special Pass ×20](archive/1251.md)
-## "Festive Gifts"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/27/c6eb7e43d55d19aa17688e995e7aabbd_2468459669382489911_transformed.png)
-
-Check in for a total of 7 days to claim Star Rail Special Pass ×20!
-
-### Event Period
-
-After the Version 4.2 update - 2026/06/01 03:59:00 (global)
-
-### Event Requirement
-
-Unlock Travel Log
-
-### Event Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/04/16/5bdc3cae2f9840442a71cc4b527fc06b_7380842477840781434_transformed.png)
-
-### Event Details
-
-- During the event, Trailblazers can check in for 7 days to claim a total of Star Rail Special Pass ×20.
 
 -----
 
@@ -1031,48 +961,6 @@ Trailblaze Level ≥ 4
 ※ During Version 4.2, participate in the "Novaflare" character trial event. Enter Challenge Stages with a team lineup that includes designated trial characters, and receive Stellar Jade rewards upon successful completion.
 
 ※ Enhanced characters in Novaflare will be expanded periodically. Please stay tuned for future official announcements.
-
------
-
-# [Version 4.2 Nameless Honor Update Details](archive/1277.md)
-## Nameless Honor Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/03/f35471d4b1d95b7059b834b39de96265_1753248285548930977_transformed.png)
-
-Dear Trailblazers,
-
-During the event, Trailblazers can increase their Nameless Honor level to obtain rewards such as **Star Rail Passes, Self-Modeling Resins, and Tracks of Destiny**.
-
-After unlocking Nameless Glory, you will immediately obtain **Stellar Jade ×680**. In addition, increasing Nameless Honor levels will allow Trailblazers to obtain **Light Cone Memory Shard ×1, Star Rail Special Pass ×4, a 4-star Light Cone of your choice, Variable Dice ×1, Self-Modeling Resin ×2, Relic Remains, the universal Path material Tears of Dreams**, and more!
-
-If the Trailblazer unlocks the Nameless Medal, in addition to the previous rewards, they will immediately **increase their Honor level by 10**, and obtain the avatar **"Silver Wolf LV.999: Amusement"**, the avatar **"Evanescia: Amusement"**, **Light Cone Memory Shard ×1, Stellar Jade ×200, and Fuel** rewards!
-
-### Start Date
-
-After the Version 4.2 update — 2026/06/01 03:59:00 (global)
-
-### Participation Requirement
-
-Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI — Long Wait for the Blade's Edge"
-
-### About Nameless Honor
-
-- After Nameless Honor is unlocked, the Nameless Gift will automatically be unlocked. Trailblazers can obtain EXP and increase their Nameless Honor level via This Week's Missions and This Period's Missions. The maximum Nameless Honor level is capped at **Level 70**. Attaining specific levels will allow the Trailblazer to obtain Star Rail Passes, Self-Modeling Resin, Tracks of Destiny, and more.
-
-- This Week's Missions will reset every Monday at 04:00 (server time).
-
-- Trailblazers who have unlocked the Nameless Glory can purchase Honor Badge to upgrade to Nameless Medal.
-
-### Attention
-
-- After reaching level cap, EXP will no longer be awarded through missions during this period.
-
-- In the event of special circumstances leading to the repeated purchase of Nameless Glory or Nameless Medal, The Nameless EXP will not be accumulated, and Oneiric Shards ×750 (or Oneiric Shards ×1,410) will be refunded depending on the price of the purchase.
-
-- In the event of special circumstances leading to the repeated purchase of the Honor Badge, Oneiric Shards ×860 will be refunded.
-
-- The purchase of Nameless Glory, Nameless Medal, and Honor Badge will be closed for this period at **2026/06/01 02:59:00 (global)**. After the purchase is closed, Trailblazers can still complete the Nameless Honor missions and receive rewards. Please note the available purchase time and event period.
-
-- In the webpage top-up center, the purchase deadline for Nameless Glory, Nameless Medal, and Honor Badge will be 2026/05/31 03:59:00 (global). Trailblazers who top up on the webpage should pay attention to the purchase availability time.
 
 -----
 
