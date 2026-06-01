@@ -192,6 +192,8 @@ Cavern Relic "Divine-Querying Master Smith"
 
 - Adds new content such as Furbobocom, readable items, Messages, discs, Achievements, data bank entries, and loading screen texts. They will be gradually unlocked during your Trailblaze Progress.
 
+- Adds new Trace Material "Tears of Rail". Obtainable through the "Starlit Homecoming" event, and can be used as a substitute for advanced Trace Materials when they are insufficient. (Fixed)
+
 ### Adjustments and Optimizations
 
 ■ Characters and Enemies
