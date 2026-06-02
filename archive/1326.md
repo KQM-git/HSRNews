@@ -8,6 +8,16 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/06/02
+
+- Fixes an issue where, under certain conditions, images within specific "Furbobocom" Arcadia Alert sections would display incorrectly.
+
+- Fixes an issue where, under certain conditions, the “Car Management” interface would display abnormally when visiting another Trailblazer's Party Car.
+
+- Fixes an issue where, under certain conditions, unowned characters would be incorrectly displayed on certain interfaces.
+
+- Fixes an issue where characters are unable to move and have abnormal interactions when some characters are experiencing the "Shapeshifting Furbo" gameplay under specific circumstances.
+
 ■2026/06/01
 
 - Fixes an error in the Equilibrium Level required to synthesize certain Trace Materials.
