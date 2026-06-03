@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/06/03
+
+- Fixes an issue where, under specific conditions, some "Nameless Wispae" in the scene "Inkford Hermitage" would be incorrectly displayed after they had already been collected.
+
 ■2026/06/02
 
 - Fixes an issue where, under certain conditions, images within specific "Furbobocom" Arcadia Alert sections would display incorrectly.
