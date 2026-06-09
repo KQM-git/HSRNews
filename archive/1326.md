@@ -6,6 +6,10 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
 
+### Known Issues
+
+■2026/06/09
+
 ### Game Updates and Improvements Overview
 
 ■2026/06/03
