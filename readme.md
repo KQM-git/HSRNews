@@ -1,47 +1,3 @@
-# [Game Version 4.3 Optimization and Known Issues](archive/1326.md)
-## Game Version 4.3 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Known Issues
-
-■2026/06/09
-
-### Game Updates and Improvements Overview
-
-■2026/06/03
-
-- Fixes an issue where, under specific conditions, some "Nameless Wispae" in the scene "Inkford Hermitage" would be incorrectly displayed after they had already been collected.
-
-■2026/06/02
-
-- Fixes an issue where, under certain conditions, images within specific "Furbobocom" Arcadia Alert sections would display incorrectly.
-
-- Fixes an issue where, under certain conditions, the “Car Management” interface would display abnormally when visiting another Trailblazer's Party Car.
-
-- Fixes an issue where, under certain conditions, unowned characters would be incorrectly displayed on certain interfaces.
-
-- Fixes an issue where characters are unable to move and have abnormal interactions when some characters are experiencing the "Shapeshifting Furbo" gameplay under specific circumstances.
-
-■2026/06/01
-
-- Fixes an error in the Equilibrium Level required to synthesize certain Trace Materials.
-
-- Fixes an issue in the Aetherium Wars event where the game progress would become abnormal after opening the Team Lineup interface.
-
-- Fixes an issue where screens such as Team Lineup, Character Details, and Warp interfaces displayed abnormally.
-
-- Fixes an issue where characters are positioned abnormally and are unable to move in the mission flow of Trailblaze Mission "Planarcadia" - ”Arcadia of Mystery and Terror” under specific circumstances.
-
-- Fixes an issue where players cannot interact with the teleporter in certain "Interplanar Jump!" gameplay in the map "Inkford Hermitage" under specific circumstances.
-
-- Fixes an issue where the enemy God-Devourer Offspring is unable to dispel the "Devour" state in specific circumstances.
-
------
-
 # [Version 4.3 "The Lethe Below the Living" Update Details](archive/1307.md)
 ## Version 4.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/18/ba417baf191d47c2fd3caa7841cd3bf5_6179364239718564238_transformed.png)
@@ -443,6 +399,50 @@ Fixes and optimizations in English include the following (they have no impact on
 - Optimizes part of the Character Story text for the characters Silver Wolf (Nihility: Quantum) and Silver Wolf LV.999 (Elation: Imaginary).
 
 - Optimizes text related to the "Ice Bear," including the name of the Achievement Journey of the Ice Bear and the description of its completion conditions.
+
+-----
+
+# [Game Version 4.3 Optimization and Known Issues](archive/1326.md)
+## Game Version 4.3 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/06/09
+
+### Game Updates and Improvements Overview
+
+■2026/06/03
+
+- Fixes an issue where, under specific conditions, some "Nameless Wispae" in the scene "Inkford Hermitage" would be incorrectly displayed after they had already been collected.
+
+■2026/06/02
+
+- Fixes an issue where, under certain conditions, images within specific "Furbobocom" Arcadia Alert sections would display incorrectly.
+
+- Fixes an issue where, under certain conditions, the “Car Management” interface would display abnormally when visiting another Trailblazer's Party Car.
+
+- Fixes an issue where, under certain conditions, unowned characters would be incorrectly displayed on certain interfaces.
+
+- Fixes an issue where characters are unable to move and have abnormal interactions when some characters are experiencing the "Shapeshifting Furbo" gameplay under specific circumstances.
+
+■2026/06/01
+
+- Fixes an error in the Equilibrium Level required to synthesize certain Trace Materials.
+
+- Fixes an issue in the Aetherium Wars event where the game progress would become abnormal after opening the Team Lineup interface.
+
+- Fixes an issue where screens such as Team Lineup, Character Details, and Warp interfaces displayed abnormally.
+
+- Fixes an issue where characters are positioned abnormally and are unable to move in the mission flow of Trailblaze Mission "Planarcadia" - ”Arcadia of Mystery and Terror” under specific circumstances.
+
+- Fixes an issue where players cannot interact with the teleporter in certain "Interplanar Jump!" gameplay in the map "Inkford Hermitage" under specific circumstances.
+
+- Fixes an issue where the enemy God-Devourer Offspring is unable to dispel the "Devour" state in specific circumstances.
 
 -----
 
