@@ -640,6 +640,20 @@ After the Version 4.3 update – 2026/07/14 15:00:00 (server)
 
 -----
 
+# [About Certain In-Game Error Fixes](archive/1180.md)
+## About Certain In-Game Error Fixes
+![Banner](https://sdk.hoyoverse.com/upload/ann/2025/12/27/306303bb1c9b0a28c7815bab61cc1546_2379650478376838606_transformed.png)
+
+Dear Trailblazers,
+
+Due to an issue with X(Twitter) services, some Trailblazers are experiencing difficulties with logging into the game.
+
+This problem has been fixed.
+
+We sincerely apologize for any inconvenience caused. Thank you for your understanding and support.
+
+-----
+
 # [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/1196.md)
 ## Survey with Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/2d2da98cf65b177d2f0a029340dc2ee1_6236902761699923395_transformed.png)
