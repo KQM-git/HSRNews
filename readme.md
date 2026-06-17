@@ -1,3 +1,19 @@
+# [Notification Regarding Top-up Issues](archive/1341.md)
+## Notification Regarding Top-up Issues
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/17/b5df4eed230c27d9e84975be84f119eb_5653428888814990080_transformed.png)
+
+Dear Trailblazers,
+
+The following issues have been encountered by certain Trailblazers due to Galaxy Store service error. The relevant team is now investigating the cause of the problems and working urgently to fix it.
+
+- Unable to top-up
+
+Please stay tuned to future official notifications regarding an estimated completion time for the aforementioned problems.
+
+The Express Crew will immediately notify Trailblazers via in-game notifications and player community announcements as soon as the issue is fixed. Please stay tuned for the official announcements.
+
+-----
+
 # [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1302.md)
 ## Planar Fissure Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/7d5eeebab1c60716249e3c8e3bcdcac6_6804886181014674952_transformed.png)
