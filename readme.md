@@ -1,3 +1,21 @@
+# [Link your Discord account to participate in an exclusive giveaway for the "Nameless" role!](archive/1324.md)
+## Link your Discord account to participate in an exclusive giveaway for the "Nameless" role!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/11/1c479869ebdada619e36efc9deac9b24_3053560907243723322_transformed.png)
+
+Hello, Trailblazers,
+
+From now until 2026/07/08 11:00:00 (global), Trailblazers can participate in an exclusive giveaway event on the official Honkai: Star Rail Discord server!
+
+[ Link account](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
+
+Link your Discord account to claim the exclusive "Nameless" role in our official server and enter the special "Party Car" channel to participate in a limited-time lucky draw event for a chance to win a $25 gift card!
+
+Trailblazers who complete Discord account binding for the first time will get Stellar Jade ×30!
+
+※ For more information, please go to the Honkai: Star Rail official Discord server.
+
+-----
+
 # [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1302.md)
 ## Planar Fissure Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/7d5eeebab1c60716249e3c8e3bcdcac6_6804886181014674952_transformed.png)
