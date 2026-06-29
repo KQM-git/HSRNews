@@ -16,30 +16,6 @@ Trailblazers who complete Discord account binding for the first time will get St
 
 -----
 
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1302.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/7d5eeebab1c60716249e3c8e3bcdcac6_6804886181014674952_transformed.png)
-
-### Event Period
-
-2026/06/17 04:00:00 (server) - 2026/06/29 03:59:00 (server)
-
-### Participation Requirement
-
-Unlock Simulated Universe: World 3
-
-### Event Details
-
-- During the Planar Fissure event, receive double rewards when obtaining Immersion Rewards or performing Ornament Extraction in the Simulated Universe.
-
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Version 4.3 "The Lethe Below the Living" Update Details](archive/1307.md)
 ## Version 4.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/18/ba417baf191d47c2fd3caa7841cd3bf5_6179364239718564238_transformed.png)
