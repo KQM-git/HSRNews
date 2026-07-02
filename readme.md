@@ -1,3 +1,27 @@
+# [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/1301.md)
+## Realm of the Strange Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/aa1f4ee17c0746bd46a8693d44d95188_5705131435332765014_transformed.png)
+
+### Event Period
+
+2026/07/03 04:00:00 (server) - 2026/07/13 03:59:00 (server)
+
+### Participation Requirements
+
+Unlock Cavern of Corrosion: Path of Drifting
+
+### Event Details
+
+- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
+
+- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- During the event, the number of double reward opportunities is **limited.** The remaining usage count and maximum usage limit can be viewed in the "Realm of the Strange" event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [HoYoLAB Daily Check-in Reminder](archive/1348.md)
 ## HoYoLAB Daily Check-in Reminder
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/03/31/d3ef5d1590c806e6184e3d55240e2920_8134934536447622603_transformed.png)
@@ -539,30 +563,6 @@ Successfully challenge the stage to obtain the new **Trace Materials** for **Eru
 Successfully challenge the stage to obtain the new **Destruction** Path character **Trace Materials** "Omnicolor, Fool's Own," "Sixen, King-Rook Fork," and "Four Phases, Crossing the River to Check the King".
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2026/05/22/af7424a686e53bf779fbb13742cc31bc_2349614385666238599_transformed.png)
-
------
-
-# [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/1301.md)
-## Realm of the Strange Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/aa1f4ee17c0746bd46a8693d44d95188_5705131435332765014_transformed.png)
-
-### Event Period
-
-2026/07/03 04:00:00 (server) - 2026/07/13 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Cavern of Corrosion: Path of Drifting
-
-### Event Details
-
-- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
-
-- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- During the event, the number of double reward opportunities is **limited.** The remaining usage count and maximum usage limit can be viewed in the "Realm of the Strange" event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
 
 -----
 
