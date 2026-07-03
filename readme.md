@@ -1,3 +1,25 @@
+# [Version 4.3 "The Lethe Below the Living" Satisfaction Survey](archive/1347.md)
+## Version 4.3 Satisfaction Survey
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/09/955bdcf044e8cc84719ddea8c9d4ea7d_3221052408527000401_transformed.png)
+
+Dear Trailblazers,
+
+To better understand the Trailblazers' experience in Version 4.3, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
+
+Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
+
+### Survey Link
+
+[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_kk77sR-sebxwTTv9cvPliNt19ZlQD1AJWLsU4Ko-54MR&game_biz=hkrpg_global&surveyId=38600&format=1&sign_type=2&authkey_ver=1)
+
+### Attention
+
+Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
+
+Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
+
+-----
+
 # [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/1301.md)
 ## Realm of the Strange Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/aa1f4ee17c0746bd46a8693d44d95188_5705131435332765014_transformed.png)
