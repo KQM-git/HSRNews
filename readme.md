@@ -1,3 +1,27 @@
+# ["In Ravages Does the Whistle Sound" Mission Description](archive/1329.md)
+## "In Ravages Does the Whistle Sound" Mission Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/25/e700e0f4e6da85780b6711a10ac1ae8e_2050984543729641427_transformed.png)
+
+The Navigator charts a course to the apocalypse. A mournful whistle howls, and only those of the Trailblaze can find a path to survival across the realm of death...
+
+### Availability
+
+Permanently available after the Version 4.4 update
+
+### Unlock Requirement
+
+Trailblaze Level ≥ 21
+
+※ During Version 4.4, this content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Planarcadia — The Lethe Below the Living" before experiencing this content.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/07/07/d991ea83d4af2bad8113138d37ac0d58_4762247962649599115_transformed.png)
+
+-----
+
 # [Version 4.4 "Nameless Honor" Update](archive/1315.md)
 ## Nameless Honor Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/13/4614964883837257ab8f7bd24542c3e3_3932997541095200960_transformed.png)
