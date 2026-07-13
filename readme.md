@@ -106,30 +106,6 @@ Trailblaze Level ≥ 12 and have completed the Trailblaze Mission "Jarilo-VI —
 
 -----
 
-# [Realm of the Strange Event: Cavern Relic Drop Rate Doubled For a Limited Time](archive/1301.md)
-## Realm of the Strange Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/09/aa1f4ee17c0746bd46a8693d44d95188_5705131435332765014_transformed.png)
-
-### Event Period
-
-2026/07/03 04:00:00 (server) - 2026/07/13 03:59:00 (server)
-
-### Participation Requirements
-
-Unlock Cavern of Corrosion: Path of Drifting
-
-### Event Details
-
-- During the Realm of the Strange event, get double rewards when you challenge and beat Cavern of Corrosion.
-
-- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
-
-- During the event, the number of double reward opportunities is **limited.** The remaining usage count and maximum usage limit can be viewed in the "Realm of the Strange" event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Version 4.3 "The Lethe Below the Living" Update Details](archive/1307.md)
 ## Version 4.3 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/05/18/ba417baf191d47c2fd3caa7841cd3bf5_6179364239718564238_transformed.png)
