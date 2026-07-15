@@ -418,6 +418,8 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - It is known that the lip-syncing for Trailblazer (Male) displays abnormally during certain dialogues in the Trailblaze Mission "Planarcadia - In Ravages Does the Whistle Sound" when the voice language is set to English. This issue will be fixed in a future version.
 
+- It is known that the audio for some cutscene animations in the Trailblaze Mission "Planarcadia — Limelight" plays abnormally on certain devices under specific circumstances.
+
 -----
 
 # [Version 4.4 New Stages](archive/1328.md)
