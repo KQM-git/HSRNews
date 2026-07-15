@@ -418,7 +418,17 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - It is known that the lip-syncing for Trailblazer (Male) displays abnormally during certain dialogues in the Trailblaze Mission "Planarcadia - In Ravages Does the Whistle Sound" when the voice language is set to English. This issue will be fixed in a future version.
 
-- It is known that the audio for some cutscene animations in the Trailblaze Mission "Planarcadia — Limelight" plays abnormally on certain devices under specific circumstances.
+### Game Updates and Improvements Overview
+
+■2026/07/15
+
+- Fixes the issue where the audio for some cutscene animations in the Trailblaze Mission "Planarcadia — Limelight" played abnormally on certain devices under specific circumstances.
+
+- Fixes an issue where exiting and reentering certain "Interplanar Jump!" gameplays during the Trailblaze Mission "Planarcadia — How I Met Your Father" led to anomalies with stages under specific circumstances.
+
+- Fixes an issue in Currency Wars where Investment Strategy "Faster-Than-Light Promotion" was abnormally obtained under specific circumstances, and the match was abnormal afterward. Trailblazers who encounter this problem before the fix can finalize the current match and start a new one.
+
+- Fixes an issue in Currency Wars where refreshing for some characters in the Store was abnormal under specific circumstances after obtaining the Investment Strategy "A Flash: Moonlit Reflection."
 
 -----
 
