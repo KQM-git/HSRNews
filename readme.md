@@ -404,6 +404,22 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
+# [Game Version 4.4 Optimization and Known Issues](archive/1364.md)
+## Game Version 4.4 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/07/15
+
+- It is known that the lip-syncing for Trailblazer (Male) displays abnormally during certain dialogues in the Trailblaze Mission "Planarcadia - In Ravages Does the Whistle Sound" when the voice language is set to English. This issue will be fixed in a future version.
+
+-----
+
 # [Version 4.4 New Stages](archive/1328.md)
 ## Version 4.4 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/13/ed3f19e1a6446fa047d70b5e49cfb795_1017083365265037342_transformed.png)
