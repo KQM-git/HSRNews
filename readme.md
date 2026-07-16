@@ -404,6 +404,20 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
+# [EP: "Beyond This Station"](archive/1354.md)
+## EP: "Beyond This Station"
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/06/c5fee64de75e19cec61cd23eeb306f41_1864488449623078982_transformed.png)
+
+A passerby seeking a final resting place, a traveler bearing admonitions, people journey to the end of the painting where the ancient Lethe flows, stand witness to past joys and sorrows that emerge from within...
+
+At this instant, even as the canvas fades and tears and laughter return to silence, they will not falter.
+
+Just wait and see, for the Express will set forth carrying everyone's wishes, until it reaches the destination called hope.
+
+[ Watch now](https://youtu.be/2wIubFgXlyk)
+
+-----
+
 # [Game Version 4.4 Optimization and Known Issues](archive/1364.md)
 ## Game Version 4.4 Optimization and Known Issues
 
