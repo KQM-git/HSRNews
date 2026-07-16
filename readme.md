@@ -456,6 +456,8 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Fixes an issue where some projection effects for the character Gilgamesh (Destruction: Lightning) may appear abnormal in combat under certain circumstances in the Currency Wars gameplay.
 
+- Fixes an issue where the game progress may become abnormal under certain circumstances after battle against the boss "@SparxiConOfficial" in the Currency Wars gameplay.
+
 - Fixes an issue where the mission progress may become abnormal after entering the "Planar Ornament Extraction" system while in another character's POV during a Trailblaze Mission.
 
 - Fixes an issue where the game may crash in the mission flow of the Adventure Mission "Planarcadia — Blood of the Lone Wolf" under certain circumstances when using some devices.
