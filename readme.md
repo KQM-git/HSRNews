@@ -542,58 +542,6 @@ Trailblaze Level ≥ 21
 
 -----
 
-# [Depart Anew When the Phantasmoon is Full | Share Screenshots to Win Stellar Jades and Gift Cards](archive/1350.md)
-## Depart Anew When the Phantasmoon is Full | Share Screenshots to Win Stellar Jades and Gift Cards
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/01/421d328a26c7d9d1aed2d20d6cb4069c_8749456297914262901.jpg)
-
-The villain character comes charging in, yelling stuff about sacrifice and destruction!
-
-Hehe, good thing Himeko fulfilled her promise with a certain "someone" under the full Phantasmoon, obtained the strength of the giant robot "Starblazer," and came out on top with the Express Crew. Navigator Himeko will continue to lead the Express Crew forward.
-
-I bet the Trailblazer and Himeko have a ton of stories to tell too, right?
-
-[ Check it out](https://hoyo.link/ZLdTQwyMb)
-
-### Event Duration
-
-2026/07/15 17:00:00 (global) - 2026/07/25 23:59:00 (global)
-
-### Event Rules
-
-1. This event is divided into three themes. Trailblazers can participate in multiple themes simultaneously, or choose to participate in just one.
-
-- Theme 1: Himeko's Beauty Collection
-
-- Theme 2: Himeko's Trailblazing Memory
-
-- Theme 3: Himeko's Combat Records
-
-2. Publish a post meeting the content requirements using the designated topic for the corresponding theme, or leave a comment in the comments section of this post according to the formatting requirements, and it will be considered as successful participation.
-
-3. When participating in the event, change your HoYoLAB avatar to Himeko or Himeko • Nova, or equip the Himeko or Himeko • Nova avatar frame, and you'll receive a special reward if you're selected!
-
-### Event Rewards
-
-- Himeko's Beauty Collection (180 winners)
-
-Stellar Jade ×60
-
-Special Reward: Himeko • Nova Comment Decoration (Permanent)
-
-- Himeko's Trailblazing Memory (10 winners)
-
-$50 Gift Card
-
-Special Reward: Stellar Jade ×60
-
-- Himeko's Combat Records (5)
-
-$100 Gift Card
-
-Special Reward: Stellar Jade ×60
-
------
-
 # [Version 4.4 "Nameless Honor" Update](archive/1315.md)
 ## Nameless Honor Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/13/4614964883837257ab8f7bd24542c3e3_3932997541095200960_transformed.png)
