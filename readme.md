@@ -404,22 +404,6 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
-# [Planarcadia Brand-New OST "Let There Be Laughter (Part 2)" Now Online](archive/1357.md)
-## Planarcadia Brand-New OST "Let There Be Laughter (Part 2)" Now Online
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/07/ec680ef08ff0f7aa7a217832fac45c3b_7385073622906864184_transformed.jpg)
-
-Hello, Trailblazers!
-
-The brand-new Planarcadia music album "Let There Be Laughter (Part 2)" is now officially online.
-
-The album includes 62 original tracks created by the HOYO-MiX music team for Honkai: Star Rail.
-
-Please give it a listen!
-
-[ Check it out](https://bfan.link/thbl771we6)
-
------
-
 # [Game Version 4.4 Optimization and Known Issues](archive/1364.md)
 ## Game Version 4.4 Optimization and Known Issues
 
