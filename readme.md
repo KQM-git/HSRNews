@@ -1,3 +1,25 @@
+# [Fate[UBW] Collaboration Update Notice](archive/1330.md)
+## Fate[UBW] Collaboration Update Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/05/caa4511582f3afadb9c6dde5f6c34316_8274824353331738411_transformed.png)
+
+Dear Trailblazers,
+
+On 2026/07/21 15:00:00 (global), the Crew updated resources for the collaboration-themed event "Imagenae: Holy Grail War." If Trailblazers don't download the update before 2026/07/23 14:00:00 (global), they'll be automatically logged out and required to restart to download the new resources.
+
+When you log back in, PC users will need to download approximately "540" MB, Android users approximately "300" MB, and iOS users approximately "300" MB. You can resume playing once the download is complete.
+
+Please note the update time. We sincerely apologize for any inconvenience that this update might cause.
+
+### Update Time
+
+2026/07/23 14:00:00 (global)
+
+### Update Content
+
+Updates some resources for the upcoming collaboration-themed event "Imagenae: Holy Grail War."
+
+-----
+
 # [Version 4.4 "In Ravages Does the Whistle Sound" Update Details](archive/1333.md)
 ## Version 4.4 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/11/add7a7d32236c38f639d0d38c3a25001_595216878544936903_transformed.png)
