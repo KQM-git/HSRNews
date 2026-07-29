@@ -444,6 +444,22 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/07/29
+
+- Fixes an issue in the "Currency Wars" gameplay where rewards displayed abnormally when obtaining the Destiny Component "Curse: Holy Grail."
+
+- Fixes an issue in the "Currency Wars" gameplay where game progress may become abnormal under certain circumstances while battling the boss "Pollux, Netherwing Husk, Ferry of Souls."
+
+- Fixes an issue in the "Currency Wars" gameplay where equipping multiple "Holy Grail of Destiny" Emblems under certain circumstances may cause abnormal game progress.
+
+- Fixes an issue in the "Currency Wars" gameplay where enemy stats amplification was abnormal in specific enemy difficulties.
+
+- Fixes an issue in the "Currency Wars" gameplay where an abnormal number of Gold Coins was required to refresh the Store under certain circumstances.
+
+- Fixes an issue in the Currency Wars gameplay, where the Toughness Reduction of the character Jiaoqiu‘s (Nihility: Fire) Ultimate erroneously did not take effect.
+
+- Fixes an issue where some interaction voice lines for the characters Saber (Destruction: Wind) and Archer (The Hunt: Quantum) were missing when the original licensed voice is selected while the voice language is set to English.
+
 ■2026/07/24
 
 - Fixes an issue where the Achievements system's search function was abnormal when using a controller to play the game.
