@@ -510,22 +510,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [Experience the Paths Vol. 6 Trailer OST Now Available](archive/1356.md)
-## Experience the Paths Vol. 6 Trailer OST Now Available
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/28/2cc9b2c44581fe960982048b3a6a8309_1706523181957679837_transformed.png)
-
-Hello, Trailblazers!
-
-Honkai: Star Rail's new trailer OST, Experience the Paths Vol. 6, is now officially live!
-
-The album includes 22 original tracks created by the HOYO-MiX music team for Honkai: Star Rail.
-
-We welcome all Trailblazers to have a listen.
-
-[ Check it out](https://bfan.link/expww688n)
-
------
-
 # [Version 4.4 New Stages](archive/1328.md)
 ## Version 4.4 New Stages
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/13/ed3f19e1a6446fa047d70b5e49cfb795_1017083365265037342_transformed.png)
