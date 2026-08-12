@@ -420,6 +420,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/08/12
+
+- Fixes an issue where some visual effects of the Ultimate for the character "Gilgamesh (Destruction: Lightning)" displayed abnormally under specific circumstances when using mobile devices.
+
+- Fixed an issue in the Simulated Universe: Swarm Disaster gameplay where the game progress may become abnormal under specific circumstances when the Dice Effect is "Propagation: Spinal Cord Regrown."
+
 ■2026/07/29
 
 - Fixes an issue in the "Currency Wars" gameplay where rewards displayed abnormally when obtaining the Destiny Component "Curse: Holy Grail."
