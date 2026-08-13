@@ -1,3 +1,27 @@
+# [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/1339.md)
+## Garden of Plenty Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/12f6a87265b797c084f11e38cbef0485_9162323568190502038_transformed.png)
+
+### Event Period
+
+2026/08/14 04:00:00 (server) - 2026/08/24 03:59:00 (server)
+
+### Participation Requirement
+
+Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
+
+### Event Details
+
+- During the Garden of Plenty event, beat Calyx (Golden) and Calyx (Crimson) challenges to receive double rewards.
+
+- You will get **an additional set of rewards** on top of default drops after consuming an event double reward opportunity and Trailblaze Power.
+
+- During the event, the number of double reward opportunities is **limited**. The limits and attempts used so far can be viewed on the Garden of Plenty event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Version 4.4 "In Ravages Does the Whistle Sound" Update Details](archive/1333.md)
 ## Version 4.4 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/11/add7a7d32236c38f639d0d38c3a25001_595216878544936903_transformed.png)
