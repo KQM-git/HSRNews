@@ -10,7 +10,7 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ■2026/08/14
 
-- It is known that setting the characters Robin • Summeretto (Remembrance: Wind) and Aventurine • Waveflair (Elation: Quantum) as Build Targets may cause display abnormalities in some Store interfaces. The relevant team is now investigating the cause of the problems and working urgently to fix it. Trailblazers who encounter this issue can resolve it by setting a different character as their Build Target or canceling their Build Target.
+- It is known that setting the characters Robin • Summeretto (Remembrance: Wind) or Aventurine • Waveflair (Elation: Quantum) as the Build Target may cause some Store interfaces to display abnormally. The relevant team is now investigating the cause of the problems and working urgently to fix it. Trailblazers who encounter this issue can resolve it by setting a different character as their Build Target or canceling their Build Target.
 
 ■2026/07/15
 
