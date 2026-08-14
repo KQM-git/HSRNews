@@ -1,3 +1,89 @@
+# [Game Version 4.4 Optimization and Known Issues](archive/1364.md)
+## Game Version 4.4 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/08/14
+
+- It is known that setting the characters Robin • Summeretto (Remembrance: Wind) and Aventurine • Waveflair (Elation: Quantum) as Build Targets may cause display abnormalities in some Store interfaces. The relevant team is now investigating the cause of the problems and working urgently to fix it. Trailblazers who encounter this issue can resolve it by setting a different character as their Build Target or canceling their Build Target.
+
+■2026/07/15
+
+- It is known that the lip-syncing for Trailblazer (Male) displays abnormally during certain dialogues in the Trailblaze Mission "Planarcadia - In Ravages Does the Whistle Sound" when the voice language is set to English. This issue will be fixed in a future version.
+
+### Game Updates and Improvements Overview
+
+■2026/07/29
+
+- Fixes an issue in the "Currency Wars" gameplay where rewards displayed abnormally when obtaining the Destiny Component "Curse: Holy Grail."
+
+- Fixes an issue in the "Currency Wars" gameplay where game progress may become abnormal under certain circumstances while battling the boss "Pollux, Netherwing Husk, Ferry of Souls."
+
+- Fixes an issue in the "Currency Wars" gameplay where equipping multiple "Holy Grail of Destiny" Emblems under certain circumstances may cause abnormal game progress.
+
+- Fixes an issue in the "Currency Wars" gameplay where enemy stats amplification was abnormal in specific enemy difficulties.
+
+- Fixes an issue in the "Currency Wars" gameplay where an abnormal number of Gold Coins was required to refresh the Store under certain circumstances.
+
+- Fixes an issue in the Currency Wars gameplay, where the Toughness Reduction of the character Jiaoqiu‘s (Nihility: Fire) Ultimate erroneously did not take effect.
+
+- Fixes an issue where some interaction voice lines for the characters Saber (Destruction: Wind) and Archer (The Hunt: Quantum) were missing when the original licensed voice is selected while the voice language is set to English.
+
+■2026/07/24
+
+- Fixes an issue where the Achievements system's search function was abnormal when using a controller to play the game.
+
+- Fixes an issue where the frame of the Destiny Component "Break: Holy Grail" displayed abnormally in the Equipment Index of the Currency Wars gameplay.
+
+- Fixes an issue where some bonus effects did not take effect properly when obtaining the Destiny Component "Curse: Holy Grail" in the Currency Wars gameplay.
+
+- Fixes an issue where it was not possible to enter combat normally during Trailblaze Continuance "Planarcadia — Decisive Battle! Star Rail Night" under specific circumstances.
+
+■2026/07/21
+
+- Updates some resources for the upcoming collaboration event "Imagenae: Holy Grail War." Trailblazers can obtain the update by logging in again after the update is released. The download size is approximately "540" MB for PC, "300" MB for Android, and "300" MB for iOS.
+
+- Fixes an issue in the "Currency Wars" gameplay where, under specific circumstances, an abnormal display indicating you are already in combat appears when you tap to deploy.
+
+■2026/07/17
+
+- Fixes an issue in the Currency Wars gameplay where game progress was abnormal during combat under certain circumstances when the character Sunday (Harmony: Imaginary) is off-field.
+
+- Fixes an issue in the Currency Wars gameplay where the relevant interfaces for the Independent Bond "Navigator" abnormally appeared under certain circumstances and caused progress to be abnormal.
+
+■2026/07/16
+
+- Fixes an issue where the mechanism of locating Nameless Wispae with the Star Rabbit Game Console did not work properly in the Fallen Star's Cradle map.
+
+- Fixes an issue where some projection effects for the character Gilgamesh (Destruction: Lightning) may appear abnormal in combat under certain circumstances in the Currency Wars gameplay.
+
+- Fixes an issue where the game progress may become abnormal under certain circumstances after battle against the boss "@SparxiConOfficial" in the Currency Wars gameplay.
+
+- Fixes an issue where the mission progress may become abnormal after entering the "Planar Ornament Extraction" system while in another character's POV during a Trailblaze Mission.
+
+- Fixes an issue where the game may crash in the mission flow of the Adventure Mission "Planarcadia — Blood of the Lone Wolf" under certain circumstances when using some devices.
+
+- Fixes an issue where the ability description for the character Gilgamesh's (Destruction: Lightning) Talent "I Grant You Permission To Strike" was incorrect in the Currency Wars gameplay.
+
+- Fixes an issue where some of the story dialogue in the Trailblaze Mission "Planarcadia — Limelight" was incorrect.
+
+■2026/07/15
+
+- Fixes the issue where the audio for some cutscene animations in the Trailblaze Mission "Planarcadia — Limelight" played abnormally on certain devices under specific circumstances.
+
+- Fixes an issue where exiting and reentering certain "Interplanar Jump!" gameplays during the Trailblaze Mission "Planarcadia — How I Met Your Father" led to anomalies with stages under specific circumstances.
+
+- Fixes an issue in Currency Wars where Investment Strategy "Faster-Than-Light Promotion" was abnormally obtained under specific circumstances, and the match was abnormal afterward. Trailblazers who encounter this problem before the fix can finalize the current match and start a new one.
+
+- Fixes an issue in Currency Wars where refreshing for some characters in the Store was abnormal under specific circumstances after obtaining the Investment Strategy "A Flash: Moonlit Reflection."
+
+-----
+
 # [Version 4.5 Store Update](archive/1360.md)
 ## Version 4.5 Store Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/03/add2fbdcc33eff72595d792ef067e2bc_3197574472107734244_transformed.png)
@@ -517,94 +603,6 @@ Fixes and optimizations in English include the following (they have no impact on
 - Optimizes the names of certain Traces for the character Castorice (Remembrance: Quantum).
 
 - Fixes an issue where some subtitle texts for the character Saber (Destruction: Wind)'s voice lines were incorrect.
-
------
-
-# [Game Version 4.4 Optimization and Known Issues](archive/1364.md)
-## Game Version 4.4 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Known Issues
-
-■2026/07/15
-
-- It is known that the lip-syncing for Trailblazer (Male) displays abnormally during certain dialogues in the Trailblaze Mission "Planarcadia - In Ravages Does the Whistle Sound" when the voice language is set to English. This issue will be fixed in a future version.
-
-### Game Updates and Improvements Overview
-
-■2026/08/12
-
-- Fixes an issue where some visual effects of the Ultimate for the character "Gilgamesh (Destruction: Lightning)" displayed abnormally under specific circumstances when using mobile devices.
-
-- Fixed an issue in the Simulated Universe: Swarm Disaster gameplay where the game progress may become abnormal under specific circumstances when the Dice Effect is "Propagation: Spinal Cord Regrown."
-
-■2026/07/29
-
-- Fixes an issue in the "Currency Wars" gameplay where rewards displayed abnormally when obtaining the Destiny Component "Curse: Holy Grail."
-
-- Fixes an issue in the "Currency Wars" gameplay where game progress may become abnormal under certain circumstances while battling the boss "Pollux, Netherwing Husk, Ferry of Souls."
-
-- Fixes an issue in the "Currency Wars" gameplay where equipping multiple "Holy Grail of Destiny" Emblems under certain circumstances may cause abnormal game progress.
-
-- Fixes an issue in the "Currency Wars" gameplay where enemy stats amplification was abnormal in specific enemy difficulties.
-
-- Fixes an issue in the "Currency Wars" gameplay where an abnormal number of Gold Coins was required to refresh the Store under certain circumstances.
-
-- Fixes an issue in the Currency Wars gameplay, where the Toughness Reduction of the character Jiaoqiu‘s (Nihility: Fire) Ultimate erroneously did not take effect.
-
-- Fixes an issue where some interaction voice lines for the characters Saber (Destruction: Wind) and Archer (The Hunt: Quantum) were missing when the original licensed voice is selected while the voice language is set to English.
-
-■2026/07/24
-
-- Fixes an issue where the Achievements system's search function was abnormal when using a controller to play the game.
-
-- Fixes an issue where the frame of the Destiny Component "Break: Holy Grail" displayed abnormally in the Equipment Index of the Currency Wars gameplay.
-
-- Fixes an issue where some bonus effects did not take effect properly when obtaining the Destiny Component "Curse: Holy Grail" in the Currency Wars gameplay.
-
-- Fixes an issue where it was not possible to enter combat normally during Trailblaze Continuance "Planarcadia — Decisive Battle! Star Rail Night" under specific circumstances.
-
-■2026/07/21
-
-- Updates some resources for the upcoming collaboration event "Imagenae: Holy Grail War." Trailblazers can obtain the update by logging in again after the update is released. The download size is approximately "540" MB for PC, "300" MB for Android, and "300" MB for iOS.
-
-- Fixes an issue in the "Currency Wars" gameplay where, under specific circumstances, an abnormal display indicating you are already in combat appears when you tap to deploy.
-
-■2026/07/17
-
-- Fixes an issue in the Currency Wars gameplay where game progress was abnormal during combat under certain circumstances when the character Sunday (Harmony: Imaginary) is off-field.
-
-- Fixes an issue in the Currency Wars gameplay where the relevant interfaces for the Independent Bond "Navigator" abnormally appeared under certain circumstances and caused progress to be abnormal.
-
-■2026/07/16
-
-- Fixes an issue where the mechanism of locating Nameless Wispae with the Star Rabbit Game Console did not work properly in the Fallen Star's Cradle map.
-
-- Fixes an issue where some projection effects for the character Gilgamesh (Destruction: Lightning) may appear abnormal in combat under certain circumstances in the Currency Wars gameplay.
-
-- Fixes an issue where the game progress may become abnormal under certain circumstances after battle against the boss "@SparxiConOfficial" in the Currency Wars gameplay.
-
-- Fixes an issue where the mission progress may become abnormal after entering the "Planar Ornament Extraction" system while in another character's POV during a Trailblaze Mission.
-
-- Fixes an issue where the game may crash in the mission flow of the Adventure Mission "Planarcadia — Blood of the Lone Wolf" under certain circumstances when using some devices.
-
-- Fixes an issue where the ability description for the character Gilgamesh's (Destruction: Lightning) Talent "I Grant You Permission To Strike" was incorrect in the Currency Wars gameplay.
-
-- Fixes an issue where some of the story dialogue in the Trailblaze Mission "Planarcadia — Limelight" was incorrect.
-
-■2026/07/15
-
-- Fixes the issue where the audio for some cutscene animations in the Trailblaze Mission "Planarcadia — Limelight" played abnormally on certain devices under specific circumstances.
-
-- Fixes an issue where exiting and reentering certain "Interplanar Jump!" gameplays during the Trailblaze Mission "Planarcadia — How I Met Your Father" led to anomalies with stages under specific circumstances.
-
-- Fixes an issue in Currency Wars where Investment Strategy "Faster-Than-Light Promotion" was abnormally obtained under specific circumstances, and the match was abnormal afterward. Trailblazers who encounter this problem before the fix can finalize the current match and start a new one.
-
-- Fixes an issue in Currency Wars where refreshing for some characters in the Store was abnormal under specific circumstances after obtaining the Investment Strategy "A Flash: Moonlit Reflection."
 
 -----
 
