@@ -14,7 +14,7 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
-■2026/08/14
+■2026/08/15
 
 - Fixes an issue where setting the characters Robin • Summeretto (Remembrance: Wind) or Aventurine • Waveflair (Elation: Quantum) as the Build Target may cause some Store interfaces to display abnormally.
 
