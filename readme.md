@@ -160,28 +160,6 @@ Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while th
 
 -----
 
-# [Version 4.4 "In Ravages Does the Whistle Sound" Satisfaction Survey](archive/1337.md)
-## Version 4.4 Satisfaction Survey
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/09/955bdcf044e8cc84719ddea8c9d4ea7d_3221052408527000401_transformed.png)
-
-Dear Trailblazers,
-
-To better understand the Trailblazers' experience in Version 4.4, Pom-Pom has prepared a Version Satisfaction Survey. You will be rewarded with credit ×30,000 if you complete the survey~
-
-Pom-Pom will diligently collect and pass on all the Trailblazers' feedback and suggestions, so please help Pom-Pom.
-
-### Survey Link
-
-[ Go to Survey](https://webstatic.hoyoverse.com/common/event/survey-user-v2/index.html?auth_appid=survey_CNn_k-36tR-sebxwTTv9cvPliNrUVacby71hroSAp2TSe-zf&game_biz=hkrpg_global&surveyId=39714&format=1&sign_type=2&authkey_ver=1)
-
-### Attention
-
-Survey responses cannot be changed after submission. Please be sure to fill out the survey accurately.
-
-Thank you, Trailblazers, for each and every one of your valuable suggestions and opinions.
-
------
-
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/1339.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/12f6a87265b797c084f11e38cbef0485_9162323568190502038_transformed.png)
