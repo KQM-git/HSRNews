@@ -1,3 +1,51 @@
+# ["How to Lose Your Way to the Top: The Zero-Dollar Strategy" Trailblaze Continuance Details](archive/1383.md)
+## Version 4.5 Trailblaze Continuance Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/29/bf8d1de4e2f9655305d732735cf1b77a_5491594792224678972_transformed.jpg)
+
+Three days, twenty billion, one massive spending spree, but fate just refuses to let go of your riches: The harder you try to break free, the tighter its grip...
+
+### Availability
+
+Permanently available after the Version 4.5 update
+
+### Unlock Requirement
+
+Trailblaze Level ≥ 21
+
+※ During Version 4.5, this content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" before experiencing this content.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/17/bb3e51cf9e2ed9c0000f2909e217d0cd_7341104362125900559_transformed.png)
+
+-----
+
+# ["To Roll the Stars in Astropolis" Trailblaze Mission Details](archive/1384.md)
+## Version 4.5 Trailblaze Mission Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/17/e215c4eaa262d852f7e15d918a529c4c_5896509249571435495_transformed.png)
+
+What price must be paid to keep the arcadia breathing? What tone must resound to catch Amber's downcast eyes? The balance has silently aligned, and you are left with nothing but a final, desperate gamble.
+
+### Availability
+
+Permanently available after the Version 4.5 update
+
+### Unlock Requirement
+
+Trailblaze Level ≥ 21
+
+※ During Version 4.5, this content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Planarcadia — In Ravages Does the Whistle Sound" before experiencing this content.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/17/bb3e51cf9e2ed9c0000f2909e217d0cd_2026011431737336014_transformed.png)
+
+-----
+
 # [The Discord "Account Linking Check-In Event" is now live!](archive/1386.md)
 ## The Discord "Account Linking Check-In Event" is now live!
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/19/cf8395d261f742dd1d98a7647b3eeeca_7010773819346491126_transformed.png)
