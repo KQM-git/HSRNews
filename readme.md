@@ -160,22 +160,6 @@ Trailblaze Level ≥ 21
 
 -----
 
-# [The Discord "Account Linking Check-In Event" is now live!](archive/1386.md)
-## The Discord "Account Linking Check-In Event" is now live!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/19/cf8395d261f742dd1d98a7647b3eeeca_7010773819346491126_transformed.png)
-
-Dear Trailblazers,
-
-Starting today, Trailblazers who have linked their Discord accounts can check in via the "Astral Express" bot on the official Discord server during every version. Each check-in grants 30 Stellar Jades!
-
-[ Link account ](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
-
-What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
-
-Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
-
------
-
 # [Version 4.5 "Nameless Honor" Update](archive/1361.md)
 ## Nameless Honor Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/29/199f245429a56f7b31927a1558c1edd4_4067361509318608779_transformed.png)
@@ -851,6 +835,22 @@ Trailblaze Level ≥ 21
 ### Mission Rewards
 
 ![img](https://sdk.hoyoverse.com/upload/ann/2026/07/07/d991ea83d4af2bad8113138d37ac0d58_4762247962649599115_transformed.png)
+
+-----
+
+# [The Discord "Account Linking Check-In Event" is now live!](archive/1386.md)
+## The Discord "Account Linking Check-In Event" is now live!
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/19/cf8395d261f742dd1d98a7647b3eeeca_7010773819346491126_transformed.png)
+
+Dear Trailblazers,
+
+Starting today, Trailblazers who have linked their Discord accounts can check in via the "Astral Express" bot on the official Discord server during every version. Each check-in grants 30 Stellar Jades!
+
+[ Link account ](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
+
+What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
+
+Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
 
 -----
 
