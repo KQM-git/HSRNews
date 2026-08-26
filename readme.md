@@ -1,3 +1,19 @@
+# [Game Version 4.5 Optimization and Known Issues](archive/1420.md)
+## Game Version 4.5 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Game Updates and Improvements Overview
+
+■2026/08/26
+
+- Fixes an issue where the rarity of some new Achievements added in Version 4.5 was incorrect. The Express Crew will reissue the missing Stellar Jades within 5 working days through in-game mail to Trailblazers who have already claimed the corresponding Achievement rewards.
+
+-----
+
 # [Version 4.5 "To Roll the Stars in Astropolis" Update Details](archive/1389.md)
 ## Version 4.5 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/30/9220017a94d0dd75ba28e4b55ef935e6_1086622710499242170_transformed.png)
@@ -465,22 +481,6 @@ With the release of Version 4.5 "To Roll the Stars in Astropolis," the Discord "
 What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
 
 Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
-
------
-
-# [Game Version 4.5 Optimization and Known Issues](archive/1420.md)
-## Game Version 4.5 Optimization and Known Issues
-
-
-Dear Trailblazers,
-
-To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
-
-### Game Updates and Improvements Overview
-
-■2026/08/26
-
-- Fixes an issue where the rarity of some new Achievements added in Version 4.5 was incorrect. The Express Crew will reissue the missing Stellar Jades within 5 working days through in-game mail to Trailblazers who have already claimed the corresponding Achievement rewards.
 
 -----
 
