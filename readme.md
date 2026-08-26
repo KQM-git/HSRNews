@@ -14,6 +14,8 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - Fixes an issue where the home decor of the Trailblazer's room could not be changed under specific circumstances.
 
+- Fixes an issue in the "Overdrive: Whirlwind Grand Prix" event where the dialogue skip function could not be used during some parts of the event story.
+
 -----
 
 # [Version 4.5 "To Roll the Stars in Astropolis" Update Details](archive/1389.md)
