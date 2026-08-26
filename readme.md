@@ -468,6 +468,22 @@ Important Reminder: Trailblazers who link their accounts for the first time will
 
 -----
 
+# [Game Version 4.5 Optimization and Known Issues](archive/1420.md)
+## Game Version 4.5 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Game Updates and Improvements Overview
+
+■2026/08/26
+
+- Fixes an issue where the rarity of some new Achievements added in Version 4.5 was incorrect. The Express Crew will reissue the missing Stellar Jades within 5 working days through in-game mail to Trailblazers who have already claimed the corresponding Achievement rewards.
+
+-----
+
 # ["How to Lose Your Way to the Top: The Zero-Dollar Strategy" Trailblaze Continuance Details](archive/1383.md)
 ## Version 4.5 Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/29/bf8d1de4e2f9655305d732735cf1b77a_5491594792224678972_transformed.jpg)
