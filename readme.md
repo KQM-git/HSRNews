@@ -452,6 +452,22 @@ We welcome all Trailblazers to have a listen.
 
 -----
 
+# [Discord "Account Linking Check-In Event" Reminder](archive/1397.md)
+## Discord "Account Linking Check-In Event" Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/8151142c1bc256b0e749986f105fd1e3_6056476314826603757_transformed.png)
+
+Dear Trailblazers,
+
+With the release of Version 4.5 "To Roll the Stars in Astropolis," the Discord "Account Linking Check-In" event has been updated with a brand-new batch of redemption codes!
+
+[ Link account](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
+
+What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
+
+Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
+
+-----
+
 # ["How to Lose Your Way to the Top: The Zero-Dollar Strategy" Trailblaze Continuance Details](archive/1383.md)
 ## Version 4.5 Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/29/bf8d1de4e2f9655305d732735cf1b77a_5491594792224678972_transformed.jpg)
