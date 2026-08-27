@@ -8,6 +8,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/08/27
+
+- Fixes an issue where game progress might be abnormal on some iOS devices during specific story combat in the Trailblaze Continuance "Astropolis — How to Lose Your Way to the Top: The Zero-Dollar Strategy."
+
+- Fixes an issue where the game screen may abnormally turn black under certain circumstances in the Trailblaze Mission "Astropolis — Regarding the Pain of Others."
+
 ■2026/08/26
 
 - Fixes an issue where the rarity of some new Achievements added in Version 4.5 was incorrect. The Express Crew will reissue the missing Stellar Jades within 5 working days through in-game mail to Trailblazers who have already claimed the corresponding Achievement rewards.
