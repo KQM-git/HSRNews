@@ -8,6 +8,12 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/08/28
+
+- Fixes an issue where the game screen may abnormally turn black under certain circumstances after completing a stage with a Support character in the lineup.
+
+- Fixes an issue where navigating erroneously continues to be displayed when switching to the "Astropolis Central District" map through the Navigation system.
+
 ■2026/08/27
 
 - Fixes an issue where game progress might be abnormal on some iOS devices during specific story combat in the Trailblaze Continuance "Astropolis — How to Lose Your Way to the Top: The Zero-Dollar Strategy."
