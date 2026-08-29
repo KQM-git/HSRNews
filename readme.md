@@ -456,14 +456,6 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
-# [The all-new tool "Warp Records" is now available on HoYoLAB!](archive/1395.md)
-## The all-new tool "Warp Records" is now available on HoYoLAB!
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/17/282a3d746b05dc003cf36291efd74b19_7028411859748011411_transformed.jpg)
-
-After logging into your account on HoYoLAB, Trailblazers can then view their recent 5-star character/Light Cone Warp records in the "Warp Records" tool on HoYoLAB.
-
------
-
 # [Robin's Brand-New Single Officially Released](archive/1396.md)
 ## Robin's Brand-New Single Officially Released
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/17/e4c98e3a69a68211a6a436aa300c9b37_3616796427999606944_transformed.jpg)
@@ -481,22 +473,6 @@ At this very moment, every bird is chasing the wind!
 Robin's brand-new single "Only by Chasing the Wind" is officially released!
 
 We welcome all Trailblazers to have a listen.
-
------
-
-# [Discord "Account Linking Check-In Event" Reminder](archive/1397.md)
-## Discord "Account Linking Check-In Event" Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/18/8151142c1bc256b0e749986f105fd1e3_6056476314826603757_transformed.png)
-
-Dear Trailblazers,
-
-With the release of Version 4.5 "To Roll the Stars in Astropolis," the Discord "Account Linking Check-In" event has been updated with a brand-new batch of redemption codes!
-
-[ Link account](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
-
-What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
-
-Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
 
 -----
 
