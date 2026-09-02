@@ -8,6 +8,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/09/02
+
+- Fixes an issue in the "Furbobocom" - "Press Affairs" gameplay where progress became abnormal when talking to the furbos under certain circumstances.
+
 ■2026/08/28
 
 - Fixes an issue where the game screen may abnormally turn black under certain circumstances after completing a stage with a Support character in the lineup.
