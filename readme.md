@@ -460,26 +460,6 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
-# [Robin's Brand-New Single Officially Released](archive/1396.md)
-## Robin's Brand-New Single Officially Released
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/08/17/e4c98e3a69a68211a6a436aa300c9b37_3616796427999606944_transformed.jpg)
-
-[ Check it out](https://bfan.link/6oticwew82)
-
-Wave to the sea breeze and ocean spray, and sing the most carefree tune.
-
-Embrace the unexpected, and welcome every grooving note!
-
-Get ready to safeguard the roaring engines with the soundwaves of song.
-
-At this very moment, every bird is chasing the wind!
-
-Robin's brand-new single "Only by Chasing the Wind" is officially released!
-
-We welcome all Trailblazers to have a listen.
-
------
-
 # ["How to Lose Your Way to the Top: The Zero-Dollar Strategy" Trailblaze Continuance Details](archive/1383.md)
 ## Version 4.5 Trailblaze Continuance Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/29/bf8d1de4e2f9655305d732735cf1b77a_5491594792224678972_transformed.jpg)
