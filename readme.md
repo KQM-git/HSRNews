@@ -1,27 +1,3 @@
-# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1391.md)
-## Planar Fissure Event Details
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/7d5eeebab1c60716249e3c8e3bcdcac6_3528540804291998260_transformed.png)
-
-### Event Period
-
-2026/09/07 04:00:00 (server) - 2026/09/21 03:59:00 (server)
-
-### Participation Requirement
-
-Unlock Planar Ornament
-
-### Event Details
-
-- During the Planar Fissure event, receive double rewards when obtaining Immersion Rewards or performing Ornament Extraction in the Simulated Universe.
-
-- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
-
-- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
-
-- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
-
------
-
 # [Game Version 4.5 Optimization and Known Issues](archive/1420.md)
 ## Game Version 4.5 Optimization and Known Issues
 
@@ -59,6 +35,30 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 - Fixes an issue where the home decor of the Trailblazer's room could not be changed under specific circumstances.
 
 - Fixes an issue in the "Overdrive: Whirlwind Grand Prix" event where the dialogue skip function could not be used during some parts of the event story.
+
+-----
+
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1391.md)
+## Planar Fissure Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/7d5eeebab1c60716249e3c8e3bcdcac6_3528540804291998260_transformed.png)
+
+### Event Period
+
+2026/09/07 04:00:00 (server) - 2026/09/21 03:59:00 (server)
+
+### Participation Requirement
+
+Unlock Planar Ornament
+
+### Event Details
+
+- During the Planar Fissure event, receive double rewards when obtaining Immersion Rewards or performing Ornament Extraction in the Simulated Universe.
+
+- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
 
 -----
 
