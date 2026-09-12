@@ -8,6 +8,14 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/09/13
+
+- Fixes an issue in the "Minuscule Great Adventure" event where a system error is displayed under certain circumstances after using Quick-Deploy.
+
+- Fixes an issue in the "Minuscule Great Adventure" event where a system error occurs under certain circumstances when switching to a stage that has not been unlocked.
+
+- Fixes an issue in the "Minuscule Great Adventure" event where the Friend Clearance Lineup might display abnormally when viewed.
+
 ■2026/09/09
 
 - Fixes an issue where the game progress becomes abnormal under certain circumstances in the "R&D Node" of the "Overdrive: Whirlwind Grand Prix" event.
