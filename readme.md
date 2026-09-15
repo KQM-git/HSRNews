@@ -6,6 +6,12 @@ Dear Trailblazers,
 
 To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
 
+### Known Issues
+
+■2026/09/15
+
+- It is a known issue that the character "Aventurine • Waveflair (Elation: Quantum)" does not use the Elation Skill "All In! To Summer's Blaze" normally under specific circumstances. This issue will be fixed in Version 4.6.
+
 ### Game Updates and Improvements Overview
 
 ■2026/09/13
