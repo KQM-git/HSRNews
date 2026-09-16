@@ -14,6 +14,10 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/09/16
+
+- Fixes an issue where the game progress becomes abnormal when battling against the enemies "'Harmonious Choir' The Great Septimus" and "Pollux, Netherwing Husk, Ferry of Souls" under certain circumstances.
+
 ■2026/09/13
 
 - Fixes an issue in the "Minuscule Great Adventure" event where a system error is displayed under certain circumstances after using Quick-Deploy.
