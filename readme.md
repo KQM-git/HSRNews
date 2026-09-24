@@ -1,3 +1,171 @@
+# [Version 4.6 Update and Maintenance Notice](archive/1408.md)
+## Version 4.6 Update and Maintenance Notice
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/01/98cbb1aa904ac5c053676acf164b0752_7430210851955222792_transformed.png)
+
+Dear Trailblazers,
+
+The Version 4.6 pre-installation will begin at 2026/09/24 14:00:00 (global). Trailblazers can download some resources in advance, allowing for faster game access after the version update maintenance is complete.
+
+Additionally, the Express Crew will conduct version update maintenance on 2026/09/28 06:00:00 (global). After maintenance, the game will be updated to Version 4.6 "Dance With the Beast Before Moonrise."
+
+During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
+
+### Update Time
+
+Begins at 2026/09/28 06:00:00 (global). The update will take approximately **5** hours.
+
+### How to Update
+
+After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+- PS5®: After entering the game, the game will automatically download and install the update
+
+### Compensation Details
+
+■ Server Maintenance Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/09/28 06:00:00 (global)
+
+※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 4.6 ends.
+
+### Device Specifications
+
+■ Recommended Specifications:
+
+- PC:
+
+Processor: Intel i7-9700, AMD equivalent, or better
+
+RAM: 16 GB
+
+Graphics: NVIDIA GeForce GTX 1060 6GB or higher discrete graphics card
+
+System: Windows 10 64-bit or higher
+
+DirectX Version: 11
+
+- Android:
+
+Device specifications: Android devices with SoC performance equivalent to or better than Snapdragon 870 (Adreno 650), Dimensity 1300 (Mali-G77 MC9), or Kirin 9000 (Mali-G78 MP24)
+
+RAM: 6 GB or more
+
+System: Android 9 or higher
+
+- iOS:
+
+Device:
+
+iPhone 11 or later,
+
+iPad (9th generation, 2021, A13 chip) or later,
+
+iPad mini (6th generation, 2021, A15 chip) or later,
+
+iPad Pro 11-inch (3rd generation, 2021, M1 chip) or later
+
+System: iOS 13.0 or higher
+
+■ Supported Specifications
+
+- PC:
+
+Processor: Intel i5-4460, AMD equivalent, or better
+
+RAM: 8 GB
+
+Graphics: NVIDIA GeForce GTX 1050 or higher discrete graphics card
+
+System: Windows 10 64-bit or higher
+
+DirectX Version: 11
+
+- Android:
+
+Device specifications: Android devices with SoC performance equivalent to or better than Snapdragon 835 (Adreno 540), Dimensity 720 (Mali-G57 MC3), or Kirin 810 (Mali-G52 MP6)
+
+RAM: 4 GB or more
+
+System: Android 9 or higher
+
+Compatibility: Not supported by PowerVR architecture GPUs, except for the Imagination D-Series
+
+- iOS:
+
+Device:
+
+iPhone 8 Plus or later,
+
+iPad (7th generation, 2019 model, A10) or later,
+
+iPad Pro 10.5-inch (2017, A10X chip) or later
+
+System: iOS 13.0 or higher
+
+-----
+
+# [Version 4.6 New Stage](archive/1406.md)
+## Version 4.6 New Stage
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/08/2f13b3a1e15a8da1a9b87c9ab40d04c0_7824506999851028822_transformed.png)
+
+Dear Trailblazers,
+
+After the Version 4.6 update, a new stage "Cavern of Corrosion: Path of the Secret Actor" will be added.
+
+### Cavern of Corrosion: Path of the Secret Actor
+
+Successfully clear the "Cavern of Corrosion: Path of the Secret Actor" stage to obtain the all-new **Cavern Relics** "Dreamlit Actor," "The Edacious Heretic," and more.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/17/3e9cc2616c360f0ae340afea6706c75b_7588102842573901258_transformed.png)
+
+New Cavern Relic Effects Preview:
+
+- **Dreamlit Actor**
+
+2-Pc Set: SPD increases by 6%.
+
+4-Pc Set: When the wearer uses their Skill or Ultimate on one other ally target, increases the ability target's Elation by 16%, lasting for 3 turns. If the wearer has 10 or more points of Certified Banger, additionally increases all ally targets' CRIT DMG by 12%, lasting for 3 turns.
+
+- **The Edacious Heretic**
+
+2-Pc Set: Increases CRIT DMG by 16%.
+
+4-Pc Set: Increases DMG dealt by the wearer's Basic ATK by 36%. When the wearer uses a Basic ATK, increases the wearer's ATK by 20%, lasting for 2 turns.
+
+-----
+
+# ["Dance With the Beast Before Moonrise" Mission Description](archive/1415.md)
+## "Dance With the Beast Before Moonrise" Mission Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/01/087a81d1b3b06185e47c261041748c16_109107862978849382_transformed.png)
+
+The beast stirring in the darkness opens THEIR maw once more, demanding a god as a sacrifice. Before the moon rises again, only the blood of the wise can sate THEIR hunger...
+
+### Availability
+
+Permanently available after the Version 4.6 update
+
+### Unlock Requirement
+
+Trailblaze Level ≥ 21
+
+※ During Version 4.6, this content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" before experiencing this content.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/25/bb3e51cf9e2ed9c0000f2909e217d0cd_5339390822527707796_transformed.png)
+
+-----
+
 # [Currency Wars: Zero-Sum Game V4.6 Update Details](archive/1421.md)
 ## Currency Wars: Zero-Sum Game V4.6 Update Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/16/dd7a84cb210898d56d1b610646895ca0_8011190875223903025_transformed.png)
@@ -125,174 +293,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 - Fixes an issue where the home decor of the Trailblazer's room could not be changed under specific circumstances.
 
 - Fixes an issue in the "Overdrive: Whirlwind Grand Prix" event where the dialogue skip function could not be used during some parts of the event story.
-
------
-
-# ["Dance With the Beast Before Moonrise" Mission Description](archive/1415.md)
-## "Dance With the Beast Before Moonrise" Mission Description
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/01/087a81d1b3b06185e47c261041748c16_109107862978849382_transformed.png)
-
-The beast stirring in the darkness opens THEIR maw once more, demanding a god as a sacrifice. Before the moon rises again, only the blood of the wise can sate THEIR hunger...
-
-### Availability
-
-Permanently available after the Version 4.6 update
-
-### Unlock Requirement
-
-Trailblaze Level ≥ 21
-
-※ During Version 4.6, this content can be experienced in advance through the Finality's Vision function.
-
-※ It is recommended that Trailblazers complete the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" before experiencing this content.
-
-### Mission Rewards
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/08/25/bb3e51cf9e2ed9c0000f2909e217d0cd_5339390822527707796_transformed.png)
-
------
-
-# [Version 4.6 New Stage](archive/1406.md)
-## Version 4.6 New Stage
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/08/2f13b3a1e15a8da1a9b87c9ab40d04c0_7824506999851028822_transformed.png)
-
-Dear Trailblazers,
-
-After the Version 4.6 update, a new stage "Cavern of Corrosion: Path of the Secret Actor" will be added.
-
-### Cavern of Corrosion: Path of the Secret Actor
-
-Successfully clear the "Cavern of Corrosion: Path of the Secret Actor" stage to obtain the all-new **Cavern Relics** "Dreamlit Actor," "The Edacious Heretic," and more.
-
-![img](https://sdk.hoyoverse.com/upload/ann/2026/09/17/3e9cc2616c360f0ae340afea6706c75b_7588102842573901258_transformed.png)
-
-New Cavern Relic Effects Preview:
-
-- **Dreamlit Actor**
-
-2-Pc Set: SPD increases by 6%.
-
-4-Pc Set: When the wearer uses their Skill or Ultimate on one other ally target, increases the ability target's Elation by 16%, lasting for 3 turns. If the wearer has 10 or more points of Certified Banger, additionally increases all ally targets' CRIT DMG by 12%, lasting for 3 turns.
-
-- **The Edacious Heretic**
-
-2-Pc Set: Increases CRIT DMG by 16%.
-
-4-Pc Set: Increases DMG dealt by the wearer's Basic ATK by 36%. When the wearer uses a Basic ATK, increases the wearer's ATK by 20%, lasting for 2 turns.
-
------
-
-# [Version 4.6 Update and Maintenance Notice](archive/1408.md)
-## Version 4.6 Update and Maintenance Notice
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/01/98cbb1aa904ac5c053676acf164b0752_7430210851955222792_transformed.png)
-
-Dear Trailblazers,
-
-The Version 4.6 pre-installation will begin at 2026/09/24 14:00:00 (global). Trailblazers can download some resources in advance, allowing for faster game access after the version update maintenance is complete.
-
-Additionally, the Express Crew will conduct version update maintenance on 2026/09/28 06:00:00 (global). After maintenance, the game will be updated to Version 4.6 "Dance With the Beast Before Moonrise."
-
-During the maintenance, Trailblazers will not be able to log in to the game. Please note the maintenance schedule and plan your gaming time accordingly. The game client must be updated after the maintenance. Due to the large size of the new game resources, we recommended Trailblazers to use a Wi-Fi connection to download the update.
-
-### Update Time
-
-Begins at 2026/09/28 06:00:00 (global). The update will take approximately **5** hours.
-
-### How to Update
-
-After maintenance for the version update begins, Trailblazers can follow the in-game instructions to update.
-
-- PC: Exit the game, restart the launcher, then click "Update"
-
-- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
-
-- iOS: Enter the App Store and tap "Update"
-
-- PS5®: After entering the game, the game will automatically download and install the update
-
-### Compensation Details
-
-■ Server Maintenance Compensation
-
-Compensation: **Stellar Jade ×300**
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/09/28 06:00:00 (global)
-
-※ The Express Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Please be sure to claim it before Version 4.6 ends.
-
-### Device Specifications
-
-■ Recommended Specifications:
-
-- PC:
-
-Processor: Intel i7-9700, AMD equivalent, or better
-
-RAM: 16 GB
-
-Graphics: NVIDIA GeForce GTX 1060 6GB or higher discrete graphics card
-
-System: Windows 10 64-bit or higher
-
-DirectX Version: 11
-
-- Android:
-
-Device specifications: Android devices with SoC performance equivalent to or better than Snapdragon 870 (Adreno 650), Dimensity 1300 (Mali-G77 MC9), or Kirin 9000 (Mali-G78 MP24)
-
-RAM: 6 GB or more
-
-System: Android 9 or higher
-
-- iOS:
-
-Device:
-
-iPhone 11 or later,
-
-iPad (9th generation, 2021, A13 chip) or later,
-
-iPad mini (6th generation, 2021, A15 chip) or later,
-
-iPad Pro 11-inch (3rd generation, 2021, M1 chip) or later
-
-System: iOS 13.0 or higher
-
-■ Supported Specifications
-
-- PC:
-
-Processor: Intel i5-4460, AMD equivalent, or better
-
-RAM: 8 GB
-
-Graphics: NVIDIA GeForce GTX 1050 or higher discrete graphics card
-
-System: Windows 10 64-bit or higher
-
-DirectX Version: 11
-
-- Android:
-
-Device specifications: Android devices with SoC performance equivalent to or better than Snapdragon 835 (Adreno 540), Dimensity 720 (Mali-G57 MC3), or Kirin 810 (Mali-G52 MP6)
-
-RAM: 4 GB or more
-
-System: Android 9 or higher
-
-Compatibility: Not supported by PowerVR architecture GPUs, except for the Imagination D-Series
-
-- iOS:
-
-Device:
-
-iPhone 8 Plus or later,
-
-iPad (7th generation, 2019 model, A10) or later,
-
-iPad Pro 10.5-inch (2017, A10X chip) or later
-
-System: iOS 13.0 or higher
 
 -----
 
