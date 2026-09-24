@@ -152,6 +152,36 @@ Trailblaze Level ≥ 21
 
 -----
 
+# [Version 4.6 New Stage](archive/1406.md)
+## Version 4.6 New Stage
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/08/2f13b3a1e15a8da1a9b87c9ab40d04c0_7824506999851028822_transformed.png)
+
+Dear Trailblazers,
+
+After the Version 4.6 update, a new stage "Cavern of Corrosion: Path of the Secret Actor" will be added.
+
+### Cavern of Corrosion: Path of the Secret Actor
+
+Successfully clear the "Cavern of Corrosion: Path of the Secret Actor" stage to obtain the all-new **Cavern Relics** "Dreamlit Actor," "The Edacious Heretic," and more.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/09/17/3e9cc2616c360f0ae340afea6706c75b_7588102842573901258_transformed.png)
+
+New Cavern Relic Effects Preview:
+
+- **Dreamlit Actor**
+
+2-Pc Set: SPD increases by 6%.
+
+4-Pc Set: When the wearer uses their Skill or Ultimate on one other ally target, increases the ability target's Elation by 16%, lasting for 3 turns. If the wearer has 10 or more points of Certified Banger, additionally increases all ally targets' CRIT DMG by 12%, lasting for 3 turns.
+
+- **The Edacious Heretic**
+
+2-Pc Set: Increases CRIT DMG by 16%.
+
+4-Pc Set: Increases DMG dealt by the wearer's Basic ATK by 36%. When the wearer uses a Basic ATK, increases the wearer's ATK by 20%, lasting for 2 turns.
+
+-----
+
 # [Version 4.5 "To Roll the Stars in Astropolis" Update Details](archive/1389.md)
 ## Version 4.5 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/30/9220017a94d0dd75ba28e4b55ef935e6_1086622710499242170_transformed.png)
