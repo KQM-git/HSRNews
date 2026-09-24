@@ -128,6 +128,30 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# ["Dance With the Beast Before Moonrise" Mission Description](archive/1415.md)
+## "Dance With the Beast Before Moonrise" Mission Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/01/087a81d1b3b06185e47c261041748c16_109107862978849382_transformed.png)
+
+The beast stirring in the darkness opens THEIR maw once more, demanding a god as a sacrifice. Before the moon rises again, only the blood of the wise can sate THEIR hunger...
+
+### Availability
+
+Permanently available after the Version 4.6 update
+
+### Unlock Requirement
+
+Trailblaze Level ≥ 21
+
+※ During Version 4.6, this content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" before experiencing this content.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/08/25/bb3e51cf9e2ed9c0000f2909e217d0cd_5339390822527707796_transformed.png)
+
+-----
+
 # [Version 4.5 "To Roll the Stars in Astropolis" Update Details](archive/1389.md)
 ## Version 4.5 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/07/30/9220017a94d0dd75ba28e4b55ef935e6_1086622710499242170_transformed.png)
