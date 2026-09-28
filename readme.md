@@ -430,7 +430,7 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
-# [Game Version 4.6 Optimization and Known Issues](archive/1446.md)
+# [Game Version 4.6 Optimization and Known Issues](archive/1447.md)
 ## Game Version 4.6 Optimization and Known Issues
 
 
@@ -443,6 +443,20 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 ■2026/09/28
 
 - It is known that the UI interface displays abnormally when using certain Xiaomi devices and systems. We recommend Trailblazers switch their resolution to "High" or lower to temporarily resolve this issue.
+
+### Game Updates and Improvements Overview
+
+■2026/09/28
+
+- Optimizes the speed at which owned items are displayed after opening the "Inventory" interface.
+
+- Fixes an issue in the event "Astral Slammers Squad!" where the Collector's Edition Astral Imagea icon displayed incorrectly under certain circumstances.
+
+- Fixes an issue where the photo of the character Hyacine's (Remembrance: Wind) outfit "Warm Cotton Skies" displayed abnormally when placed in the "Photo Wall" of "Collection Showcase."
+
+- Fixes an issue where some images in "Furbobocom" — "Hot Topics" displayed abnormally under certain circumstances.
+
+- Fixes an issue in the "Store" where the "New" notification could not be removed normally on certain interfaces.
 
 -----
 
