@@ -430,6 +430,22 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
+# [Game Version 4.6 Optimization and Known Issues](archive/1446.md)
+## Game Version 4.6 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/09/28
+
+- It is known that the UI interface displays abnormally when using certain Xiaomi devices and systems. We recommend Trailblazers switch their resolution to "High" or lower to temporarily resolve this issue.
+
+-----
+
 # [Version 4.6 "Nameless Honor" Update](archive/1416.md)
 ## Nameless Honor Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/01/8a3b1b7b12124f5f69346e233648a4ea_6117871799004999242_transformed.png)
