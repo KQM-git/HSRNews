@@ -476,22 +476,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [Discord "Account Linking Check-In Event" Reminder](archive/1431.md)
-## Discord "Account Linking Check-In Event" Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/23/a0cd4f0b0b39d3422b68623ce022c924_3128256009638994441_transformed.png)
-
-Dear Trailblazers,
-
-With the release of Version 4.6 "Dance With the Beast Before Moonrise," the Discord "Account Linking Check-In" event has been updated with a brand-new batch of redemption codes!
-
-[ Link account ](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
-
-What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
-
-Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
-
------
-
 # [Version 4.6 "Nameless Honor" Update](archive/1416.md)
 ## Nameless Honor Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/01/8a3b1b7b12124f5f69346e233648a4ea_6117871799004999242_transformed.png)
