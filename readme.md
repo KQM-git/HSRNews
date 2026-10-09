@@ -446,6 +446,16 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Game Updates and Improvements Overview
 
+■2026/10/09
+
+- Fixes an issue where the time-stopped state of certain characters' Techniques was abnormal under specific circumstances, preventing the achievement "Chrono Surge" from being completed normally.
+
+- Fixes an issue where the "Inventory" screen would abnormally lag or stutter when scrolling up and down under certain circumstances.
+
+- Fixes an issue in the "Currency Wars" gameplay where the corresponding rewards could not be properly obtained after completing specific Curse Trials of the "Holy Grail of Destiny" Bond.
+
+- Fixes an issue with incorrect title text for some voice lines of the character Aventurine • Waveflair (Elation: Quantum).
+
 ■2026/09/30
 
 - Fixes an issue in the "Chrysos Maze Grand Restaurant" event where the game screen abnormally turns black after certain story scenes end.
