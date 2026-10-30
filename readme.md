@@ -1,3 +1,15 @@
+# ["Currency Wars: Voyage Into the Canvas" Highlights Page Is Now Live](archive/1466.md)
+## "Currency Wars: Voyage Into the Canvas" Highlights Page Is Now Live
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/112e3a5bf8bf1479c582c05dea54ef19_4411257493308792310_transformed.png)
+
+Dear Trailblazers, the "Currency Wars: Voyage Into the Canvas" highlights page is now live. The new season brings a massive update. Visit the webpage to check out the details on the all-new season's themed gameplay and other information.
+
+"The Strategic Investment Department invites you to use the brand-new Currency Wars system to turn your grand adventures aboard the Starfroster into comics and satisfy the public's curiosity."
+
+[ Check it out](https://act.hoyolab.com/puzzle/hkrpg/pz_RlVztEGUpN/index.html?hyl_presentation_style=fullscreen&hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=rpqcurrencywar&utm_source=ingame&utm_medium=announcement)
+
+-----
+
 # [Version 4.6 "Dance With the Beast Before Moonrise" Satisfaction Survey](archive/1422.md)
 ## Version 4.6 Satisfaction Survey
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/04/09/955bdcf044e8cc84719ddea8c9d4ea7d_3221052408527000401_transformed.png)
