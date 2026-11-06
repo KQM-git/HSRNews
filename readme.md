@@ -194,18 +194,6 @@ Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while th
 
 -----
 
-# ["Currency Wars: Voyage Into the Canvas" Highlights Page Is Now Live](archive/1466.md)
-## "Currency Wars: Voyage Into the Canvas" Highlights Page Is Now Live
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/26/112e3a5bf8bf1479c582c05dea54ef19_4411257493308792310_transformed.png)
-
-Dear Trailblazers, the "Currency Wars: Voyage Into the Canvas" highlights page is now live. The new season brings a massive update. Visit the webpage to check out the details on the all-new season's themed gameplay and other information.
-
-"The Strategic Investment Department invites you to use the brand-new Currency Wars system to turn your grand adventures aboard the Starfroster into comics and satisfy the public's curiosity."
-
-[ Check it out](https://act.hoyolab.com/puzzle/hkrpg/pz_RlVztEGUpN/index.html?hyl_presentation_style=fullscreen&hyl_auth_required=true&sign_type=2&authkey_ver=1&auth_appid=rpqcurrencywar&utm_source=ingame&utm_medium=announcement)
-
------
-
 # [Garden of Plenty Event: Calyx Drop Rate Doubled for a Limited Time](archive/1424.md)
 ## Garden of Plenty Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/12f6a87265b797c084f11e38cbef0485_9162323568190502038_transformed.png)
