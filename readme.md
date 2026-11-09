@@ -1,3 +1,29 @@
+# ["Now, Lay Laughter to All Stars" Mission Description](archive/1449.md)
+## "Now, Lay Laughter to All Stars" Mission Description
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/18/594367f09c80c0926412e8dc054fa8dc_487455522214050056_transformed.png)
+
+In the maddening silence, a voice said: "Laugh, and let THEM hear your existence." And thus, the stars were silent no more, pouring all their radiance into a single burst of laughter.
+
+### Availability
+
+Permanently available after the Version 4.7 update
+
+### Unlock Requirement
+
+Trailblaze Level ≥ 21
+
+※ During Version 4.7, this content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Astropolis — Dance With the Beast Before Moonrise" before experiencing this content.
+
+### Mission Rewards
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/10/29/cfbbd334e7473d4cc17adc86a4de3b42_4480389584264362434_transformed.png)
+
+※ Complete the Version 4.7 Trailblaze Mission to receive the Superimposition Lv. 5 Light Cone "See You at the World's End! (Elation)" ×1.
+
+-----
+
 # [Version 4.7 "Nameless Honor" Update](archive/1452.md)
 ## Nameless Honor Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/18/aacaeb10e01d7922cd349ae6adae1d5b_7855367392222189577_transformed.png)
