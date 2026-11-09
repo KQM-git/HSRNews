@@ -44,6 +44,50 @@ Trailblaze Level ≥ 21
 
 -----
 
+# [Version 4.7 New Stages](archive/1450.md)
+## Version 4.7 New Stages
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/22/d903dbeae3b0c8cbd92b932cc8ca8698_7142408128622324862_transformed.png)
+
+Dear Trailblazers,
+
+After the Version 4.7 update, the new stages "Echo of War: Moon of Indulgence" and "Divergent Universe: Dramatis Personae" will be added.
+
+### Echo of War: Moon of Indulgence
+
+Successfully challenge the stage to obtain the new **Trace Material "Ravenous Baby Tooth"**, **Relics** "Self-Enshrouded Recluse" and "Ever-Glorious Magical Girl," the item "Lucent Afterglow," Light Cones "Mushy Shroomy's Adventures" and "Victory In a Blink," and more.
+
+※ Early access for "Echo of War: Moon of Indulgence" will be available after 2026/11/16 04:00:00 (server).
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/10/29/e9643ce9c473a042b6d72c757755e5b5_154784365659364081_transformed.png)
+
+### Planar Ornament Extraction
+
+■ Divergent Universe: Dramatis Personae
+
+Successfully challenge the stage "Divergent Universe: Dramatis Personae," and Trailblazers can use **Trailblaze Power, Immersifiers, or Deep Immersifiers** to obtain the brand-new Planar Ornaments **"God's Moment of Joy" and "Subspace ASC Center"** via "Planar Ornament Extraction."
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/10/29/57b4223ce3b205375be1a95260a07420_6460030315442090702_transformed.png)
+
+New Planar Ornament Effects Preview:
+
+- **God's Moment of Joy**
+
+Link Rope: Moment of Joy's Magic Prop
+
+Planar Sphere: Moment of Joy's Eternal Stage
+
+2-Pc: Increases the wearer's SPD by 6%. When the wearer's Elation reaches 40% or higher, the wearer's action advances by 40% immediately when entering combat.
+
+- **Subspace ASC Center**
+
+Link Rope: ASC Negative Film
+
+Planar Sphere: ASC Dark Fissure
+
+2-Pc: Increases the wearer's SPD by 6%. When the wearer's SPD reaches 145 or higher, increases all allies' Break Effect by 18% after entering combat. This effect cannot stack.
+
+-----
+
 # ["Now, Lay Laughter to All Stars" Mission Description](archive/1449.md)
 ## "Now, Lay Laughter to All Stars" Mission Description
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/18/594367f09c80c0926412e8dc054fa8dc_487455522214050056_transformed.png)
