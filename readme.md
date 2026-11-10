@@ -1,3 +1,445 @@
+# [Version 4.7 "Now, Lay Laughter to All Stars" Update Details](archive/1457.md)
+## Version 4.7 Update
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/18/50682d35df96c8e16fbb9e02c03cec02_5184262551051432376_transformed.png)
+
+In the maddening silence, a voice said: "Laugh, and let THEM hear your existence." And thus, the stars were silent no more, pouring all their radiance into a single burst of laughter.
+
+Dear Trailblazers,
+
+Welcome to Version 4.7 "Now, Lay Laughter to All Stars"!
+
+### Update and Compensation Details
+
+Version 4.7 will run from after the Version 4.7 update until 2026/12/23 06:00:00 (global).
+
+■ Update Time
+
+Begins at 2026/11/11 06:00:00 (global). The update will take approximately 5 hours.
+
+■ Compensation Details
+
+- Server Maintenance Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/11/11 06:00:00 (global)
+
+※ Please claim before the end of Version 4.7.
+
+- Bug Compensation
+
+Compensation: **Stellar Jade ×300**
+
+Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/11/11 06:00:00 (global)
+
+※ Please log in to claim the mail before 2026/12/11 23:59:00 (global).
+
+The Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Be sure to claim it in time.
+
+■ How to Update
+
+- PC: Exit the game, restart the launcher, then click "Update"
+
+- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
+
+- iOS: Enter the App Store and tap "Update"
+
+- PS5®: After entering the game, the game will automatically download and install the update
+
+### Version Update Details
+
+1. New Story
+
+**■ Trailblaze Mission "Planarcadia — Now, Lay Laughter to All Stars"**
+
+- In the maddening silence, a voice said: "Laugh, and let THEM hear your existence." And thus, the stars were silent no more, pouring all their radiance into a single burst of laughter.
+
+- Availability: Permanently available after the Version 4.7 update
+
+- Requirement: Trailblaze Level ≥ 21
+
+※ During Version 4.7, this content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Astropolis — Dance With the Beast Before Moonrise" before experiencing this content.
+
+2. New Character
+
+**■ 5-Star Aeon ★ Aha (Elation: Quantum)**
+
+Aeon ★ Aha is here! THEY grant ascension to the Path of Elation, allowing Elation characters to obtain Innate Traces and unlock brand-new abilities. THEY also star as the leading role in the all-new "Aha Instant," increasing its base SPD and performance speed. THEY also possess Aeonic Authority, enabling ally DMG to suppress enemy Max HP.
+
+3. New Light Cones
+
+**■ 5-Star "Upon the First Echo of 'Aha' (Elation)"**
+
+Obtainable through the "Brilliant Fixation: Upon the First Echo of 'Aha'" Light Cone Event Warp.
+
+**■ 4-Star "See You at the World's End! (Elation)"**
+
+Complete the Version 4.7 Trailblaze Mission to obtain the Superimposition Lv. 5 Light Cone "See You at the World's End! (Elation)" ×1.
+
+4. New Outfits
+
+**■ Limited Collection Outfit "Star Lotto"**
+
+Aeon ★ Aha's Limited Collection Outfit
+
+Obtainable by making draws in "Cosmic Aesthetics: Phantasia Showstage."
+
+※After changing into "Star Lotto," Aeon ★ Aha will wear the corresponding outfit during exploration and combat, and some abilities will have special effects.
+
+**■ Trailblaze Fashion - Outfit "Yellow-Purple Style"**
+
+Can be claimed from "Grab Your Opening Gifts."
+
+**■ Trailblaze Fashion - Back "Phantasmoon Star Rail"**
+
+Obtainable by making draws in "Cosmic Aesthetics: Phantasia Showstage."
+
+**■ Trailblaze Fashion - Headwear "Elation Proxy"**
+
+Can be claimed from "Grab Your Opening Gifts."
+
+**■ Trailblaze Fashion - Headwear "Generating Mischief"**
+
+Can be exchanged in the "Gift of Stardust" section of the Store using Lone Stardust.
+
+**■ Trailblaze Fashion - Headwear "Trainee Angel"**
+
+Can be exchanged in the "Gift of Stardust" section of the Store using Lone Stardust.
+
+5. New Areas
+
+**■ Starfroster**
+
+The Mourning Actors' touring showboat is a wondrous arcadia built by Aha. Countless miracles from the past, present, and future converge here, sailing together toward "time where only gods exist."
+
+**■ Moment of Joy**
+
+A place that should not exist in reality, where all manner of secrets, as fleeting as fireworks, are frozen in time. THEIR hand becomes the wind, brushing the ends of a child's hair as THEY whisper: "Cry, laugh, and then remember this fleeting moment of life."
+
+6. New Events
+
+<details open="true">
+<summary><strong>■ Grab Your Opening Gifts</strong></summary>
+
+Let the show begin! Aha brought a ton of great gifts! THEY sure have clout!
+
+- **"Affinitive Starveil"**: Trailblazers can choose to obtain one Affinitive Eidolon from the following characters: Acheron (Nihility: Lightning), Dan Heng • Imbibitor Lunae (Destruction: Imaginary), or Jing Yuan (Erudition: Lightning)!
+
+- **"Magic Invitation"**: Trailblazers can choose one of the following characters to obtain: Acheron (Nihility: Lightning), Dan Heng • Imbibitor Lunae (Destruction: Imaginary), or Jing Yuan (Erudition: Lightning)! You can also obtain upgrade materials to instantly level the corresponding character up to Lv. 60!
+
+- **"Stellar Companions"**: Log in to claim Golden Companion Spirit ×1 for free, which can be exchanged for a character in the "Stellar Convergence" Store!
+
+- **"Aha Reckons You Need This"**: THEY upgraded "Gift of Odyssey" to "Aha Reckons You Need This." Check in cumulatively to claim Star Rail Special Pass ×20!
+
+- **"Claim Your Parcel"**: Claim the Trailblaze Fashion - Outfit "Yellow-Purple Style"!
+
+- **"Don't Go Home Empty-Handed"**: Claim the special item "This Way I Can Keep You in the Palm of My Hand!", the custom Relic item "Asat Pramad's Gift", and the Trailblaze Fashion - Headwear "Elation Proxy"!
+
+</details>
+- Event Period: During Version 4.7
+
+- Requirement: Trailblaze Level ≥ 4
+
+**■ The Fluffy Movie: Overheated**
+
+- Leave Fluffy Across the Blue unfinished? Sorry, but the greatest and most responsible comic artist, Blurry_QR_Colt, could never do such a thing. In fact, she's even going to draw a gourmet story version! She has left behind an inheritance waiting to be claimed. To get your hands on it, you'll have to first finish this masterpiece. However, "drawing" comics isn't as simple as you think...
+
+- Event Period: After the Version 4.7 update – 2026/12/23 03:59:00 (global)
+
+- Requirement: Trailblaze Level ≥ 21
+
+※ This content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Planarcadia — Now, Lay Laughter to All Stars" before experiencing this content.
+
+**■ Interastral Peace Gala: Road to Fame**
+
+- Want to become the star of the show? Step onto the stage, take down your rivals, and win cheers and applause with your brilliance!
+
+- Event Period: After the Version 4.7 update – 2026/12/23 03:59:00 (global)
+
+- Requirement: Trailblaze Level ≥ 21
+
+**■ Relic Recon**
+
+- A mysterious collection vault in the Herta Space Station has opened its doors to you, filled with countless chests containing wondrous items. If you could get your hands on a special access card...
+
+- Event Period: After the Version 4.7 update – 2026/12/23 03:59:00 (global)
+
+- Requirement: Trailblaze Level ≥ 21
+
+**■ Cosmic Aesthetics: Phantasia Showstage**
+
+- During the event, Trailblazers can use Fashion Invites for draws in "Phantasia Showstage" to obtain Aeon ★ Aha's brand-new outfit "Star Lotto," as well as other rewards such as the Trailblaze Fashion - Back "Phantasmoon Star Rail," Namecard "Euphoria Time," and Chat Box "Cosmic Lotto."
+
+- Event Period: After the Version 4.7 update – 2026/12/23 03:59:00 (global)
+
+- Requirement: Trailblaze Level ≥ 4
+
+* For more information, please refer to the Version 4.7 "Cosmic Aesthetics: Phantasia Showstage" post and notice.
+
+**■ Myriad Symphony**
+
+- During the event, cumulatively consume Star Rail Special Passes or Fashion Invites to obtain Resonance and claim Affinitive Eidolons!
+
+- Event Period: After the Version 4.7 update – 2026/12/23 03:59:00 (global)
+
+※ For more information, please refer to the Version 4.7 "New in Store" post and notice.
+
+※ Please refer to future announcements for information on other events.
+
+7. Brand-New Season
+
+**■ "Currency Wars: Voyage Into the Canvas": Currency Wars welcomes a brand-new season update.**
+
+- Now that the Voracity crisis has come to a close, the Strategic Investment Department invites you to use the brand-new Currency Wars system to turn your grand adventures aboard the Starfroster into comics and satisfy the public's curiosity.
+
+- The new season brings a massive update, bringing an experience of the all-new seasonal themed gameplays, "Escapade" and "Plot Armor." Additionally, Bonds have been completely revamped, alongside reworks to employee Bonds, costs, on/off-field roles, and Character Empowerments. Brand-new equipment, Investment Environments, and strategies await your selection. Come and experience a completely different gameplay strategy!
+
+- Update Time: After the Version 4.7 update
+
+- Requirement: Trailblaze Level ≥ 21
+
+※ This content can be experienced in advance through the Finality's Vision function.
+
+※ It is recommended that Trailblazers complete the Trailblaze Mission "Penacony — Stranger in a Strange Land" before experiencing this content.
+
+※ For more information, please refer to the Version 4.7 "Currency Wars: Voyage Into the Canvas" post and notice.
+
+8. Others
+
+■ Enemies
+
+"Divine Skull of Indulgence," "Depth Crawler Protoplasm," and "Remnants of Comedy"
+
+■ Gameplay
+
+Anomaly Arbitration's high-difficulty game mode will be updated with the coming version, and players can play it to earn rewards including Lone Stardust, Interference Keys, Self-Modeling Resin, and limited-time avatar frames.
+
+- This Period's Theme: "Anomaly Arbitration: Hidden Stage"
+
+Treasures Lightward: Regular game modes Apocalyptic Shadow, Pure Fiction, and Forgotten Hall: Memory of Chaos will be refreshed alternately. For more details, please see below:
+
+- Apocalyptic Shadow: Navigator's Netherveil
+
+2026/11/16 04:00:00 (server) – 2026/12/28 03:59:00 (server)
+
+When an enemy target with "Steadfast Safeguard" is Weakness Broken, dispel control debuffs for all ally targets and activate their Ultimates.
+
+Increases Skill DMG taken by all enemy targets by 25% and increases Elation DMG by 15%.
+
+- Pure Fiction: Fiction Made Truth
+
+2026/11/30 04:00:00 (server) – 2027/01/11 03:59:00 (server)
+
+Each time Punchline is gained, allies will additionally accumulate 2 Grit Value.
+
+- Memory of Chaos: Echo of Darkness
+
+2026/12/14 04:00:00 (server) – 2027/01/25 03:59:00 (server)
+
+Increases Basic ATK DMG dealt by all ally targets by 50%. After an ally character uses their Basic ATK, adds 1 Hit Per Action to "Memory Turbulence," up to a maximum of 15 hits.
+
+At the start of each Cycle, "Memory Turbulence" deals 1 instance of True DMG to a random enemy target with each Hit Per Action.
+
+- The power of the Voracity will subside soon. But before that, Aha will not abandon you, nor deceive you. Instead, THEY will continue to help you. Varying corruption levels of the Voracity Corrosion will still affect some stages and gameplay in Version 4.7/4.8. When tackling enemies corroded by the Voracity, you will still be able to gain the Lv. 3 "Aha's Big Help" buff.
+
+■ Stages
+
+"Echo of War: Moon of Indulgence" and "Divergent Universe: Dramatis Personae"
+
+■ Relics
+
+Planar Ornament "God's Moment of Joy"
+
+Planar Ornament "Subspace ASC Center"
+
+■ System
+
+- Adds the special Eidolon, Affinitive Eidolon, which grants characters brand-new abilities and combat performance. It also unlocks exclusive character-themed illustrations on the Eidolon screen. After the Version 4.7 update, Acheron, Dan Heng • Imbibitor Lunae, and Jing Yuan will be able to activate the Affinitive Eidolon.
+
+※ How to Obtain: During Version 4.7, claim through the limited-time event "Grab Your Opening Gifts" or obtain through the limited-time event "Myriad Symphony."
+
+※ Owning a character and their corresponding Affinitive Eidolon activates the Affinitive Eidolon, regardless of the character's original Eidolon Level.
+
+※ Affinitive Eidolons will be added to the Store in future versions and can be exchanged using Undying Starlight. For more information, please refer to the Version 4.7 "Affinitive Eidolon" post.
+
+- Adds a switch function for character exclusive effects. Outside of combat, Trailblazers can freely set whether any character's exclusive effect takes effect globally. If the character is added to the team during combat, the exclusive effect will remain active, unaffected by this setting.
+
+■ Others
+
+- The limited 5-star character Jiaoqiu (Nihility: Fire) and limited 5-star Light Cone "Those Many Springs (Nihility)" are available for exchange in the "Stellar Convergence" Store.
+
+- New items have been added to the "Gift of Stardust" Store for exchange: Trailblaze Fashion - Headwear "Generating Mischief," Trailblaze Fashion - Headwear "Trainee Angel," Avatar "Grand Ambitions," Avatar "Lightning-Fast," Avatar "Astropolis Promise," and Namecard "Astropolis Frequency." Trailblazers can use Lone Stardust to exchange for rewards in the store.
+
+- Adds the custom Relic item "Asat Pramad's Gift." Use to obtain one custom max-level 5-star Relic (only Relics from Version 4.7 and earlier can be customized) and the special item "Isee's Beacon." During Version 4.7, claim through the limited-time event "Grab Your Opening Gifts."
+
+- Adds the special item "This Way I Can Keep You in the Palm of My Hand!" During Version 4.7, claim through the limited-time event "Grab Your Opening Gifts."
+
+- Adds new content such as Furbobocom, readable items, messages, discs, room decorations, achievements, data bank entries, and loading screen texts. They will be gradually unlocked during your Trailblaze Progress.
+
+### Adjustments and Optimizations
+
+■ Combat
+
+- Decreases the difficulty of clearing "Echo of War: The Comedy of Doom" when selecting stage difficulties I, II, III, and IV.
+
+- Adjusts certain UI displays in combat under certain circumstances.
+
+- Optimizes certain UI displays on the "Real-Time Combat View" screen under certain circumstances.
+
+- Optimizes certain UI displays of the Elation Skill triggered by the Talent of the character Aventurine • Waveflair (Elation: Quantum) under specific circumstances when using mobile devices.
+
+- Optimizes the default target selection logic for some abilities of the ally Alloy Pommy during manual combat.
+
+■ System
+
+- Optimizes the "Quick Farm" function for character building. You can now calculate the materials required to build a character to max level for the current Equilibrium Level all at once. Additionally, the limit for a single Quick Farm on a Calyx will also be increased to 24.
+
+- After the Version 4.7 update, the "Dialogue Speed-Up" feature can be used in all mission dialogue from Versions 1.0 to 3.8.
+
+- Adjusts and optimizes the display of the Store interface, and standardizes the UI presentation when items reach their purchase limit.
+
+- Adjusts and optimizes the display experience of the "Starlit Homecoming" Returner Event.
+
+- Adjusts and optimizes the display of "Journey Highlights." To make it easier for Trailblazers to track their reward progress for the current version, the "Reward Guide" entrance will display reward acquisition progress in real time. A progress bar in "Journey Highlights" will also show the amount of Stellar Jades and Star Rail Special Passes obtained and yet to be obtained, alongside a new display for special rewards. Furthermore, point threshold rewards for Accumulated Points and rewards from the current version's Trailblaze Mission, "Aptitude Showcase," and "Treasures Lightward" will also be included in the tally.
+
+■ Audio
+
+- Optimizes certain dialogue voice lines in the mission flow of the Trailblaze Missions "Planarcadia — Dance With the Beast Before Moonrise" and "Astropolis — To Roll the Stars in Astropolis" when the voice language is set to Japanese.
+
+- Optimizes certain dialogue voice lines in the Trailblaze Missions "Amphoreus — The Fall at Dawn's Rise" and "Back to Earth in Evernight," "Planarcadia — The Lethe Below the Living" and "Dance With the Beast Before Moonrise," and "Astropolis — To Roll the Stars in Astropolis" when the voice language is set to Korean.
+
+- Optimizes certain dialogue voice lines in the mission flow of Trailblaze Continuance "The Xianzhou Luofu — A Foxian Tale of the Haunted" when the voice language is set to Korean.
+
+- Optimizes some dialogue voice lines for the NPC Pearl during her visit to the Express when the voice language is set to Korean.
+
+■ Others
+
+- Adjusts and optimizes the following movement of the Imagea squad under specific circumstances during exploration.
+
+- Optimizes the preview effect of pets in the Inventory.
+
+### Bug Fixes
+
+■ Characters and Enemies
+
+- Fixes an issue where parts of the model for the character Evanescia (Elation: Physical) displayed abnormally when using the outfit "Lunar Blossoming" under specific circumstances.
+
+- Fixes an issue where the Memosprite Talent effect "duration of all Continuous Effects on this unit decreases by 1 turn" was abnormal after the memosprites Little Ica and Demiurge used their abilities. The actual effect now aligns with the ability description.
+
+- Fixes an issue where some buff visual effects displayed abnormally when certain characters had the "Cipher" buff from the Ultimate of the character Sparkle (Harmony: Quantum). This issue does not affect actual effects.
+
+- Fixes issues for certain abnormal character, NPC, and enemy models, visual effects, movement effects, and camera effects.
+
+- Fixes an issue where some "will not get knocked down" status effects become abnormal under certain circumstances, after all ally characters take a killing blow in battle against the enemy "Blood of the Fallen God: Yabuli."
+
+■ Combat
+
+- Fixes an issue where some UI and visual effects of the Ultimate button were displayed abnormally when certain characters activated their Ultimate. This issue does not affect actual ability effects.
+
+- Fixes an issue where the text for the Maximum Restorable HP of the "Inglutition" effect was displayed incorrectly under specific circumstances during combat against certain enemies. This issue does not affect the actual effect.
+
+- Fixes an issue where the state icon for some Eidolon 1 effects of the character Pearl (Elation: Ice) displayed incorrectly in combat. This issue does not affect the actual effects.
+
+- Fixes an issue where the failure hint did not display correctly after losing the gamble against the enemy Ten Stonehearts: Aventurine of Stratagems under specific circumstances.
+
+■ Gameplay
+
+- Fixes an issue in Divergent Universe: Arcadian Chronicles where the "Conquered" state on ally characters was dispelled abnormally after defeating "Conquer or Be Conquered" summoned by the enemy The Giver, Master of Legions, Lance of Fury.
+
+- Fixes an issue in Divergent Universe: Arcadian Chronicles where the in-combat buff effect text for the Curio "Shatterbone Blade" was displayed incorrectly under specific circumstances. This issue does not affect the actual effects.
+
+- Fixes an issue in Currency Wars where the memosprite Little Ica would use the Memosprite Skill early during the Aha Instant under specific circumstances after the character Hyacine (Remembrance: Wind) equipped the "Elation Emblem."
+
+- Fixes an issue in Apocalyptic Shadow where abnormal game progression could occur under specific circumstances when in combat with the enemy Arbiter of the Lost Abyss.
+
+- Fixes an issue in "Astral Slammers Squad!" where some tutorial processes were abnormal under certain circumstances.
+
+- Fixes an issue where some interactions were abnormal under certain circumstances, when playing "Express Renovation Escapade" - "Creation Placement" with a controller.
+
+■ Environment Visuals
+
+- Fixes an issue in certain areas of Astropolis where destroying specific destructible objects did not properly grant "Fortune All-In-One" when the character Yao Guang (Elation: Physical) was in the team.
+
+- Fixes an issue in some areas of Amphoreus where specific chimera models displayed abnormally. The display now matches previous versions.
+
+■ Audio
+
+- Fixes an issue where the background music played abnormally during the flow of certain missions when using the "Story Review" feature.
+
+- Fixes an issue where certain voice lines of the shuttle broadcast in the "Astropolis Central District" map were incorrect when the voice language was set to Chinese.
+
+- Fixes an issue where certain dialogue voice lines in the mission flow of the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" were incorrect when the voice language was set to Chinese.
+
+- Fixes an issue where certain dialogue voice lines in the story recap of the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" were incorrect when the voice language was set to Chinese.
+
+- Fixes an issue where certain dialogue voice lines in the story recap of the Trailblaze Mission "Astropolis — Dance With the Beast Before Moonrise" were incorrect when the voice language was set to Chinese.
+
+- Fixes an issue where personal pronouns in certain dialogue voice lines were incorrect in the story recap for the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" when the voice language was set to Chinese.
+
+- Fixes an issue where certain dialogue voice lines in the mission flow of the Trailblaze Mission "Penacony — The Sound and the Fury" were incorrect when the voice language was set to Japanese.
+
+- Fixes an issue where certain dialogue voice lines in the mission flow of the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" were incorrect when the voice language was set to Japanese.
+
+- Fixes an issue where certain dialogue voice lines in the Trailblaze Missions "The Xianzhou Luofu — Windswept Wanderlust," "Amphoreus — The Fall at Dawn's Rise," "Planarcadia — The Lethe Below the Living" and "In Ravages Does the Whistle Sound," and "Astropolis — Dance With the Beast Before Moonrise" were incorrect when the voice language was set to Korean.
+
+- Fixes an issue where certain dialogue voice lines in the Companion Mission "Slices of Life Before the Furnace" were incorrect when the voice language was set to Korean.
+
+- Fixes an issue where certain dialogue voice lines in the mission flow of the Trailblaze Continuance "The Xianzhou Luofu — A Foxian Tale of the Haunted" were incorrect when the voice language was set to Korean.
+
+- Fixes an issue where certain dialogue voice lines in the Adventure Mission "Let's Go! Aetherium Wars!" were incorrect when the voice language was set to Korean.
+
+- Fixes an issue where certain ambient voice lines in the "The Xianzhou Luofu — Central Starskiff Haven" map were incorrect when the voice language was set to Korean.
+
+■ Others
+
+- Fixes an issue where certain in-game UI elements displayed abnormally.
+
+- Fixes an issue where certain models of the Imagea squad displayed in abnormal positions under specific circumstances.
+
+- Fixes an issue where the model of the Astral Imagea General Doe-Eyes displayed abnormally under specific circumstances.
+
+- Fixes an issue where the mouth color of certain Astral Imagea - Chimeras displayed abnormally under specific circumstances.
+
+- Fixes an issue where the models for the Astral Imagea - Collector's Edition Chimeras displayed abnormally in certain scenes.
+
+- Fixes an issue in Furbobocom where personal pronouns in certain text and certain netizen avatars were incorrect.
+
+- In-game texts for 13 languages have been optimized and fixed. These changes do not affect the actual effects. Trailblazers can switch the game language through "Phone — Settings — Language" and view the corresponding changes in the announcement.
+
+Fixes and optimizations in English include the following (they have no impact on the actual in-game effects):
+
+- Adjusts and optimizes various text descriptions, including certain story dialogues, readable items, mission descriptions, messages, item lore, Currency Wars text, Furbobocom text, and data bank descriptions.
+
+- Optimizes part of the effect description text for the Talent of the character The Dahlia (Nihility: Fire) and the Ultimate of the character Ashveil (The Hunt: Lightning).
+
+- Optimizes part of the brief description text of the character Ashveil (The Hunt: Lightning)'s Ultimate.
+
+- Optimizes part of the effect description text for Eidolon 6 of the character Robin • Summeretto (Remembrance: Wind).
+
+- Optimizes the description text for the completion conditions of the achievement "1 vs. 2 Billion."
+
+-----
+
+# [Game Version 4.7 Optimization and Known Issues](archive/1488.md)
+## Game Version 4.7 Optimization and Known Issues
+
+
+Dear Trailblazers,
+
+To provide a better gaming experience, the Crew will constantly make adjustments and improve the game and fix known issues.
+
+### Known Issues
+
+■2026/11/11
+
+- There is a known issue where voice lines and subtitles are out of sync in certain cutscenes during the Trailblaze Mission "Planarcadia — Now, Lay Laughter to All Stars" when the voice-over language is set to English or Korean. This issue will be fixed in a future version.
+
+-----
+
 # [Relic Recon: Participate to get 5-star +15 Relics!](archive/1451.md)
 ## "Relic Recon" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/19/f0c08ece064db93c96de4582e8cbbfb0_8349460640681460300_transformed.png)
@@ -349,438 +791,6 @@ Contract Content: Universal Path material Tears of Dreams ×150 and credit ×60,
 Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while the item is available.
 
 </details>
-
------
-
-# [Version 4.6 "Dance With the Beast Before Moonrise" Update Details](archive/1437.md)
-## Version 4.6 Update
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/09/15/518c4c05691e8b3c253f173aead99fa8_4296827479766047444_transformed.png)
-
-The beast stirring in the darkness opens THEIR maw once more, demanding a god as a sacrifice. Before the moon rises again, only the blood of the wise can sate THEIR hunger...
-
-Dear Trailblazers,
-
-Welcome to Version 4.6 "Dance With the Beast Before Moonrise"!
-
-### Update and Compensation Details
-
-Version 4.6 will run from after the Version 4.6 update until 2026/11/11 06:00:00 (global).
-
-■ Update Time
-
-Begins at 2026/09/28 06:00:00 (global). The update will take approximately 5 hours.
-
-■ Compensation Details
-
-- Server Maintenance Compensation
-
-Compensation: Stellar Jade ×300
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/09/28 06:00:00 (global)
-
-※ Please claim before the end of Version 4.6.
-
-- Bug Compensation
-
-Compensation: Stellar Jade ×300
-
-Eligible Recipients: Trailblazers with Trailblaze Level ≥ 4 before 2026/09/28 06:00:00 (global)
-
-※ Please log in to claim the mail before 2026/10/28 23:59:00 (global).
-
-The Crew will issue the compensation via in-game mail to Trailblazers within 5 hours after the update is complete. Be sure to claim it in time.
-
-■ How to Update
-
-- PC: Exit the game, restart the launcher, then click "Update"
-
-- Android: Enter the game and follow the instructions in the in-game pop-up window to complete the update
-
-- iOS: Enter the App Store and tap "Update"
-
-- PS5®: After entering the game, the game will automatically download and install the update
-
-### Version Update Details
-
-1. New Story
-
-**■ Trailblaze Mission "Astropolis — Dance With the Beast Before Moonrise"**
-
-- The beast stirring in the darkness opens THEIR maw once more, demanding a god as a sacrifice. Before the moon rises again, only the blood of the wise can sate THEIR hunger...
-
-- Availability: Permanently available after the Version 4.6 update
-
-- Requirement: Trailblaze Level ≥ 21
-
-※ During Version 4.6, this content can be experienced in advance through the Finality's Vision function.
-
-※ It is recommended that Trailblazers complete the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" before experiencing this content.
-
-2. New Character
-
-**■ 5-Star Pearl (Elation: Ice)**
-
-Pearl is a defense character who consumes "Certified Banger" to block DMG for all allies. Her Ultimate advances a teammate's action, and can grant that unit an extra turn with massive Punchline and "Certified Banger" under certain conditions. She also restores HP and dispels debuffs for all allies.
-
-3. New Light Cone
-
-**■ 5-Star Colors for Tomorrow (Elation)**
-
-Obtainable through the "Brilliant Fixation: Colors for Tomorrow" Light Cone Event Warp.
-
-4. New Outfits
-
-**■ Outfit "Warm Cotton Skies"**
-
-- Outfit for Hyacine (Remembrance: Wind).
-
-- After the Version 4.6 update, the Warm Cotton Skies outfit will be available in the Outfit Show Window and temporarily sold at 1,350 Oneiric Shards. After the discount period ends, this outfit will revert to the original price of 1,680 Oneiric Shards.
-
-- Discount Period: After the Version 4.6 update – 2026/11/11 03:59:00 (global)
-
-**■ Outfit "Lunar Blossoming"**
-
-- Outfit for Evanescia (Elation: Physical).
-
-- After the Version 4.6 update, the Lunar Blossoming outfit will be available in the Outfit Show Window and temporarily sold at 2,680 Stellar Jades. After the discount period ends, this outfit will revert to the original price of 3,280 Stellar Jades.
-
-- Discount Period: After the Version 4.6 update – 2026/11/11 03:59:00 (global)
-
-**■ Trailblaze Fashion — Headwear "Lone Wolf Shades"**
-
-Obtainable from the "Love, Ghosts & Robots" event.
-
-※ For more information, please refer to the Version 4.6 "New in Store" post and notice.
-
-5. New Area
-
-**■ Life Sciences Institute**
-
-Life Sciences Institute, the private research center of Yabuli who leads the Technology Department.
-
-6. New Events
-
-**■ Love, Ghosts & Robots**
-
-- A decommissioned mechatron pipeline, retrofitted by ghost Skott, has somehow become a production line for "Lyndon™ EmbodiMech," capable of giving ghosts physical form! But the one time this old friend decides to do something good, he gets tangled up with the out-of-nowhere arrival of Rakshmi. You and your companions decide to lend a hand, help him pass the assessment, and get him out from under his "rumored girlfriend's" thumb!
-
-- Event Period: After the Version 4.6 update – 2026/11/11 03:59:00 (global)
-
-- Requirement: Trailblaze Level ≥ 21
-
-※ This content can be experienced in advance through the Finality's Vision function.
-
-※ It is recommended that Trailblazers complete the Trailblaze Mission "Astropolis — Dance With the Beast Before Moonrise" before experiencing this content.
-
-**■ Interastral Peace Gala: One Take**
-
-- Interastral Peace Entertainment's blockbuster reality show, <em>Interastral Peace Gala: One Take</em>, has officially started filming. Audition now, show off your combat skills, and the next action superstar could be you!
-
-- Event Period: 2026/10/21 12:00:00 (server) – 2026/11/11 03:59:00 (global)
-
-- Requirement: Trailblaze Level ≥ 21
-
-**■ Astral Imagea Park**
-
-- During the event, Trailblazers can use Trendible Vouchers in Astral Trendible to draw for various Astral Imageas. Astral Imageas can be deployed in an Imagea squad to follow Trailblazers into action, or be placed in specific areas of the Astral Imagea Park and the Pet House.
-
-- Requirement: Trailblaze Level ≥ 21
-
-※ This content can be experienced in advance through the Finality's Vision function.
-
-※ It is recommended that Trailblazers experience this content after completing the Trailblaze Mission "Astropolis — Knowledge, Silence, Passing By" and unlocking the "Life Sciences Institute" area.
-
-※ For more information, please refer to the Version 4.6 "Astral Imagea" post and notice.
-
-**■ Astral Imagea Park: Astral Trendible**
-
-- Imageas available in this period's "Astral Trendible" Imagea draw event include: Collector's Edition Kitty Furb, Collector's Edition Chimera, Classic Edition Kitty Furb, and Classic Edition Chimera.
-
-- Availability: After the Version 4.6 update – 2026/11/11 06:00:00 (global)
-
-- Requirement: Trailblaze Level ≥ 4
-
-**■ Astral Imagea Park: Park Souvenir**
-
-- During the event, log in to the game to claim Trendible Voucher ×6. Trendible Vouchers can be used to draw for Astral Imageas.
-
-- Claim Period: After the Version 4.6 update – 2026/11/11 06:00:00 (global)
-
-- Requirement: Trailblaze Level ≥ 4
-
-**■ Astral Slammers Squad!**
-
-- To celebrate the grand opening of the Imagea Park, the IPC is hosting an "Astral Slammers" event! Hurry up, team up with your friends, and complete the challenge together!
-
-- Availability: After the Version 4.6 update
-
-- Requirement: Trailblaze Level ≥ 21
-
-**■ Wishpower UP! Down with Voracity!**
-
-- The ancient Aeon, the Voracity, is gradually awakening. THEIR power is steadily encroaching outward, spurring an uncontrollable, ravenous impulse within living beings... But I heard Aha's here to help!?
-
-- Defeat enemies corroded by the Voracity and accumulate Wishpower to unlock Trendible Voucher ×18, Stellar Jade ×500, and a commemorative medal! You can even gain buffs when fighting against Voracity Corrosion!
-
-- Event Period: After the Version 4.6 update – 2026/11/11 06:00:00 (global)
-
-- Participation Requirement: Complete the Adventure Mission "Calyx (Golden): Bud of Memories"
-
-※ The Voracity Corrosion has spread. Corroded enemies will appear in Divergent Universe's Cyclical Extrapolation, and Currency Wars will feature new enemy affixes related to the Voracity. Trailblazers can defeat corroded enemies to weaken the Voracity's power, help gather Wishpower, and obtain event rewards faster!
-
-**■ Gift of Odyssey**
-
-Log in every day during the event to obtain check-in rewards. Trailblazers can claim Star Rail Special Pass ×10 after checking in for 7 days!
-
-※ Please refer to future announcements for information on other events.
-
-7. Others
-
-■ Currency Wars: Zero-Sum Game Update Details
-
-- Double Ascension Points mode is now live. Earn your Ascension Level Rewards more quickly! For more details, please refer to the official notice "Currency Wars: Zero-Sum Game Update Details V4.6."
-
-- Update Time: After the Version 4.6 update
-
-■ Enemies
-
-"Blood of the Fallen God: Yabuli" and "Frenzied Beast's Seed Germ"
-
-■ Gameplay
-
-Anomaly Arbitration's high-difficulty game mode will be updated with the coming version, and players can play it to earn rewards including Lone Stardust, Interference Keys, Self-Modeling Resin, and limited-time avatar frames.
-
-- This Period's Theme: "Anomaly Arbitration: Return to Roots"
-
-"Treasures Lightward": The permanent game modes "Forgotten Hall: Memory of Chaos," "Apocalyptic Shadow," and "Pure Fiction" will be refreshed alternately. Version 4.6 will feature two consecutive phases of "Forgotten Hall: Memory of Chaos," with "Memory of Chaos: Crossing the Afterlife" beginning after the Version 4.6 update, and its duration will be 5 weeks. Please refer to the details below for more information.
-
-- Memory of Chaos: Crossing the Afterlife
-
-After the Version 4.6 update – 2026/11/02 03:59:00 (server)
-
-The character in position 1 of the ally lineup gains the Elation Skill "Euphoric Maelstrom," dealing 100% Elation DMG of the character's Type to all enemies.
-
-When each Cycle begins, Aha immediately gains 1 extra turn with a fixed amount of 20 Punchlines taken into account. This turn does not consume Punchlines.
-
-- Apocalyptic Shadow: Dominance of Oblivion
-
-2026/10/05 04:00:00 (server) – 2026/11/16 03:59:00 (server)
-
-When an enemy target with "Steadfast Safeguard" is Weakness Broken, all ally targets are dispelled of control debuffs, their actions are advanced, and Aha immediately gains an extra turn (this turn takes a fixed 10 Punchlines into account).
-
-Increases Ultimate DMG taken by all enemy targets by 25% and increases Elation DMG by 15%.
-
-- Pure Fiction: Imagined Words
-
-2026/10/19 04:00:00 (server) – 2026/11/30 03:59:00 (server)
-
-When an ally target inflicts a debuff on an enemy target, allies additionally accumulate 1 Grit Value. This effect can be triggered up to 10 times per enemy target.
-
-- Memory of Chaos: Survival of the Fittest
-
-2026/11/02 04:00:00 (server) – 2026/12/14 03:59:00 (server)
-
-When an ally target uses their Ultimate, gains 5 Punchlines.
-
-When each Cycle begins, Aha immediately gains 1 extra turn with a fixed amount of 20 Punchlines taken into account. This turn does not consume Punchlines.
-
-■ Stage
-
-Cavern of Corrosion: Path of the Secret Actor
-
-■ Relics
-
-Cavern Relic "Dreamlit Actor"
-
-Cavern Relic "The Edacious Heretic"
-
-■ System
-
-- Adds a new pet type, "Astral Imagea." Trailblazers can simultaneously summon 3 Astral Imageas to form an Imagea squad and line them up, or summon an Astral Imagea individually. During Version 4.6, Trailblazers can obtain Astral Imageas through the "Astral Trendible" Imagea draw event.
-
-- Adds the Astral Imagea Trade feature. In the "Trade Plaza," Trailblazers can exchange Astral Imageas with friends via orders. Please refer to the in-game rules for details.
-
-- Adds a "Pet House" to the "Party Car" area, where Trailblazers can place their regular pets and Astral Imageas. They can also travel to the "Astral Imagea Park" located in the "Life Sciences Institute" area via the "Pet House," and place pets in designated areas.
-
-- Adds a "Co-Op Life Sciences Institute" to the co-op map, as well as an "Invite Friends" function for Trailblazers to actively invite friends to visit their "Co-Op Life Sciences Institute" and "Co-Op Party Car."
-
-- Adds a new feature to mark frequently used teams on the "Team Lineup" screen. Marked teams will be displayed at the top when selecting Preset Lineups, making them easier for Trailblazers to find.
-
-■ Others
-
-- The 4-star Light Cone "Tomorrow, Together (Elation)" and its Superimposition material "Commemorative Cartridge" have been added to Herta's Store.
-
-- During Version 4.6, Trendible Vouchers will be available in the "Cosmetics Store" – "Fashion Item." Duplicate Classic Edition Astral Imageas obtained will be reclaimed and converted into a set amount of Wishing Stardust, which can be exchanged for Trendible Vouchers to draw for Astral Imageas.
-
-- Adds a quick renew feature for the Express Supply Pass. When the Express Supply Pass is about to expire, Trailblazers can click the "Renew" button on the claim interface to quickly renew it.
-
-- Adds new content such as Furbobocom, readable items, messages, discs, room decorations, achievements, data bank entries, and loading screen texts. They will be gradually unlocked during your Trailblaze Progress.
-
-- Adds and updates some Travel Photos from previous versions' Trailblaze Missions and Trailblaze Continuances in the "Collection Showcase" and the "Photo Wall" in March 7th's room.
-
-- iPhone 18 Pro and iPhone 18 Pro Max now support MetalFX at 120 FPS. Switch it on in "Settings."
-
-### Adjustments and Optimizations
-
-■ Combat
-
-- Adjusts how certain characters select targets and use abilities during auto-battle under specific conditions.
-
-■ Gameplay
-
-- Adjusts the display logic for some red notification reminders in Divergent Universe and Currency Wars. When Trailblazers obtain points via either gameplay each week and claim all Accumulated Point Rewards, the red notification reminder for the other gameplay will no longer be displayed even if they have not participated in it.
-
-■ System
-
-- Optimizes the "Switch Path" feature. When the active team includes a character whose Path is saved as a team preset, switching that character's Path on the Character screen allows you to select whether to also switch their Path in the current team. This action will simultaneously clear the team preset.
-
-- Adjusts and optimizes certain hints and display content when using the Finality's Vision function. The early access prerequisite mission catalog will only trace back to missions from recent versions, and will no longer display earlier versions. Additionally, optimizes the navigation function for prerequisite missions in the early access catalog.
-
-- Adjusts the default stage difficulty selection logic for "Calyx," "Cavern of Corrosion," "Stagnant Shadow," and "Echo of War." The aforementioned stages will no longer default to the difficulty selected during the previous clear after logging in again, but will instead default to the highest currently unlocked difficulty.
-
-■ Audio
-
-- Adds and replaces all remaining English voice lines for the character Welt (Nihility: Imaginary).
-
-- Optimizes certain dialogue voice lines in the mission flow of the Trailblaze Continuance "Astropolis — How to Lose Your Way to the Top: The Zero-Dollar Strategy" when the voice language is set to Japanese.
-
-- Optimizes certain dialogue voice lines in the mission flow of the Trailblaze Missions "Planarcadia — In Ravages Does the Whistle Sound" and "Astropolis — To Roll the Stars in Astropolis" when the voice language is set to Japanese.
-
-- Optimizes certain dialogue voice lines in the mission flow and story cutscenes of Trailblaze Continuance "Astropolis — How to Lose Your Way to the Top: The Zero-Dollar Strategy" when the voice language is set to Korean.
-
-- Optimizes certain dialogue voice lines in the mission flow of Trailblaze Continuance "The Xianzhou Luofu" — "Finest Duel Under the Pristine Blue (I)," "Finest Duel Under the Pristine Blue (II)," and "A Foxian Tale of the Haunted" when the voice language is set to Korean.
-
-- Optimizes some Korean interaction voice lines for the character Qingque (Erudition: Quantum).
-
-- Optimizes certain dialogue voice lines in the mission flow of the Companion Mission "Vita Infinita" when the voice language is set to Korean.
-
-- Optimizes certain voice lines during combat against the enemy "Ten Stonehearts: Aventurine of Stratagems" when the voice language is set to Korean.
-
-■ Others
-
-- Adjusts the requirements for receiving clues in "Furbobocom" — "Press Affairs," where there is no longer a time limit for obtaining clues.
-
-- Adjusts the button mapping for the "Summon/Recall" and "Preview" buttons on the "Inventory" — "Pet" screen when playing the game with a controller. You can view the corresponding button hints in-game.
-
-- Adjusts the corresponding buttons for Navigation Hints, Treasure Hints, and switching to Co-op Map in the top-left corner of the "Navigation" screen when using a controller. You can view the corresponding button hints in-game.
-
-- Optimizes some idle animations for the pet "Furbobo Press Corps."
-
-- Optimizes the mail attachment claiming feature. When mail attachments cannot be claimed because certain items in the Inventory have reached their capacity limit, the prompt will specify the items in question so Trailblazers can quickly clear them out.
-
-- Starting from the Version 4.6 update, the resource verification time for version updates via the launcher has been optimized.
-
-### Bug Fixes
-
-■ Characters and Enemies
-
-- Fixes an issue where the character Aventurine • Waveflair (Elation: Quantum) failed to normally use the Elation Skill "All In! To Summer's Blaze" under certain circumstances.
-
-- Fixes an issue where some facial expressions of the character Aventurine • Waveflair (Elation: Quantum) displayed abnormally under certain circumstances after using his Technique.
-
-- Fixes an issue where some characters were unable to attack enemy targets under certain circumstances after the character Gilgamesh (Destruction: Lightning) used his Technique on some of these targets.
-
-- Fixes an issue where, under certain circumstances, character idle effects would abnormally remain in the scene after switching teams.
-
-- Fixes issues for certain abnormal character, NPC, and enemy models, visual effects, movement effects, and camera effects.
-
-■ Combat
-
-- Fixes an issue where some visual effects of the Zone for the character Robin • Summeretto (Remembrance: Wind) displayed abnormally during combat.
-
-- Fixes an issue where some environments displayed abnormally during combat under specific conditions.
-
-- Fixes an issue where some enemies' HP was displayed abnormally under certain circumstances during combat. This issue does not affect actual gameplay.
-
-- Fixes an issue where "Certified Banger" points displayed abnormally under certain circumstances in combat. This issue does not affect actual effects.
-
-■ Missions
-
-- Fixes an issue where buttons and visuals displayed abnormally after the character Himeko • Nova (Erudition: Fire) used her Technique during certain mission sequences.
-
-- Fixes an issue where the camera behaved abnormally during certain story dialogues in the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis."
-
-- Fixes an issue where NPC models in certain scenes displayed abnormally during the Trailblaze Mission "Planarcadia — So Laughed the Masses."
-
-- Fixes an issue where the lip-syncing for NPC "Fu Xuan" was abnormal during some dialogue in the Trailblaze Mission "Xianzhou Luofu — Topclouded Towerthrust."
-
-■ Gameplay
-
-- Fixes an issue in "Currency Wars" where Elation Skill was used abnormally under specific circumstances after the character Moze (The Hunt: Lightning) was equipped with the "Elation Emblem."
-
-- Fixes an issue in "Currency Wars" where, after activating the "Belobog" faction bond, the action advance effect of "Engine of Creation" took effect abnormally under certain circumstances.
-
-- Fixes an issue in "Currency Wars" where, after activating the "Stellaron Hunters" faction bond, the character's Ultimate UI would abnormally activate under specific circumstances.
-
-- Fixes an issue in "Currency Wars" where the screen displayed abnormally after selecting a specific strategy.
-
-- Fixes an issue in "Currency Wars" where characters could not be removed from the team when the number of deployed characters exceeded the team size limit under certain circumstances.
-
-- Fixes an issue in "Divergent Universe: Arcadian Chronicles" where the Equation "Particle Annihilation Force" took effect abnormally under certain circumstances.
-
-- Fixes an issue in "Divergent Universe: Arcadian Chronicles" where some effects of "Dealer" abnormally took effect on specific countdown Occurrences under certain circumstances.
-
-- Fixes an issue in "Divergent Universe: Arcadian Chronicles" where the name of the enemy "Mirage Fizzle Kid" displayed abnormally under specific circumstances.
-
-- Fixes an issue in the "Vault" Domain of "Divergent Universe: Arcadian Chronicles" where Trotters would act abnormally under certain circumstances.
-
-- Fixes an issue in "Pure Fiction" where the effect description of the ability "Happiness" for the enemy "Paramount Bliss Inverted: Illwish Archlotus" was incorrect. The updated description matches the actual effects.
-
-- Fixes an issue in "Forgotten Hall: Memory of Chaos" where the updated consumed Cycles were incorrect under certain circumstances when saving a new challenge record.
-
-- Fixes an issue in certain gameplay where the Assist Skill points for the character Himeko • Nova (Erudition: Fire) were abnormal under certain circumstances after an ally character is replaced by "Bloodstained Lupine" or "Hallucinogenic Mermaid."
-
-- Fixes an issue in "Fate/stay night" where the damage of the Conceptual Mystic Code "Rule Breaker" triggered abnormally under certain circumstances.
-
-■ Environment Visuals
-
-- Fixes an issue where parts of the environment in the "Lodestar Tower" map displayed abnormally under certain circumstances.
-
-- Fixes an issue where visual effects displayed abnormally after the character Cyrene (Remembrance: Ice) used her Technique while riding the shuttle in the "Lodestar Tower" map.
-
-- Fixes an issue in the "Astropolis Central District" map where NPC shadows displayed abnormally under certain circumstances.
-
-■ System
-
-- Fixes an issue in "Fate's Atlas" where the decorative text for "Astropolis" was incorrect.
-
-- Fixes an issue where the number of stars achieved in "Apocalyptic Shadow" was displayed incorrectly in "Trailblazer Profile" — "Character Showcase" under certain circumstances.
-
-■ Audio
-
-- Fixes an issue where some music and sound effects performed abnormally under specific conditions.
-
-- Fixes an issue where certain dialogue voice lines were incorrect in the mission flow of the Trailblaze Missions "Planarcadia" — "So Laughed the Masses" and "In Ravages Does the Whistle Sound" when the voice language was set to Japanese.
-
-- Fixes an issue where certain dialogue voice lines were incorrect in the mission flow of the Trailblaze Continuance "Astropolis — How to Lose Your Way to the Top: The Zero-Dollar Strategy" when the voice language was set to Japanese.
-
-- Fixes an issue where certain voice lines were incorrect in the "Seismic Walking Dragon" story in "As I've Written — Amphoreus' Saga of Heroes" when the voice language was set to Japanese.
-
-- Fixes an issue where certain dialogue voice lines were incorrect in the mission flow of the Trailblaze Mission "Astropolis — To Roll the Stars in Astropolis" when the voice language was set to Korean.
-
-- Fixes an issue where certain dialogue voice lines were incorrect in the mission flow of the Trailblaze Missions "Penacony" — "Farewell, Penacony" and "A New Venture on the Eighth Dawn" when the voice language was set to Korean.
-
-- Fixes an issue where certain dialogue voice lines were incorrect in the mission flow of the Trailblaze Continuance "The Xianzhou Luofu — Finest Duel Under the Pristine Blue (I)" when the voice language was set to Korean.
-
-- Fixes an issue where certain voice lines were incorrect in the stories "Triplets of Fate" and "Flawless Ego" in "As I've Written — Amphoreus' Saga of Heroes" when the voice language was set to Korean.
-
-- Fixes some incorrect Korean interaction voice lines for the character Clara (Destruction: Physical).
-
-- Fixes an issue where certain voice lines for the "Interastral Peace Broadcast" in the "Parlor Car" map were incorrect when the voice language was set to Korean.
-
-- Fixes an issue with certain ambient voice lines in the "Astropolis Central District" map when the voice language was set to Korean.
-
-■ Others
-
-- Fixes an issue where certain in-game UI elements displayed abnormally.
-
-- Fixes an issue in "Furbobocom" where the Bestseller Rank of Bestseller Plan increased abnormally under specific circumstances.
-
-- In-game texts for 13 languages have been optimized and fixed. These changes do not affect the actual effects. Trailblazers can switch the game language through "Phone — Settings — Language" and view the corresponding changes in the announcement.
-
-Fixes and optimizations in English include the following (they have no impact on the actual in-game effects):
-
-- Adjusts and optimizes the text for some story dialogues, readable items, story synopses, state descriptions, data bank titles, data bank descriptions, gameplay text, text in Simulated Universe, and other text descriptions.
 
 -----
 
