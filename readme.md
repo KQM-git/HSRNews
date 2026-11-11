@@ -438,6 +438,24 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 - There is a known issue where voice lines and subtitles are out of sync in certain cutscenes during the Trailblaze Mission "Planarcadia — Now, Lay Laughter to All Stars" when the voice-over language is set to English or Korean. This issue will be fixed in a future version.
 
+### Game Updates and Improvements Overview
+
+■2026/11/11
+
+- Fixes an issue where characters could not perform idle actions normally in the Photo mode under specific circumstances.
+
+- Fixes an issue in the "Interplanar Jump!" of the "Moment of Joy" map, where some stages were abnormal during rechallenges.
+
+- Fixes an issue in the "Aptitude Showcase" character trial event where there was a chance of abnormal game progress in certain trial stages.
+
+- Fixes an issue where, under specific circumstances, the "Interastral Peace Gala: Road to Fame" screen displayed abnormally in the Travel Log when using some mobile devices.
+
+- Fixes an issue where some interfaces in the "Interastral Peace Gala: Road to Fame" event displayed abnormally.
+
+- Fixes an issue where some Space Anchor names and descriptions were incorrect.
+
+- Fixes an issue where some map descriptions were incorrect.
+
 -----
 
 # [Version 4.7 Now, Lay Laughter to All Stars Discord Quest Event](archive/1461.md)
