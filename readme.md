@@ -794,6 +794,115 @@ Price: Oneiric Shard ×660. A maximum of 5 can be purchased per account while th
 
 -----
 
+# [Fate[UBW] Collaboration Warp Details](archive/1480.md)
+## Fate[UBW] Collaboration Warp Details
+
+
+Dear Trailblazers,
+
+The Fate[UBW] Collaboration Warp includes the following:
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/06/04/377db88f6739e54c71878900e7d5c7a6_3560039143741787327_transformed.png)
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/06/04/11ef18038c89870039fe54ba7060a76e_48549492047438406_transformed.png)
+
+### "The Gem Coursing in Red" Character Collaboration Warp
+
+- During the "The Gem Coursing in Red" Character Collaboration Warp period, the drop rate of the limited 5-star collaboration character Rin Tohsaka (Erudition: Quantum) will be boosted.
+
+### "Kaleidic Coruscation" Light Cone Collaboration Warp
+
+- During the "Kaleidic Coruscation" Collaboration Light Cone Warp period, the drop rate of the limited 5-star collaboration Light Cone Flickering Stars (Erudition) will be boosted.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/06/04/a22c9f4f22be30c9614668f25dd9ad66_830841906746388940_transformed.png)
+
+### "Of the Beginning, Enuma Elish" Character Collaboration Warp
+
+- During the "Of the Beginning, Enuma Elish" Character Collaboration Warp period, the drop rate of the limited 5-star collaboration character Gilgamesh (Destruction: Lightning) will be boosted.
+
+### "Age of Gods Golden Gate" Light Cone Collaboration Warp
+
+- During the "Age of Gods Golden Gate" Light Cone Collaboration Warp period, the drop rate of the limited 5-star collaboration Light Cone I Am As You Behold (Destruction) will be boosted.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/06/04/42129fee3e879a151a10020e24afbb11_3151516381900198337_transformed.png)
+
+### "Excalibur Excelsior" Character Collaboration Warp
+
+- During the "Excalibur Excelsior" Character Collaboration Warp period, the drop rate of the limited 5-star collaboration character Saber (Destruction: Wind) will be boosted.
+
+### "Birth of a King" Light Cone Collaboration Warp
+
+- During the "Birth of a King" Light Cone Collaboration Warp period, the drop rate of the limited 5-star collaboration Light Cone A Thankless Coronation (Destruction) will be boosted.
+
+![img](https://sdk.hoyoverse.com/upload/ann/2026/06/04/f2b508728d1705d30bd7b281bc85280a_7799255955675725234_transformed.png)
+
+### "I Am the Bone of My Sword" Character Collaboration Warp
+
+- During the "I Am the Bone of My Sword" Character Collaboration Warp period, the drop rate of the limited 5-star collaboration character Archer (The Hunt: Quantum) will be boosted.
+
+### "Red Radiance of Fuyuki" Light Cone Collaboration Warp
+
+- During the "Red Radiance of Fuyuki" Light Cone Collaboration Warp period, the drop rate of the limited   5-star collaboration Light Cone The Hell Where Ideals Burn (The Hunt) will be boosted.
+
+※ Characters Rin Tohsaka, Gilgamesh, Saber, and Archer, as well as Light Cones Flickering Stars, I Am As You Behold, A Thankless Coronation, and The Hell Where Ideals Burn all belong to the Fate[UBW] Collaboration Warp. Please see below for details regarding the guarantee rules.
+
+<details open="true">
+<summary>Fate[UBW] Collaboration Warp Details</summary>
+
+※ "The Gem Coursing in Red," "Of the Beginning, Enuma Elish," and the currently available "Excalibur Excelsior" and "I Am the Bone of My Sword" Warps are all considered Fate[UBW] Character Collaboration Warps, and **share the same guaranteed drop counter**. The cumulative Warp count for a guaranteed 5-star character in any Fate[UBW] Character Collaboration Warp will always be carried over to other Fate[UBW] Character Collaboration Warps, but is independent of and unaffected by other types of Warps.
+
+※ The "Kaleidic Coruscation" and "Age of Gods Golden Gate" Warps, as well as the currently available "Birth of a King" and "Red Radiance of Fuyuki" Warps, are all considered Fate[UBW] Light Cone Collaboration Warps, and **share the same guaranteed drop counter**. The cumulative Warp count for a guaranteed 5-star Light Cone in any Fate[UBW] Light Cone Collaboration Warp will always be carried over to other Fate[UBW] Light Cone Collaboration Warps, but is independent of and unaffected by other types of Warps.
+
+※ During the Collaboration Warp period, the limited 5-star collaboration character **Rin Tohsaka (Erudition: Quantum)** can only be obtained from the **"The Gem Coursing in Red"** Character Collaboration Warp, and the limited 5-star collaboration character **Gilgamesh (Destruction: Lightning)** can only be obtained from the **"Of the Beginning, Enuma Elish"** Character Collaboration Warp. The limited 5-star collaboration character **Saber (Destruction: Wind)** can only be obtained from the **"Excalibur Excelsior"** Character Collaboration Warp, and the limited 5-star collaboration character **Archer (The Hunt: Quantum)** can only be obtained from the **"I Am the Bone of My Sword"** Character Collaboration Warp.
+
+※ During the Collaboration Warp period, the limited 5-star collaboration Light Cone **Flickering Stars (Erudition)** can only be obtained from the **"Kaleidic Coruscation"** Light Cone Collaboration Warp, and the limited 5-star collaboration Light Cone **I Am As You Behold (Destruction)** can only be obtained from the **"Age of Gods Golden Gate"** Light Cone Collaboration Warp. The limited 5-star collaboration Light Cone **A Thankless Coronation (Destruction)** can only be obtained from the **"Birth of a King"** Light Cone Collaboration Warp, and the limited 5-star collaboration Light Cone **The Hell Where Ideals Burn (The Hunt)** can only be obtained from the **"Red Radiance of Fuyuki"** Light Cone Collaboration Warp.
+
+※ In the Fate[UBW] Character Collaboration Warp, obtainable 5-star characters include the featured 5-star characters and the custom-selected characters from "Celestial Invitation."
+
+※ In the Fate[UBW] Character Collaboration Warp, there are no featured 4-star rate-up characters. The drop rates for all 4-star characters are equal.
+
+※ In the Fate[UBW] Light Cone Collaboration Warp, there are no featured 4-star rate-up Light Cones. The drop rates for all 4-star Light Cones are equal.
+
+※ The Fate[UBW] Collaboration Warp will be available for a long time, with no scheduled end date.
+
+※ For more details, please head to the Warp screen.
+
+※ Should any of the above details change, a prior notice will be issued.
+
+※ Special Note on Collaboration Character English Voiceovers: The collaboration characters have no English voiceovers. Without changing your audio language in Settings, you may individually switch each collaboration character's interaction, combat, and idle voice lines to the Fate[UBW] Original Licensed Voice (Japanese) via Character Details > Profile > Voice.
+
+- Requirement: Unlock Travel Log
+
+- Event Period: Updates after 2026/07/24 12:00:00 (server)
+
+- Event Details: Trial stages for the new characters Rin Tohsaka (Erudition: Quantum) and Gilgamesh (Destruction: Lightning) have been added. Upon completing the challenges, Trailblazers can obtain Stellar Jades, Adventure Logs, Universal Enhancement Materials, and credits.
+
+</details>
+
+<details open="true">
+<summary>Celestial Invitation Custom Characters</summary>
+
+Trailblazers can customize 7 "Celestial Invitation" characters in the Fate[UBW] Character Collaboration Warp.
+
+※ Each time you obtain a 5-star character in this Warp event, there is a 50% chance that it will be one of the featured 5-star characters. There is also a 50% chance that it will be any of the obtainable 5-star characters in this Warp phase, with equal chance among them.
+
+※ The selectable character catalog of "Celestial Invitation" in the "Fate[UBW] Character Collaboration Warp" will remain identical to that in the "Character Event Warp" and will be updated simultaneously.
+
+※ Regardless of whether you trigger the featured guarantee, it will be reset when you obtain the featured character.
+
+</details>
+
+<details open="true">
+<summary>5-Star Character Eidolon Surplus Special Note</summary>
+
+- When Trailblazers obtain a 5-star character's Eidolon (including limited collaboration characters) that has already reached max Eidolons, they will additionally receive Silver Companion Spirit ×1.
+
+- The optimization for 5-star character Eidolon surplus applies to all sources and methods of obtaining 5-star characters.
+
+</details>
+
+-----
+
 # [Survey with Rewards — Complete this survey to receive Stellar Jade ×50~](archive/1196.md)
 ## Survey with Rewards
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/01/19/2d2da98cf65b177d2f0a029340dc2ee1_6236902761699923395_transformed.png)
