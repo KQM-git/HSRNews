@@ -440,6 +440,20 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Version 4.7 Now, Lay Laughter to All Stars Discord Quest Event](archive/1461.md)
+## Version 4.7 Now, Lay Laughter to All Stars Discord Quest Event
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/03/7cf04fa1755ecaca8da5a09da5109f7b_2047135704375057628_transformed.png)
+
+Hello, Trailblazers!
+
+The Version 4.7 Now, Lay Laughter to All Stars Discord Quest event is now open! Launch the Discord desktop app and play Honkai: Star Rail for 15 minutes or more to experience the Version 4.7 content, and you can get in-game rewards (including Stellar Jades). Go claim yours now!
+
+[ Learn More](https://hoyo.link/VHcn5DJEu)
+
+Note: Rewards are limited. Rewards will be distributed in the order that the redemption codes are claimed after completing the quest, on a first-come, first-served basis.
+
+-----
+
 # [Relic Recon: Participate to get 5-star +15 Relics!](archive/1451.md)
 ## "Relic Recon" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/19/f0c08ece064db93c96de4582e8cbbfb0_8349460640681460300_transformed.png)
