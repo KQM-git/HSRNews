@@ -458,6 +458,22 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
+# [Razer | Honkai: Star Rail Collaboration Collection Is Officially Live](archive/1472.md)
+## Razer | Honkai: Star Rail Collaboration Collection Is Officially Live
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/09/c63009d5837cc33befac27b826732adb_442732141432335057_transformed.png)
+
+Ctrl + Alt + Win. Control, alter, and win the battle!
+
+Inspired by Silver Wolf Lv.999's meta-breaking spirit, the Razer | Honkai: Star Rail collaboration collection is now for sale.
+
+The gaming chair, keyboard, mouse, and headset are now available to help Trailblazers level up their combat gear and break the established rules.
+
+Purchase any product to unlock corresponding in-game rewards (Stellar Jades, credits, and Traveler's Guides) and receive merchandise such as the limited-edition Silver Wolf LV.999 collaboration sticker.
+
+[ Check it out](https://hoyo.link/FCi1iR7Sr)
+
+-----
+
 # [Version 4.7 Now, Lay Laughter to All Stars Discord Quest Event](archive/1461.md)
 ## Version 4.7 Now, Lay Laughter to All Stars Discord Quest Event
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/03/7cf04fa1755ecaca8da5a09da5109f7b_2047135704375057628_transformed.png)
