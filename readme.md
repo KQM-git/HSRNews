@@ -446,11 +446,19 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 ### Known Issues
 
+■2026/11/12
+
+- It is a known issue that the audio for some story cutscenes plays abnormally when using certain Xiaomi devices and HyperOS systems. Please wait for fixes to be officially released by the device manufacturer to resolve this issue.
+
 ■2026/11/11
 
 - There is a known issue where voice lines and subtitles are out of sync in certain cutscenes during the Trailblaze Mission "Planarcadia — Now, Lay Laughter to All Stars" when the voice-over language is set to English or Korean. This issue will be fixed in a future version.
 
 ### Game Updates and Improvements Overview
+
+■2026/11/12
+
+- Fixes an issue where "Smelting Furnace" took effect abnormally on the special equipment "Imploding Singularity" in the "Currency Wars" gameplay.
 
 ■2026/11/11
 
