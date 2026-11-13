@@ -1,19 +1,3 @@
-# [Discord "Account Linking Check-In Event" Reminder](archive/1463.md)
-## Discord "Account Linking Check-In Event" Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/03/7efb4eaf416417418a4538872e6f2f27_286703202159554314_transformed.png)
-
-Dear Trailblazers,
-
-With the release of Version 4.7 "Now, Lay Laughter to All Stars," the Discord "Account Linking Check-In" event has been updated with a brand-new batch of redemption codes!
-
-[ Link account ](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
-
-What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
-
-Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
-
------
-
 # [Version 4.7 "Now, Lay Laughter to All Stars" Update Details](archive/1457.md)
 ## Version 4.7 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/18/50682d35df96c8e16fbb9e02c03cec02_5184262551051432376_transformed.png)
@@ -437,6 +421,22 @@ Fixes and optimizations in English include the following (they have no impact on
 - Optimizes part of the effect description text for Eidolon 6 of the character Robin • Summeretto (Remembrance: Wind).
 
 - Optimizes the description text for the completion conditions of the achievement "1 vs. 2 Billion."
+
+-----
+
+# [Discord "Account Linking Check-In Event" Reminder](archive/1463.md)
+## Discord "Account Linking Check-In Event" Reminder
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/03/7efb4eaf416417418a4538872e6f2f27_286703202159554314_transformed.png)
+
+Dear Trailblazers,
+
+With the release of Version 4.7 "Now, Lay Laughter to All Stars," the Discord "Account Linking Check-In" event has been updated with a brand-new batch of redemption codes!
+
+[ Link account ](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
+
+What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
+
+Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
 
 -----
 
