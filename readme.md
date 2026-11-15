@@ -424,34 +424,6 @@ Fixes and optimizations in English include the following (they have no impact on
 
 -----
 
-# [Discord "Account Linking Check-In Event" Reminder](archive/1463.md)
-## Discord "Account Linking Check-In Event" Reminder
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/03/7efb4eaf416417418a4538872e6f2f27_286703202159554314_transformed.png)
-
-Dear Trailblazers,
-
-With the release of Version 4.7 "Now, Lay Laughter to All Stars," the Discord "Account Linking Check-In" event has been updated with a brand-new batch of redemption codes!
-
-[ Link account ](https://act.hoyoverse.com/puzzle/hkrpg/pz_bsByyGSlD7/index.html?utm_source=ingame&utm_medium=announcement)
-
-What are you waiting for? Head over to Discord to link your account and join the official Discord server to claim your rewards!
-
-Important Reminder: Trailblazers who link their accounts for the first time will also receive an extra 30 Stellar Jades.
-
------
-
-# [EP: "Ex Nihilo"](archive/1470.md)
-## EP: "Ex Nihilo"
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/03/a31cb3608f69ad125fffb7ed29aaf136_4113149653152038742_transformed.png)
-
-Upon the first echo of "Aha", the Elation shall be born anew.
-
-Let's dance on the edge of illusion and reality! Tonight, a miracle will be created by all!
-
-[ Watch now](https://youtu.be/C8DuPjxUaAk)
-
------
-
 # [Game Version 4.7 Optimization and Known Issues](archive/1488.md)
 ## Game Version 4.7 Optimization and Known Issues
 
