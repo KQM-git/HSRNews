@@ -504,20 +504,6 @@ To provide a better gaming experience, the Crew will constantly make adjustments
 
 -----
 
-# [Planarcadia Brand-New OST "Let There Be Laughter (Part 3)" Now Online](archive/1464.md)
-## Planarcadia Brand-New OST "Let There Be Laughter (Part 3)" Now Online
-![Banner](https://sdk.hoyoverse.com/upload/ann/2026/11/03/1e69c4301b7a61762076c79475ee8aa6_3283176396531917610_transformed.jpg)
-
-Hello, Trailblazers!
-
-The Honkai: Star Rail Planarcadia OST, "Let There Be Laughter (Part 3)," is now officially online. The album includes 48 original tracks created by the HOYO-MiX music team for Honkai: Star Rail, including "Ex Nihilo," the combat background music for the battle against the Divine Skull of Indulgence.
-
-Please give it a listen!
-
-[ Check it out](https://bfan.link/wwehlthahap312)
-
------
-
 # [Relic Recon: Participate to get 5-star +15 Relics!](archive/1451.md)
 ## "Relic Recon" Event Details
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/19/f0c08ece064db93c96de4582e8cbbfb0_8349460640681460300_transformed.png)
