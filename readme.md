@@ -1,3 +1,27 @@
+# [Planar Fissure Event: Planar Ornaments Drop Rate Doubled for a Limited Time](archive/1453.md)
+## Planar Fissure Event Details
+![Banner](https://sdk.hoyoverse.com/upload/ann/2026/06/22/7d5eeebab1c60716249e3c8e3bcdcac6_3528540804291998260_transformed.png)
+
+### Event Period
+
+2026/11/23 04:00:00 (server) - 2026/12/07 03:59:00 (server)
+
+### Participation Requirement
+
+Unlock Planar Ornament
+
+### Event Details
+
+- During the Planar Fissure event, receive double rewards when obtaining Immersion Rewards or performing Ornament Extraction in the Simulated Universe.
+
+- You will get **additional rewards** on top of default drops after consuming an event double reward opportunity and Immersifiers (or Trailblaze Power).
+
+- During the event, the number of double reward opportunities is **limited** and can be viewed in the Planar Fissure event page.
+
+- The double reward count will not reset during the event. Be sure to schedule your time for this challenge accordingly, Trailblazers.
+
+-----
+
 # [Version 4.7 "Now, Lay Laughter to All Stars" Update Details](archive/1457.md)
 ## Version 4.7 Update
 ![Banner](https://sdk.hoyoverse.com/upload/ann/2026/10/18/50682d35df96c8e16fbb9e02c03cec02_5184262551051432376_transformed.png)
